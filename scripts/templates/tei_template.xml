@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="{{ file_name }}"
+   xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">{{ title }}</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>{{ sender }}</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>{{ settlement }}</settlement>
+                        <repository>{{ repositor }}</repository>
+                        {% if collection %}
+                        <collection>{{ collection }}</collection>
+                        {% endif %}
+                        <idno>{{ idno }}</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate{% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}"{% endif %}>{{ written_date }}</origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">{{ col_id }}</idno>
+                  <idno type="transkribus-doc-id">{{ doc_id }}</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>{% if bemerkung or terms %}
+         <abstract>{% if terms %}
+          <ab type="abstract-terms">{% for x in terms %}
+            <term>{{ x }}</term>{% endfor %}
+         </ab>{% endif %}{% if bemerkung %}
+         <ab type="notes">{{ bemerkung }}</ab>{% endif %}
+        </abstract>{% endif %}
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="{{ lang_code }}">{{ language }}</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#{{ sender_id }}">{{ sender }}</persName>
+               <placeName ref="#{{ sender_id_place }}">{{ sender_place }}</placeName>
+               <date {% if parsed_date %} when-iso="{{ parsed_date.strftime('%Y-%m-%d') }}"{% endif %}>{{ written_date }}</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#{{ receiver_id }}">{{ receiver }}</persName>
+                <placeName ref="#{{ receiver_id_place }}">{{ receiver_place }}</placeName>
+                <date></date>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="{{ current_date }}">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   {{ facsimile|safe}}
+   <text type="letter">
+   {{ body_string|safe }}
+   </text>
+</TEI>
