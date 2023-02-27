@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ file_name }}">
+        <fileDesc>
+            <titleStmt>
+                <title type="main">{{ item_md.title }}</title>
+                <title type="sub">{{ project_md.project_title }}</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator" key="{{ project_md.norm_pi_normdata_id }}">{{ project_md.project_pi_name }}</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+{% for x in item_md.resp %}
+                <respStmt>
+                    <resp>{{ x.role }}</resp>
+                    <persName role="{{ x.arche_mapping }}">{{ x.person.name }}</persName>
+                </respStmt>
+{% endfor %}
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/1234567">Carl Friedrich Haag</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+            </publisher>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+            </publisher>
+            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+               </licence>
+            </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">{{ item_md.signatur }}</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin from="{{ item_md.start_date }}" to="{{ item_md.end_date }}">{{ item_md.date_written }}</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab/>
+         </abstract>
+         <creation><date from="{{ item_md.start_date }}" to="{{ item_md.end_date }}">{{ item_md.date_written }}</date></creation>
+      </profileDesc>
+    </teiHeader>
+    <text>
+        {{ body|safe }}
+    </text>
+</TEI>
