@@ -25,7 +25,7 @@ templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
 )
 template = templateEnv.get_template("tei_template.j2")
-
+file_rename_errors = 0
 
 # # def funcs
 
@@ -51,6 +51,18 @@ def log_nonvalid_files(malformed_xml_docs):
             dict_writer.writerows(malformed_xml_docs)
 
 
+def get_new_filename(doc: TeiReader):
+    try:
+        main_title_string = doc.any_xpath(
+            "//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']/text()[1]"
+        )[0]
+        return main_title_string.replace(" ", "_") + ".xml"
+    except IndexError:
+        global file_rename_errors
+        file_rename_errors += 1
+        return f"titel_konnte_nicht_ermittelt_werden_{file_rename_errors}"
+
+
 def get_new_xml_data(doc, file_name):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
@@ -72,17 +84,19 @@ def get_new_xml_data(doc, file_name):
 
 
 def process_all_files():
-    files = glob.glob(f"{TMP_DIR}/*.xml")
+    source_files = glob.glob(f"{TMP_DIR}/*.xml")
     malformed_xml_docs = []
-    for xml_file in files:
+    for xml_file in source_files:
         doc = get_xml_doc(xml_file)
         if isinstance(doc, dict):
             malformed_xml_docs.append(doc)
         else:
-            _, file_name = os.path.split(xml_file)
-            xml_data = get_new_xml_data(doc, file_name)
+            # _, old_file_name = os.path.split(xml_file)
+            new_file_name = get_new_filename(doc)
+            print(f"\t{new_file_name}")
+            xml_data = get_new_xml_data(doc, new_file_name)
             doc = TeiReader(xml_data)
-            doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+            doc.tree_to_file(os.path.join(TEI_DIR, new_file_name))
     return malformed_xml_docs
 
 
@@ -93,3 +107,7 @@ os.makedirs(TEI_DIR, exist_ok=True)
 # # load / process all unprocessed files
 malformed_xml_docs = process_all_files()
 log_nonvalid_files(malformed_xml_docs)
+if file_rename_errors != 0:
+    print(
+        f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
+    )
