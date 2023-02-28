@@ -9,7 +9,7 @@ from acdh_tei_pyutils.tei import TeiReader
 
 TEI_DIR = "./editions"
 TMP_DIR = "./alltei"
-faulty_xml_docs = []
+MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
 
 # # setup metadata from json
 MD_TABLE = {}
@@ -26,19 +26,32 @@ templateEnv = jinja2.Environment(
 )
 template = templateEnv.get_template("tei_template.j2")
 
+
 # # def funcs
+
 
 def get_xml_doc(xml_file):
     try:
         return TeiReader(xml_file)
     except Exception as e:
-        faulty_xml_docs.append({"file_name": xml_file, "error": e})
-        return None
+        return {"file_name": xml_file, "error": e}
 
-def log_nonvalid_files():
-    pass
 
-def get_new_xml_data(doc, filen_ame):
+def log_nonvalid_files(malformed_xml_docs):
+    if not malformed_xml_docs:
+        if os.path.isfile(MALFORMED_FILES_LOGPATH):
+            os.remove(MALFORMED_FILES_LOGPATH)
+    else:
+        fieldnames = ["file_name", "error"]
+        log_directory, _ = os.path.split(MALFORMED_FILES_LOGPATH)
+        if not os.path.exists(log_directory):
+            os.makedirs(log_directory)
+        with open(MALFORMED_FILES_LOGPATH, "w") as outfile:
+            dict_writer = csv.DictWriter(outfile, fieldnames)
+            dict_writer.writerows(malformed_xml_docs)
+
+
+def get_new_xml_data(doc, file_name):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
     body = ET.tostring(body_node).decode("utf-8")
@@ -57,16 +70,26 @@ def get_new_xml_data(doc, filen_ame):
     xml_data = template.render(context)
     return xml_data
 
+
+def process_all_files():
+    files = glob.glob(f"{TMP_DIR}/*.xml")
+    malformed_xml_docs = []
+    for xml_file in files:
+        doc = get_xml_doc(xml_file)
+        if isinstance(doc, dict):
+            malformed_xml_docs.append(doc)
+        else:
+            _, file_name = os.path.split(xml_file)
+            xml_data = get_new_xml_data(doc, file_name)
+            doc = TeiReader(xml_data)
+            doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+    return malformed_xml_docs
+
+
 # # clear directory for new export
 shutil.rmtree(TEI_DIR, ignore_errors=True)
 os.makedirs(TEI_DIR, exist_ok=True)
 
 # # load / process all unprocessed files
-files = glob.glob(f"{TMP_DIR}/*.xml")
-for xml_file in files:
-    doc = get_xml_doc(xml_file)
-    _, file_name = os.path.split(xml_file)
-    if doc is not None:
-        xml_data = get_new_xml_data(doc, file_name)
-        doc = TeiReader(xml_data)
-        doc.tree_to_file(os.path.join(TEI_DIR, file_name))
+malformed_xml_docs = process_all_files()
+log_nonvalid_files(malformed_xml_docs)
