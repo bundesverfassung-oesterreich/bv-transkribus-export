@@ -6,6 +6,7 @@ import jinja2
 import csv
 import json
 from acdh_tei_pyutils.tei import TeiReader
+from slugify import slugify
 
 TEI_DIR = "./editions"
 TMP_DIR = "./alltei"
@@ -56,7 +57,7 @@ def get_new_filename(doc: TeiReader):
         main_title_string = doc.any_xpath(
             "//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']/text()[1]"
         )[0]
-        return main_title_string.replace(" ", "_") + ".xml"
+        return slugify(main_title_string.replace) + ".xml"
     except IndexError:
         global file_rename_errors
         file_rename_errors += 1
