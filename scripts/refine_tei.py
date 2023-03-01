@@ -57,7 +57,8 @@ def get_new_filename(doc: TeiReader):
         main_title_string = doc.any_xpath(
             "//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']/text()[1]"
         )[0]
-        return slugify(main_title_string.replace) + ".xml"
+
+        return slugify(main_title_string) + ".xml"
     except IndexError:
         global file_rename_errors
         file_rename_errors += 1
