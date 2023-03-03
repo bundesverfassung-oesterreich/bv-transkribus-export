@@ -70,6 +70,7 @@
          <creation><date from="{{ item_md.start_date }}" to="{{ item_md.end_date }}">{{ item_md.date_written }}</date></creation>
       </profileDesc>
     </teiHeader>
+    {{faksimile|safe}}
     <text>
         {{ body|safe }}
     </text>
