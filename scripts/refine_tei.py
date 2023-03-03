@@ -138,7 +138,7 @@ def make_all_section_divs(doc):
     section_divs = seed_div_elements(
         doc,
         xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'nitt') or contains(., 'estimmung')]",
-        regex_test="^[A-Za-zäöü]{3,}ter Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
+        regex_test="^(?:[A-Za-zäöü]{3,}ter|[A-Z]{1,3}\.) Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
         ana_val=section_ana,
     )
     for div in section_divs:
