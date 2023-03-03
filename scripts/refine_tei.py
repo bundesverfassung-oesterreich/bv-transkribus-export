@@ -1,6 +1,7 @@
 import os
 import glob
 import shutil
+import re
 import lxml.etree as ET
 import lxml.builder as builder
 import jinja2
@@ -36,50 +37,6 @@ NewElement = builder.ElementMaker()
 
 # # def funcs
 
-def remove_elements(root_element: TeiReader, xpath_expression: str, preserve_childnodes = True):
-    elements = root_element.any_xpath(xpath_expression)
-    for element in elements:
-        text = element.text
-        parent_element = element.getparent()
-        previous_sibling = element.getprevious()
-        if preserve_childnodes:
-            if len(element) == 0:
-                text = (text or "") + (element.tail or "")
-            if text is not None and text.strip():
-                if previous_sibling is not None:
-                    if not previous_sibling.tail or not previous_sibling.tail.strip():
-                        previous_sibling.tail = text
-                    else:
-                        previous_sibling.tail += text
-                else:
-                    if not parent_element.text or not parent_element.text.strip():
-                        parent_element.text = text
-                    else:
-                        parent_element.text += text
-            if len(element) > 0:
-                for subelement in element:
-                    element.addprevious(subelement)
-                if element.tail is not None and element.tail.strip():
-                    previous_sibling = element.getprevious()
-                    if not previous_sibling.tail or not previous_sibling.tail.strip():
-                        previous_sibling.tail = element.tail
-                    else:
-                        previous_sibling.tail += element.tail
-        else:
-            element_tail = element.tail
-            if element_tail and element_tail.strip():
-                if previous_sibling:
-                    if previous_sibling.tail is not None:
-                        previous_sibling.tail += element_tail
-                    else:
-                        previous_sibling.tail = element_tail
-                else:
-                    if parent_element.text is not None:
-                        parent_element.text += element_tail
-                    else:
-                        parent_element.text = element_tail
-        parent_element.remove(element)
-
 
 def get_xml_doc(xml_file):
     try:
@@ -113,50 +70,151 @@ def get_new_filename(doc: TeiReader):
         file_rename_errors += 1
         return f"titel_konnte_nicht_ermittelt_werden_{file_rename_errors}"
 
-def find_article_titles(doc: TeiReader):
-    article_titles = doc.any_xpath("//tei:lb/following-sibling::text()[contains(., 'Art.')]")
-    article_titles.reverse()
-    for arttitle in article_titles:
-        # # regext test necessary
-        arttitle: ET._ElementUnicodeResult
-        parent = arttitle.getparent()
-        if arttitle.is_tail:
-            parent.tag = "head"
-            parent.text = arttitle
-            parent.tail = "\n"
-            div = NewElement.div("\n", ana="article")
-            div.tail = "\n"
-            parent.addprevious(div)
-            div.append(parent)
-            p_element = NewElement.p("\n")
-            div.append(p_element)
-            next_element = div.getnext()
-            while (next_element is not None and next_element.xpath("local-name()!='p' and local-name()!='div'")):
-                new_next_element = next_element.getnext()
-                p_element.append(next_element)
-                next_element = new_next_element
+
+def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
+    reverse_ordered_div_elements = []
+    section_head_strs = doc.any_xpath(xpath_expr)
+    section_head_strs.reverse()
+    for head_str in section_head_strs:
+        head_str: ET._ElementUnicodeResult
+        if re.match(regex_test, head_str.strip()):
+            head_element = head_str.getparent()
+            if head_str.is_tail:
+                head_element.tag = "head"
+                head_element.text = head_str
+                head_element.tail = "\n"
+                section_div = NewElement.div("\n", ana=ana_val)
+                section_div.tail = "\n"
+                head_element.addprevious(section_div)
+                section_div.append(head_element)
+                reverse_ordered_div_elements.append(section_div)
+    return reverse_ordered_div_elements
+
+
+def raise_div_element(section_div: ET._Element):
+    parent_element = section_div.getparent()
+    while parent_element.xpath("local-name()") != "div":
+        if section_div.getprevious() is not None:
+            parent_split_element = NewElement.stuff("\n")
+            parent_split_element.tag = parent_element.tag
+            siblings = section_div.xpath("following-sibling::*")
+            for element in siblings:
+                parent_split_element.append(element)
+            parent_element.addnext(parent_split_element)
+            parent_element.addnext(section_div)
+        else:
+            if parent_element.text and parent_element.text.strip():
+                parent_split_element = NewElement.randomTagShouldntExist("\n")
+                parent_split_element.tag = parent_element.tag
+                parent_split_element.text = parent_element.text
+                parent_element.text = ""
+                parent_element.addprevious(parent_split_element)
+            parent_element.addprevious(section_div)
+        parent_element = section_div.getparent()
+
+
+def expand_div_element(section_div: ET._Element, append_test):
+    next_element = section_div.getnext()
+    while append_test(next_element):
+        section_div.append(next_element)
+        next_element = section_div.getnext()
+
+
+def make_all_section_divs(doc):
+    section_ana = "section"
+    subsection_ana = "sub_section"
+    article_ana = "article"
+    # # make artikel-divs
+    article_divs = seed_div_elements(
+        doc,
+        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.')]",
+        regex_test=r"^Art\.? .{0,10}$",
+        ana_val=article_ana,
+    )
+    for div in article_divs:
+        raise_div_element(div)
+
+    # # make section-divs
+    section_divs = seed_div_elements(
+        doc,
+        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'nitt') or contains(., 'estimmung')]",
+        regex_test="^[A-Za-zäöü]{3,}ter Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
+        ana_val=section_ana,
+    )
+    for div in section_divs:
+        raise_div_element(div)
+
+    # # make subsection-divssubsection
+    subsection_divs = seed_div_elements(
+        doc,
+        xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de')]",
+        regex_test=r"^[A-Z]{1}[).]* [vV]on de.{5,30}$",
+        ana_val=subsection_ana,
+    )
+    for div in subsection_divs:
+        raise_div_element(div)
+
+    # # place content in section_divs
+    for div in section_divs:
+        expand_div_element(
+            div,
+            append_test=lambda next_element: bool(
+                next_element is not None
+                and next_element.xpath(f"not(@ana='{section_ana}')")
+            ),
+        )
+
+    # # place content in sub_section_divs
+    for div in subsection_divs:
+        expand_div_element(
+            div,
+            append_test=lambda next_element: bool(
+                next_element is not None
+                and next_element.xpath(f"not(@ana='{subsection_ana}')")
+            ),
+        )
+
+    # # place content in article divs
+    for div in article_divs:
+        expand_div_element(
+            div,
+            append_test=lambda next_element: bool(
+                next_element is not None and next_element.xpath("local-name()!='div'")
+            ),
+        )
+
 
 def remove_useless_atributes(doc: TeiReader):
-    elements = doc.any_xpath(
-        ".//*[local-name()='lb' or local-name()='p']"
-    )
+    elements = doc.any_xpath(".//*[local-name()='lb' or local-name()='p']")
     for element in elements:
         element.attrib.clear()
+
+
+def remove_useless_lbs(doc: TeiReader):
+    for p in doc.any_xpath(
+        "//tei:p[./node()[1][normalize-space(.)=''] and ./*[1][local-name()='lb']]"
+    ):
+        p.text = p[0].tail
+        p.remove(p[0])
+
 
 def get_faksimile(doc: TeiReader, image_urls: list):
     for graphic_element in doc.any_xpath(".//tei:graphic"):
         graphic_element.attrib["url"] = image_urls.pop()
-    for zone_element in doc.any_xpath(".//tei:facsimile/tei:surface//tei:zone[not(@subtype='paragraph')]"):
+    for zone_element in doc.any_xpath(
+        ".//tei:facsimile/tei:surface//tei:zone[not(@subtype='paragraph')]"
+    ):
         zone_element.getparent().remove(zone_element)
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
     return ET.tostring(faksimile_element).decode("utf-8")
-    
+
 
 def get_new_xml_data(doc: TeiReader, file_name: str, image_urls: list):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
+    make_all_section_divs(doc)
     remove_useless_atributes(doc)
-    find_article_titles(doc)
+    remove_useless_lbs(doc)
     body = ET.tostring(body_node).decode("utf-8")
     body = body.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
@@ -171,7 +229,7 @@ def get_new_xml_data(doc: TeiReader, file_name: str, image_urls: list):
         "item_md": item_md,
         "file_name": file_name,
         "body": body,
-        "faksimile": faksimile
+        "faksimile": faksimile,
     }
     xml_data = template.render(context)
     return xml_data
@@ -181,9 +239,15 @@ def find_image_urls(xml_file_path: str):
     _, filename = os.path.split(xml_file_path)
     doc_nmbr = filename.split("_")[0]
     mets_file_str = f"./mets/188933/{doc_nmbr}_mets.xml"
-    #image_name_file_str = f"./mets/188933/{doc_nmbr}_image_name.xml"
+    # image_name_file_str = f"./mets/188933/{doc_nmbr}_image_name.xml"
     doc = TeiReader(mets_file_str)
-    return doc.tree.xpath("//ns3:fileGrp[@ID='IMG']/ns3:file/ns3:FLocat/@ns2:href", namespaces={"ns3":"http://www.loc.gov/METS/", "ns2":"http://www.w3.org/1999/xlink"})
+    return doc.tree.xpath(
+        "//ns3:fileGrp[@ID='IMG']/ns3:file/ns3:FLocat/@ns2:href",
+        namespaces={
+            "ns3": "http://www.loc.gov/METS/",
+            "ns2": "http://www.w3.org/1999/xlink",
+        },
+    )
 
 
 def process_all_files(collection_id):
@@ -208,12 +272,13 @@ def process_all_files(collection_id):
 shutil.rmtree(TEI_DIR, ignore_errors=True)
 os.makedirs(TEI_DIR, exist_ok=True)
 
-# # load / process all unprocessed files
-malformed_xml_docs = []
-for collection_id in ["188933"]:
-    malformed_xml_docs += process_all_files(collection_id)
-log_nonvalid_files(malformed_xml_docs)
-if file_rename_errors != 0:
-    print(
-        f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
-    )
+if __name__ == "__main__":
+    # # load / process all unprocessed files
+    malformed_xml_docs = []
+    for collection_id in ["188933"]:
+        malformed_xml_docs += process_all_files(collection_id)
+    log_nonvalid_files(malformed_xml_docs)
+    if file_rename_errors != 0:
+        print(
+            f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
+        )
