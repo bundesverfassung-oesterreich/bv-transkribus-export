@@ -36,7 +36,30 @@ file_rename_errors = 0
 NewElement = builder.ElementMaker()
 
 # # def funcs
-
+class BvDocMetaData:
+    def __init__(self, vals:dict):
+        self.id = vals["id"]
+        self.doc_title = vals["doc_title"]
+        self.bv_id = vals["bv_id"]
+        self.written_date = vals["written_date"]
+        self.not_before = vals["not_before"]
+        self.not_after = vals["not_after"]
+        self.type_of_manifestation = vals["type_of_manifestation"]
+        self.type_of_document = vals["type_of_document"]
+        self.has_description = vals["has_description"]
+        self.has_author = vals["has_author"]
+        self.shelfmark = vals["shelfmark"]
+        self.goobi_id = vals["goobi_id"]
+        self.transkribus_col_id = vals["transkribus_col_id"]
+        self.transkribus_doc_id = vals["transkribus_doc_id"]
+        self.has_digitizing_agent = vals["has_digitizing_agent"]
+        self.data_set = vals["data_set"]
+        self.filename = None
+    
+    def return_filename(self):
+        if self.filename is None:
+            self.filename = slugify(self.bv_id) + ".xml"
+        return self.filename
 
 def get_xml_doc(xml_file):
     """
@@ -60,18 +83,6 @@ def log_nonvalid_files(malformed_xml_docs):
         with open(MALFORMED_FILES_LOGPATH, "w") as outfile:
             dict_writer = csv.DictWriter(outfile, fieldnames)
             dict_writer.writerows(malformed_xml_docs)
-
-
-def get_new_filename(doc: TeiReader):
-    try:
-        main_title_string = doc.any_xpath(
-            "//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main']/text()[1]"
-        )[0]
-        return slugify(main_title_string) + ".xml"
-    except IndexError:
-        global file_rename_errors
-        file_rename_errors += 1
-        return f"titel_konnte_nicht_ermittelt_werden_{file_rename_errors}"
 
 
 def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
@@ -131,7 +142,7 @@ def make_all_section_divs(doc):
     article_divs = seed_div_elements(
         doc,
         xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.')]",
-        regex_test=r"^Art\.? .{0,10}$",
+        regex_test=r"^Art\.?( *$| .{0,10}$)",
         ana_val=article_ana,
     )
     for div in article_divs:
@@ -151,7 +162,7 @@ def make_all_section_divs(doc):
     subsection_divs = seed_div_elements(
         doc,
         xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de')]",
-        regex_test=r"^[A-Z]{1}[).]* [vV]on de.{5,30}$",
+        regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$",
         ana_val=subsection_ana,
     )
     for div in subsection_divs:
@@ -212,9 +223,10 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
     return ET.tostring(faksimile_element).decode("utf-8")
 
 
-def create_new_xml_data(doc: TeiReader, new_file_name: str, image_urls: list, transcribus_doc_id: str, transcribus_collection_id: str):
+def create_new_xml_data(doc:TeiReader, doc_metadata:BvDocMetaData, image_urls:list, ):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
+    new_file_name = doc_metadata.return_filename()
     make_all_section_divs(doc)
     remove_useless_atributes(doc)
     remove_useless_lbs(doc)
@@ -233,11 +245,12 @@ def create_new_xml_data(doc: TeiReader, new_file_name: str, image_urls: list, tr
         "file_name": new_file_name,
         "body": body,
         "faksimile": faksimile,
-        "transcribus_doc_id" : transcribus_doc_id,
-        "transcribus_collection_id" : transcribus_collection_id
+        "transkribus_doc_id" : doc_metadata.transkribus_doc_id,
+        "transkribus_collection_id" : doc_metadata.transkribus_col_id
     }
     xml_data = template.render(context)
-    return xml_data
+    doc = TeiReader(xml_data)
+    doc.tree_to_file(os.path.join(TEI_DIR, new_file_name))
 
 
 def return_image_urls(mets_doc):
@@ -252,12 +265,12 @@ def return_image_urls(mets_doc):
         },
     )
 
-def return_transcribus_doc_id(xml_file_path):
+def return_transkribus_doc_id(xml_file_path):
     _, filename = os.path.split(xml_file_path)
     return filename.split("_")[0]
 
-def return_mets_doc(transcribus_doc_id: str, transcribus_collection_id: str):
-    mets_file_str = f"./mets/{transcribus_collection_id}/{transcribus_doc_id}_mets.xml"
+def return_mets_doc(transkribus_doc_id: str, transkribus_collection_id: str):
+    mets_file_str = f"./mets/{transkribus_collection_id}/{transkribus_doc_id}_mets.xml"
     return TeiReader(mets_file_str)
 
 
@@ -267,33 +280,56 @@ def return_col_id_from_mets_doc(doc: TeiReader):
     except IndexError:
         return ""
 
-def process_all_files(transcribus_collection_id):
-    # # load sourcefiles from fetch / transform job
-    source_files = glob.glob(f"{TMP_DIR}/{transcribus_collection_id}/*_tei.xml")
-    malformed_xml_docs = []
-    for xml_file_path in source_files:
-        # # parsing doc to mem
-        doc = get_xml_doc(xml_file_path)
-        if isinstance(doc, dict):
-            malformed_xml_docs.append(doc)
-        else:
-            # # important stuff happens here
-            # # organize data yet missing in the final doc
-            transcribus_doc_id = return_transcribus_doc_id(xml_file_path)
-            mets_doc = return_mets_doc(transcribus_doc_id, transcribus_collection_id)
-            image_urls = return_image_urls(mets_doc)
-            new_file_name = get_new_filename(doc)
-            print(f"\t{new_file_name}")
-            # # change the doc / write data to it
-            xml_data = create_new_xml_data(
-                doc,
-                new_file_name,
-                image_urls,
-                transcribus_doc_id,
-                transcribus_collection_id
-            )
-            doc = TeiReader(xml_data)
-            doc.tree_to_file(os.path.join(TEI_DIR, new_file_name))
+
+def load_metadata_from_dump():
+    import requests
+    # #from requests.adapters import HTTPAdapter
+    # # request_session = requests.Session()
+    # # request_session.mount('https://', HTTPAdapter(max_retries=10))
+    # # table_id = "2289"
+    # # db_id = "421"
+    # # base_url = "https://baserow.acdh-dev.oeaw.ac.at"
+    # # token = ""
+    # # headers = {'Authorization': f'Token {token}'}
+    # # url = base_url + "/api/database/rows/table/2289/?user_field_names=true"
+    # # result = requests.get(url, headers=headers)
+    base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
+    results = requests.get(base_row_dump_url)
+    json_result = results.json()
+    meta_data_objs_by_transkribus_id = {}
+    for row in json_result.values():
+        md_obj = BvDocMetaData(row)
+        if md_obj.transkribus_col_id not in meta_data_objs_by_transkribus_id:
+            meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id] = {}
+        meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id][md_obj.transkribus_doc_id] = md_obj
+    return meta_data_objs_by_transkribus_id
+
+
+def process_all_files():
+    # # load metadata
+    metadata = load_metadata_from_dump()
+    for transkribus_collection_id, collection_metadata in metadata.items():
+        # # load sourcefiles from fetch / transform job
+        source_files = glob.glob(f"{TMP_DIR}/{transkribus_collection_id}/*_tei.xml")
+        malformed_xml_docs = []
+        for xml_file_path in source_files:
+            # # parsing doc to mem
+            doc = get_xml_doc(xml_file_path)
+            if isinstance(doc, dict):
+                malformed_xml_docs.append(doc)
+            else:
+                # # important stuff happens here
+                # # organize data yet missing in the final doc
+                transkribus_doc_id = return_transkribus_doc_id(xml_file_path)
+                doc_metadata: BvDocMetaData = collection_metadata[transkribus_doc_id]
+                mets_doc = return_mets_doc(transkribus_doc_id, transkribus_collection_id)
+                image_urls = return_image_urls(mets_doc)
+                # # change the doc / write data to it
+                create_new_xml_data(
+                    doc,
+                    doc_metadata,
+                    image_urls
+                )
     return malformed_xml_docs
 
 
@@ -304,8 +340,7 @@ os.makedirs(TEI_DIR, exist_ok=True)
 if __name__ == "__main__":
     # # load / process all unprocessed files
     malformed_xml_docs = []
-    for transcribus_collection_id in ["188933"]:
-        malformed_xml_docs += process_all_files(transcribus_collection_id)
+    malformed_xml_docs += process_all_files()
     log_nonvalid_files(malformed_xml_docs)
     if file_rename_errors != 0:
         print(
