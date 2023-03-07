@@ -240,7 +240,7 @@ def create_new_xml_data(doc: TeiReader, new_file_name: str, image_urls: list, tr
     return xml_data
 
 
-def find_image_urls(mets_doc):
+def return_image_urls(mets_doc):
     """
     returns image links from mets file in doc order
     """
@@ -281,7 +281,7 @@ def process_all_files(transcribus_collection_id):
             # # organize data yet missing in the final doc
             transcribus_doc_id = return_transcribus_doc_id(xml_file_path)
             mets_doc = return_mets_doc(transcribus_doc_id, transcribus_collection_id)
-            image_urls = find_image_urls(mets_doc)
+            image_urls = return_image_urls(mets_doc)
             new_file_name = get_new_filename(doc)
             print(f"\t{new_file_name}")
             # # change the doc / write data to it
