@@ -15,7 +15,7 @@ TEI_DIR = "./editions"
 TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
 base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
-local_baserow_dump_copy_path = TMP_DIR+"baserow_dump.json"
+local_baserow_dump_copy_path = TMP_DIR + "baserow_dump.json"
 
 # # setup metadata from json
 PROJECT_MD = {}
@@ -36,6 +36,7 @@ NewElement = builder.ElementMaker()
 
 
 # # def funcs
+
 
 class PersonMetaData:
     def __init__(self, name, role, arche_role):
@@ -89,11 +90,7 @@ class BvDocMetaData:
             # entity_id = entity["id"]
             entity_name = entity["value"]
             self.authors.append(
-                PersonMetaData(
-                    entity_name,
-                    "Autor*in",
-                    self.author_key
-                )
+                PersonMetaData(entity_name, "Autor*in", self.author_key)
             )
 
     def create_resp_list(self):
@@ -103,9 +100,7 @@ class BvDocMetaData:
             arche_role = self.digitizing_agent_key
             self.resp.append(
                 PersonMetaData(
-                    entity_name,
-                    self.arche_role_2_string[arche_role],
-                    arche_role
+                    entity_name, self.arche_role_2_string[arche_role], arche_role
                 )
             )
 
@@ -340,11 +335,13 @@ def fetch_metadata_dump():
     # # url = base_url + "/api/database/rows/table/2289/?user_field_names=true"
     # # result = requests.get(url, headers=headers)
     import requests
+
     results = requests.get(base_row_dump_url)
     json_result = results.json()
     with open(local_baserow_dump_copy_path, "w") as outfile:
         json.dump(json_result, outfile)
     return json_result
+
 
 def load_metadata_from_dump():
     json_data = None
