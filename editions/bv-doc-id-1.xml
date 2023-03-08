@@ -1,9 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv-doc-id-1.xml">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__1">
         <fileDesc>
             <titleStmt>
-                <title type="main">Bitte genauen Titel eintragen</title>
-                <title type="sub">Die Entstehung des Bundes‐Verfassungsgesetzes 1920</title>
+                <title type="main">Die Entstehung des Bundes‐Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="https://d-nb.info/gnd/120789825">Thomas Olechowski</persName>
                 </principal>
@@ -20,11 +19,7 @@
                 </funder>
                 <respStmt>
                     <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
-                    <persName role="achd:hasDigitizingAgent">Richard Lein</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>Transkription</resp>
-                    <persName role="achd:hasContributor">Max Musterfrau</persName>
+                    <persName role="acdh:has_digitizing_agent">Lein, Richard</persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
@@ -36,33 +31,47 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>
-               <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
-            </publisher>
-            <publisher>
-               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
-            </publisher>
-            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-            <date when="2023">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                            applies to this text.</p>
-                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
-               </licence>
-            </availability>
-            <idno type="transkribus_doc">1344658</idno>
-            <idno type="transkribus_collection">188933</idno>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1344658</idno>
+                <idno type="transkribus_collection"/>
             </publicationStmt>
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">bitte genaue Signatur recherieren</idno>
+                        <idno type="archive">None</idno>
                     </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:has_author">Kelsen, Hans</author>
+                        <title>Kelsen Entwurf I</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                            <ab>None</ab>
+                        </objectDesc>
+                        <handDesc>
+                        <ab/>
+                        </handDesc>
+                    </physDesc>
                     <history>
-                        <origin from="1000-01-01" to="1000-01-01">Entstehungzeitraum bitte nachtragen</origin>
+                        <origin from="1922-01-01" to="1922-12-31">1922</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -71,7 +80,7 @@
          <abstract>
             <ab/>
          </abstract>
-         <creation><date from="1000-01-01" to="1000-01-01">Entstehungzeitraum bitte nachtragen</date></creation>
+         <creation><date from="1922-01-01" to="1922-12-31">1922</date></creation>
       </profileDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2481" lry="3510" xml:id="facs_1"><graphic url="https://files.transkribus.eu/Get?id=CZDJIKXAVMZACNSCUFEQCLHA&amp;fileType=view" width="2481px" height="3510px"/><zone points="1301,518 1844,518 1844,574 1301,574" rendition="TextRegion" xml:id="facs_1_r_2_1" subtype="paragraph">
@@ -238,7 +247,7 @@
         </zone><zone points="1027,599 1891,599 1891,742 1027,742" rendition="TextRegion" xml:id="facs_49_r_2_1" subtype="paragraph">
         </zone><zone points="1895,3115 1996,3115 1996,3175 1895,3175" rendition="TextRegion" xml:id="facs_49_r_3_1" subtype="paragraph">
         </zone></surface></facsimile>
-    <text>
+    <text type="Gesetzesentwurf">
         <body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><div ana="section">
 <head facs="#facs_1_r_6_1_tl_1" n="N001">Allgemeine Bestimmungen.</head>
 <p>

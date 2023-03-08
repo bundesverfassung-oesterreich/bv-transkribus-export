@@ -1,9 +1,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ file_name }}">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ doc_metadata.bv_id }}">
         <fileDesc>
             <titleStmt>
-                <title type="main">{{ item_md.title }}</title>
-                <title type="sub">{{ project_md.project_title }}</title>
+                <title type="main">{{project_md.project_title}}</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator" key="{{ project_md.norm_pi_normdata_id }}">{{ project_md.project_pi_name }}</persName>
                 </principal>
@@ -18,10 +17,10 @@
                         </placeName>
                     </address>
                 </funder>
-{% for x in item_md.resp %}
+{% for person in doc_metadata.resp %}
                 <respStmt>
-                    <resp>{{ x.role }}</resp>
-                    <persName role="{{ x.arche_mapping }}">{{ x.person.name }}</persName>
+                    <resp>{{ person.role }}</resp>
+                    <persName role="acdh:{{ person.arche_role }}">{{ person.name }}</persName>
                 </respStmt>
 {% endfor %}
                 <respStmt>
@@ -34,33 +33,49 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-            <publisher>
-               <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
-            </publisher>
-            <publisher>
-               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
-            </publisher>
-            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
-            <date when="2023">2023</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                            applies to this text.</p>
-                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
-               </licence>
-            </availability>
-            <idno type="transkribus_doc">{{ transkribus_doc_id }}</idno>
-            <idno type="transkribus_collection">{{ transkribus_collection_id }}</idno>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">{{ doc_metadata.transkribus_doc_id }}</idno>
+                <idno type="transkribus_collection">{{ doc_metadata.transkribus_collection_id }}</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">{{ item_md.signatur }}</idno>
+                        <idno type="archive">{{ doc_metadata.shelfmark }}</idno>
                     </msIdentifier>
+                    <msContents>
+                        <msItem>
+                        {% for author in doc_metadata.authors %}
+                            <author role="acdh:{{ author.arche_role }}">{{ author.name }}</author>
+                        {% endfor %}
+                        <title>{{ doc_metadata.doc_title }}</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="{{ doc_metadata.type_of_manifestation }}">
+                            <ab>{{ doc_metadata.has_description }}</ab>
+                        </objectDesc>
+                        <handDesc>
+                        <ab></ab>
+                        </handDesc>
+                    </physDesc>
                     <history>
-                        <origin from="{{ item_md.start_date }}" to="{{ item_md.end_date }}">{{ item_md.date_written }}</origin>
+                        <origin from="{{ doc_metadata.not_before }}" to="{{ doc_metadata.not_after }}">{{ doc_metadata.written_date }}</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -69,11 +84,11 @@
          <abstract>
             <ab/>
          </abstract>
-         <creation><date from="{{ item_md.start_date }}" to="{{ item_md.end_date }}">{{ item_md.date_written }}</date></creation>
+         <creation><date from="{{ doc_metadata.not_before }}" to="{{ doc_metadata.not_after }}">{{ doc_metadata.written_date }}</date></creation>
       </profileDesc>
     </teiHeader>
     {{faksimile|safe}}
-    <text>
+    <text type="{{ doc_metadata.type_of_document }}">
         {{ body|safe }}
     </text>
 </TEI>

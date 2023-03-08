@@ -16,9 +16,6 @@ TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
 
 # # setup metadata from json
-MD_TABLE = {}
-with open("specific_meta_data.json", "r", encoding="utf-8") as json_metadata_file:
-    MD_TABLE = json.load(json_metadata_file)
 PROJECT_MD = {}
 with open("general_meta_data.json", "r", encoding="utf-8") as json_metadata_file:
     PROJECT_MD = json.load(json_metadata_file)
@@ -35,31 +32,81 @@ file_rename_errors = 0
 
 NewElement = builder.ElementMaker()
 
+
 # # def funcs
+
+class PersonMetaData:
+    def __init__(self, name, role, arche_role):
+        self.name = name
+        self.role = role
+        self.arche_role = arche_role
+
+
 class BvDocMetaData:
-    def __init__(self, vals:dict):
+    author_key = "has_author"
+    digitizing_agent_key = "has_digitizing_agent"
+    arche_role_2_string = {
+        digitizing_agent_key: "Digitalisierung (Fotografieren) des Archivmaterials"
+    }
+
+    def __init__(self, vals: dict):
+        #######################
+        # # so far unused:
+        # # # goobi_id
+        # # # data_set
+        #######################
+        # # identifier
         self.id = vals["id"]
         self.doc_title = vals["doc_title"]
         self.bv_id = vals["bv_id"]
+        # # dates
         self.written_date = vals["written_date"]
         self.not_before = vals["not_before"]
         self.not_after = vals["not_after"]
-        self.type_of_manifestation = vals["type_of_manifestation"]
-        self.type_of_document = vals["type_of_document"]
+        # # ms desc
+        self.type_of_manifestation = vals["type_of_manifestation"]["value"]
+        self.type_of_document = vals["type_of_document"]["value"]
         self.has_description = vals["has_description"]
-        self.has_author = vals["has_author"]
+        self.has_author = vals[self.author_key]
+        # # data identifier
         self.shelfmark = vals["shelfmark"]
         self.goobi_id = vals["goobi_id"]
         self.transkribus_col_id = vals["transkribus_col_id"]
         self.transkribus_doc_id = vals["transkribus_doc_id"]
         self.has_digitizing_agent = vals["has_digitizing_agent"]
         self.data_set = vals["data_set"]
-        self.filename = None
-    
-    def return_filename(self):
-        if self.filename is None:
-            self.filename = slugify(self.bv_id) + ".xml"
-        return self.filename
+        self.filename = self.filename = slugify(self.bv_id) + ".xml"
+        # # processed_stuff
+        self.resp = []
+        self.authors = []
+        self.create_resp_list()
+        self.create_authors_list()
+
+    def create_authors_list(self):
+        for entity in self.has_author:
+            # entity_id = entity["id"]
+            entity_name = entity["value"]
+            self.authors.append(
+                PersonMetaData(
+                    entity_name,
+                    "Autor*in",
+                    self.author_key
+                )
+            )
+
+    def create_resp_list(self):
+        for entity in self.has_digitizing_agent:
+            # entity_id = entity["id"]
+            entity_name = entity["value"]
+            arche_role = self.digitizing_agent_key
+            self.resp.append(
+                PersonMetaData(
+                    entity_name,
+                    self.arche_role_2_string[arche_role],
+                    arche_role
+                )
+            )
+
 
 def get_xml_doc(xml_file):
     """
@@ -204,12 +251,12 @@ def remove_useless_atributes(doc: TeiReader):
         element.attrib.clear()
 
 
-def remove_useless_lbs(doc: TeiReader):
-    for p in doc.any_xpath(
-        "//tei:p[./node()[1][normalize-space(.)=''] and ./*[1][local-name()='lb']]"
+def remove_useless_elements(doc: TeiReader):
+    for parent in doc.any_xpath(
+        "//tei:*[(local-name()='p' or local-name()='ab') and ./node()[1][normalize-space(.)=''] and ./*[1][local-name()='lb']]"
     ):
-        p.text = p[0].tail
-        p.remove(p[0])
+        parent.text = parent[0].tail
+        parent.remove(parent[0])
 
 
 def get_faksimile_element(doc: TeiReader, image_urls: list):
@@ -223,34 +270,30 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
     return ET.tostring(faksimile_element).decode("utf-8")
 
 
-def create_new_xml_data(doc:TeiReader, doc_metadata:BvDocMetaData, image_urls:list, ):
+def create_new_xml_data(
+    doc: TeiReader,
+    doc_metadata: BvDocMetaData,
+    image_urls: list,
+):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
-    new_file_name = doc_metadata.return_filename()
     make_all_section_divs(doc)
     remove_useless_atributes(doc)
-    remove_useless_lbs(doc)
+    remove_useless_elements(doc)
     body = ET.tostring(body_node).decode("utf-8")
     body = body.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
     faksimile = get_faksimile_element(doc, image_urls)
     # # get metadata
-    try:
-        item_md = MD_TABLE[new_file_name.replace(".xml", "")]
-    except KeyError:
-        item_md = MD_TABLE["dummy"]
     context = {
         "project_md": PROJECT_MD,
-        "item_md": item_md,
-        "file_name": new_file_name,
+        "doc_metadata": doc_metadata,
         "body": body,
         "faksimile": faksimile,
-        "transkribus_doc_id" : doc_metadata.transkribus_doc_id,
-        "transkribus_collection_id" : doc_metadata.transkribus_col_id
     }
     xml_data = template.render(context)
     doc = TeiReader(xml_data)
-    doc.tree_to_file(os.path.join(TEI_DIR, new_file_name))
+    doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata.filename))
 
 
 def return_image_urls(mets_doc):
@@ -265,9 +308,11 @@ def return_image_urls(mets_doc):
         },
     )
 
+
 def return_transkribus_doc_id(xml_file_path):
     _, filename = os.path.split(xml_file_path)
     return filename.split("_")[0]
+
 
 def return_mets_doc(transkribus_doc_id: str, transkribus_collection_id: str):
     mets_file_str = f"./mets/{transkribus_collection_id}/{transkribus_doc_id}_mets.xml"
@@ -283,7 +328,8 @@ def return_col_id_from_mets_doc(doc: TeiReader):
 
 def load_metadata_from_dump():
     import requests
-    # #from requests.adapters import HTTPAdapter
+
+    # # from requests.adapters import HTTPAdapter
     # # request_session = requests.Session()
     # # request_session.mount('https://', HTTPAdapter(max_retries=10))
     # # table_id = "2289"
@@ -301,7 +347,9 @@ def load_metadata_from_dump():
         md_obj = BvDocMetaData(row)
         if md_obj.transkribus_col_id not in meta_data_objs_by_transkribus_id:
             meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id] = {}
-        meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id][md_obj.transkribus_doc_id] = md_obj
+        meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id][
+            md_obj.transkribus_doc_id
+        ] = md_obj
     return meta_data_objs_by_transkribus_id
 
 
@@ -322,14 +370,12 @@ def process_all_files():
                 # # organize data yet missing in the final doc
                 transkribus_doc_id = return_transkribus_doc_id(xml_file_path)
                 doc_metadata: BvDocMetaData = collection_metadata[transkribus_doc_id]
-                mets_doc = return_mets_doc(transkribus_doc_id, transkribus_collection_id)
+                mets_doc = return_mets_doc(
+                    transkribus_doc_id, transkribus_collection_id
+                )
                 image_urls = return_image_urls(mets_doc)
                 # # change the doc / write data to it
-                create_new_xml_data(
-                    doc,
-                    doc_metadata,
-                    image_urls
-                )
+                create_new_xml_data(doc, doc_metadata, image_urls)
     return malformed_xml_docs
 
 
