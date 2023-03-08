@@ -2,12 +2,6 @@ name: Download and process
 
 on: 
   workflow_dispatch:
-    inputs:
-      colId:
-        description: 'Collection ID'     
-        required: true
-        default: '188933'
-
 
 jobs:
   build_pages:
@@ -31,9 +25,6 @@ jobs:
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
-    - name: Move METS Files
-      run: |
-        python ./scripts/move_mets.py
     - name: Transform to TEI
       run: |
         ./transform.sh

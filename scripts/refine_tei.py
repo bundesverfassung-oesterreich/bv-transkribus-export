@@ -14,6 +14,8 @@ from slugify import slugify
 TEI_DIR = "./editions"
 TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
+base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
+local_baserow_dump_copy_path = TMP_DIR+"baserow_dump.json"
 
 # # setup metadata from json
 PROJECT_MD = {}
@@ -326,9 +328,7 @@ def return_col_id_from_mets_doc(doc: TeiReader):
         return ""
 
 
-def load_metadata_from_dump():
-    import requests
-
+def fetch_metadata_dump():
     # # from requests.adapters import HTTPAdapter
     # # request_session = requests.Session()
     # # request_session.mount('https://', HTTPAdapter(max_retries=10))
@@ -339,11 +339,22 @@ def load_metadata_from_dump():
     # # headers = {'Authorization': f'Token {token}'}
     # # url = base_url + "/api/database/rows/table/2289/?user_field_names=true"
     # # result = requests.get(url, headers=headers)
-    base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
+    import requests
     results = requests.get(base_row_dump_url)
     json_result = results.json()
+    with open(local_baserow_dump_copy_path, "w") as outfile:
+        json.dump(json_result, outfile)
+    return json_result
+
+def load_metadata_from_dump():
+    json_data = None
+    if not os.path.exists(local_baserow_dump_copy_path):
+        json_data = fetch_metadata_dump()
+    else:
+        with open(local_baserow_dump_copy_path, "r") as infile:
+            json_data = json.load(infile)
     meta_data_objs_by_transkribus_id = {}
-    for row in json_result.values():
+    for row in json_data.values():
         md_obj = BvDocMetaData(row)
         if md_obj.transkribus_col_id not in meta_data_objs_by_transkribus_id:
             meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id] = {}
@@ -379,11 +390,10 @@ def process_all_files():
     return malformed_xml_docs
 
 
-# # clear directory for new export
-shutil.rmtree(TEI_DIR, ignore_errors=True)
-os.makedirs(TEI_DIR, exist_ok=True)
-
 if __name__ == "__main__":
+    # # clear directory for new export
+    shutil.rmtree(TEI_DIR, ignore_errors=True)
+    os.makedirs(TEI_DIR, exist_ok=True)
     # # load / process all unprocessed files
     malformed_xml_docs = []
     malformed_xml_docs += process_all_files()
@@ -392,3 +402,4 @@ if __name__ == "__main__":
         print(
             f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
         )
+    os.remove(local_baserow_dump_copy_path)
