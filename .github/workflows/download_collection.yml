@@ -1,8 +1,6 @@
 name: Download and process
-
-on: 
+on:
   workflow_dispatch:
-
 jobs:
   build_pages:
     name: Download METS files from Transkribus and convert them to TEIs
