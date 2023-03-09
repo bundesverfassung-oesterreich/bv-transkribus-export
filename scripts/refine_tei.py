@@ -80,7 +80,7 @@ class BvDocMetaData:
         self.transkribus_doc_id = vals["transkribus_doc_id"]
         self.has_digitizing_agent = vals["has_digitizing_agent"]
         self.data_set = vals["data_set"]
-        self.filename = self.filename = slugify(self.bv_id) + ".xml"
+        self.filename = slugify(self.bv_id) + ".xml"
         # # processed_stuff
         self.resp = []
         self.authors = []
