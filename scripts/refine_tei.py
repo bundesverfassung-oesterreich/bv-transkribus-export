@@ -14,13 +14,15 @@ from slugify import slugify
 TEI_DIR = "./editions"
 TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
-base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
-local_baserow_dump_copy_path = TMP_DIR + "baserow_dump.json"
+doc_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
+project_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/project_data.json"
+doc_local_baserow_dump = TMP_DIR + "document.json"
+project_local_baserow_dump = TMP_DIR + "project_data.json"
 
 # # setup metadata from json
 PROJECT_MD = {}
-with open("general_meta_data.json", "r", encoding="utf-8") as json_metadata_file:
-    PROJECT_MD = json.load(json_metadata_file)
+with open(project_local_baserow_dump, "r", encoding="utf-8") as json_metadata_file:
+    PROJECT_MD = json.load(json_metadata_file)["1"]
 
 # # load template
 templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
@@ -205,8 +207,9 @@ def make_all_section_divs(doc):
     # # make subsection-divssubsection
     subsection_divs = seed_div_elements(
         doc,
-        xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de')]",
-        regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$",
+        #xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or contains(.,'A') or contains(.,'B') or contains(.,'C')]",
+        xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or starts-with(.,'A') or starts-with(.,'B') or starts-with(.,'C')]",
+        regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$|^[A-C]\.*/? .{3} [^ ]+\.?$",
         ana_val=subsection_ana,
     )
     for div in subsection_divs:
@@ -323,32 +326,27 @@ def return_col_id_from_mets_doc(doc: TeiReader):
         return ""
 
 
-def fetch_metadata_dump():
-    # # from requests.adapters import HTTPAdapter
-    # # request_session = requests.Session()
-    # # request_session.mount('https://', HTTPAdapter(max_retries=10))
-    # # table_id = "2289"
-    # # db_id = "421"
-    # # base_url = "https://baserow.acdh-dev.oeaw.ac.at"
-    # # token = ""
-    # # headers = {'Authorization': f'Token {token}'}
-    # # url = base_url + "/api/database/rows/table/2289/?user_field_names=true"
-    # # result = requests.get(url, headers=headers)
+def fetch_metadata_dump(url, local_filepath):
     import requests
 
-    results = requests.get(base_row_dump_url)
+    results = requests.get(url)
     json_result = results.json()
-    with open(local_baserow_dump_copy_path, "w") as outfile:
+    with open(local_filepath, "w") as outfile:
         json.dump(json_result, outfile)
     return json_result
 
 
 def load_metadata_from_dump():
     json_data = None
-    if not os.path.exists(local_baserow_dump_copy_path):
-        json_data = fetch_metadata_dump()
+    if not os.path.exists(doc_local_baserow_dump):
+        _ = fetch_metadata_dump(
+            url=project_base_row_dump_url, local_filepath=project_local_baserow_dump
+        )
+        json_data = fetch_metadata_dump(
+            url=doc_base_row_dump_url, local_filepath=doc_local_baserow_dump
+        )
     else:
-        with open(local_baserow_dump_copy_path, "r") as infile:
+        with open(doc_local_baserow_dump, "r") as infile:
             json_data = json.load(infile)
     meta_data_objs_by_transkribus_id = {}
     for row in json_data.values():
@@ -399,4 +397,4 @@ if __name__ == "__main__":
         print(
             f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
         )
-    os.remove(local_baserow_dump_copy_path)
+    os.remove(doc_local_baserow_dump)

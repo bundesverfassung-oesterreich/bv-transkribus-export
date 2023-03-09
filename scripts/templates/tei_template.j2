@@ -4,7 +4,7 @@
             <titleStmt>
                 <title type="main">{{project_md.project_title}}</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator" key="{{ project_md.norm_pi_normdata_id }}">{{ project_md.project_pi_name }}</persName>
+                    <persName role="acdh:hasPrincipialInvestigator">{{ project_md.project_pi_name[0].value}}</persName>
                 </principal>
                 <funder>
                     <name>FWF - Der Wissenschaftsfonds</name>
