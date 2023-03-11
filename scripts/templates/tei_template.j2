@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ doc_metadata.bv_id }}">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ doc_metadata.bv_id }}.xml">
+    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">{{project_md.project_title}}</title>
+                <title type="main">{{ doc_metadata.doc_title }}</title>
+                <title type="sub">{{ project_md.project_title }}</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">{{ project_md.project_pi_name[0].value}}</persName>
                 </principal>
