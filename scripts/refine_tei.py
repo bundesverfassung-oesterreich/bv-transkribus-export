@@ -181,8 +181,8 @@ def expand_div_element(section_div: ET._Element, append_test):
 
 
 def make_all_section_divs(doc):
-    section_ana = "section"
-    subsection_ana = "sub_section"
+    # section_ana = "section"
+    # subsection_ana = "sub_section"
     article_ana = "article"
     # # make artikel-divs
     article_divs = seed_div_elements(
@@ -194,46 +194,46 @@ def make_all_section_divs(doc):
     for div in article_divs:
         raise_div_element(div)
 
-    # # make section-divs
-    section_divs = seed_div_elements(
-        doc,
-        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'nitt') or contains(., 'estimmung')]",
-        regex_test="^(?:[A-Za-zäöü]{3,}ter|[A-Z]{1,3}\.) Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
-        ana_val=section_ana,
-    )
-    for div in section_divs:
-        raise_div_element(div)
+    # # # make section-divs
+    # section_divs = seed_div_elements(
+    #     doc,
+    #     xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'nitt') or contains(., 'estimmung')]",
+    #     regex_test="^(?:[A-Za-zäöü]{3,}ter|[A-Z]{1,3}\.) Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
+    #     ana_val=section_ana,
+    # )
+    # for div in section_divs:
+    #     raise_div_element(div)
 
-    # # make subsection-divssubsection
-    subsection_divs = seed_div_elements(
-        doc,
-        #xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or contains(.,'A') or contains(.,'B') or contains(.,'C')]",
-        xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or starts-with(.,'A') or starts-with(.,'B') or starts-with(.,'C')]",
-        regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$|^[A-C]\.*/? .{3} [^ ]+\.?$",
-        ana_val=subsection_ana,
-    )
-    for div in subsection_divs:
-        raise_div_element(div)
+    # # # make subsection-divssubsection
+    # subsection_divs = seed_div_elements(
+    #     doc,
+    #     #xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or contains(.,'A') or contains(.,'B') or contains(.,'C')]",
+    #     xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or starts-with(.,'A') or starts-with(.,'B') or starts-with(.,'C')]",
+    #     regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$|^[A-C]\.*/? .{3} [^ ]+\.?$",
+    #     ana_val=subsection_ana,
+    # )
+    # for div in subsection_divs:
+    #     raise_div_element(div)
 
-    # # place content in section_divs
-    for div in section_divs:
-        expand_div_element(
-            div,
-            append_test=lambda next_element: bool(
-                next_element is not None
-                and next_element.xpath(f"not(@ana='{section_ana}')")
-            ),
-        )
+    # # # place content in section_divs
+    # for div in section_divs:
+    #     expand_div_element(
+    #         div,
+    #         append_test=lambda next_element: bool(
+    #             next_element is not None
+    #             and next_element.xpath(f"not(@ana='{section_ana}')")
+    #         ),
+    #     )
 
-    # # place content in sub_section_divs
-    for div in subsection_divs:
-        expand_div_element(
-            div,
-            append_test=lambda next_element: bool(
-                next_element is not None
-                and next_element.xpath(f"not(@ana='{subsection_ana}')")
-            ),
-        )
+    # # # place content in sub_section_divs
+    # for div in subsection_divs:
+    #     expand_div_element(
+    #         div,
+    #         append_test=lambda next_element: bool(
+    #             next_element is not None
+    #             and next_element.xpath(f"not(@ana='{subsection_ana}')")
+    #         ),
+    #     )
 
     # # place content in article divs
     for div in article_divs:
@@ -282,6 +282,7 @@ def create_new_xml_data(
     remove_useless_elements(doc)
     body = ET.tostring(body_node).decode("utf-8")
     body = body.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
+    body = body.replace('type=""', "")
     # # get faksimile
     faksimile = get_faksimile_element(doc, image_urls)
     # # get metadata
