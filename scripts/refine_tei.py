@@ -45,67 +45,6 @@ class PersonMetaData:
         self.role = role
         self.arche_role = arche_role
 
-
-class BvDocMetaData:
-    author_key = "has_author"
-    digitizing_agent_key = "has_digitizing_agent"
-    arche_role_2_string = {
-        digitizing_agent_key: "Digitalisierung (Fotografieren) des Archivmaterials"
-    }
-
-    def __init__(self, vals: dict):
-        #######################
-        # # so far unused:
-        # # # goobi_id
-        # # # data_set
-        #######################
-        # # identifier
-        self.id = vals["id"]
-        self.doc_title = vals["doc_title"]
-        self.bv_id = vals["bv_id"]
-        # # dates
-        self.written_date = vals["written_date"]
-        self.not_before = vals["not_before"]
-        self.not_after = vals["not_after"]
-        # # ms desc
-        self.type_of_manifestation = vals["type_of_manifestation"]["value"]
-        self.type_of_document = vals["type_of_document"]["value"]
-        self.has_description = vals["has_description"]
-        self.has_author = vals[self.author_key]
-        # # data identifier
-        self.shelfmark = vals["shelfmark"]
-        self.goobi_id = vals["goobi_id"]
-        self.transkribus_col_id = vals["transkribus_col_id"]
-        self.transkribus_doc_id = vals["transkribus_doc_id"]
-        self.has_digitizing_agent = vals["has_digitizing_agent"]
-        self.data_set = vals["data_set"]
-        self.filename = self.bv_id + ".xml"
-        # # processed_stuff
-        self.resp = []
-        self.authors = []
-        self.create_resp_list()
-        self.create_authors_list()
-
-    def create_authors_list(self):
-        for entity in self.has_author:
-            # entity_id = entity["id"]
-            entity_name = entity["value"]
-            self.authors.append(
-                PersonMetaData(entity_name, "Autor*in", self.author_key)
-            )
-
-    def create_resp_list(self):
-        for entity in self.has_digitizing_agent:
-            # entity_id = entity["id"]
-            entity_name = entity["value"]
-            arche_role = self.digitizing_agent_key
-            self.resp.append(
-                PersonMetaData(
-                    entity_name, self.arche_role_2_string[arche_role], arche_role
-                )
-            )
-
-
 def get_xml_doc(xml_file):
     """
     returns TeiReader, if parsing creates error -> dict
@@ -229,7 +168,7 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
 
 def create_new_xml_data(
     doc: TeiReader,
-    doc_metadata: BvDocMetaData,
+    doc_metadata: dict,
     image_urls: list,
 ):
     # # get body & filename
@@ -250,7 +189,7 @@ def create_new_xml_data(
     }
     xml_data = template.render(context)
     doc = TeiReader(xml_data)
-    doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata.filename))
+    doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata["bv_id"]+".xml"))
 
 
 def return_image_urls(mets_doc):
@@ -307,12 +246,11 @@ def load_metadata_from_dump():
             json_data = json.load(infile)
     meta_data_objs_by_transkribus_id = {}
     for row in json_data.values():
-        md_obj = BvDocMetaData(row)
-        if md_obj.transkribus_col_id not in meta_data_objs_by_transkribus_id:
-            meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id] = {}
-        meta_data_objs_by_transkribus_id[md_obj.transkribus_col_id][
-            md_obj.transkribus_doc_id
-        ] = md_obj
+        mets_dict = row
+        transcribus_col_id = mets_dict["transkribus_col_id"]
+        if transcribus_col_id not in meta_data_objs_by_transkribus_id:
+            meta_data_objs_by_transkribus_id[transcribus_col_id] = {}
+        meta_data_objs_by_transkribus_id[transcribus_col_id][mets_dict["transkribus_doc_id"]] = mets_dict
     return meta_data_objs_by_transkribus_id
 
 
@@ -332,7 +270,7 @@ def process_all_files():
                 # # important stuff happens here
                 # # organize data yet missing in the final doc
                 transkribus_doc_id = return_transkribus_doc_id(xml_file_path)
-                doc_metadata: BvDocMetaData = collection_metadata[transkribus_doc_id]
+                doc_metadata = collection_metadata[transkribus_doc_id]
                 mets_doc = return_mets_doc(
                     transkribus_doc_id, transkribus_collection_id
                 )

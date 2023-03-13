@@ -18,10 +18,10 @@
                         </placeName>
                     </address>
                 </funder>
-{% for person in doc_metadata.resp %}
+{% for person in doc_metadata.has_digitizing_agent %}
                 <respStmt>
-                    <resp>{{ person.role }}</resp>
-                    <persName role="acdh:{{ person.arche_role }}">{{ person.name }}</persName>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:has_digitizing_agent">{{ person.value }}</persName>
                 </respStmt>
 {% endfor %}
                 <respStmt>
@@ -50,26 +50,26 @@
                     </licence>
                 </availability>
                 <idno type="transkribus_doc">{{ doc_metadata.transkribus_doc_id }}</idno>
-                <idno type="transkribus_collection">{{ doc_metadata.transkribus_collection_id }}</idno>
+                <idno type="transkribus_collection">{{ doc_metadata.transkribus_col_id }}</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">{{ doc_metadata.shelfmark }}</idno>
+                        <idno type="archive">{{ doc_metadata.shelfmark or "" }}</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                        {% for author in doc_metadata.authors %}
-                            <author role="acdh:{{ author.arche_role }}">{{ author.name }}</author>
+                        {% for author in doc_metadata.has_author %}
+                            <author role="acdh:has_author">{{ author.value }}</author>
                         {% endfor %}
                         <title>{{ doc_metadata.doc_title }}</title>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="{{ doc_metadata.type_of_manifestation }}">
-                            <ab>{{ doc_metadata.has_description }}</ab>
+                        <objectDesc form="{{ doc_metadata.type_of_manifestation.value }}">
+                            <ab>{{ doc_metadata.has_description or "" }}</ab>
                         </objectDesc>
                         <handDesc>
                         <ab></ab>
@@ -89,7 +89,7 @@
       </profileDesc>
     </teiHeader>
     {{faksimile|safe}}
-    <text type="{{ doc_metadata.type_of_document }}">
+    <text type="{{ doc_metadata.type_of_document.value }}">
         {{ body|safe }}
     </text>
 </TEI>
