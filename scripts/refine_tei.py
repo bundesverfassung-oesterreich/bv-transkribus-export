@@ -181,8 +181,6 @@ def expand_div_element(section_div: ET._Element, append_test):
 
 
 def make_all_section_divs(doc):
-    section_ana = "section"
-    subsection_ana = "sub_section"
     article_ana = "article"
     # # make artikel-divs
     article_divs = seed_div_elements(
@@ -191,49 +189,9 @@ def make_all_section_divs(doc):
         regex_test=r"^Art\.?( *$| .{0,10}$)",
         ana_val=article_ana,
     )
+    # # move created divs to child-level of main div
     for div in article_divs:
         raise_div_element(div)
-
-    # # make section-divs
-    section_divs = seed_div_elements(
-        doc,
-        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'nitt') or contains(., 'estimmung')]",
-        regex_test="^(?:[A-Za-zäöü]{3,}ter|[A-Z]{1,3}\.) Ab.{1,4}nitt[. ]*$|[aA]llgemeine [bB]estimmungen.{,4}$",
-        ana_val=section_ana,
-    )
-    for div in section_divs:
-        raise_div_element(div)
-
-    # # make subsection-divssubsection
-    subsection_divs = seed_div_elements(
-        doc,
-        #xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or contains(.,'A') or contains(.,'B') or contains(.,'C')]",
-        xpath_expr=r"//tei:body//tei:lb[count(following-sibling::*)<2]/following-sibling::text()[contains(.,'on de') or starts-with(.,'A') or starts-with(.,'B') or starts-with(.,'C')]",
-        regex_test=r"^[A-Z]{1}[/).]* [vV]on de.{5,30}$|^[A-C]\.*/? .{3} [^ ]+\.?$",
-        ana_val=subsection_ana,
-    )
-    for div in subsection_divs:
-        raise_div_element(div)
-
-    # # place content in section_divs
-    for div in section_divs:
-        expand_div_element(
-            div,
-            append_test=lambda next_element: bool(
-                next_element is not None
-                and next_element.xpath(f"not(@ana='{section_ana}')")
-            ),
-        )
-
-    # # place content in sub_section_divs
-    for div in subsection_divs:
-        expand_div_element(
-            div,
-            append_test=lambda next_element: bool(
-                next_element is not None
-                and next_element.xpath(f"not(@ana='{subsection_ana}')")
-            ),
-        )
 
     # # place content in article divs
     for div in article_divs:
@@ -390,8 +348,7 @@ if __name__ == "__main__":
     shutil.rmtree(TEI_DIR, ignore_errors=True)
     os.makedirs(TEI_DIR, exist_ok=True)
     # # load / process all unprocessed files
-    malformed_xml_docs = []
-    malformed_xml_docs += process_all_files()
+    malformed_xml_docs = process_all_files()
     log_nonvalid_files(malformed_xml_docs)
     if file_rename_errors != 0:
         print(
