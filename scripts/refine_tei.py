@@ -8,7 +8,6 @@ import jinja2
 import csv
 import json
 from acdh_tei_pyutils.tei import TeiReader
-from slugify import slugify
 
 
 TEI_DIR = "./editions"
@@ -80,7 +79,7 @@ class BvDocMetaData:
         self.transkribus_doc_id = vals["transkribus_doc_id"]
         self.has_digitizing_agent = vals["has_digitizing_agent"]
         self.data_set = vals["data_set"]
-        self.filename = slugify(self.bv_id) + ".xml"
+        self.filename = self.bv_id + ".xml"
         # # processed_stuff
         self.resp = []
         self.authors = []
@@ -204,7 +203,7 @@ def make_all_section_divs(doc):
 
 
 def remove_useless_atributes(doc: TeiReader):
-    elements = doc.any_xpath(".//*[local-name()='lb' or local-name()='p']")
+    elements = doc.any_xpath(".//*[local-name()='lb' or local-name()='p' or local-name()='head']")
     for element in elements:
         element.attrib.clear()
 
@@ -221,7 +220,7 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
     for graphic_element in doc.any_xpath(".//tei:graphic"):
         graphic_element.attrib["url"] = image_urls.pop(0)
     for zone_element in doc.any_xpath(
-        ".//tei:facsimile/tei:surface//tei:zone[not(@subtype='paragraph')]"
+        ".//tei:facsimile/tei:surface//tei:zone"
     ):
         zone_element.getparent().remove(zone_element)
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
