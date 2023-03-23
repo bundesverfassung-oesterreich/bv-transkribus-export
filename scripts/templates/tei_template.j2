@@ -21,7 +21,7 @@
 {% for person in doc_metadata.has_digitizing_agent %}
                 <respStmt>
                     <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
-                    <persName role="acdh:has_digitizing_agent">{{ person.value }}</persName>
+                    <persName role="acdh:hasDigitisingAgent">{{ person.value }}</persName>
                 </respStmt>
 {% endfor %}
                 <respStmt>
@@ -62,7 +62,7 @@
                     <msContents>
                         <msItem>
                         {% for author in doc_metadata.has_author %}
-                            <author role="acdh:has_author">{{ author.value }}</author>
+                            <author role="acdh:hasAuthor">{{ author.value }}</author>
                         {% endfor %}
                         <title>{{ doc_metadata.doc_title }}</title>
                         </msItem>
