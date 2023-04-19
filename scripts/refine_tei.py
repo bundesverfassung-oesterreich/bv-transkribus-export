@@ -13,18 +13,17 @@ from acdh_tei_pyutils.tei import TeiReader
 TEI_DIR = "./editions"
 TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
+TEMPLATE_PATH = "./scripts/templates"
 doc_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/document.json"
 project_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/project_data.json"
 doc_local_baserow_dump = TMP_DIR + "document.json"
 project_local_baserow_dump = TMP_DIR + "project_data.json"
-
-# # setup metadata from json
 PROJECT_MD = {}
-with open(project_local_baserow_dump, "r", encoding="utf-8") as json_metadata_file:
-    PROJECT_MD = json.load(json_metadata_file)["1"]
+
+
 
 # # load template
-templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
+templateLoader = jinja2.FileSystemLoader(searchpath=TEMPLATE_PATH)
 templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
 )
@@ -224,7 +223,6 @@ def return_col_id_from_mets_doc(doc: TeiReader):
 
 def fetch_metadata_dump(url, local_filepath):
     import requests
-
     results = requests.get(url)
     json_result = results.json()
     with open(local_filepath, "w") as outfile:
@@ -255,7 +253,7 @@ def load_metadata_from_dump():
 
 
 def process_all_files():
-    # # load metadata
+    # # load metadata from baserow
     metadata = load_metadata_from_dump()
     for transkribus_collection_id, collection_metadata in metadata.items():
         # # load sourcefiles from fetch / transform job
@@ -270,17 +268,29 @@ def process_all_files():
                 # # important stuff happens here
                 # # organize data yet missing in the final doc
                 transkribus_doc_id = return_transkribus_doc_id(xml_file_path)
-                doc_metadata = collection_metadata[transkribus_doc_id]
-                mets_doc = return_mets_doc(
-                    transkribus_doc_id, transkribus_collection_id
-                )
-                image_urls = return_image_urls(mets_doc)
-                # # change the doc / write data to it
-                create_new_xml_data(doc, doc_metadata, image_urls)
+                if transkribus_doc_id not in collection_metadata:
+                    print(f"No metadata found for transkribus-doc-id '{transkribus_doc_id}'.")            
+                else:
+                    doc_metadata = collection_metadata[transkribus_doc_id]
+                    mets_doc = return_mets_doc(
+                        transkribus_doc_id, transkribus_collection_id
+                    )
+                    image_urls = return_image_urls(mets_doc)
+                    # # change the doc / write data to it
+                    create_new_xml_data(doc, doc_metadata, image_urls)
     return malformed_xml_docs
 
 
 if __name__ == "__main__":
+    # # the following is needed, cause you never know if this stuff ist there.
+    if os.path.isfile(project_local_baserow_dump):
+        with open(project_local_baserow_dump, "r", encoding="utf-8") as json_metadata_file:
+            PROJECT_MD = json.load(json_metadata_file)["1"]
+    else:
+        PROJECT_MD = fetch_metadata_dump(
+            url=doc_base_row_dump_url,
+            local_filepath=doc_local_baserow_dump
+        )
     # # clear directory for new export
     shutil.rmtree(TEI_DIR, ignore_errors=True)
     os.makedirs(TEI_DIR, exist_ok=True)

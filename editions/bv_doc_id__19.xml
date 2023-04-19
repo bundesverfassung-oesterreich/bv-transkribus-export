@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__19.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Großdeutsch Sonderdruck</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1379077</idno>
+                <idno type="transkribus_collection">195363</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Großdeutsche Volkspartei</author>
+                        <title>Großdeutsch Sonderdruck</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="">
+                            <ab>Großdeutsch (Titel des Dokuments: "Entwurf einer österreichischen Verfassung beschlossen von den am 18. und 19. April 1920 in Linz versammelten Vertretern der nationalen Partei- und Landes-Organisationen"), Sonderdruck, Zustand gut, wenige handschriftliche Ergänzungen, Anstreichungen</ab>
+                        </objectDesc>
+                        <handDesc>
+                        <ab/>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-04-20" to="1920-05-18">18. Mai 1920 (aber vor dem 20. April 1920 entstanden)</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab/>
+         </abstract>
+         <creation><date from="1920-04-20" to="1920-05-18">18. Mai 1920 (aber vor dem 20. April 1920 entstanden)</date></creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_1"><graphic url="https://files.transkribus.eu/Get?id=GVTZDXVTCDQYSRRDMATPKWKK&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://files.transkribus.eu/Get?id=ZBFEWFFNYQTFDFLYFUHYYVCA&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://files.transkribus.eu/Get?id=WSQIEIAGBKWWCOIKHRNKVBVQ&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://files.transkribus.eu/Get?id=KWSOSSUCDEAUGWASZZKUIVMZ&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://files.transkribus.eu/Get?id=ODNIEYAMKMLUVGYOGRZLKSYM&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://files.transkribus.eu/Get?id=QPSPQXKGQWTXSXLJXAAEHDEF&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://files.transkribus.eu/Get?id=ITVAGFPVSELLZLINSXINSSHT&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://files.transkribus.eu/Get?id=PPAKFHTFNHAHSRJHAJQAZDKJ&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://files.transkribus.eu/Get?id=RMBDZPNHUCUCNQERHSHDMAWI&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10"><graphic url="https://files.transkribus.eu/Get?id=CPJWPPSTLZCCQYATTYELTNAQ&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11"><graphic url="https://files.transkribus.eu/Get?id=PLJABSNEHILOYCXJLRWPJZFR&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12"><graphic url="https://files.transkribus.eu/Get?id=WUCACSKRAWGAJLDCKBSYZBWH&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13"><graphic url="https://files.transkribus.eu/Get?id=QDISEVBRBXRRRJNPVTUIKPIF&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14"><graphic url="https://files.transkribus.eu/Get?id=PFPDWCOZNJLVTKGZHLYJTCYA&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15"><graphic url="https://files.transkribus.eu/Get?id=BYIWVGEPOUTCOXLNOUMPXUFY&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_16"><graphic url="https://files.transkribus.eu/Get?id=ZAFOHNMEFELFTQTXJECXRCHD&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_17"><graphic url="https://files.transkribus.eu/Get?id=NUMSPKLXWUVVIJBGLDNTOBFU&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_18"><graphic url="https://files.transkribus.eu/Get?id=YKFNXZUOFSBGSTDBBISRFDAM&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_19"><graphic url="https://files.transkribus.eu/Get?id=PQABQLRJLMWEMTQFNRETQHTR&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_20"><graphic url="https://files.transkribus.eu/Get?id=NGOVBQVCFAWRMGEMKNCIHKOC&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_21"><graphic url="https://files.transkribus.eu/Get?id=PLFEOJKYHBKYDXTUGZHMZPQE&amp;fileType=view" width="3840px" height="5760px"/></surface></facsimile>
+    <text type="">
+        <body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><pb facs="#facs_4" n="4" xml:id="img_0004"/><pb facs="#facs_5" n="5" xml:id="img_0005"/><pb facs="#facs_6" n="6" xml:id="img_0006"/><pb facs="#facs_7" n="7" xml:id="img_0007"/><pb facs="#facs_8" n="8" xml:id="img_0008"/><pb facs="#facs_9" n="9" xml:id="img_0009"/><pb facs="#facs_10" n="10" xml:id="img_0010"/><pb facs="#facs_11" n="11" xml:id="img_0011"/><pb facs="#facs_12" n="12" xml:id="img_0012"/><pb facs="#facs_13" n="13" xml:id="img_0013"/><pb facs="#facs_14" n="14" xml:id="img_0014"/><pb facs="#facs_15" n="15" xml:id="img_0015"/><pb facs="#facs_16" n="16" xml:id="img_0016"/><pb facs="#facs_17" n="17" xml:id="img_0017"/><pb facs="#facs_18" n="18" xml:id="img_0018"/><pb facs="#facs_19" n="19" xml:id="img_0019"/><pb facs="#facs_20" n="20" xml:id="img_0020"/><pb facs="#facs_21" n="21" xml:id="img_0021"/></div></body>
+    </text>
+</TEI>

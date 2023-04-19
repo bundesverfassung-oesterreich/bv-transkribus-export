@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__18.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Evidenzexemplar handschriftlich</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1379076</idno>
+                <idno type="transkribus_collection">195363</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Länderkonferenz</author>
+                        <title>Evidenzexemplar handschriftlich</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="">
+                            <ab>Evidenzexemplar (basierend auf Mayr II -&gt; Titel des Dokuments: "Zweite Fassung Vorentwurf einer Bundesstaatsverfassung"). Parteienstandpunkte händisch eingetragen, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift und roter Tinte</ab>
+                        </objectDesc>
+                        <handDesc>
+                        <ab/>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-04-24" to="1920-07-08">Zwischen 24. April 1920 und 8. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab/>
+         </abstract>
+         <creation><date from="1920-04-24" to="1920-07-08">Zwischen 24. April 1920 und 8. Juli 1920</date></creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_1"><graphic url="https://files.transkribus.eu/Get?id=NXTWBSCBPRNEFWFHMORMZKXB&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://files.transkribus.eu/Get?id=INLNBFHYIDUBOHYCURCPSVNT&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://files.transkribus.eu/Get?id=EPMXCBJQEQYXUZFALUGUWAPL&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://files.transkribus.eu/Get?id=VZHEFFDRGPKCDRPWIVGDNSSU&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://files.transkribus.eu/Get?id=FMQUVZFBTJBLLVRSLJXAEGCH&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://files.transkribus.eu/Get?id=ZQYNUDQAYXLTZVHRVGRSOFBL&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://files.transkribus.eu/Get?id=OAGVEMZOYDYSHYTLUEOTMGDV&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://files.transkribus.eu/Get?id=NTQMOLIURNVCRFQTYLTIYSHR&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://files.transkribus.eu/Get?id=EYBOCJZJCOXJHIGKSYXSKLAR&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10"><graphic url="https://files.transkribus.eu/Get?id=GIKBZFWTJCSQKLPKTQTNKDFL&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11"><graphic url="https://files.transkribus.eu/Get?id=YDBQKCDPZFXTYKLMGVNLHVNZ&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12"><graphic url="https://files.transkribus.eu/Get?id=QNBHRYBJFIHBZXFBWAXUOMIO&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13"><graphic url="https://files.transkribus.eu/Get?id=NXDHMFYDXFQADHGJYVBXKEWF&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14"><graphic url="https://files.transkribus.eu/Get?id=VWNWJEHYWOHKDORUGRDIWVIK&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15"><graphic url="https://files.transkribus.eu/Get?id=TFUHGXSHYPNDHBDDYGYEOBPD&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_16"><graphic url="https://files.transkribus.eu/Get?id=GNJLYLQOZSKWYHLPXEAGHBLF&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_17"><graphic url="https://files.transkribus.eu/Get?id=SBVNZIZLTDUTLTNLPQJAYYEI&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_18"><graphic url="https://files.transkribus.eu/Get?id=WQWGPWVJADLMDGHWQJBKADJM&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_19"><graphic url="https://files.transkribus.eu/Get?id=UBVLKBWOGNGODNQJGXBRZZNL&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_20"><graphic url="https://files.transkribus.eu/Get?id=XUUZFQLQAAOPCNZHFIOPUIHH&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_21"><graphic url="https://files.transkribus.eu/Get?id=NDGTOWSJYEIDXDMEBQSCZFDE&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_22"><graphic url="https://files.transkribus.eu/Get?id=NDLMROPKWSRUKRASABTDVYRV&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_23"><graphic url="https://files.transkribus.eu/Get?id=OXVPKXYFKAKXEWLGIHRYVPKE&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_24"><graphic url="https://files.transkribus.eu/Get?id=VOGCYRSUAQGPAIGEYCKSOZLP&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_25"><graphic url="https://files.transkribus.eu/Get?id=SHMATLMUAWNYNNDPMYSUBJIC&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_26"><graphic url="https://files.transkribus.eu/Get?id=ODFCCMPLMCBVUHZABFHKTZZX&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_27"><graphic url="https://files.transkribus.eu/Get?id=NDJVGYENTAIQYDUAPBLZYMCL&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_28"><graphic url="https://files.transkribus.eu/Get?id=JMGBOLXPNCFEJCKTWZVZBPPS&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_29"><graphic url="https://files.transkribus.eu/Get?id=WKXWQMGNVFRAODQVYQWURKFA&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_30"><graphic url="https://files.transkribus.eu/Get?id=CWGVJHQQHBMOKXRDHZONISTY&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_31"><graphic url="https://files.transkribus.eu/Get?id=KCVSSIDPOIYVSEYMEGLXOPBX&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_32"><graphic url="https://files.transkribus.eu/Get?id=HDAWKHKXUPFBSTZFHEBKHZEH&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_33"><graphic url="https://files.transkribus.eu/Get?id=ITRBHTNQUZLBUGKIKBDEQZQT&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_34"><graphic url="https://files.transkribus.eu/Get?id=AUSONOZXOKYUHBHCATJCEJZP&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_35"><graphic url="https://files.transkribus.eu/Get?id=KQHKPRBMOEINMPTNZDIHZTAX&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_36"><graphic url="https://files.transkribus.eu/Get?id=XLJKCKKRMAHUUWDETGDPCBXX&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_37"><graphic url="https://files.transkribus.eu/Get?id=KJYXJEJSJHRGPXIFCTKPOJIV&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_38"><graphic url="https://files.transkribus.eu/Get?id=GIUGXEWMWIQNIQYKYUXFXCBR&amp;fileType=view" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_39"><graphic url="https://files.transkribus.eu/Get?id=DTFRWJSRSHJOKLJTPXLGARIK&amp;fileType=view" width="3840px" height="5760px"/></surface></facsimile>
+    <text type="">
+        <body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><pb facs="#facs_4" n="4" xml:id="img_0004"/><pb facs="#facs_5" n="5" xml:id="img_0005"/><pb facs="#facs_6" n="6" xml:id="img_0006"/><pb facs="#facs_7" n="7" xml:id="img_0007"/><pb facs="#facs_8" n="8" xml:id="img_0008"/><pb facs="#facs_9" n="9" xml:id="img_0009"/><pb facs="#facs_10" n="10" xml:id="img_0010"/><pb facs="#facs_11" n="11" xml:id="img_0011"/><pb facs="#facs_12" n="12" xml:id="img_0012"/><pb facs="#facs_13" n="13" xml:id="img_0013"/><pb facs="#facs_14" n="14" xml:id="img_0014"/><pb facs="#facs_15" n="15" xml:id="img_0015"/><pb facs="#facs_16" n="16" xml:id="img_0016"/><pb facs="#facs_17" n="17" xml:id="img_0017"/><pb facs="#facs_18" n="18" xml:id="img_0018"/><pb facs="#facs_19" n="19" xml:id="img_0019"/><pb facs="#facs_20" n="20" xml:id="img_0020"/><pb facs="#facs_21" n="21" xml:id="img_0021"/><pb facs="#facs_22" n="22" xml:id="img_0022"/><pb facs="#facs_23" n="23" xml:id="img_0023"/><pb facs="#facs_24" n="24" xml:id="img_0024"/><pb facs="#facs_25" n="25" xml:id="img_0025"/><pb facs="#facs_26" n="26" xml:id="img_0026"/><pb facs="#facs_27" n="27" xml:id="img_0027"/><pb facs="#facs_28" n="28" xml:id="img_0028"/><pb facs="#facs_29" n="29" xml:id="img_0029"/><pb facs="#facs_30" n="30" xml:id="img_0030"/><pb facs="#facs_31" n="31" xml:id="img_0031"/><pb facs="#facs_32" n="32" xml:id="img_0032"/><pb facs="#facs_33" n="33" xml:id="img_0033"/><pb facs="#facs_34" n="34" xml:id="img_0034"/><pb facs="#facs_35" n="35" xml:id="img_0035"/><pb facs="#facs_36" n="36" xml:id="img_0036"/><pb facs="#facs_37" n="37" xml:id="img_0037"/><pb facs="#facs_38" n="38" xml:id="img_0038"/><pb facs="#facs_39" n="39" xml:id="img_0039"/></div></body>
+    </text>
+</TEI>
