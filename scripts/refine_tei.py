@@ -247,11 +247,12 @@ def load_metadata_from_dump():
     for row in json_data.values():
         mets_dict = row
         transcribus_col_id = mets_dict["transkribus_col_id"]
-        if transcribus_col_id not in meta_data_objs_by_transkribus_id:
-            meta_data_objs_by_transkribus_id[transcribus_col_id] = {}
-        meta_data_objs_by_transkribus_id[transcribus_col_id][
-            mets_dict["transkribus_doc_id"]
-        ] = mets_dict
+        if transcribus_col_id and transcribus_col_id.strip():
+            if transcribus_col_id not in meta_data_objs_by_transkribus_id:
+                meta_data_objs_by_transkribus_id[transcribus_col_id] = {}
+            meta_data_objs_by_transkribus_id[transcribus_col_id][
+                mets_dict["transkribus_doc_id"]
+            ] = mets_dict
     return meta_data_objs_by_transkribus_id
 
 
