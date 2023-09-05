@@ -1,5 +1,5 @@
 # bv-transkribus-export-play
-play repo to export data from transkribus
+repo to export data from transkribus
 
 
 ## install
