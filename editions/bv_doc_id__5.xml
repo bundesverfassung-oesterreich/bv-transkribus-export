@@ -1,0 +1,2671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Kelsen Entwurf V</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529203</idno>
+                <idno type="transkribus_collection">195363</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, Büro Seitz, Karton 7</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Kelsen, Hans</author>
+                        <title>Kelsen Entwurf V</title>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="">
+                            <ab>Kelsen V (Titel des Dokuments "Entwurf V"), Zustand gut, keine Anmerkungen, 198 Artikel</ab>
+                        </objectDesc>
+                        <handDesc>
+                        <ab/>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1919-05-01" to="1919-11-30">Zwischen Mai und November 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <ab/>
+         </abstract>
+         <creation><date from="1919-05-01" to="1919-11-30">Zwischen Mai und November 1919</date></creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3093" lry="4978" xml:id="facs_1"><graphic url="https://files.transkribus.eu/Get?id=WUSRHQFINKBUYENGPMSLWIDD&amp;fileType=view" width="3093px" height="4978px"/></surface><surface ulx="0" uly="0" lrx="3106" lry="4988" xml:id="facs_2"><graphic url="https://files.transkribus.eu/Get?id=OBACZJXNWBZMUAVTHVEDGTQC&amp;fileType=view" width="3106px" height="4988px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="5011" xml:id="facs_3"><graphic url="https://files.transkribus.eu/Get?id=CYIZYJKFMTOHDITDENEIAQVW&amp;fileType=view" width="3101px" height="5011px"/></surface><surface ulx="0" uly="0" lrx="3092" lry="4940" xml:id="facs_4"><graphic url="https://files.transkribus.eu/Get?id=ZNFCBDKSFYZBAREHDTKZCHTB&amp;fileType=view" width="3092px" height="4940px"/></surface><surface ulx="0" uly="0" lrx="3112" lry="4981" xml:id="facs_5"><graphic url="https://files.transkribus.eu/Get?id=SYMHFSURIGQJURPRADJFSJSR&amp;fileType=view" width="3112px" height="4981px"/></surface><surface ulx="0" uly="0" lrx="3109" lry="4991" xml:id="facs_6"><graphic url="https://files.transkribus.eu/Get?id=CNIGLHMVQSUEPJJKPEFBCAHV&amp;fileType=view" width="3109px" height="4991px"/></surface><surface ulx="0" uly="0" lrx="3100" lry="4986" xml:id="facs_7"><graphic url="https://files.transkribus.eu/Get?id=LDBVGPKLGQDZSPIVYOARSDFA&amp;fileType=view" width="3100px" height="4986px"/></surface><surface ulx="0" uly="0" lrx="3108" lry="4979" xml:id="facs_8"><graphic url="https://files.transkribus.eu/Get?id=GSODTRFCYOTQMLEUFATDJJYC&amp;fileType=view" width="3108px" height="4979px"/></surface><surface ulx="0" uly="0" lrx="3107" lry="5011" xml:id="facs_9"><graphic url="https://files.transkribus.eu/Get?id=ZUAWDLTLQXLOJUPHAMMNAVEP&amp;fileType=view" width="3107px" height="5011px"/></surface><surface ulx="0" uly="0" lrx="3106" lry="4982" xml:id="facs_10"><graphic url="https://files.transkribus.eu/Get?id=DEPOTICZSHGMUTCARHMTMAIP&amp;fileType=view" width="3106px" height="4982px"/></surface><surface ulx="0" uly="0" lrx="3123" lry="5029" xml:id="facs_11"><graphic url="https://files.transkribus.eu/Get?id=ZUWSRUQNOFCYVIQUHRDMROQH&amp;fileType=view" width="3123px" height="5029px"/></surface><surface ulx="0" uly="0" lrx="3117" lry="5058" xml:id="facs_12"><graphic url="https://files.transkribus.eu/Get?id=DDDCWCERCEMSTMUPBZHVOKEA&amp;fileType=view" width="3117px" height="5058px"/></surface><surface ulx="0" uly="0" lrx="3117" lry="5004" xml:id="facs_13"><graphic url="https://files.transkribus.eu/Get?id=BHDOYKQHNZWGINIMJYLRNBVF&amp;fileType=view" width="3117px" height="5004px"/></surface><surface ulx="0" uly="0" lrx="3121" lry="5020" xml:id="facs_14"><graphic url="https://files.transkribus.eu/Get?id=IPCCWUANCJYBQDVQSFOFCBYV&amp;fileType=view" width="3121px" height="5020px"/></surface><surface ulx="0" uly="0" lrx="3113" lry="4984" xml:id="facs_15"><graphic url="https://files.transkribus.eu/Get?id=QVRKXMGZKKMOHHUDHWVBMFKQ&amp;fileType=view" width="3113px" height="4984px"/></surface><surface ulx="0" uly="0" lrx="3115" lry="5001" xml:id="facs_16"><graphic url="https://files.transkribus.eu/Get?id=AXSHPQCBCDZQXFTUUXAOPGFU&amp;fileType=view" width="3115px" height="5001px"/></surface><surface ulx="0" uly="0" lrx="3107" lry="4950" xml:id="facs_17"><graphic url="https://files.transkribus.eu/Get?id=NODYXUEQIXFNQZHQIWOTHPLF&amp;fileType=view" width="3107px" height="4950px"/></surface><surface ulx="0" uly="0" lrx="3103" lry="4957" xml:id="facs_18"><graphic url="https://files.transkribus.eu/Get?id=ANWHTRCIVEDEEVBZQBDBNDMU&amp;fileType=view" width="3103px" height="4957px"/></surface><surface ulx="0" uly="0" lrx="3141" lry="4995" xml:id="facs_19"><graphic url="https://files.transkribus.eu/Get?id=UIAAISPDPUKRGFLDEPMSADDB&amp;fileType=view" width="3141px" height="4995px"/></surface><surface ulx="0" uly="0" lrx="3141" lry="4991" xml:id="facs_20"><graphic url="https://files.transkribus.eu/Get?id=FJQCNUCJLNJUJSIWXPPIKQPT&amp;fileType=view" width="3141px" height="4991px"/></surface><surface ulx="0" uly="0" lrx="3130" lry="5024" xml:id="facs_21"><graphic url="https://files.transkribus.eu/Get?id=QMPTMEJYKWNOCAGIWPBXUDEE&amp;fileType=view" width="3130px" height="5024px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="4974" xml:id="facs_22"><graphic url="https://files.transkribus.eu/Get?id=FWQYKXBEVVKCXEFZCPNOLTAU&amp;fileType=view" width="3101px" height="4974px"/></surface><surface ulx="0" uly="0" lrx="3103" lry="4962" xml:id="facs_23"><graphic url="https://files.transkribus.eu/Get?id=XPAOTFJXHGHHYESDTVATZJLK&amp;fileType=view" width="3103px" height="4962px"/></surface><surface ulx="0" uly="0" lrx="3103" lry="4981" xml:id="facs_24"><graphic url="https://files.transkribus.eu/Get?id=GGIHMRTROXCVYGYPCFXKZAXK&amp;fileType=view" width="3103px" height="4981px"/></surface><surface ulx="0" uly="0" lrx="3106" lry="4984" xml:id="facs_25"><graphic url="https://files.transkribus.eu/Get?id=TZFRNYVYTKRGISKLIFRVTLIO&amp;fileType=view" width="3106px" height="4984px"/></surface><surface ulx="0" uly="0" lrx="3113" lry="5007" xml:id="facs_26"><graphic url="https://files.transkribus.eu/Get?id=BUWPJNQBERPAHRJQOILWVZUZ&amp;fileType=view" width="3113px" height="5007px"/></surface><surface ulx="0" uly="0" lrx="3115" lry="4990" xml:id="facs_27"><graphic url="https://files.transkribus.eu/Get?id=NKGEQPXWOSNZPLEIKLEECOCK&amp;fileType=view" width="3115px" height="4990px"/></surface><surface ulx="0" uly="0" lrx="3136" lry="4996" xml:id="facs_28"><graphic url="https://files.transkribus.eu/Get?id=SENEABZKEFQGZXINYWEGDTBS&amp;fileType=view" width="3136px" height="4996px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="4993" xml:id="facs_29"><graphic url="https://files.transkribus.eu/Get?id=RPLDJQPTEKOHPGRHPZQVLYUQ&amp;fileType=view" width="3110px" height="4993px"/></surface><surface ulx="0" uly="0" lrx="3107" lry="4976" xml:id="facs_30"><graphic url="https://files.transkribus.eu/Get?id=OJUIRSEBSIPZNHWWHSTAOTEW&amp;fileType=view" width="3107px" height="4976px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="4989" xml:id="facs_31"><graphic url="https://files.transkribus.eu/Get?id=GJMCHQVHNECPUPEMIPDUCHWJ&amp;fileType=view" width="3101px" height="4989px"/></surface><surface ulx="0" uly="0" lrx="3093" lry="4969" xml:id="facs_32"><graphic url="https://files.transkribus.eu/Get?id=VCFXOQBYDRWKEKMALKUZBXXP&amp;fileType=view" width="3093px" height="4969px"/></surface><surface ulx="0" uly="0" lrx="3098" lry="4961" xml:id="facs_33"><graphic url="https://files.transkribus.eu/Get?id=SZHHFBGAUOURWHLQMOJUBXFP&amp;fileType=view" width="3098px" height="4961px"/></surface><surface ulx="0" uly="0" lrx="3100" lry="4965" xml:id="facs_34"><graphic url="https://files.transkribus.eu/Get?id=CFJYEWLLUXPIANHWLJKPXPCL&amp;fileType=view" width="3100px" height="4965px"/></surface><surface ulx="0" uly="0" lrx="3107" lry="4968" xml:id="facs_35"><graphic url="https://files.transkribus.eu/Get?id=VFOPBKMJXUNBPQUAWHNEXDVJ&amp;fileType=view" width="3107px" height="4968px"/></surface><surface ulx="0" uly="0" lrx="3105" lry="4972" xml:id="facs_36"><graphic url="https://files.transkribus.eu/Get?id=YBICDZSICIKCGWEQOFFYVNKL&amp;fileType=view" width="3105px" height="4972px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="4999" xml:id="facs_37"><graphic url="https://files.transkribus.eu/Get?id=DCDKBWLMLBNYHSFUCLWLDHLF&amp;fileType=view" width="3110px" height="4999px"/></surface><surface ulx="0" uly="0" lrx="3121" lry="5002" xml:id="facs_38"><graphic url="https://files.transkribus.eu/Get?id=OZCFELVZZUMCEXKMZNKTTOGG&amp;fileType=view" width="3121px" height="5002px"/></surface><surface ulx="0" uly="0" lrx="3146" lry="5011" xml:id="facs_39"><graphic url="https://files.transkribus.eu/Get?id=WLMMCAZGKBKNFDTTCTYMJKLS&amp;fileType=view" width="3146px" height="5011px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="5004" xml:id="facs_40"><graphic url="https://files.transkribus.eu/Get?id=FAPSZBOAGRKHANNRYPUKOZOR&amp;fileType=view" width="3147px" height="5004px"/></surface><surface ulx="0" uly="0" lrx="3102" lry="4958" xml:id="facs_41"><graphic url="https://files.transkribus.eu/Get?id=LBQJVKTIDVWSDJHXAUOOMSTM&amp;fileType=view" width="3102px" height="4958px"/></surface><surface ulx="0" uly="0" lrx="3096" lry="4962" xml:id="facs_42"><graphic url="https://files.transkribus.eu/Get?id=PYNXSJUNGJSUEIQVOKVFNGHM&amp;fileType=view" width="3096px" height="4962px"/></surface><surface ulx="0" uly="0" lrx="3101" lry="4955" xml:id="facs_43"><graphic url="https://files.transkribus.eu/Get?id=YPJFBVANFLJFSODAOUZJXJND&amp;fileType=view" width="3101px" height="4955px"/></surface><surface ulx="0" uly="0" lrx="3104" lry="4946" xml:id="facs_44"><graphic url="https://files.transkribus.eu/Get?id=UUHAURJGHKWITSGFCOXTKDPJ&amp;fileType=view" width="3104px" height="4946px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="4952" xml:id="facs_45"><graphic url="https://files.transkribus.eu/Get?id=QRYGZSCGFJDVQMVXLWBTDJDM&amp;fileType=view" width="3110px" height="4952px"/></surface><surface ulx="0" uly="0" lrx="3095" lry="4954" xml:id="facs_46"><graphic url="https://files.transkribus.eu/Get?id=PSMDLXIMDRXOGNIDCKPPIEDI&amp;fileType=view" width="3095px" height="4954px"/></surface><surface ulx="0" uly="0" lrx="3099" lry="4969" xml:id="facs_47"><graphic url="https://files.transkribus.eu/Get?id=DICMFIYVNGATECSJXSEHKNQZ&amp;fileType=view" width="3099px" height="4969px"/></surface><surface ulx="0" uly="0" lrx="3103" lry="4944" xml:id="facs_48"><graphic url="https://files.transkribus.eu/Get?id=KDHPVQFPRGAJNKQQLSKFYEQJ&amp;fileType=view" width="3103px" height="4944px"/></surface><surface ulx="0" uly="0" lrx="3109" lry="4950" xml:id="facs_49"><graphic url="https://files.transkribus.eu/Get?id=VHCZBRURRJQJEASVPQLOLXFU&amp;fileType=view" width="3109px" height="4950px"/></surface><surface ulx="0" uly="0" lrx="3100" lry="4984" xml:id="facs_50"><graphic url="https://files.transkribus.eu/Get?id=ZNOFAMXOSPKMQHFDHNIVPMOM&amp;fileType=view" width="3100px" height="4984px"/></surface><surface ulx="0" uly="0" lrx="3096" lry="4974" xml:id="facs_51"><graphic url="https://files.transkribus.eu/Get?id=FCJVHWCSDXNRTLRLTGUGEBFF&amp;fileType=view" width="3096px" height="4974px"/></surface><surface ulx="0" uly="0" lrx="3100" lry="4978" xml:id="facs_52"><graphic url="https://files.transkribus.eu/Get?id=TATPWNPINKASZKFTLSHUZZXT&amp;fileType=view" width="3100px" height="4978px"/></surface><surface ulx="0" uly="0" lrx="3113" lry="4995" xml:id="facs_53"><graphic url="https://files.transkribus.eu/Get?id=ECCIRQGECYPOKFWGEYRYOIHE&amp;fileType=view" width="3113px" height="4995px"/></surface><surface ulx="0" uly="0" lrx="3108" lry="5000" xml:id="facs_54"><graphic url="https://files.transkribus.eu/Get?id=FZARXOGCRYSXAFOORPVXYFYO&amp;fileType=view" width="3108px" height="5000px"/></surface><surface ulx="0" uly="0" lrx="3142" lry="5011" xml:id="facs_55"><graphic url="https://files.transkribus.eu/Get?id=PVLBPZJFUEIEKJOVSRARLWFY&amp;fileType=view" width="3142px" height="5011px"/></surface><surface ulx="0" uly="0" lrx="3130" lry="4999" xml:id="facs_56"><graphic url="https://files.transkribus.eu/Get?id=NLZMQWANRYXGZVLLLTRGOGPP&amp;fileType=view" width="3130px" height="4999px"/></surface><surface ulx="0" uly="0" lrx="3128" lry="5011" xml:id="facs_57"><graphic url="https://files.transkribus.eu/Get?id=AMDQBZQGVRNIBHLGSHDGMMNN&amp;fileType=view" width="3128px" height="5011px"/></surface><surface ulx="0" uly="0" lrx="3110" lry="5012" xml:id="facs_58"><graphic url="https://files.transkribus.eu/Get?id=CLYLNOCVPEMTTDSFQCLQOJJK&amp;fileType=view" width="3110px" height="5012px"/></surface><surface ulx="0" uly="0" lrx="3126" lry="5039" xml:id="facs_59"><graphic url="https://files.transkribus.eu/Get?id=SMCHDASXZULXCHPFLCQWFYOU&amp;fileType=view" width="3126px" height="5039px"/></surface><surface ulx="0" uly="0" lrx="3125" lry="5025" xml:id="facs_60"><graphic url="https://files.transkribus.eu/Get?id=XYVOOMEMSGKNHJLMNBPUKHBM&amp;fileType=view" width="3125px" height="5025px"/></surface><surface ulx="0" uly="0" lrx="3107" lry="5014" xml:id="facs_61"><graphic url="https://files.transkribus.eu/Get?id=FLIQZSSSQWDRBUXLNSQWDAKT&amp;fileType=view" width="3107px" height="5014px"/></surface><surface ulx="0" uly="0" lrx="3096" lry="5012" xml:id="facs_62"><graphic url="https://files.transkribus.eu/Get?id=ZEWFSSMGGGXUDCLQZWQMMKTR&amp;fileType=view" width="3096px" height="5012px"/></surface><surface ulx="0" uly="0" lrx="3102" lry="4999" xml:id="facs_63"><graphic url="https://files.transkribus.eu/Get?id=XLBQWOOWCWFKPRPUFROIERJE&amp;fileType=view" width="3102px" height="4999px"/></surface><surface ulx="0" uly="0" lrx="3099" lry="4952" xml:id="facs_64"><graphic url="https://files.transkribus.eu/Get?id=AVWJWYQYXADDFOTTLTVQABFF&amp;fileType=view" width="3099px" height="4952px"/></surface><surface ulx="0" uly="0" lrx="3104" lry="4952" xml:id="facs_65"><graphic url="https://files.transkribus.eu/Get?id=PJKWKSNGFAWTEFYNRGGCSSXL&amp;fileType=view" width="3104px" height="4952px"/></surface><surface ulx="0" uly="0" lrx="3113" lry="4964" xml:id="facs_66"><graphic url="https://files.transkribus.eu/Get?id=UDKHJUOQILSFTPGDGEDDIEQG&amp;fileType=view" width="3113px" height="4964px"/></surface><surface ulx="0" uly="0" lrx="3119" lry="4979" xml:id="facs_67"><graphic url="https://files.transkribus.eu/Get?id=TYUPUVAGLQBEREBGDCFPTKSM&amp;fileType=view" width="3119px" height="4979px"/></surface><surface ulx="0" uly="0" lrx="3128" lry="4978" xml:id="facs_68"><graphic url="https://files.transkribus.eu/Get?id=XZUDGLZCLOJAFIMQMYOBSBPH&amp;fileType=view" width="3128px" height="4978px"/></surface><surface ulx="0" uly="0" lrx="3106" lry="4982" xml:id="facs_69"><graphic url="https://files.transkribus.eu/Get?id=KXHXIVVSYWJNFRXJIDBDJUKU&amp;fileType=view" width="3106px" height="4982px"/></surface></facsimile>
+    <text type="">
+        <body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_tr_2" type="">Erster Abschnitt.
+      <lb/>Allgemeine Bestimmungen.
+      </ab><div ana="article">
+<head>Art. 1.
+      </head>
+<ab>Die Republik Oesterreich ist ein
+      <lb/>freier Bund der souveränen Länder; Nie-
+      <lb/>derösterreich, Oberösterrich, Steier-
+      <lb/>mark etz. und der Bundeshauptstadt Wien,
+      <lb/>die die Stellung eines selbständigen Lan-
+      <lb/>des hat.</ab></div>
+<div ana="article">
+<head>Art. 2.
+      </head>
+<ab facs="#facs_2_tr_1" type="">Oesterreich ist eine demokratische
+      <lb/>Republik.
+      <lb/>Alle öffentlichen Gewalten werden
+      <lb/>vom Volke eingesetzt.
+      </ab></div>
+<div ana="article">
+<head>Art. 3.
+      </head>
+<ab>Das Bundesgebiet umfaßt die Gebiete
+      <lb/>der Länder u.zw. im folgenden Umfange:
+      <lb/>Niederösterreich: . . . . 
+      <lb/>Oberösterreich: . . . . .
+      <lb/>etz.
+      <lb/>Wien: . . . . 
+      </ab></div>
+<div ana="article">
+<head>Art. 4.</head>
+<ab>
+</ab><ab facs="#facs_2_tr_3" type="">Eine Aenderung des Bundesgebietes,
+      <lb/>die zugleich Aenderung eines Landesge-
+      <lb/>bietes ist, ebenso eine Aenderung der
+      <lb/>Landesgrenze innerhalb des Bundesgebie-
+      <lb/>tes, kann nur durch übereinstimmende
+      <lb/>Verfassungsgesetze des Bundes und des
+      <lb/>jenigen Landes erfolgen, dessen Gebiet
+      <lb/>eine Veränderung erfährt.</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r" type="">- 2 -</ab></div>
+<div ana="article">
+<head>Art. 5.
+      </head>
+<ab facs="#facs_3_tr_1" type="">Jeder Landesbürger ist Bürger des
+      <lb/>Bundes.
+      <lb/>Die Landesbürgerschaft ist an die
+      <lb/>Heimatsberechtigung in der Gemeinde eines
+      <lb/>Landes gebunden.
+      </ab></div>
+<div ana="article">
+<head>Art. 6.
+      </head>
+<ab>Jeder Bundesangehörige hat in jedem
+      <lb/>Lande des Bundes die gleichen Rechte und
+      <lb/>Pflichten wie die Angehörigen des Landes
+      <lb/>selbst.
+      </ab></div>
+<div ana="article">
+<head>Art. 7.</head>
+<ab>
+</ab><ab facs="#facs_3_tr_3" type="">Die souveränen Länder Niederöster-
+      <lb/>reich etz. übertragen dem Bunde ihre
+      <lb/>Staatsgewalt in den folgenden Angelegen-
+      <lb/>heiten:
+      <lb/>1.) die auswärtigen Angelegenheiten,
+      <lb/>2.) das Militärwesen,
+      <lb/>3.) die Sicherheitspolizei in Gemein-</ab><ab facs="#facs_3_tr_2" type="">den bis zu . . . . Einwohnern; die Frem-
+      <lb/>denpolizei und das Paßwesen,
+      <lb/>4.) die Bundesfinanzen, das Monopol-
+      <lb/>wesen und die Verwaltung der Bundesbetrie-
+      <lb/>be,
+      <lb/>5.) das Zollwesen, Geld- und Bankwe-
+      <lb/>sen; Handel, Gewerbe, Industrie und Ver-
+      <lb/>kehr, Bergwesen,
+      <lb/>6.) Maß- und Gewichtwesen, Punzie-
+      <lb/>rungswesen,
+      <lb/>7.) Zivil- und Strafjustiz,
+      <lb/>8.) Kultus- und Hochschulwesen,
+      <lb/>9.) Volksgesundheit und soziale Für-</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r" type="">- 3 -</ab><ab facs="#facs_4_tr_2" type="">sorge.
+      <lb/>In diesen Angelegenheiten steht dem
+      <lb/>Bunde die Gesetzgebung und Vollziehung zu.
+      </ab></div>
+<div ana="article">
+<head>Art. 8.
+      </head>
+<ab>Der Gesetzgebung des Bundes ist über-
+      <lb/>tragen:
+      <lb/>1.) die Aenderung der Bundesverfas-
+      <lb/>sung insbesondere auch hinsichtlich des
+      <lb/>Verhältnisses der souveränen Länder zum
+      <lb/>Bunde,</ab><ab facs="#facs_4_tr_1" type="">2.) die Bestimmung der Art und des
+      <lb/>Umfanges des den Ländern zustehenden
+      <lb/>Rechtes, öffentliche Abgaben auszuschrei-
+      <lb/>ben und einzuheben,
+      <lb/>3.) die Regelung des Staatsbürger-
+      <lb/>und Heimatsrechtes,
+      <lb/>4.) die Regelung des Bevölkerungs-
+      <lb/>wesens,
+      <lb/>5.) die Grundzüge der Verwaltungsor-
+      <lb/>ganisation der Länder die Regelung des
+      <lb/>Administrativverfahrens und die Festset-
+      <lb/>zung der allgemeinen Grundsätze des Ver-
+      <lb/>waltungsstrafrechtes,
+      <lb/>6.) die Feststellung der Grundsätze
+      <lb/>des Wasser- und Elektrizitätsrechtes.</ab></div>
+<div ana="article">
+<head>Art. 9.
+      </head>
+<ab facs="#facs_4_tr_3" type="">Bundesrecht bricht Landesrecht.
+      </ab></div>
+<div ana="article">
+<head>Art. 10.
+      </head>
+<ab>Soferne eine Angelegenheit nicht
+      <lb/>ausdrücklich durch die Bundesverfassung
+      <lb/>der Gesetzgebung oder auch der Vollzie -
+      <lb/>hung des Bundes übertragen ist, verbleibt</ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_r" type="">- 4 -</ab><ab facs="#facs_5_tr_1" type="">sie im Wirkungsbreiche der souveränen Länder.
+      <lb/>Zweiter Abschnitt.
+      <lb/>Von den Organen des Bundes.
+      <lb/>A) der Bundestag.
+      </ab></div>
+<div ana="article">
+<head>Art. 11.
+      </head>
+<ab>Der vom ganzen Bundesvolk gewählte Bun-
+      <lb/>destag ist das höchste Organ des Bundes.
+      </ab></div>
+<div ana="article">
+<head>Art. 12.
+      </head>
+<ab>Der Sitz des Bundestages ist die Bundes-
+      <lb/>hauptstadt Wien.
+      <lb/>Auf die Dauer außerordentlicher Verhält-
+      <lb/>nisse kann der Bundespräsident auf Antrag der
+      <lb/>Bundesregierung den Bundestag in einen Ort des
+      <lb/>Bundesgebietes berufen.</ab></div>
+<div ana="article">
+<head>Art. 13.
+      </head>
+<ab facs="#facs_5_tr_2" type="">Dem Bundestag obliegt die Gesetzgebung
+      <lb/>des Bundes.
+      <lb/>Der Bundestag allein hat das Recht Krieg
+      <lb/>zu erklären. Alle Staatsverträge bedürfen der
+      <lb/>Genehmigung durch den Bundestag. Nur Verwal-
+      <lb/>tungsverträge geringerer Bedeutung (Regierungs-
+      <lb/>übereinkommen) hat die Bundesregierung zu ge-
+      <lb/>nehmigen.
+      </ab></div>
+<div ana="article">
+<head>Art. 14.
+      </head>
+<ab>Dem Bundestag obliegt die jährliche Be-
+      <lb/>willigung des Bundesbudgets, die Aufnahme und
+      <lb/>Konvertierung von Bundesanleihen und die Ertei-
+      <lb/>lung des Absolutoriums an die Bundesregierung</ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_r" type="">- 5 -</ab><ab facs="#facs_6_tr_1" type="">auf Grund des geprüften und gebilligten
+      <lb/>Bundesrechnungsabschlusses.
+      </ab></div>
+<div ana="article">
+<head>Art. 15.
+      </head>
+<ab>Zum Bundestag werden in dem gesamten
+      <lb/>Bundesgebiet . . . . . . . Abgeordnete auf
+      <lb/>Grund des gleichen, direkten persönlichen
+      <lb/>und geheimen Wahlrechtes aller Bundesbür-
+      <lb/>ger ohne Unterschied des Geschlechtes,
+      <lb/>die vor dem 1. Jänner d.J., in welchem die
+      <lb/>Wahl stattfindet das 20. Lebensjahr über-
+      <lb/>schritten haben, nach dem System der Ver-
+      <lb/>hältniswahl gewählt.
+      <lb/>Wählbar ist ohne Unterschied des Ge-</ab><ab facs="#facs_6_tr_2" type="">schlechtes jeder wahlberechtigte Bundes-
+      <lb/>bürger, der vor dem 1. Jänner des Jahres,
+      <lb/>in welchem die Wahl zur Bundesversammlung
+      <lb/>stattfindet, das 29. Lebensjahr über-
+      <lb/>schritten hat.
+      <lb/>Vom Wahlrecht und der Wählbarkeit
+      <lb/>sind ausgeschlossen:
+      <lb/>Die Wahlordnung für die Wahl zum Bundes
+      <lb/>tag wird in einem besonderen Gesetze er-
+      <lb/>lassen. Sie bildet einen Bestandteil der
+      <lb/>Bundesverfassung.</ab></div>
+<div ana="article">
+<head>Art. 16.
+      </head>
+<ab facs="#facs_6_tr_3" type="">Die Legislaturperiode des Bundesta-
+      <lb/>ges beträgt . . . . . . . .  Jahre vom Ta-
+      <lb/>ge ihrer ersten Einberufung an gerechnet.
+      <lb/>Der Bundestag ist alljährlich vom
+      <lb/>Bundespräsidenten u.zw. im . . . 
+      <lb/>einzuberufen.
+      <lb/>Eine Sitzungsperiode der Bundestage
+      <lb/>darf nicht länger als ein Jahr betragen.</ab><pb facs="#facs_7" n="7" xml:id="img_0007"/><ab facs="#facs_7_tr_1" type=""> - 6 -
+      </ab></div>
+<div ana="article">
+<head>Art. 17.
+      </head>
+<ab>Während der Sitzungsperiode kann
+      <lb/>der Bundestag durch einen Bundesschluß
+      <lb/>des Hauses oder auf Vorschlag der Bundes-
+      <lb/>regierung durch den Bundespräsidenten
+      <lb/>jedoch nur einmal aus denselben Anlaß
+      <lb/>vertagt werden.
+      <lb/>Die Vertagung ist aufzuheben, wenn
+      <lb/>wenigstens 50 Mitglieder des Bundestages
+      <lb/>einen schriftlichen Antrag beim Präsiden-
+      <lb/>ten des Bundestages gestellt haben. Der
+      <lb/>Präsident des Bundestages hat von dem er-
+      <lb/>folgten Antrag den Bundespräsidenten im
+      <lb/>Wege der Bundesregierung zu verständigen.</ab></div>
+<div ana="article">
+<head>Art. 18.
+      </head>
+<ab facs="#facs_7_tr_3" type="">Auf Antrag der Bundesregierung kann
+      <lb/>der Bundespräsident den Bundestag jedoch
+      <lb/>nur einmal aus demselben Anlaß auflösen.
+      <lb/>In diesem Falle hat der Bundespräsi-
+      <lb/>dent binnen . . . Wochen nach erfolgter
+      <lb/>Auflösung Neuwahlen auszuschreiben und
+      <lb/>den neugewählten Bundestag binnen
+      <lb/>. . . Wochen nach durchgeführter Wahl ein-
+      <lb/>zuberufen.</ab></div>
+<div ana="article">
+<head>Art. 19.
+      </head>
+<ab facs="#facs_7_tr_2" type="">Der Bundestag wählt aus seiner Mitte
+      <lb/>auf die Dauer der Sitzungsperiode einen
+      <lb/>Präsidenten sowie einen zweiten und drit-
+      <lb/>ten Präsidenten.
+      <lb/>Die Geschäftsführung des Bundestages
+      <lb/>erfolgt auf Grund eines besonderen Geset-
+      <lb/>zes, das einen Bestandteil der Bundesver-
+      <lb/>fassung bildet und einer im Rahmen dieses</ab><pb facs="#facs_8" n="8" xml:id="img_0008"/><ab facs="#facs_8_r" type="">- 7 -</ab><ab facs="#facs_8_tr_2" type="">Gesetzes von dem Bundestag zu beschlies-
+      <lb/>senden autonomen Geschäftsordnung.
+      </ab></div>
+<div ana="article">
+<head>Art. 20.
+      </head>
+<ab>Die Sitzungen des Bundestages sind
+      <lb/>öffentlich.
+      <lb/>Dem Hause steht das Recht zu, aus-
+      <lb/>nahmsweise die Oeffentlichkeit auszu-
+      <lb/>schliessen, wenn es vom Präsidenten oder
+      <lb/>wenigstens . . . Mitglieder verlangt und
+      <lb/>vom Hause nach Entfernung der Zuhörer
+      <lb/>beschlossen wird.
+      </ab></div>
+<div ana="article">
+<head>Art. 21.
+      </head>
+<ab>Die Mitglieder des Bundestages kön-
+      <lb/>nen wegen der in Ausübung ihres Berufes
+      <lb/>geschehenen Abstimmungen niemals wegen
+      <lb/>der in diesem Berufe gemachten Aeusserun-</ab><ab facs="#facs_8_tr_1" type="">gen nur von der Bundesversammlung ver-
+      <lb/>antwortlich gemacht werden.
+      <lb/>Kein Mitglied des Bundestages darf
+      <lb/>während der Dauer der Session wegen ei-
+      <lb/>ner strafbaren Handlung - den Fall der
+      <lb/>Ergreifung auf frischer Tat ausgenommen -
+      <lb/>ohne Zustimmung der Bundesverdammlung
+      <lb/>verhaftet oder behördlich verfolgt werden.
+      <lb/>Selbst in dem Falle der Ergreifung
+      <lb/>auf frischer Tat hat die Behörde den Prä-
+      <lb/>sidenten des Bundestages sogleich die ge-
+      <lb/>schehene Verhaftung bekanntzugeben.
+      <lb/>Wenn es die Bundesversammlung ver-
+      <lb/>langt, muß der Verhaft aufgehoben oder
+      <lb/>die Verfolgung für die ganze Sitzungsperio-
+      <lb/>de aufgeschoben werden.</ab><pb facs="#facs_9" n="9" xml:id="img_0009"/><ab facs="#facs_9_r" type="">- 8 -</ab></div>
+<div ana="article">
+<head>Art. 22.
+      </head>
+<ab facs="#facs_9_tr_1" type="">Wahrheitsgetreue Berichte über die
+      <lb/>Verhandlungen in den öffentlichen Sitzun-
+      <lb/>gen des Bundestages und seiner Ausschüsse
+      <lb/>bleiben von jeder Verantwortung frei.
+      </ab></div>
+<div ana="article">
+<head>Art. 23.
+      </head>
+<ab>Die dem Bundestage angehörenden öf-
+      <lb/>fentlichen Angestellten und Funktionäre
+      <lb/>bedürfen zur Ausübung ihres Mandates keines
+      <lb/>Urlaubes.
+      </ab></div>
+<div ana="article">
+<head>Art. 24.</head>
+<ab>
+</ab><ab facs="#facs_9_tr_3" type="">Die Mitglieder der Bundesregierung
+      <lb/>sowie die von ihnen entsendeten Vertreter
+      <lb/>sind berechtigt, an allen Beratungen der
+      <lb/>Bundestage teilzunehmen. Sie müssen auf
+      <lb/>ihr Verlangen jedesmal gehört werden. Der
+      <lb/>Bundestag kann die Anwesenheit der Mitglie-
+      <lb/>der der Bundesregierung verlangen.
+      <lb/>B) Der Bundespräsident und die Bundesre-</ab><ab facs="#facs_9_tr_2" type="">gierung.
+      </ab></div>
+<div ana="article">
+<head>Art. 25.
+      </head>
+<ab>Der Bundespräsident wird unmittelbar
+      <lb/>durch das Bundesvolk gewählt.
+      <lb/>Die Wahl erfolgt zugleich mit der
+      <lb/>Hauptwahl zum Bundestag und für die Dauer
+      <lb/>ihrer Legislaturperiode.
+      <lb/>Wird der Bundestag vor Ablauf der . . .
+      <lb/>jährigen Legislaturperiode aufgelöst, hat
+      <lb/>auch eine Neuwahl des Bundespräsidenten
+      <lb/>zu erfolgen.</ab><pb facs="#facs_10" n="10" xml:id="img_0010"/><ab facs="#facs_10_r" type="">- 9 -</ab><ab facs="#facs_10_tr_1" type="">Eine Neuwahl des Bundespräsidenten
+      <lb/>hat auch dann zu erfolgen, wenn die Stelle
+      <lb/>des Bundespräsidenten durch Tod, Amtsver-
+      <lb/>zicht oder aus anderen gesetzlichen Grün-
+      <lb/>den erledigt wird.
+      </ab></div>
+<div ana="article">
+<head>Art. 26.
+      </head>
+<ab>Zum Bundespräsidenten kann nur derje-
+      <lb/>nige deutschösterreichische Bundesbürger
+      <lb/>gewählt werden, der das aktive Wahlrecht
+      <lb/>zum Bundestag hat und am 1. Jänner des Jah-
+      <lb/>res, in welchem die Wahl stattfindet, das
+      <lb/>40. Lebensjahr vollendet hat.</ab></div>
+<div ana="article">
+<head>Art. 27.
+      </head>
+<ab facs="#facs_10_tr_3" type="">Der Stimmzettel für die Präsident-
+      <lb/>schaftswahl ist im Falle des Art. 40,
+      <lb/>Abs. 2, gleichzeitig jedoch gesondert von
+      <lb/>dem Stimmzettel für die Wahl zum Bundestag
+      <lb/>abgegeben.
+      <lb/>Jeder Wähler darf nur einen Kandida-
+      <lb/>ten für die Präsidentschaft bezeichnen.</ab></div>
+<div ana="article">
+<head>Art. 28.
+      </head>
+<ab facs="#facs_10_tr_2" type="">Als zum Bundespräsidenten gewählt gilt
+      <lb/>derjenige Kandidat, der die meisten Stimmen
+      <lb/>erhalten hat.
+      </ab></div>
+<div ana="article">
+<head>Art. 29.
+      </head>
+<ab>Der Bundespräsident leistet bei An-
+      <lb/>tritt seines Amtes vor dem gemeinsam ver-
+      <lb/>sammelten Bundestag und Bundesrat das fol-
+      <lb/>gende Gelöbnis:</ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_r" type="">- 10 -</ab><ab facs="#facs_11_tr_1" type="">"Ich gelobe, daß ich die Verfassung
+      <lb/>und alle Gesetze der Republik Oesterreich
+      <lb/>getreulich beobachten und meine Pflicht
+      <lb/>nach bestem Wissen und Gewissen erfüllen
+      <lb/>werde."
+      </ab></div>
+<div ana="article">
+<head>Art. 30.
+      </head>
+<ab>Der Bundespräsident darf während sei-
+      <lb/>ner Amtstätigkeit keiner politischen Kör-
+      <lb/>perschaft angehören und keinen anderen Be-
+      <lb/>ruf ausüben.
+      </ab></div>
+<div ana="article">
+<head>Art. 31.
+      </head>
+<ab>Eine strafgerichtliche Verfolgung des
+      <lb/>Bundespräsidenten - ausgenommen das Ver-</ab><ab facs="#facs_11_tr_3" type="">fahren vor dem Bundesverfassungsgericht -
+      <lb/>darf nur mit Zustimmung des Bundestages
+      <lb/>erfolgen.
+      <lb/>Zu einem solchen Beschlüsse ist die
+      <lb/>Anwesenheit von zwei Drittel aller Mit-
+      <lb/>glieder und eine Mehrheit von drei Viertel
+      <lb/>der Abstimmenden erforderlich.</ab></div>
+<div ana="article">
+<head>Art. 32.
+      </head>
+<ab facs="#facs_11_tr_2" type="">Das Wahlverfahren für die Präsident-
+      <lb/>schaftswahl ist in dem Gesetze betreffend
+      <lb/>die Wahlordnung für die Wahl zum Bundes-
+      <lb/>tag zu regeln.
+      </ab></div>
+<div ana="article">
+<head>Art. 33.
+      </head>
+<ab>Der Bundespräsident vertritt die Re-
+      <lb/>publik nach Aussen, empfängt und beglau-
+      <lb/>bigt die Gesandten und ratifiziert die
+      <lb/>Staatsverträge.</ab><pb facs="#facs_12" n="12" xml:id="img_0012"/><ab facs="#facs_12_r" type="">- 11 -</ab></div>
+<div ana="article">
+<head>Art. 34.
+      </head>
+<ab facs="#facs_12_tr_2" type="">Dem Bundespräsidenten obliegt:
+      <lb/>Die Einberufung, die Vertagung, die
+      <lb/>Schliessung der Sitzungsperiode und die
+      <lb/>Auflösung der Bundestage;
+      <lb/>die Ausschreibung von Neuwahlen zum
+      <lb/>Bundestage und zur Bundespräsidentschaft;
+      <lb/>die Ernennung der Bundesbeamten und
+      <lb/>Offiziere und sonstiger Bundesfunktionäre,
+      <lb/>sowie Verleihungen von Titeln;
+      <lb/>die Begnadigung rechtskräftig Verur-
+      <lb/>teilter, die Milderung der von den Gerich-</ab><ab facs="#facs_12_tr_1" type="">ten ausgesprochenen Strafen, die Nachsicht
+      <lb/>von Rechtsfolgen und die Tilgung von Ver-
+      <lb/>urteilungen, ferner die Abolution von
+      <lb/>strafgerichtlichen Verfahren.
+      <lb/>Diese Akte des Bundespräsidenten er-
+      <lb/>folgen auf Vorschlag der Bundesregierung.
+      </ab></div>
+<div ana="article">
+<head>Art. 35.
+      </head>
+<ab>Der Bundespräsident ernennt auf Vor-
+      <lb/>schlag der zuständigen Landesregierung
+      <lb/>die Landesbeamten.
+      </ab></div>
+<div ana="article">
+<head>Art. 36.</head>
+<ab>
+</ab><ab facs="#facs_12_tr_3" type="">Der Bundespräsident kann das ihm zu-
+      <lb/>stehende Ernennungsrecht von Beamten,
+      <lb/>Offizieren oder sonstigen Bundesfunktio-
+      <lb/>nären bestimmter Kategorie oder Rangsklas-
+      <lb/>se den ressortmässig zustehenden Mitglie-
+      <lb/>dern der Bundesregierung bezw. den Landes-
+      <lb/>regierungen delegieren.</ab><pb facs="#facs_13" n="13" xml:id="img_0013"/><ab facs="#facs_13_tr_3" type="">- 12 -
+      </ab></div>
+<div ana="article">
+<head>Art. 37.
+      </head>
+<ab>Alle Akte des Bundespräsidenten be-
+      <lb/>dürfen der Gegenseichnung des Bundeskanz-
+      <lb/>lers und des ressortmäßig zuständigen
+      <lb/>Staatssekretärs; die im Art. . . . . . . er-
+      <lb/>wähnte Ernennung von Landesbeamten der
+      <lb/>Gegenzeichnung des zuständigen Landes-
+      <lb/>hauptmannes.</ab></div>
+<div ana="article">
+<head>Art. 38.
+      </head>
+<ab facs="#facs_13_tr_1" type="">vWenn der Bundespräsident verhindert
+      <lb/>ist, wenn er gerichtlich verfolgt wird
+      <lb/>oder wenn seine Stelle dauernd erledigt
+      <lb/>ist, im letzteren Falle bis zur Neuwahl
+      <lb/>eines Nachfolgers, gehen alle Funktionen
+      <lb/>des Bundespräsidenten auf die Bundesregie-
+      <lb/>rung über.
+      <lb/>Diese hat im Falle dauernder Erle-
+      <lb/>digung der Stelle des Bundespräsidenten
+      <lb/>sofort eine Neuwahl auszuschreiben und
+      <lb/>durchzuführen.</ab></div>
+<div ana="article">
+<head>Art. 39.
+      </head>
+<ab facs="#facs_13_tr_2" type="">Der Bundespräsident bleibt auch nach
+      <lb/>Ablauf der Legislaturperiode und nach
+      <lb/>Auflösung des Bundestages u.zw. solange
+      <lb/>im Amte, bis der neue Bundespräsident ge-
+      <lb/>wählt ist und sein Amt angetreten hat.
+      <lb/>Eine wiederholte Wahl zum Bundes-
+      <lb/>präsidenten ist zulässig.
+      </ab></div>
+<div ana="article">
+<head>Art. 40.
+      </head>
+<ab>Mit der Ausübung der Regierungs- und
+      <lb/>Vollzugsgewalt des Bundes sind, soweit</ab><pb facs="#facs_14" n="14" xml:id="img_0014"/><ab facs="#facs_14_r" type="">- 13 -</ab><ab facs="#facs_14_tr_2" type="">diese nicht dem Bundespräsidenten übertragen
+      <lb/>ist, der Bundeskanzler, der Vizekanzler und
+      <lb/>die Staatssekretäre betraut.
+      <lb/>Sie bilden in ihrer Gesamtheit die
+      <lb/>Bundesregierung unter dem Vorsitze des
+      <lb/>Bundeskanzlers.
+      <lb/>Die Regierungs- und Vollzugsgewalt
+      <lb/>des Bundes darf nur auf Grund der Bundes-
+      <lb/>verfassung und der von dem Bundestage be-
+      <lb/>schlossenen Gesetze ausgeübt werden.
+      <lb/>Jede Behörde kann im Rahmen der Ge-
+      <lb/>setze innerhalb ihres Wirkungskreises
+      <lb/>Vollzugsanweisungen erlassen.</ab></div>
+<div ana="article">
+<head>Art. 41.
+      </head>
+<ab facs="#facs_14_tr_1" type="">Die Bundesregierung wird von der Bun-
+      <lb/>desversammlung über den Gesamtvorschlag
+      <lb/>eines besonderen Ausschusses, dessen Zu-
+      <lb/>sammensetzung, Wirkungskreis und Verfahren
+      <lb/>im Geschäftsordnungsgesetze geregelt ist,
+      <lb/>in namentlicher Abstimmung gewählt.
+      <lb/>Die Bestallungsurkunden des Bundes-
+      <lb/>kanzlers und der Staatssekretäre werden
+      <lb/>vom Bundespräsidenten mit dem Datum des
+      <lb/>Tages der Angelobung ausgefertigt und von
+      <lb/>dem neu bestellten Bundeskanzler gegenge-
+      <lb/>zeichnet.</ab></div>
+<div ana="article">
+<head>Art. 42.
+      </head>
+<ab facs="#facs_14_tr_3" type="">Bis die neue Bundesregierung gebildet
+      <lb/>ist, hat der Bundespräsident entweder die
+      <lb/>scheidende Regierung unter dem Vorsitz des
+      <lb/>bisherigen Bundeskanzlers oder eines</ab><pb facs="#facs_15" n="15" xml:id="img_0015"/><ab facs="#facs_15_r" type="">- 14 -</ab><ab facs="#facs_15_tr_3" type="">Staatssekretärs mit der einstweiligen
+      <lb/>Fortführung der Geschäfte zu beauftragen
+      <lb/>oder leitende Beamte der Staatsämter unter
+      <lb/>dem Vorsitz eines zu leitenden Beamten
+      <lb/>oder eines eigens hiezu bestellten Beam-
+      <lb/>ten mit der einstweiligen Leitung der
+      <lb/>Verwaltung zu betrauen.</ab></div>
+<div ana="article">
+<head>Art. 43.
+      </head>
+<ab facs="#facs_15_tr_2" type="">Versagt der Bundestag der Bundesre-
+      <lb/>gierung oder einzelne Mitglieder dersel-
+      <lb/>ben durch ausdrückliche Entschliessung das
+      <lb/>Vertrauen, so ist eine neue Bundesregie-
+      <lb/>rung zu bestellen, bezw. der betreffende
+      <lb/>Staatssekretär seines Amtes zu entheben.
+      <lb/>Zu einem Beschlüsse des Bundestages,
+      <lb/>mit welchem das Vertrauen versagt wird,
+      <lb/>ist die Anwesenheit der Hälfte der Mit-</ab><ab facs="#facs_15_tr_1" type="">glieder des Bundestages erforderlich.
+      <lb/>Doch ist, wenn . . .  Mitglieder es verlan-
+      <lb/>gen, die Abstimmung auf den zweitnächsten
+      <lb/>Werktag zu vertagen. Eine neuerliche Ver-
+      <lb/>tagung der Abstimmung kann nur auf Be-
+      <lb/>schluß des Bundestages erfolgen.
+      <lb/>Die gesamte Bundesregierung und ein-
+      <lb/>zelnen Mitglieder derselben werden in den
+      <lb/>gesetzlich bestimmten Fällen oder über
+      <lb/>Wunsch vom Bundespräsidenten ihres Amtes
+      <lb/>enthoben.
+      </ab></div>
+<div ana="article">
+<head>Art. 44.
+      </head>
+<ab>Der Bundespräsident und die Mitglie-
+      <lb/>der der Bundesregierung sind nach Maßga-</ab><pb facs="#facs_16" n="16" xml:id="img_0016"/><ab facs="#facs_16_r" type="">- 15 -</ab><ab facs="#facs_16_tr_2" type="">be des Art. . . . . . der Bundesverfassung,
+      <lb/>der Bundesversammlung und dem Bundesrate
+      <lb/>verantwortlich.
+      </ab></div>
+<div ana="article">
+<head>Art. 45.
+      </head>
+<ab>Zur Durchführung der Aufgaben der
+      <lb/>Bundesverwaltung sind die Bundeskanzlei
+      <lb/>und folgende Bundesämter berufen: . . . .
+      <lb/>die Bundeskanzlei steht unter der
+      <lb/>Leitung des Bundeskanzlers,
+      <lb/>jedes Bundesamt unter der Leitung</ab><ab facs="#facs_16_tr_3" type="">eines Staatssekretärs.
+      <lb/>Aenderung des Wirkungskreises und
+      <lb/>der Zahl der Bundesämter erfolgt durch
+      <lb/>einfaches Gesetz.
+      </ab></div>
+<div ana="article">
+<head>Art. 46.
+      </head>
+<ab>Zur Vertretung des Bundeskanzlers
+      <lb/>ist ein Vizekanzler berufen.
+      </ab></div>
+<div ana="article">
+<head>Art. 47.</head>
+<ab>
+</ab><ab facs="#facs_16_tr_1" type="">Der Bundeskanzler, der Vizekanzler
+      <lb/>oder ein Staatssekretär kann auch mit der
+      <lb/>Führung eines ihm nicht nach Art. . . .
+      <lb/>unterstellten Bundesamtes betraut werden.
+      <lb/>Auch können Staatssekretäre ohne gleich-
+      <lb/>zeitige Betrauung mit der Führung eines
+      <lb/>Bundesrates bestellt werden,
+      <lb/>In jedem Bundesamte wird dem verant-
+      <lb/>wortlichen Leiter zur Wahrung der Einheit
+      <lb/>und Stetigkeit des Geschäftsgabges ein Be-
+      <lb/>amter zur Seite gestellt, der den Amtsti-
+      <lb/>tel eines Bundesamtsdirektors führt.</ab><pb facs="#facs_17" n="17" xml:id="img_0017"/><ab facs="#facs_17_r" type="">- 16 -</ab></div>
+<div ana="article">
+<head>Art. 48.
+      </head>
+<ab facs="#facs_17_tr_2" type="">Dem Bundeskanzler und den Staatsse-
+      <lb/>kretären können zur Unterstützung in der
+      <lb/>politischen Geschäftsführung und zur par-
+      <lb/>lamentarischen Vertretung Unterstaatsse-
+      <lb/>kretäre beigegeben werden.
+      <lb/>Die Unterstaatssekretäre werden in
+      <lb/>der gleichen Weise berufen wie die Mit-
+      <lb/>glieder der Bundesregierung.</ab><ab facs="#facs_17_tr_3" type="">C) Der Bundesrat.
+      </ab></div>
+<div ana="article">
+<head>Art. 49.
+      </head>
+<ab>Im Bundesrat üben die Länder ihren
+      <lb/>verfassungsmässigen Einfluß auf die Ge-
+      <lb/>setzgebung und Verwaltung des Bundes aus.
+      </ab></div>
+<div ana="article">
+<head>Art. 50.
+      </head>
+<ab>Im Bundesrat hat jedes Land minde-
+      <lb/>stens eine Stimme. Mit mehr als 200.000
+      <lb/>Einwohner hat ein Land 2, mit mehr als</ab><ab facs="#facs_17_tr_1" type="">einer halben Million 3, mit mehr als 1
+      <lb/>Million Einwohner 4, mit mehr als 2 Millio-
+      <lb/>nen Einwohner 5 Stimmen.
+      <lb/>Die Stimmzahl wird durch den Bundes-
+      <lb/>rat nach jeder allgemeinen Volkszählung
+      <lb/>neu festgesetzt.
+      </ab></div>
+<div ana="article">
+<head>Art. 51.
+      </head>
+<ab>In den Ausschüssen, die der Bundes-
+      <lb/>rat aus seiner Mitte bildet, hat jedes
+      <lb/>Land nur eine Stimme.</ab><pb facs="#facs_18" n="18" xml:id="img_0018"/><ab facs="#facs_18_tr_2" type="">- 17 -
+      </ab></div>
+<div ana="article">
+<head>Art. 52.
+      </head>
+<ab>Jedes Land ist im Bundesrat durch
+      <lb/>seinen Landeshauptmann oder - in dessen
+      <lb/>Stellvertretung - durch ein anderes Mit-
+      <lb/>glied der Landesregierung vertreten. Ne-
+      <lb/>ben dem Landeshauptmanne oder seinem Stell-
+      <lb/>vertreter können auch andere Mitglieder
+      <lb/>der Landesregierung zum Bundesrate bevoll-
+      <lb/>mächtigt werden, jedoch nicht mehr als das
+      <lb/>Land Stimmen hat.</ab></div>
+<div ana="article">
+<head>Art. 53.
+      </head>
+<ab facs="#facs_18_tr_1" type="">Der Bundesrat tritt mindestens einmsl
+      <lb/>im Monat unter dem Vorsitz des Bundeskanz-
+      <lb/>lers zusammen. Auch wenn es ein Drittel
+      <lb/>seiner Stimmen fordert, ist er vom Bundes-
+      <lb/>kanzler einzuberufen.
+      <lb/>Die Mitglieder der Bundesregierung
+      <lb/>haben das Recht und auf Verlangen die
+      <lb/>pflicht, an den Verhandlungen des Bundes-
+      <lb/>rates und seiner Ausschüsse teilzunehmen.
+      <lb/>Sie müssen während der Beratung jederzeit
+      <lb/>gehört werden.</ab></div>
+<div ana="article">
+<head>Art. 54.
+      </head>
+<ab facs="#facs_18_tr_3" type="">Die Bundesregierung sowie jedes Mit-
+      <lb/>glied des Bundesrates sind befugt, im Bun-
+      <lb/>desrate Anträge zu stellen. Die Geschäfts-
+      <lb/>ordnung des Bundesrates wird von diesen
+      <lb/>beschlossen. Die Beratungen des Bundesrates
+      <lb/>sind nicht öffentlich.
+      <lb/>Der Bundesrat faßt seine Beschlüsse</ab><pb facs="#facs_19" n="19" xml:id="img_0019"/><ab facs="#facs_19_r" type="">- 18 -</ab><ab facs="#facs_19_tr_3" type="">mit einfacher Mehrheit der abgegebenen
+      <lb/>Stimmen.
+      </ab></div>
+<div ana="article">
+<head>Art. 55.
+      </head>
+<ab>Der Bundesrat ist von der Bundesre-
+      <lb/>gierung über die Führung der Bundesga-
+      <lb/>schäfte auf dem Laufenden zu halten. In
+      <lb/>allen wichtigeren Bundesangelegenheiten
+      <lb/>hat die Bundesregierung den Bundesrat zu
+      <lb/>hören.</ab><ab facs="#facs_19_tr_2" type="">III. Abschnitt.
+      <lb/>A) Die Gesetzgebung des Bundes.
+      </ab></div>
+<div ana="article">
+<head>Art. 56.
+      </head>
+<ab>Gesetzesvorschläge gelangen an den
+      <lb/>Bundestag entweder als Anträge seiner Mit-
+      <lb/>glieder oder als Vorlage der Bundesregierung.
+      <lb/>Die Vorlagen der Bundesregierung be-
+      <lb/>dürfen der Zustimmung des Bundesrates.
+      <lb/>Kommt eine Uebereinstimmung zwischen</ab><ab facs="#facs_19_tr_1" type="">der Bundesregierung und dem Bundesrate
+      <lb/>nicht zusammen, so kann die Bundesregie-
+      <lb/>rung die Vorlage dennoch einbringen, hat
+      <lb/>aber hiebei die abweichende Auffassung des
+      <lb/>Bundesrates darzulegen.
+      <lb/>Auch der Bundesrat kann im Wege der
+      <lb/>Bundesregierung Gesetzesanträge im Bundes-
+      <lb/>tage stellen. Stimmt die Bundesregierung
+      <lb/>einem solchen Antrage nicht zu, so hat sie
+      <lb/>ihren abweichenden Standpunkt bei Einbrin-
+      <lb/>gung der Vorlage darzulegen.</ab><pb facs="#facs_20" n="20" xml:id="img_0020"/><ab facs="#facs_20_tr_2" type="">- 19 -
+      </ab></div>
+<div ana="article">
+<head>Art. 57.
+      </head>
+<ab>Zu einem Beschluß des Bundestages
+      <lb/>ist die Anwesenheit von mindestens. . . .
+      <lb/>Mitgliedern und die absolute Mehrheit
+      <lb/>der abgegebenen Stimmen erforderlich.
+      <lb/>Eine Abänderung der Bundesverfas-
+      <lb/>sung kann jedoch nur bei Anwesenheit von
+      <lb/>mindestens 2/3 aller Mitglieder und mit
+      <lb/>einer Mehrheit von 3/4 aller abgegebenen
+      <lb/>Stimmen beschlossen werden.</ab></div>
+<div ana="article">
+<head>Art. 58.
+      </head>
+<ab facs="#facs_20_tr_1" type="">Jede Gesamtänderung der Bundesver-
+      <lb/>fassung, eine teilweise Aenderung aber nur,
+      <lb/>wenn es von . . . .  Mitgliedern des Bundes-
+      <lb/>tages oder . . . .  Stimmen des Bundesrates
+      <lb/>verlangt wird, ist nach erfolgter Be-
+      <lb/>schlußfassung durch den Bundestag jedoch
+      <lb/>vor der Beurkundung durch den Bundesprä-
+      <lb/>sidenten einer Abstimmung des gesamten
+      <lb/>Bundesvolkes zu unterziehen.
+      </ab></div>
+<div ana="article">
+<head>Art. 59.
+      </head>
+<ab>Einer solchen Volksabstimmung ist fer
+      <lb/>ner jedes Bundesgesetz unterworfen hin-
+      <lb/>sichtlich dessen dies von wenigstens
+      <lb/>400.000 Stimmberechtigten oder von der</ab><ab facs="#facs_20_tr_3" type="">Mehrheit der Stimmberechtigten dreier
+      <lb/>Länder innerhalb 6 Wochen nach erfolgter
+      <lb/>Kundmachung des Gesetzes gefordert wird.
+      </ab></div>
+<div ana="article">
+<head>Art. 60.
+      </head>
+<ab>Stimmberechtigt ist jeder zum Bundes-
+      <lb/>tag wahlberechtigter Bundesbürger. Das</ab><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_tr_3" type="">- 20 -
+      <lb/>Bundesvolk hat die vom Bundestag be-
+      <lb/>schlossene Verfassungsänderung angenommen
+      <lb/>und es hat dasbereits kundgemachte Bun-
+      <lb/>desgesetz abgelehnt, wenn die (relative)
+      <lb/>Mehrheit der abgegebenen Stimmen sich für
+      <lb/>die Verfassungsänderung oder gegen das
+      <lb/>Bundesgesetz ausgesprochen hat.</ab></div>
+<div ana="article">
+<head>Art. 61.
+      </head>
+<ab facs="#facs_21_tr_1" type="">Das Ergebnis der Volksabstimmung ist
+      <lb/>amtlich zu verlautbaren. Im Falle ein
+      <lb/>Bundesgesetz durch Volksabstimmung abge-
+      <lb/>lehnt wurde, ist seine Ausserkraftsetzung
+      <lb/>im Bundesgesetzblatt kundzumachen.
+      </ab></div>
+<div ana="article">
+<head>Art. 62.
+      </head>
+<ab>Ist eine Gesamtänderung der Bundes-
+      <lb/>verfassung durch Volksabstimmung abgelehnt
+      <lb/>worden, hat der Bundespräsident den Bun-
+      <lb/>destag aufzulösen und gemäß Art. . . . . .
+      <lb/>der Bundesverfassung Neuwahlen auszu-
+      <lb/>schreiben.</ab></div>
+<div ana="article">
+<head>Art. 63.
+      </head>
+<ab facs="#facs_21_tr_2" type="">Das Verfahren für die Volksabstim-
+      <lb/>mung sowie für die im Art. . . . vorge-
+      <lb/>schriebene Initiative ist in dem Gesetz
+      <lb/>für die Wahlordnung für die Wahl zum
+      <lb/>Bundestag geregelt.
+      </ab></div>
+<div ana="article">
+<head>Art. 64.
+      </head>
+<ab>Gegen Gesetzesbeschlüsse des Bundes-
+      <lb/>tages kann der Bundesrat Einspruch erheben.
+      <lb/>Der Einspruch muß innerhalb zweier
+      <lb/>Wochen nach der Schlußabstimmung im Bun-
+      <lb/>destage bei der Bundesregierung einge-</ab><pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_r" type="">- 21 -</ab><ab facs="#facs_22_tr_2" type="">bracht, und spätestens in zwei weiteren
+      <lb/>Wochen mit Gründen versehen werden.
+      <lb/>Im Falle des Einspruchs wird das Ge-
+      <lb/>setz dem Bundestage zur nochmaligen Be-
+      <lb/>schlußfassung vorgelegt, kommt jedoch
+      <lb/>keine Uebereinstimmung zwischen Bundes-
+      <lb/>tag und Bundesrat zustande, so ist der
+      <lb/>Gesetzesbeschluß einer Volksabstimmung
+      <lb/>zu unterzeichnen. Auf diese Volksabstim-
+      <lb/>mung finden die Vorschriften der Art. . . .
+      <lb/>Anwendung.</ab></div>
+<div ana="article">
+<head>Art. 65.
+      </head>
+<ab facs="#facs_22_tr_1" type="">Der Bundespräsident hat die verfas-
+      <lb/>sungsmäßig zustandegekommenen Gesetzes-
+      <lb/>beschlüsse des Bundestages durch seine Un-
+      <lb/>terschrift zu beurkunden und ihre Kundma-
+      <lb/>chung im Bundesgesetzblatte durch den Bun-
+      <lb/>deskanzler binnen Monatsfrist zu veran-
+      <lb/>lassen.
+      <lb/>Die Kundmachung der Bundesgesetze er-
+      <lb/>folgt mit Berufung auf den Beschluß des
+      <lb/>Bundestages oder das Ergebnis der Volks-
+      <lb/>abstimmung.
+      <lb/>Bundesgesetze treten, soweit sie</ab><ab facs="#facs_22_tr_3" type="">selbst nichts anderes bestimmen, mit dem
+      <lb/>45. Tage nach Ablauf des Tages in Kraft,
+      <lb/>an dem das Bundesgesetzblatt in der Bun-
+      <lb/>deshauptstadt ausgegeben worden ist.
+      <lb/>Ueber das Bundesgesetzblatt ergeht
+      <lb/>ein besonderes Bundesgesetz.</ab><pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_tr_2" type="">- 22 -
+      </ab></div>
+<div ana="article">
+<head>Art. 66.
+      </head>
+<ab>Der Bundestag ist befugt, die Geschäfts-
+      <lb/>führung der Bundesregierung zu überprüfen,
+      <lb/>deren Mitglieder über alle Gegenstände der
+      <lb/>Vollziehung zu befragen und alle ein-
+      <lb/>schlägigen Auskünfte zu verlangen sowie
+      <lb/>ihren Wünschen über die Ausübung der Re-
+      <lb/>gierungs- und Vollzugsgewalt in Ent-
+      <lb/>schliessungen Ausdruck zu geben.</ab></div>
+<div ana="article">
+<head>Art. 67.
+      </head>
+<ab facs="#facs_23_tr_3" type="">Auf Antrag von mindestens . . . Mit-
+      <lb/>gliedern hat der Bundestag Untersuchungs-
+      <lb/>ausschüsse einzusetzen.
+      <lb/>Alle Gerichte und Behörden sind ver-
+      <lb/>pflichtet, dem Ersuchen dieser Ausschüs-
+      <lb/>se um Beweiserhebungen Folge zu leisten;
+      <lb/>alle Aemter haben auf Verlangen ihre Ak-
+      <lb/>ten vorzulegen. Die Vorschläge der Straf-</ab><ab facs="#facs_23_tr_1" type="">prozessordnung finden auf die Erhebungen
+      <lb/>der Untersuchungsausschüsse sinngemässe
+      <lb/>Anwendung.
+      <lb/>Das Verfahren der Untersuchungsaus-
+      <lb/>schüsse wird durch Geschäftsordnungsge-
+      <lb/>setz geregelt.
+      <lb/>B) Die Verwaltung des Bundes.
+      </ab></div>
+<div ana="article">
+<head>Art. 68.
+      </head>
+<ab>Pflege der Beziehungen zu den aus-
+      <lb/>wärtigen Staaten ist ausschließlich Sache
+      <lb/>des Bundes.
+      <lb/>Den Ländern ist es untersagt, mit aus-</ab><pb facs="#facs_24" n="24" xml:id="img_0024"/><ab facs="#facs_24_tr_3" type="">- 23 -
+      <lb/>wärtigen Staaten in Verhandlung zu treten
+      <lb/>oder Staatsverträge abzuschliessen, Ver-
+      <lb/>einbarungen über Gegenstände ihres selbst-
+      <lb/>ständigen Wirkungskreises können mehrere
+      <lb/>Landesregierungen untereinander nur durch
+      <lb/>Vermittlung der Bundesregierung eingehen.</ab></div>
+<div ana="article">
+<head>Art. 69.
+      </head>
+<ab facs="#facs_24_tr_2" type="">Das Bundesheer ist bestimmt, die Re-
+      <lb/>publik gegen äussere Angriffe zu verteidi-
+      <lb/>gen und, soweit es die gesetzmässige bürger-
+      <lb/>liche Gewalt für nötig findet, zum Schutze
+      <lb/>der Grundgesetze der Republik sowie an
+      <lb/>der Aufrechterhaltung der Ordnung und Si-
+      <lb/>cherheit mitzuwirken.
+      <lb/>Das Bundesheer kann auch zum Schutze
+      <lb/>gegen Naturgewalten verwendet werden, die
+      <lb/>das Leben oder das Eigentum der Bürger be-
+      <lb/>drohen.</ab></div>
+<div ana="article">
+<head>Art. 70.
+      </head>
+<ab facs="#facs_24_tr_1" type="">Das gesamte Heereswesen ist Bundes-
+      <lb/>sache und wird durch eigene Bundesorgane
+      <lb/>besorgt; ausgenommen sind die Angelegen-
+      <lb/>heiten der Einquartierung des Vorspannes.
+      </ab></div>
+<div ana="article">
+<head>Art. 71.
+      </head>
+<ab>Das Bundesmilitärgesetz gilt ein-
+      <lb/>heitlich für die ganze Republik.
+      </ab></div>
+<div ana="article">
+<head>Art. 72.
+      </head>
+<ab>Ueber das Heer verfügt die Bundesre-
+      <lb/>gierung. Sie übt die Befenlsgewalt aus-
+      <lb/>schließlich durch Befehlshaber aus, welche
+      <lb/>ihr verantwortlich sind.</ab><pb facs="#facs_25" n="25" xml:id="img_0025"/><ab facs="#facs_25_tr_4" type="">- 24 -
+      </ab></div>
+<div ana="article">
+<head>Art. 73.
+      </head>
+<ab>Die Republik bildet ein einheitliches
+      <lb/>Zoll- und Handelsgebiet, umgeben von einer
+      <lb/>gemeinschaftlichen Zollgrenze. Innerhalb
+      <lb/>des Bundesgebietes dürfen keine Zwischen-
+      <lb/>zollinien errichtet werden.</ab></div>
+<div ana="article">
+<head>Art. 74.
+      </head>
+<ab facs="#facs_25_tr_1" type="">Die Zoll- und die . . . . . Abgaben wer-
+      <lb/>den durch Bundesbehörden verwaltet.
+      </ab></div>
+<div ana="article">
+<head>Art. 75.
+      </head>
+<ab>Alle Einnahmen und Ausgaben des Bun-
+      <lb/>des müssen für jedes Rechnungsjahr veran-
+      <lb/>schlagt und in den Haushaltsplan einge-
+      <lb/>stellt werden.
+      <lb/>Der Haushaltsplan wird vor Beginn des</ab><ab facs="#facs_25_tr_2" type="">Rechnungsjahres durch ein Bundesgesetz
+      <lb/>festgestellt.
+      <lb/>Die Ausgaben werden in der Regel für
+      <lb/>ein Jahr bewilligt; sie können in beson-
+      <lb/>deren Fällen auch für eine längere Dauer
+      <lb/>bewilligt werden. Im übrigen sind Vor-
+      <lb/>schriften im Bundeshaushaltsgesetz unzu-
+      <lb/>lässig, die über das Rechnungsjahr hinaus
+      <lb/>reichen oder sich auf die Einnahmen und</ab><ab facs="#facs_25_tr_3" type="">Ausgaben des Bundes oder ihre Verwaltung
+      <lb/>beziehen.
+      <lb/>Der Bundestag kahn im Entwurf des
+      <lb/>Haushaltsplans ohne Zustimmung des Bundes-
+      <lb/>rates Ausgaben nicht erhöhen oder neue
+      <lb/>einsetzen.
+      <lb/>Verweigert der Bundesrat seine Zu-
+      <lb/>stimmung, so finden die Bestimmungen des
+      <lb/>Art. . . . . . . . . Anwendung,</ab><pb facs="#facs_26" n="26" xml:id="img_0026"/><ab facs="#facs_26_tr_1" type="">- 25 -
+      </ab></div>
+<div ana="article">
+<head>Art. 76.
+      </head>
+<ab>Ueber die Verwendung aller Bundes-
+      <lb/>einnahmen legt der Staatssekretär für Fi-
+      <lb/>nanzen mit dem folgenden Rechnungsjahr zur
+      <lb/>Entlastung der Bundesregierung dem Bundes-
+      <lb/>rat und dem Bundestag Rechnung vor.
+      </ab></div>
+<div ana="article">
+<head>Art. 77.
+      </head>
+<ab>Im Wege des Kredites dürfen Geldmit-
+      <lb/>tel nur bei außerordentlichem Bedarf und
+      <lb/>in der Regel nur für Ausgaben zu werben-
+      <lb/>den Zwecken beschafft werden. Eine solche
+      <lb/>Beschaffung sowie die Uebernahme einer</ab><ab facs="#facs_26_tr_2" type="">Sicherungsleistung zu Lasten des Bundes
+      <lb/>dürfen nur auf Grund eines Bundesgesetzes
+      <lb/>erfolgen.
+      </ab></div>
+<div ana="article">
+<head>Art. 78.
+      </head>
+<ab>Die Verwaltung des Post- und Tele-
+      <lb/>grafenwesens samt des Fernsprechwesens
+      <lb/>erfolgt durch eigene Bundesorgane.
+      </ab></div>
+<div ana="article">
+<head>Art. 79.
+      </head>
+<ab>Eisenbahnenverwaltung (im Einverneh-
+      <lb/>men mit dem Staatsamt für Verkehrswesen).
+      </ab></div>
+<div ana="article">
+<head>Art. 80.</head>
+<ab>
+</ab><ab facs="#facs_26_tr_3" type="">Wasserstrassenverwaltung (im Ein-
+      <lb/>vernehmen mit dem Staatsamt für Verkehre-
+      <lb/>wesen).
+      <lb/>C) Die Gerichtsbarkeit des Bundes.
+      </ab></div>
+<div ana="article">
+<head>Art. 81.
+      </head>
+<ab>Alle Gerichtsbarkeit geht vom Bunde
+      <lb/>aus.</ab><pb facs="#facs_27" n="27" xml:id="img_0027"/><ab facs="#facs_27_tr_2" type="">- 26 -
+      <lb/>Die Urteile und Erkenntnisse werden
+      <lb/>im Namen der Republik Oesterreich ausge-
+      <lb/>fertigt.
+      </ab></div>
+<div ana="article">
+<head>Art. 82.
+      </head>
+<ab>Die Verfassung und Zuständigkeit
+      <lb/>der Gerichte wird durch Bundesgesetz
+      <lb/>festgestellt.
+      <lb/>Niemand darf seinem ordentlichen
+      <lb/>Richter entzogen werden.
+      <lb/>Ausnahmsgerichte sind nur in den
+      <lb/>im Gesetze vorausbestimmten Fällen zuläs-</ab><ab facs="#facs_27_tr_1" type="">sig. Ob ein solcher Fall vorliegt, wird,
+      <lb/>abgesehen von den in der Strafprozess-
+      <lb/>ordnung geregelten Fällen, durch Beschluß
+      <lb/>der Bundesregierung festgesetzt. Die Bun-
+      <lb/>desregierung ist verpflichtet, jeden sol-
+      <lb/>chen Beschluß ungesäumt der Bundesver-
+      <lb/>sammlung und dem Bundesrat vorzulegen und
+      <lb/>über Beschluß eines der beiden Vertretungs
+      <lb/>körper sofort außer Kraft zu setzen.
+      </ab></div>
+<div ana="article">
+<head>Art. 83.
+      </head>
+<ab>Die Militärgerichtsbarkeit ist -
+      <lb/>außer für Kriegszeiten - aufzuheben; das
+      <lb/>Nähere regelt ein Bundesgesetz.</ab></div>
+<div ana="article">
+<head>Art. 84.
+      </head>
+<ab facs="#facs_27_tr_3" type="">Die Todesstrafe ist abgeschafft.
+      </ab></div>
+<div ana="article">
+<head>Art. 85.
+      </head>
+<ab>Die Gerichtsbarkeit in Polizei- und
+      <lb/>Gefällstrafsachen wird durch Gesetz ge-
+      <lb/>regelt.</ab><pb facs="#facs_28" n="28" xml:id="img_0028"/><ab facs="#facs_28_tr_1" type="">- 27 -
+      </ab></div>
+<div ana="article">
+<head>Art. 86.
+      </head>
+<ab>Die Richter werden - soferne nicht
+      <lb/>anderes bestimmt ist - auf Grund von Be-
+      <lb/>setzungsvorschlägen der durch die Ge-
+      <lb/>richtsverfassung dazu bestimmten Senate
+      <lb/>über Antrag der Bundesregierung vom
+      <lb/>Bundespräsidenten oder über dessen Er-
+      <lb/>mächtigung vom Staatssekretär für Justiz
+      <lb/>ernannt.
+      <lb/>Der durch den Staatssekretär für
+      <lb/>Justiz an die Bundesregierung zu leitende
+      <lb/>oder dem Staatssekretär für Justiz vorzu-
+      <lb/>legende Besetzungsvorschlag hat, wenn ge-
+      <lb/>nügend Bewerber vorhanden sind, mindestens</ab><ab facs="#facs_28_tr_3" type="">2 Personen mehr zu umfassen, als Richter
+      <lb/>zu ernennen sind.
+      <lb/>Die Richter werden in die für die
+      <lb/>übrigen Staatsbeamten bestehenden Rangs-
+      <lb/>klassen nicht eingeteilt; ihre dienstli-
+      <lb/>che Verwendung ist von ihrer Einteilung
+      <lb/>in Gehaltsklassen unabhängig.</ab></div>
+<div ana="article">
+<head>Art. 87.
+      </head>
+<ab facs="#facs_28_tr_2" type="">Die Richter sind in Ausübung ihres
+      <lb/>richterlichen Amtes selbständig und un-
+      <lb/>abhängig-
+      <lb/>In Ausübung seines richterlichen Am-
+      <lb/>tes befindet sich ein Richter bei Besor-
+      <lb/>gung aller ihm nach dem Gesetze und der
+      <lb/>Geschäftsverteilung zustehenden richter-
+      <lb/>lichen Geschäfte, einschließlich jener
+      <lb/>der Justizverwaltungssachen, die nach
+      <lb/>Vorschrift des Gesetzes durch Senate oder
+      <lb/>Kommissionen zu erledigen sind.</ab><pb facs="#facs_29" n="29" xml:id="img_0029"/><ab facs="#facs_29_tr_1" type="">- 28 -
+      </ab></div>
+<div ana="article">
+<head>Art. 88.
+      </head>
+<ab>Vor Erreichung der im Gerichtsorga-
+      <lb/>nisationsgesetz festgesetzten Altersgren-
+      <lb/>ze dürfen Richter nur auf Grund eines
+      <lb/>förmlichen richterlichen Erkenntnisses
+      <lb/>ihres Amtes ersetzt werden; ihre zeit-
+      <lb/>weise Enthebung vom Amte darf nur durch
+      <lb/>Verfügung des Gerichtsvorstandes oder
+      <lb/>höheren Gerichtsbehörde unter gleichzei-
+      <lb/>tiger Verweisung der Sache an das zustän-
+      <lb/>dige Gericht, die Versetzungen eine an-
+      <lb/>dere Stelle oder in den Ruhestand wider
+      <lb/>Willen nur durch gerichtlichen Beschluß</ab><ab facs="#facs_29_tr_3" type="">in den durch das Gesetz bestimmten Fäl-
+      <lb/>len und Formen stattfinden. Diese Bestim-
+      <lb/>mungen finden jedoch bei Uebersetzung und
+      <lb/>Versetzungen in den Ruhestand keine An-
+      <lb/>wendung, die durch Veränderungen in der
+      <lb/>Verfassung der Gerichte nötig werden. In
+      <lb/>einem solchen Falle wird durch Gesetz</ab><ab facs="#facs_29_tr_2" type="">festgestellt, innerhalb welchen Zeitrau-
+      <lb/>mes Richter, ohne die sonst vorgeschrie-
+      <lb/>benen Förmlichkeiten übersetzt und in
+      <lb/>den Ruhestand versetzt werden können.
+      </ab></div>
+<div ana="article">
+<head>Art. 89.
+      </head>
+<ab>Die Prüfung der Giltigkeit gehörig
+      <lb/>kundgemachter Gesetze steht den Gerichten
+      <lb/>nicht zu.
+      <lb/>Hat ein Gericht die Anwendung einer
+      <lb/>Vollzugsanweisung (Vdg.) als gesetzwidrig
+      <lb/>abgelehnt, hat es gleichzeitig den Antrag</ab><pb facs="#facs_30" n="30" xml:id="img_0030"/><ab facs="#facs_30_tr_1" type="">- 29 -
+      <lb/>auf Kassation dieser Vollzugsanweisung
+      <lb/>beim Bundesverfassungsgerichte zu stellen.
+      <lb/>(Art. CXXV.)
+      </ab></div>
+<div ana="article">
+<head>Art. 90.
+      </head>
+<ab>Wegen der von einem Richter in Aus-
+      <lb/>übung seines Amtes verursachten Rechts-
+      <lb/>verletzungen kann dieser Richter sowie
+      <lb/>der Bund außer den im gerichtlichen Ver-
+      <lb/>fahren vorgezeichneten Rechtsmitteln mit
+      <lb/>Klage belangt werden. Dieses Klagerecht
+      <lb/>wird durch ein besonderes Bundesgesetz
+      <lb/>geregelt.</ab><ab facs="#facs_30_tr_2" type="">Der Bund haftet für jedes Verschul-
+      <lb/>den des Richters, dieser nur, wenn ihm
+      <lb/>Vorsatz oder grobe Fahrlässigkeit zur
+      <lb/>Last fällt.
+      </ab></div>
+<div ana="article">
+<head>Art. 91.
+      </head>
+<ab>Die Verhandlungen vor dem erkennen-
+      <lb/>den Richter sind in Zivil- und Straf-
+      <lb/>rechtssachen mündlich und öffentlich. Die
+      <lb/>Ausnahme bestimmt das Gesetz.
+      <lb/>Im Strafverfahren gilt der Anklags-
+      <lb/>prozess.</ab></div>
+<div ana="article">
+<head>Art. 92.
+      </head>
+<ab facs="#facs_30_tr_3" type="">Bei den mit schweren Strafen be-
+      <lb/>drohten Verbrechen, die das Gesetz zu
+      <lb/>bezeichnen hat, sowie bei allen politi-
+      <lb/>schen oder durch den Inhalt einer Druck-
+      <lb/>schrift verübten Verbrechen und Vergehen
+      <lb/>entscheiden Geschworene über die Schuld
+      <lb/>des Angeklagten.</ab><pb facs="#facs_31" n="31" xml:id="img_0031"/><ab facs="#facs_31_tr_2" type="">- 30 -
+      </ab></div>
+<div ana="article">
+<head>Art. 93.
+      </head>
+<ab>Als oberste Instanz in Zivil- und
+      <lb/>Strafrechtssachen besteht das Oberste
+      <lb/>Bundesgericht in Wien.
+      </ab></div>
+<div ana="article">
+<head>Art. 94.
+      </head>
+<ab>Die Erteilung von Amnestien erfolgt
+      <lb/>durch Bundesgesetz.
+      </ab></div>
+<div ana="article">
+<head>Art. 95.
+      </head>
+<ab>Die Rechtspflege wird von der Ver-</ab><ab facs="#facs_31_tr_1" type="">waltung in allen Instanzen getrennt. Die
+      <lb/>Staatsanwaltschaft gilt als Verwaltungs-
+      <lb/>behörde.
+      </ab></div>
+<div ana="article">
+<head>Art. 96.
+      </head>
+<ab>In allen Fällen, wo eine Verwaltungs-
+      <lb/>behörde nach den bestehenden oder künftig
+      <lb/>zu erlassenden Gesetzen über Privat-
+      <lb/>rechtsansprüche zu entscheiden hat, steht
+      <lb/>es dem durch diese Entscheidung Benach-
+      <lb/>teiligten frei, wenn nicht im Gesetze
+      <lb/>etwas anderes bestimmt ist, Abhilfe ge-
+      <lb/>gen die andere Partei im Rechtswege zu
+      <lb/>suchen.</ab><ab facs="#facs_31_tr_3" type="">Vierter Abschnitt.
+      <lb/>Von der Gesetzgebung und Vollziehung der
+      <lb/>Länder.
+      </ab></div>
+<div ana="article">
+<head>Art. 97.
+      </head>
+<ab>Die gesetzgebende Gewalt der Länder
+      <lb/>wird durch den Landtag ausgeübt, dessen
+      <lb/>Mitglieder auf Grund des gleichen, gehei-
+      <lb/>men persönlichen und direkten Verhältnis-</ab><pb facs="#facs_32" n="32" xml:id="img_0032"/><ab facs="#facs_32_r" type="">- 31 -</ab><ab facs="#facs_32_tr_3" type="">wahlrechtes aller nach den Landtagsordnun-
+      <lb/>gen Wahlberechtigten Bundesbürger ohne Un-
+      <lb/>terschied des Geschlechtes gewählt werden.
+      <lb/>Die Landtagswahlordnungen dürfen die
+      <lb/>Bedingungen des aktiven und passiven Wahl-
+      <lb/>sechtes nicht enger ziehen, als dies in
+      <lb/>der Wahlordnung zum Bundestag der Fall ist.</ab></div>
+<div ana="article">
+<head>Art. 98.
+      </head>
+<ab facs="#facs_32_tr_2" type="">Die Mitglieder der Landtage geniessen
+      <lb/>die gleiche Immunität wie die Mitglieder
+      <lb/>der Bundestage, wobei die Bestimmungen des
+      <lb/>Art. . . . . der Bundesverfassung analoge An-
+      <lb/>wendung finden.
+      <lb/>Die Bestimmungen des Art. . . . der
+      <lb/>Bundesverfassung gelten noch für die öf-
+      <lb/>fentlichen Sitzungen der Landtage und ihrer
+      <lb/>Ausschüsse.</ab></div>
+<div ana="article">
+<head>Art. 99.
+      </head>
+<ab facs="#facs_32_tr_1" type="">Zu einem Landesgesetz ist erforderlich
+      <lb/>der Beschluß des Landtages, die Beurkundung
+      <lb/>durch dessen Präsidenten und die Kund-
+      <lb/>machung durch die Landesregierung im Landes-
+      <lb/>gesetzblatte.
+      </ab></div>
+<div ana="article">
+<head>Art. 100.
+      </head>
+<ab>Alle Gesetzesbeschlüsse der Landtage
+      <lb/>sind unmittelbar nach erfolgter Beschluß-
+      <lb/>fassung durch den Landtag und vor ihrer
+      <lb/>Kundmachung vom Landeshauptmann der Bundes-
+      <lb/>regierung bekanntzugeben.
+      <lb/>Wegen Gefährdung von Bundesinteressen
+      <lb/>kann die Bundesregierung binnen 4 Wochen
+      <lb/>vom Tage der erfolgten Bekanntmachung an ge-
+      <lb/>gen einen Gesetzesbeschluß des Landtages</ab><pb facs="#facs_33" n="33" xml:id="img_0033"/><ab facs="#facs_33_tr_3" type="">- 32 -
+      <lb/>Einspruch erheben.
+      <lb/>Ein solcher Gesetzesbeschluß kann
+      <lb/>nur dann in Rechtskraft erwachsen, wenn
+      <lb/>er bei Anwesenheit von zwei Drittel aller
+      <lb/>Mitglieder des Landtages mit einer Mehr-
+      <lb/>heit von drei Viertel aller abgegebenen
+      <lb/>Stimmen wiederholt wird.</ab></div>
+<div ana="article">
+<head>Art. 101.
+      </head>
+<ab facs="#facs_33_tr_2" type="">Die durch Landesgesetz zu erlassende
+      <lb/>Landesverfassung kann - insoweit dadurch
+      <lb/>die Bundesverfassung nicht berührt wird -
+      <lb/>durch Landesgesetz abgeändert werden.
+      <lb/>Ein Landesverfassungsgesetz kann nur
+      <lb/>bei Anwesenheit von Zweidrittel aller
+      <lb/>Mitglieder des Landtages mit einer Mehr-
+      <lb/>heit von Dreiviertel aller abgegebenen
+      <lb/>Stimmen beschlossen werden.</ab></div>
+<div ana="article">
+<head>Art. 162.
+      </head>
+<ab facs="#facs_33_tr_1" type="">Die Kundmachung der Landesgesetze
+      <lb/>erfolgt mit Berufung auf den Beschluß
+      <lb/>des Landtages durch die Landesregierung
+      <lb/>im Landesgesetzblatte.
+      <lb/>Die Beurkundung des verfassungsmäs-
+      <lb/>sigen Zustandekommens geschieht durch
+      <lb/>die von dem Landeshauptmann gegenzuzeich-
+      <lb/>nende Unterschrift des Präsidenten des
+      <lb/>Landtages.
+      <lb/>Landesgesetze treten vier Wochen nach
+      <lb/>der erfolgten Verlautbarung in Wirksam-
+      <lb/>keit. Eine Abkürzung dieses Termins be-
+      <lb/>darf der Zustimmung der Bundesregierung.</ab><pb facs="#facs_34" n="34" xml:id="img_0034"/><ab facs="#facs_34_tr_2" type="">- 33 -
+      </ab></div>
+<div ana="article">
+<head>Art. 103.
+      </head>
+<ab>Jeder Landtag kann auf Antrag der
+      <lb/>Bundesregierung, die vorher den Bundes-
+      <lb/>rat zu hören hat, vom Bundespräsidenten
+      <lb/>aufgelöst werden.
+      <lb/>In diesem Falle hat der Landeshaupt-
+      <lb/>mann binnen . . . Wochen Neuwahlen auszu-
+      <lb/>schreiben und binnen . . . Wochen nach er-
+      <lb/>folgter Wahl den neugewählten Landtag
+      <lb/>einzuberufen.</ab></div>
+<div ana="article">
+<head>Art. 104.
+      </head>
+<ab facs="#facs_34_tr_3" type="">Die vollziehende Gewalt jedes Lan-
+      <lb/>des wird durch eine von dem Landtag zu
+      <lb/>wählende Landesregierung ausgeübt.
+      <lb/>Die Landesregierung besteht aus dem
+      <lb/>Landeshauptmann, seinem Stellvertreter
+      <lb/>und . . . bis . . . . Beisitzern.
+      <lb/>Die Mitglieder der Landesregierung
+      <lb/>müssen nicht dem Landtage angehören.</ab></div>
+<div ana="article">
+<head>Art. 105.
+      </head>
+<ab facs="#facs_34_tr_1" type="">Der Landeshauptmann bezw. sein
+      <lb/>Stellvertreter vertritt das Land. Er
+      <lb/>trägt in den Angelegenheiten des der Landes-
+      <lb/>regierung übertragenen Wirkungskreises
+      <lb/>der Bundesgewalt die Verantwortung ge-
+      <lb/>genüber der Bundesregierung gemäß Art.
+      <lb/>. . . der Bundesverfassung. Der Geltendma-
+      <lb/>chung dieser Verantwortlichkeit steht Immu-
+      <lb/>nität nicht im Wege.
+      <lb/>Dem Landtag sind die Mitglieder
+      <lb/>der Landesregierung gemäß Art. CXXVIII
+      <lb/>der Bundesverfassung verantwortlich.</ab><pb facs="#facs_35" n="35" xml:id="img_0035"/><ab facs="#facs_35_r" type="">- 34 -</ab></div>
+<div ana="article">
+<head>Art. 106.
+      </head>
+<ab facs="#facs_35_tr_2" type="">Die vollziehende Gewalt des Bundes
+      <lb/>wird im Bereiche der Länder von den Lan-
+      <lb/>desregierungen und den ihnen unterstell-
+      <lb/>ten Landesbehörden im übertragenen Wir-
+      <lb/>kungskreis ausgeübt, soweit nicht für ein-
+      <lb/>zelne Bundesangelegenheiten eigene Bundes-
+      <lb/>behörden durch Bundesgesetz berufen sind.
+      <lb/>In diesem Belange ist die Landesre-
+      <lb/>gierung samt den ihr unterstellten Behör-
+      <lb/>den an die Bundesgesetze, die Vollzugs-
+      <lb/>anweisungen und sonstigen Anordnungen der</ab><ab facs="#facs_35_tr_1" type="">Bundesregierung sowie der einzelnen Bun-
+      <lb/>desämter gebunden.
+      <lb/>In den von den Landesbehörden als
+      <lb/>Bundesorgan wahrgenommenen Angelegenhei-
+      <lb/>ten geht der administrative Instanzenzug -
+      <lb/>wenn nicht durch Bundesgesetz ausdrück-
+      <lb/>lich anders bestimmt ist, - bis zur Bun-
+      <lb/>desregierung bezw. den ressortmässig zu-
+      <lb/>stehenden Bundesämtern.
+      </ab></div>
+<div ana="article">
+<head>Art. 107.
+      </head>
+<ab>Aus besonderen Gründen kann über Be-
+      <lb/>schluß der Bundesregierung zur Wahrneh-
+      <lb/>mung der Angelegenheiten des der Landes-</ab><ab facs="#facs_35_tr_3" type="">regierung vom Bunde übertragenen Wirkungs-
+      <lb/>kreises vom Bundespräsidenten ein außer-
+      <lb/>ordentlicher Bundeskommissär bestellt
+      <lb/>werden.
+      <lb/>In diesem Falle sind alle Landesor-
+      <lb/>gane innerhalb des übertragenen Wirkungs-
+      <lb/>kreises an die Weisungen des Bundeskommis-
+      <lb/>särs unmittelbar gebunden.</ab><pb facs="#facs_36" n="36" xml:id="img_0036"/><ab facs="#facs_36_r" type="">- 35 -</ab><ab facs="#facs_36_tr_2" type="">Fünfter Abschnitt.
+      <lb/>Von der Rechnungskontrollee des Bundes.
+      </ab></div>
+<div ana="article">
+<head>Art. 108.
+      </head>
+<ab>Zur Ueberprüfung der Gebarung in der
+      <lb/>gesamten Staatswirtschaft des Bundes wie
+      <lb/>der Länder, einschließlich der Staats-
+      <lb/>schulden, ferner der Gebarung der von Or-
+      <lb/>ganen des Bundes oder der Länder verwal-
+      <lb/>teten Stiftungen, Fonds und Anstalten so-
+      <lb/>wie zur Ueberprüfung von Gebarung jener
+      <lb/>Institute und Gesellschaften, an welchen</ab><ab facs="#facs_36_tr_1" type="">der Bund oder die Länder in irgendeiner
+      <lb/>Form finanziell beteiligt sind, ist der
+      <lb/>Bundesrechnungshof berufen.
+      <lb/>Der Bundesrechnungshof untersteht
+      <lb/>unmittelbar dem Bundestag und dem Bundes-
+      <lb/>rat.
+      </ab></div>
+<div ana="article">
+<head>Art. 109.
+      </head>
+<ab>Der Bundesrechnungshof besteht aus
+      <lb/>einem Präsidenten und den erforderlichen
+      <lb/>Beamten und Hilfskräften.
+      <lb/>Der Präsident des Bundesrechnungs-
+      <lb/>hofes wird von dem Bundestag gewählt. Die
+      <lb/>Wahl bedarf der Genehmigung des Bundesra-
+      <lb/>tes.</ab></div>
+<div ana="article">
+<head>Art. 110.
+      </head>
+<ab facs="#facs_36_tr_3" type="">Der Präsident des Bundesrechnungsho-
+      <lb/>fes ist den Staatssekretären - auch in den
+      <lb/>Bezügen - gleichgestellt.
+      <lb/>Er darf keiner politischen Körper-
+      <lb/>schaft angehören, und in den letzten 5
+      <lb/>Jahren weder Mitglied der Bundesregierung
+      <lb/>noch einer Landesregierung gewesen sein.</ab><pb facs="#facs_37" n="37" xml:id="img_0037"/><ab facs="#facs_37_tr_3" type="">- 36 -
+      </ab></div>
+<div ana="article">
+<head>Art. 111.
+      </head>
+<ab>Dem Präsidenten des Bundesrechnungs-
+      <lb/>hofes obliegt dessen oberste Leitung. Er
+      <lb/>ist hinsichtlich der Verantwortlichkeit
+      <lb/>den Mitgliedern der Bundesregierung gleich-
+      <lb/>zustellen.</ab><ab facs="#facs_37_tr_2" type="">Abgesehen von dem in Art. . . . . der
+      <lb/>Bundesverfassung geregelten Fall kann
+      <lb/>der Präsident des Bundesrechnungshofes
+      <lb/>nur durch Beschluß der Bundesversammlung
+      <lb/>oder des Bundesrates abberufen werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 112.
+      </head>
+<ab>Der Präsident des Bundesrechnungs-
+      <lb/>hofes verkehr mit demBundestag, dem Bun-
+      <lb/>desrat und der Bundesregierung unmittelbar.
+      <lb/>Er ist verpflichtet über Gegenstände
+      <lb/>seines Wirkungskreises dem Bundestag und</ab><ab facs="#facs_37_tr_1" type="">dem Bundesrate persönlich oder durch Be-
+      <lb/>auftragte jederzeit Auskunft zu erteilen.
+      <lb/>Er kann den Beratungen der Bundes-
+      <lb/>regierung beigezogen werden, falls Gegen-
+      <lb/>stände verhandelt werden, die den Wir-
+      <lb/>kungskreis des Bundesrechnungshofes betref-
+      <lb/>fen oder über dessen Anregung zur Ver-
+      <lb/>handlung gelangen.
+      <lb/>Ueber alle Gegenstände seines Wir-
+      <lb/>kungskreises muß der Präsident auf Ver-
+      <lb/>langen jedesmal gehört werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 113.
+      </head>
+<ab>Bei vorübergehender Verhinderung wird
+      <lb/>der Präsident durch den im Range nächsten</ab><pb facs="#facs_38" n="38" xml:id="img_0038"/><ab facs="#facs_38_tr_1" type="">- 37 -
+      <lb/>Beamten des Bundesrechnungshofes vertreten.
+      <lb/>Für den Stellvertreter gelten die Be-
+      <lb/>stimmungen des Art. . .,Abs. 2.
+      <lb/>Ist die Stelle des Präsidenten dauernd
+      <lb/>erledigt, kann der Stellvertreter vom Bun-
+      <lb/>despräsidenten, bis die Wahl des Präsiden-
+      <lb/>ten des Bundesrechnungshofes erfolgt ist,
+      <lb/>mit der Leitung des Bundesrechnungshofes
+      <lb/>betraut werden. In diesem Falle finden
+      <lb/>auch auf den Stellvertreter die Bestimmun-
+      <lb/>gen des Art. . . und . . Anwendung.</ab></div>
+<div ana="article">
+<head>Art. 114.
+      </head>
+<ab facs="#facs_38_tr_2" type="">Die Beamten des Bundesrechnungshofes
+      <lb/>ernennt auf Vorschlag des Präsidenten der
+      <lb/>Bundespräsident, doch kann der Bundesprä-
+      <lb/>sident den Präsidenten des Bundesrechnungs-
+      <lb/>hofes ermächtigen, Beamte bestimmter Rangs-
+      <lb/>klassen nach Anhörung des Gremiums zu er-
+      <lb/>nennen.
+      <lb/>Auf die letzterwähnte Weise sind alle
+      <lb/>übrigen Stellen zu besetzen.</ab></div>
+<div ana="article">
+<head>Art. 115.
+      </head>
+<ab facs="#facs_38_tr_3" type="">Kein Mitglied des Bundesrechnungshofes
+      <lb/>darf an der Leitung und Verwaltung von Un-
+      <lb/>ternehmungen, die dem Bunde oder den Län-
+      <lb/>dern Rechnung zu legen haben oder zum Bun-
+      <lb/>de oder einem Lande in einem Subventions-
+      <lb/>oder Vertragsverhältnisse stehen, beteiligt
+      <lb/>sein. Ausgenommen sind Unternehmungen, die
+      <lb/>ausschließlich die Förderung humaner Be-
+      <lb/>strebungen oder der wirtschaftlichen Ver-</ab><pb facs="#facs_39" n="39" xml:id="img_0039"/><ab facs="#facs_39_tr_1" type="">- 38 - 
+      <lb/>hältnisse von öffentlichen Beamten oder
+      <lb/>deren Angehörigen zum Zwecke haben.
+      </ab></div>
+<div ana="article">
+<head>Art. 116.
+      </head>
+<ab>Alle Urkunden über Staatsschulden
+      <lb/>(Finanz- und Verwaltungsschulden) sind
+      <lb/>vom Präsidenten des Bundesrechnungshofes
+      <lb/>gegenzuzeichnen; durch diese Gegenzeich-
+      <lb/>nung wird lediglich die Gesetzmäßigkeit
+      <lb/>und rechnungsmäßige Richtigkeit der Geba-
+      <lb/>rung bekräftigt.</ab></div>
+<div ana="article">
+<head>Art. 117.
+      </head>
+<ab facs="#facs_39_tr_3" type="">Bei der Ueberprüfung der seiner Kon-
+      <lb/>trolle unterstellten Gebarung hat der Bun-
+      <lb/>desrechnungshof sein Hauptaugenmerk darauf
+      <lb/>zu richten, ob die Gebarung den Gesetzen
+      <lb/>und sonstigen Vorschriften entspricht, dann
+      <lb/>ob sie ökonomisch und zweckmäßig ist. Kei-
+      <lb/>nesfalls darf er sich bloß auf eine ziffern
+      <lb/>mäßige Nachprüfung beschränken.
+      </ab></div>
+<div ana="article">
+<head>Art. 118.</head>
+<ab>
+</ab><ab facs="#facs_39_tr_2" type="">Der Bundesrechnungshof ist gegenüber
+      <lb/>den anweisenden Behörden und den diesen
+      <lb/>unterstehenden Stellen, dann gegenüber den
+      <lb/>im Art. . . bezeichneten Vermögens- und
+      <lb/>Körperschaften berechtigt, zur Ueberprü-
+      <lb/>fung der Gebarung
+      <lb/>a) die Einsendung von Rechnungsbele-
+      <lb/>gen und Behelfen (Geschäftsstücke, Verträ-
+      <lb/>ge u.s.w.) zu verlangen;
+      <lb/>b) durch Beauftragte an Ort und Stel-
+      <lb/>le in die mit der Gebarung der betreffen-</ab><pb facs="#facs_40" n="40" xml:id="img_0040"/><ab facs="#facs_40_tr_3" type="">- 39 -
+      <lb/>den Stelle im Zusammenhänge stehenden Be-
+      <lb/>helfe Einschau zu nehmen;
+      <lb/>c) die Vornahme von Lokalerhebungen
+      <lb/>durch die Verwaltungsgebehörden anzuordnen
+      <lb/>und an diesen Amtshandlungen durch Beauf-
+      <lb/>tragte teilzunehmen.</ab></div>
+<div ana="article">
+<head>Art. 119.
+      </head>
+<ab facs="#facs_40_tr_2" type="">Die der Bundesregierung sowie die den
+      <lb/>Landesregierungen unterstehenden Stellen
+      <lb/>haben den Anordnungen, die der Bundesrech-
+      <lb/>nungshof bei der ihm zustehenden Ueberprü-
+      <lb/>fung trifft, Folge zu leisten. In Angele-
+      <lb/>genheiten, die die Bundesämter oder die
+      <lb/>Landesregierungen - letztere innerhalb
+      <lb/>ihres selbständigen Wirkungskreises - selbst
+      <lb/>betreffen, hat der Bundesrechnungshof mit
+      <lb/>diesen Behörden das Einvernehmen zu pflegen.</ab></div>
+<div ana="article">
+<head>Art. 120.
+      </head>
+<ab facs="#facs_40_tr_1" type="">Der Bundesrechnungshof hat für ein
+      <lb/>zweckmäßiges und möglichst einfaches Rech-
+      <lb/>nungsverfahren zu sorgen und dabei stets
+      <lb/>das Einvernehmen mit dem Bundesamte der
+      <lb/>Finanzen bezw. mit den Landesregierungen
+      <lb/>zu pflegen. Falls eine Anordnung dieser
+      <lb/>Art die innere Einrichtung einer Verwal-
+      <lb/>tungsstelle berührt, hat der Bundesrech-
+      <lb/>nungshof auch das Einvernehmen mit dem
+      <lb/>zuständigen Bundesamte bezw. der zuständi-
+      <lb/>gen Landesregierung zu pflegen.
+      <lb/>Grundsätzliche Aenderungen im Rech-
+      <lb/>nungs- und Kassenwesen dürfen nur im Ein-
+      <lb/>vernehmen mit dem Bundesrechnungshofe ge-
+      <lb/>troffen werden.</ab><pb facs="#facs_41" n="41" xml:id="img_0041"/><ab facs="#facs_41_r" type="">- 40 -</ab></div>
+<div ana="article">
+<head>Art. 121.
+      </head>
+<ab facs="#facs_41_tr_1" type="">Lassen sich Meinungsverschiedenheiten
+      <lb/>zwischen den Bundesämtern und dem Bundes-
+      <lb/>rechnungshofe nicht im Einvernehmen austra-
+      <lb/>gen, so entscheidet der Bundespräsident;
+      <lb/>Meinungsverschiedenheiten zwischen dem Bun-
+      <lb/>desrechnungshofe und den Landesregierungen,
+      <lb/>die sich im Einvernenmen nicht austragen
+      <lb/>lassen, entscheidet der Bundesrat.
+      </ab></div>
+<div ana="article">
+<head>Art. 122.
+      </head>
+<ab>Die anweisenden Behörden haben nach
+      <lb/>Ablauf jedes Verwaltungsjahres ihre Rech-
+      <lb/>nungsabschlüsse dem Bundesrechnungshofe
+      <lb/>nach dessen Anordnung vorzulegen.
+      </ab></div>
+<div ana="article">
+<head>Art. 123.</head>
+<ab>
+</ab><ab facs="#facs_41_tr_2" type="">Der Bundesrechnungshof verfaßt den
+      <lb/>Bundesrechnungsabschluß und gesondert von
+      <lb/>diesem die Landesrechnungsabschlüsse und
+      <lb/>legt den ersteren dem Bundestag, die letz-
+      <lb/>teren dem Bundesrate vor.
+      <lb/>Der Bundesrat übermittelt die Landes-
+      <lb/>rechnungsabschlüsse den zuständigen Land-
+      <lb/>tagen zur verfassungsmäßigen Behandlung.
+      </ab></div>
+<div ana="article">
+<head>Art. 124.
+      </head>
+<ab>Die näheren Bestimmungen über die in-
+      <lb/>nere Einrichtung und den Geschäftsgang des
+      <lb/>Bundesrechnungshofes regelt die Geschäfts-
+      <lb/>ordnung. Sie ist vom Bundesrechnungshofe
+      <lb/>dem Bundespräsidenten im Wege der Bundes-
+      <lb/>regierung zur Genehmigung vorzulegen.</ab><pb facs="#facs_42" n="42" xml:id="img_0042"/><ab facs="#facs_42_tr_1" type="">- 41 -
+      <lb/>Sechster Abschnitt.
+      <lb/>Von den Grundrechten und Grundpflich-
+      <lb/>ten.
+      </ab></div>
+<div ana="article">
+<head>Art. 125.
+      </head>
+<ab>Alle Staatsbürger sind vor dem Ge-
+      <lb/>setze gleich.
+      <lb/>Männer und Frauen haben grundsätzlich
+      <lb/>dieselben staatsbürgerlichen Rechte und
+      <lb/>Pflichten.
+      <lb/>Oeffentlichrechtliche Vorrechte und
+      <lb/>Nachteile der Geburt oder des Standes, ins-
+      <lb/>besondere der Adel, seine äußeren Ehren-
+      <lb/>vorzüge sowie bloß zur Auszeichnung ver-
+      <lb/>liehene, mit einer amtlichen Stellung, dem
+      <lb/>Berufe oder einer wissenschaftlichen oder</ab><ab facs="#facs_42_tr_2" type="">künstlerischen Befähigung nicht im Zusam-
+      <lb/>menhange stehenden Titel und Würden und
+      <lb/>die damit verbundenen Ehrenvorzüge sowie
+      <lb/>die weltlichen Ritter- und Damenorden sind
+      <lb/>aufgehoben.
+      <lb/>Die bisher verliehenen Orden und Eh-
+      <lb/>renzeichen dürfen weiter getragen werden,
+      <lb/>neue Ehrenzeichnen können nur durch Bun-
+      <lb/>desgesetz geschaffen werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 126.</head>
+<ab>
+</ab><ab facs="#facs_42_tr_3" type="">Alle Staatsbürger genießen Freizügig-
+      <lb/>keit im ganzen Bundesgebiete. Jeder hat
+      <lb/>das Recht, sich an beliebigen Orten des
+      <lb/>Bundesgebietes aufzuhalten und niederzu-
+      <lb/>lassen, Grundstücke zu erwerben und jeden
+      <lb/>Nahrungszweig zu betreiben. Einschränkun-
+      <lb/>gen bedürfen eines Bundesgesetzes.</ab><pb facs="#facs_43" n="43" xml:id="img_0043"/><ab facs="#facs_43_tr_1" type="">- 42 -
+      </ab></div>
+<div ana="article">
+<head>Art. 127.
+      </head>
+<ab>Jeder Staatsbürger ist berechtigt
+      <lb/>auszuwandern. Die Auswanderung kann nur
+      <lb/>durch Bundesgesetz beschränkt werden.
+      <lb/>Dem Auslande gegenüber haben alle
+      <lb/>Bundesangehörigen inner- und außerhalb
+      <lb/>des Bundesgebietes Anspruch auf den Schutz
+      <lb/>des Bundes.
+      <lb/>Kein Staatsbürger darf einer auslän-
+      <lb/>dischen Regierung zur Verfolgung oder Be-
+      <lb/>strafung überliefert werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 128.
+      </head>
+<ab>Die fremdsprachigen Volksteile</ab><ab facs="#facs_43_tr_2" type="">des Bundes dürfen durch die Gesetzgebung
+      <lb/>und Verwaltung nicht in ihrer freien,
+      <lb/>volkstümlichen Entwicklung, besonders
+      <lb/>nicht im Gebrauch ihrer Muttersprache beim
+      <lb/>Unterrichte, sowie bei der inneren Ver-
+      <lb/>waltung und der Rechtspflege beeinträch-
+      <lb/>tigt werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 129.
+      </head>
+<ab>Die Freiheit der Person ist unver-
+      <lb/>letzlich. Eine Beeinträchtigung oder
+      <lb/>Entziehung der persönlichen Freiheit durch
+      <lb/>die öffentliche Gewalt ist nur auf Grund</ab><ab facs="#facs_43_tr_3" type="">von Gesetzen zulässig.
+      <lb/>Personen, denen die Freiheit entzogen
+      <lb/>wird, sind spätestens am darauffolgenden
+      <lb/>Tage in Kenntnis zu setzen, von welcher
+      <lb/>Behörde und aus welchen Gründen die Ent-
+      <lb/>ziehung der Freiheit angeordnet worden
+      <lb/>ist; unverzüglich soll ihnen Gelegenheit
+      <lb/>gegeben werden, Einwendungen gegen ihre
+      <lb/>Freiheitsentziehung vorzubringen.</ab><pb facs="#facs_44" n="44" xml:id="img_0044"/><ab facs="#facs_44_r" type="">- 43 -</ab></div>
+<div ana="article">
+<head>Art. 130.
+      </head>
+<ab facs="#facs_44_tr_1" type="">Die Wohnung jedes Staatsbürgers ist
+      <lb/>für ihn eine Freistätte und unverletzlich.
+      <lb/>Ausnahmen sind nur auf Grund von Gesetzen
+      <lb/>zulässig.
+      </ab></div>
+<div ana="article">
+<head>Art. 131.
+      </head>
+<ab>Eine Handlung kann nur dann mit einer
+      <lb/>Strafe belegt werden, wenn die Strafbarkeit
+      <lb/>gesetzlich bestimmt war, bevor die Hand-
+      <lb/>lung begangen wurde.
+      </ab></div>
+<div ana="article">
+<head>Art. 132.
+      </head>
+<ab>Das Briefgeheimnis sowie das Post-,
+      <lb/>Telegraphen- und Fernsprechgeheimnis sind
+      <lb/>unverletzlich. Ausnahmen können nur durch
+      <lb/>Bundesgesetz zugelassen werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 133.</head>
+<ab>
+</ab><ab facs="#facs_44_tr_2" type="">Jeder Staatsbürger hat das Recht, in
+      <lb/>nerhalb der Schranken der allgemeinen Ge-
+      <lb/>setze seine Meinung durch Wort, Schrift,
+      <lb/>Druck, Bild oder in sonstiger Weise frei
+      <lb/>zu äußern. An diesem Rechte darf ihn kein
+      <lb/>Arbeits- oder Anstellungsverhältnis hin-
+      <lb/>dern und niemand darf ihn benachteiligen,
+      <lb/>wenn er von diesem Rechte Gebrauch macht.
+      <lb/>Eine Zensur findet nicht statt, doch
+      <lb/>können für Lichtspiele durch Gesetz abwei-
+      <lb/>chende Bestimmungen getroffen werden. Auch
+      <lb/>sind zur Bekämpfung der Schund- und Schmutz
+      <lb/>literatur sowie zum Schutze der Jugend bei
+      <lb/>öffentlichen Schaustellungen und Darbietun-
+      <lb/>gen gesetzliche Maßnahmen zulässig.</ab><pb facs="#facs_45" n="45" xml:id="img_0045"/><ab facs="#facs_45_r" type="">- 44 -</ab></div>
+<div ana="article">
+<head>Art. 134.
+      </head>
+<ab facs="#facs_45_tr_2" type="">Die Ehe steht als Grundlage des Fami-
+      <lb/>lienlebens und der Erhaltung und Vermehrung
+      <lb/>der Nation unter dem besonderen Schutze der
+      <lb/>Verfassung. Sie beruht auf der Gleichberech-
+      <lb/>tigung der beiden Geschlechter.
+      <lb/>Die Reinerhaltung, Gesundung und sozia-
+      <lb/>le Förderung der Familie ist Aufgabe des
+      <lb/>Staates und der Gemeinden, Kinderreiche
+      <lb/>Familien haben Anspruch auf ausgleichende
+      <lb/>Fürsorge.
+      <lb/>Die Mutterschaft hat Anspruch auf den
+      <lb/>Schutz und die Fürsorge des Staates.</ab></div>
+<div ana="article">
+<head>Art. 135.
+      </head>
+<ab facs="#facs_45_tr_3" type="">Die Erziehung des Nachwuchses zur
+      <lb/>leiblichen, seelischen und gesellschaftli-
+      <lb/>chen Tüchtigkeit ist oberste Pflicht und
+      <lb/>natürliches Recht der Eltern, über deren
+      <lb/>Betätigung die staatliche Gemeinschaft
+      <lb/>wacht.</ab></div>
+<div ana="article">
+<head>Art. 136.
+      </head>
+<ab facs="#facs_45_tr_1" type="">Den unehelichen Kindern sind durch
+      <lb/>die Gesetzgebung die gleichen Bedingungen
+      <lb/>für ihre leibliche, seelische und gesell-
+      <lb/>schaftliche Entwicklung zu schaffen wie
+      <lb/>den ehelichen Kindern.
+      </ab></div>
+<div ana="article">
+<head>Art. 137.
+      </head>
+<ab>Die Jugend ist gegen Ausbeutung sowie
+      <lb/>gegen sittliche, geistige oder körperliche
+      <lb/>Verwahrlosung zu schützen. Staat und Ge-
+      <lb/>meinde haben die erforderlichen Einrichtun-
+      <lb/>gen zu treffen.
+      <lb/>Fürsorgemaßregeln im Wege des Zwanges
+      <lb/>können nur auf Grund des Gesetzes angeord-</ab><pb facs="#facs_46" n="46" xml:id="img_0046"/><ab facs="#facs_46_tr_1" type="">- 45 -
+      <lb/>net werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 138.
+      </head>
+<ab>Alle Staatsbürger haben das Recht,
+      <lb/>sich ohne Anmeldung oder besondere Erlaub-
+      <lb/>nis friedlich und unbewaffnet zu versam-
+      <lb/>meln.
+      <lb/>Versammlungen unter freiem Himmel
+      <lb/>können durch Bundesgesetz anmeldepflich-
+      <lb/>tig gemacht und bei unmittelbarer Gefahr
+      <lb/>für die öffentliche Sicherheit verboten
+      <lb/>werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 139.</head>
+<ab>
+</ab><ab facs="#facs_46_tr_3" type="">Alle Staatsbürger haben das Recht,
+      <lb/>zu Zwecken, die den Strafgesetzen nicht
+      <lb/>zuwiderlaufen, Vereine oder Gesellschaf-
+      <lb/>ten zu bilden. Dies Recht kann nicht durch
+      <lb/>Vorbeugungsmaßregeln beschränkt werden.
+      <lb/>Für religiöse Vereine und Gesellschaften
+      <lb/>gelten dieselben Bestimmungen.</ab></div>
+<div ana="article">
+<head>Art. 140.
+      </head>
+<ab facs="#facs_46_tr_2" type="">Wahlfreiheit und Wahlgeheimnis sind
+      <lb/>gewährleistet. Das Nähere bestimmen die
+      <lb/>Wahlgesetze.
+      </ab></div>
+<div ana="article">
+<head>Art. 141.
+      </head>
+<ab>Jeder Staatsbürger hat das Recht,
+      <lb/>sich schriftlich mit Bitten oder Beschwer-
+      <lb/>den an die zuständige Behörde oder an die
+      <lb/>Volksvertretung zu wenden. Dieses Recht
+      <lb/>kann sowohl von einzelnen als auch von
+      <lb/>mehreren gemeinsam ausgeübt werden.</ab><pb facs="#facs_47" n="47" xml:id="img_0047"/><ab facs="#facs_47_r" type="">- 46 -</ab></div>
+<div ana="article">
+<head>Art. 142.
+      </head>
+<ab facs="#facs_47_tr_2" type="">Gemeinden und Gemeindeverbände haben
+      <lb/>das Recht der Selbstverwaltung innerhalb
+      <lb/>der Schranken der Gesetze.
+      </ab></div>
+<div ana="article">
+<head>Art. 143.
+      </head>
+<ab>Alle Staatsbürger ohne Unterschied
+      <lb/>sind nach Maßgabe der Gesetze und entspre-
+      <lb/>chend ihrer Befähigung und ihren Leistun-
+      <lb/>gen zu den öffentlichen Aemtern zuzulas-
+      <lb/>sen.
+      <lb/>Alle Ausnahmsbestimmungen gegen weib-
+      <lb/>liche Beamte werden beseitigt.
+      <lb/>Die Grundlagen des Beamtenverhält-
+      <lb/>nisses sind durch Bundesgesetz zuregeln.
+      </ab></div>
+<div ana="article">
+<head>Art. 144.</head>
+<ab>
+</ab><ab facs="#facs_47_tr_1" type="">Die Anstellung der Beamten erfolgt
+      <lb/>auf Lebenszeit, soweit nicht durch Ge-
+      <lb/>setz etwas anderes bestimmt ist. Ruhege-
+      <lb/>halt und Hinterbliebenenversorgung werden
+      <lb/>gesetzlich geregelt. Die wohlerworbenen
+      <lb/>Rechte der Beamten sind unverletzlich.
+      <lb/>Für die vermögensrechtlichen Ansprüche
+      <lb/>der Beamten steht der Rechtsweg offen.
+      <lb/>Die Beamten können nur unter den ge-
+      <lb/>setzlich bestimmten Voraussetzungen und
+      <lb/>Formen vorläufig ihres Amtes enthoben,
+      <lb/>einstweilen oder endgültig in den Ruhe-
+      <lb/>stand oder in ein anderes Amt mit geringe-
+      <lb/>rem Gehalt versetzt werden.
+      <lb/>Gegen jedes dienstliche Straferkennt-
+      <lb/>nis muß ein Beschwerdeweg und die Möglich-</ab><pb facs="#facs_48" n="48" xml:id="img_0048"/><ab facs="#facs_48_tr_3" type="">- 47 -
+      <lb/>keit eines Wiederaufnahmeverfahrens er-
+      <lb/>öffnet sein. In die Nachweise über die
+      <lb/>Person des Beamten sind Eintragungen von
+      <lb/>ihm ungünstigen Tatsachen erst vorzuneh-
+      <lb/>men, wenn dem Beamten Gelegenheit gegeben
+      <lb/>war, sich über sie zu äußern. Dem Beamten
+      <lb/>ist Einsicht in seine Personalnachweise
+      <lb/>zu gewähren.
+      <lb/>Die Unverletzlichkeit der wohlerworbe-</ab><ab facs="#facs_48_tr_1" type="">nen Rechte und die Offenhaltung des Rechts-
+      <lb/>weges für die vermögensrechtlichen Ansprü-
+      <lb/>che werden besonders auch den Berufssolda-
+      <lb/>ten gewährleistet. Im übrigen wird ihre
+      <lb/>Stellung durch Bundesgesetz geregelt.
+      </ab></div>
+<div ana="article">
+<head>Art. 145.
+      </head>
+<ab>Die Denkmäler der Kunst, der Geschich-
+      <lb/>te und der Natur sowie die Landschaft ge-
+      <lb/>nießen den Schutz und die Pflege des Staa-
+      <lb/>tes.
+      <lb/>Es ist Sache des Bundes, die Abwande-
+      <lb/>rung des Kunstbesitzes in das Ausland zu
+      <lb/>verhüten.</ab></div>
+<div ana="article">
+<head>Art. 146.
+      </head>
+<ab facs="#facs_48_tr_2" type="">Der Religionsunterricht ist ordentli-
+      <lb/>ches Lehrfach der Schulen mit Ausnahmen
+      <lb/>der bekenntnisfreien (weltlichen) Schulen.
+      <lb/>Seine Erteilung wird im Rahmen der Schul-
+      <lb/>gesetzgebung geregelt. Der Religionsunter-
+      <lb/>richt wird in Uebereinstimmung mit den
+      <lb/>Grundsätzen der betreffenden Religionsge-
+      <lb/>sellschaft unbeschadet des Aufsichtsrecht-
+      <lb/>tes des Staates erteilt.</ab><pb facs="#facs_49" n="49" xml:id="img_0049"/><ab facs="#facs_49_r" type="">- 48 -</ab><ab facs="#facs_49_tr_1" type="">Die Erteilung religiösen Unterrich-
+      <lb/>tes und die Vornahme kirchlicher Verrich-
+      <lb/>tungen bleibt der Willenserklärung der
+      <lb/>Lehrer, die Teilnahme an religiösen Un-
+      <lb/>terrichtsfächern und an kirchlichen Fei-
+      <lb/>ern und Handlungen der Willenserklärung
+      <lb/>desjenigen überlassen, der üeber die reli-
+      <lb/>giöse Erziehung des Kindes zu bestimmen
+      <lb/>hat.
+      <lb/>Die theologischen Fakultäten an den
+      <lb/>Hochschulen bleiben erhalten.
+      </ab></div>
+<div ana="article">
+<head>Art. 147.
+      </head>
+<ab>Die Beamten sind Diener der Gesamt-
+      <lb/>heit, nicht einer Partei.
+      <lb/>Allen Beamten wird die Freiheit in-</ab><ab facs="#facs_49_tr_2" type="">rer politischen Gesinnung und die Verei-
+      <lb/>nigungsfreiheit gewährleistet.
+      <lb/>(Die Beamten erhalten nach näherer
+      <lb/>bundesgesetzlicher Bestimmung besondere
+      <lb/>Beamtenvertretungen)?
+      </ab></div>
+<div ana="article">
+<head>Art. 148.
+      </head>
+<ab>Verletzt ein Beamter in Ausübung der
+      <lb/>ihm anvertrauten öffentlichen Gewalt die
+      <lb/>ihm einem Dritten gegenüber obliegende
+      <lb/>Amtspflicht, so trifft die Verantwort-
+      <lb/>lichkeit grundsätzlich den Staat oder die</ab><ab facs="#facs_49_tr_3" type="">Körperschaft, in deren Dienste der Beam-
+      <lb/>te steht. Der Rückgriff gegen den Beamten
+      <lb/>bleibt vorbehalten. Der ordentliche Rechts-
+      <lb/>weg darf nicht ausgeschlossen werden.
+      <lb/>Die nähere Regelung liegt der zustän-
+      <lb/>digen Gesetzgebung ob.</ab><pb facs="#facs_50" n="50" xml:id="img_0050"/><ab facs="#facs_50_tr_1" type="">- 49 -
+      </ab></div>
+<div ana="article">
+<head>Art. 149.
+      </head>
+<ab>Jeder Staatsbürger hat nach Maßgabe
+      <lb/>der Gesetze die Pflicht zur Uebernahme
+      <lb/>ehrenamtlicher Tätigkeiten.
+      </ab></div>
+<div ana="article">
+<head>Art. 150.
+      </head>
+<ab>Alle Staatsbürger sind verpflichtet,
+      <lb/>nach Maßgabe der Gesetze persönliche Dien-
+      <lb/>ste für den Staat und die Gemeinde zu lei-
+      <lb/>sten.
+      <lb/>Die Wehrpflicht richtet sich nach den
+      <lb/>Bestimmungen des Bundeswehrgesetzes. Die-
+      <lb/>ses bestimmt auch, wieweit für Angehörige
+      <lb/>der Wehrmacht zur Erfüllung ihrer Aufgaben
+      <lb/>und zur Erhaltung der Mannszucht einzelne
+      <lb/>Grundrechte einzuschränken sind.</ab></div>
+<div ana="article">
+<head>Art. 151.
+      </head>
+<ab facs="#facs_50_tr_2" type="">Alle Staatsbürger ohne Unterschied
+      <lb/>tragen im Verhältnis ihrer Mittel zu al-
+      <lb/>len öffentlichen Lasten nach Maßgabe der
+      <lb/>Gesetze bei.
+      </ab></div>
+<div ana="article">
+<head>Art. 152.
+      </head>
+<ab>Alle Bewohner des Bundesgebietes ge-
+      <lb/>nießen volle Glaubens- und Gewissensfrei-
+      <lb/>heit. Die ungestörte Religionsübung wird
+      <lb/>durch die Verfassung gewährleistet und
+      <lb/>steht unter staatlichem Schutz. Die allge-
+      <lb/>meinen Staatsgesetze bleiben hievon unbe-
+      <lb/>rührt.
+      </ab></div>
+<div ana="article">
+<head>Art. 153.
+      </head>
+<ab>Die bürgerlichen und staatsbürgerli-</ab><pb facs="#facs_51" n="51" xml:id="img_0051"/><ab facs="#facs_51_tr_2" type="">- 50 -
+      <lb/>chen Rechte und Pflichten werden durch
+      <lb/>die Ausübung der Religionsfreiheit weder
+      <lb/>bedingt noch beschränkt.
+      <lb/>Der Genuß bürgerlicher und staats-
+      <lb/>bürgerlicher Rechte sowie die Zulassung
+      <lb/>zu öffentlichen Aemtern sind unabhängig
+      <lb/>von dem religiösen Bekenntnis.
+      <lb/>Niemand ist verpflichtet, seine re-
+      <lb/>ligiöse Ueberzeugung zu offenbaren. Die
+      <lb/>Behörden haben nur soweit das Recht, nach
+      <lb/>der Zugenörigkeit zu einer Religionsge-
+      <lb/>sellschaft zu fragen, als davon Rechte</ab><ab facs="#facs_51_tr_3" type="">und Pflichten abhängen oder eine gesetz-
+      <lb/>lich abgeordnete satisfische Erhebung
+      <lb/>dies erfordert.
+      <lb/>Niemand darf zu einer kirchlichen
+      <lb/>Handlung oder Feierlichkeit oder zur Teil-
+      <lb/>nahme an religiösen Uebungen oder zur Be-
+      <lb/>nutzung einer religiösen Eidesform ge-
+      <lb/>zwungen werden.</ab></div>
+<div ana="article">
+<head>Art. 154.
+      </head>
+<ab facs="#facs_51_tr_1" type="">Es besteht keine Staatskirche.
+      <lb/>Die Freiheit der Vereinigung zu Re-
+      <lb/>ligionsgesellschaften wird gewährleistet.
+      <lb/>Der Zusammenschluß von Religionsgesell-
+      <lb/>schaften innerhalb des Bundesgebietes un-
+      <lb/>terliegt keinen Beschränkungen.
+      <lb/>Jede Religionsgesellschaft ordnet und
+      <lb/>verwaltet ihre Angelegenheiten selbstän-
+      <lb/>dig innerhalb der Schranken des für alle
+      <lb/>geltenden Gesetzes. Sie verleiht ihre Aem-
+      <lb/>ter ohne Mitwirkung des Staates oder der
+      <lb/>bürgerlichen Gemeinde.</ab><pb facs="#facs_52" n="52" xml:id="img_0052"/><ab facs="#facs_52_r" type="">- 51 -</ab><ab facs="#facs_52_tr_2" type="">Die Religionsgesellschaften bleiben
+      <lb/>Körperschaften des öffentlichen Rechtes,
+      <lb/>soweit sie solche bisher waren. Anderen
+      <lb/>Religionsgesellschaften sind auf ihren
+      <lb/>Antrag gleiche Rechte zu gewähren, wenn
+      <lb/>sie durch ihre Verfassung und die Zahl
+      <lb/>ihrer Mitglieder die Gewähr der Dauer bie-
+      <lb/>ten. Schließen sich mehrere derartige öf-
+      <lb/>fentlichrechtliche Religionsgesellschaften
+      <lb/>zu einem Verbande zusammen, so ist auch
+      <lb/>dieser Verband eine öffentlichrechtliche</ab><ab facs="#facs_52_tr_3" type="">Körperschaft.
+      <lb/>Die Religionsgesellschaften, welche
+      <lb/>Körperschaften des öffentlichen Rechtes
+      <lb/>sind, sind berechtigt, auf Grund der bür-
+      <lb/>gerlichen Steuerlisten nach Maßgabe der
+      <lb/>gesetzlichen Bestimmungen Steuern zu er-
+      <lb/>heben.
+      <lb/>Den Religionsgesellschaften werden
+      <lb/>die Vereinigungen gleichgestellt, die
+      <lb/>sich die gemeinschaftliche Pflege einer
+      <lb/>Weltanschauung zur Aufgabe machen.</ab></div>
+<div ana="article">
+<head>Art. 155.
+      </head>
+<ab facs="#facs_52_tr_1" type="">Die auf Gesetz, Vertrag oder beson-
+      <lb/>deren Rechtstiteln beruhenden Staatslei-
+      <lb/>stungen an die Religionsgesellschaften
+      <lb/>werden durch die Bundesgesetzgebung abgelöst.
+      <lb/>Das Eigentum und andere Rechte der
+      <lb/>Religionsgesellschaften und religiösen
+      <lb/>Vereine an ihren für Kultus-, Unterrichts-
+      <lb/>und Wohltätigkeitszwecke bestimmten An-
+      <lb/>stalten, Stiftungen und sonstigen Vermö-
+      <lb/>gen werden gewährleistet.</ab><pb facs="#facs_53" n="53" xml:id="img_0053"/><ab facs="#facs_53_tr_2" type="">- 52 -
+      </ab></div>
+<div ana="article">
+<head>Art. 156.
+      </head>
+<ab>Der Sonntag und die staatlich aner-
+      <lb/>kannten Feiertage bleiben als Tage der
+      <lb/>Arbeitsruhe und der seelischen Erhebung
+      <lb/>gesetzlich geschützt.
+      </ab></div>
+<div ana="article">
+<head>Art. 157.
+      </head>
+<ab>Den Angehörigen der Wehrmacht ist
+      <lb/>die nötige freie Zeit zur Erfüllung ihrer
+      <lb/>religiösen Pflichten zu gewähren.
+      </ab></div>
+<div ana="article">
+<head>Art. 158.</head>
+<ab>
+</ab><ab facs="#facs_53_tr_3" type="">Soweit das Bedürfnis nach Gottesdienst
+      <lb/>und Seelsorge im Heer, in Krankenhäusern,
+      <lb/>Strafanstalten oder sonstigen Öffentlichen
+      <lb/>Anstalten besteht, sind die Religionsge-
+      <lb/>sellschaften zur Vornahme religiöser Hand-
+      <lb/>lungen zuzulassen, wobei jeder Zwang fern-
+      <lb/>zuhalten ist.</ab></div>
+<div ana="article">
+<head>Art. 159.
+      </head>
+<ab facs="#facs_53_tr_1" type="">Die Kunst, die Wissenschaft und ihre
+      <lb/>Lehre sind frei. Der Staat gewährt ihnen
+      <lb/>Schutz und nimmt an ihrer Pflege teil.
+      </ab></div>
+<div ana="article">
+<head>Art. 160.
+      </head>
+<ab>Für die Bildung der Jugend ist durch
+      <lb/>öffentliche Anstalten zu sorgen.
+      <lb/>Die Lehrerbildung ist nach den Grund-
+      <lb/>sätzen, die für die höhere Bildung allge-
+      <lb/>mein gelten, durch den Bund einheitlich zu
+      <lb/>regeln.
+      <lb/>Die Lehrer an öffentlichen Schulen
+      <lb/>haben die Rechte und Pflichten der Staate-
+      <lb/>beamten.</ab><pb facs="#facs_54" n="54" xml:id="img_0054"/><ab facs="#facs_54_tr_1" type="">- 53 -
+      </ab></div>
+<div ana="article">
+<head>Art. 161.
+      </head>
+<ab>Das gesamte Schulwesen steht unter
+      <lb/>der Aufsicht des Staates; er kann die
+      <lb/>Gemeinden daran beteiligen. Die Schul-
+      <lb/>aufsicht wird durch hauptamtlich tätige,
+      <lb/>fachmännisch vorgebildete Beamte ausgeübt.
+      </ab></div>
+<div ana="article">
+<head>Art. 162.
+      </head>
+<ab>Es besteht allgemeine Schulpflicht.
+      <lb/>Ihrer Erfüllung dient grundsätzlich die
+      <lb/>Volksschule mit mindestens acht Schuljah-
+      <lb/>ren und die anschließende Fortbildungs-
+      <lb/>schule bis zum vollendeten achtzehnten
+      <lb/>Lebensjahre. Der Unterricht und die Lehr-
+      <lb/>mittel in den Volksschulen und Fortbil-
+      <lb/>dungsschulen sind unentgeltlich.</ab></div>
+<div ana="article">
+<head>Art. 163.
+      </head>
+<ab facs="#facs_54_tr_3" type="">Das öffentliche Schulwesen ist orga-
+      <lb/>nisch auszugestalten. Auf einer für alle
+      <lb/>gemeinsamen Grundschule baut sich das
+      <lb/>mittlere und höhere Schulwesen auf. Für
+      <lb/>diesen Aufbau ist die Mannigfaltigkeit der
+      <lb/>Lebensberufe, für die Aufnahme eines Kin-
+      <lb/>des in eine bestimmte Schule sind seine</ab><ab facs="#facs_54_tr_2" type="">Anlage und Neigung, nicht die wirtschaft-
+      <lb/>liche und gesellschaftliche Stellung oder
+      <lb/>das Religionsbekenntnis seiner Eltern maß-
+      <lb/>gebend.
+      <lb/>Innerhalb der Gemeinden sind indes
+      <lb/>auf Antrag von Erziehungsberechtigten
+      <lb/>Volksschulen ihres Bekenntnisses oder ih-
+      <lb/>rer Weltanschauung einzurichten, soweit
+      <lb/>hiedurch ein geordneter Schulbetrieb auch</ab><pb facs="#facs_55" n="55" xml:id="img_0055"/><ab facs="#facs_55_tr_2" type="">- 54 -
+      <lb/>im Sinne des Abs. 1 nicht beeinträchtigt
+      <lb/>wird. Der Wille der Erziehungsberechtig-
+      <lb/>ten ist möglichst zu berücksichtigen.
+      <lb/>Für den Zugang Minderbemittelter zu
+      <lb/>den mittleren und höheren Schulen sind
+      <lb/>durch Bund, Länder und Gemeinden öffent-
+      <lb/>liche Mittel bereitzustellen, insbesonde-
+      <lb/>re Erziehungsbeihilfen für die Eltern von
+      <lb/>Kindern, die zur Ausbildung auf mittleren
+      <lb/>und höheren Schulen für geeignet erachtet
+      <lb/>werden, bis zur Beendigung der Ausbildung</ab></div>
+<div ana="article">
+<head>Art. 164.
+      </head>
+<ab facs="#facs_55_tr_1" type="">Private Schulen als Ersatz für öffent-
+      <lb/>liche Schulen bedürfen der Genehmigung des
+      <lb/>Staates und unterstehen den . .  Gesetzen.
+      <lb/>Die Genehmigung ist zu erteilen, wenn die
+      <lb/>Privatschulen in ihren Lehrzielen und Ein-
+      <lb/>richtungen sowie in der wissenschaftlichen
+      <lb/>Ausbildung ihrer Lehrkräfte nicht hinter
+      <lb/>den öffentlichen Schulen zurückstehen und
+      <lb/>eine Sonderung der Schüler nach den Besitz-
+      <lb/>verhältnissen der Eltern nicht gefördert
+      <lb/>wird. Die Genehmigung ist zu versagen, wenn
+      <lb/>die wirtschaftliche und rechtliche Stellung.</ab><ab facs="#facs_55_tr_3" type="">der Lehrkräfte nicht genügend gesichert
+      <lb/>ist.
+      <lb/>Private Volksschulen sind nur zuzulas
+      <lb/>sen, wenn für eine Minderheit von Erzie-
+      <lb/>hungsberechtigten, deren Wille nach Art. . . .
+      <lb/>zu berücksichtigen ist, eine öffentliche
+      <lb/>Volksschule ihres Bekenntnisses oder ih-
+      <lb/>rer Weltanschauung in der Gemeinde nicht
+      <lb/>besteht oder die Unterrichtsverwaltung</ab><pb facs="#facs_56" n="56" xml:id="img_0056"/><ab facs="#facs_56_r" type="">- 55 -</ab><ab facs="#facs_56_tr_2" type="">ein besonderes pädagogisches Interesse
+      <lb/>anerkennt.
+      <lb/>Private Vorschulen sind aufzuheben.
+      <lb/>Für private Schulen, die nicht als
+      <lb/>Ersatz für öffentliche Schulen dienen,
+      <lb/>verbleibt es bei dem geltenden Recht.
+      </ab></div>
+<div ana="article">
+<head>Art. 165.
+      </head>
+<ab>In allen Schulen ist sittliche Bil-
+      <lb/>dung, staatsbürgerliche Gesinnung, persön-
+      <lb/>liche und berufliche Tüchtigkeit im Geiste
+      <lb/>des Volkstums und der Völkerversöhnung zu
+      <lb/>erstreben.
+      <lb/>Beim Unterrichte in öffentlichen</ab><ab facs="#facs_56_tr_1" type="">Schulen ist Bedacht zu nehmen, daß die Em-
+      <lb/>pfindungen Andersdenkender nicht verletzt
+      <lb/>werden.
+      <lb/>Staatsbürgerkunde und Arbeitsunter-
+      <lb/>richt sind Lehrfächer der Schulen. Jeder
+      <lb/>Schüler erhält bei Beendigung der Schul-
+      <lb/>pflicht einen Abdruck der Verfassung.
+      <lb/>Das Volksbildungswesen, einschließ-
+      <lb/>lich der Volkshochschulen, soll von Bund,
+      <lb/>Ländern und Gemeinden gefördert werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 166.
+      </head>
+<ab>Die Ordnung des Wirtschaftslebens muß
+      <lb/>den Grundsätzen der Gerechtigkeit mit dem
+      <lb/>Ziele der Gewährleistung eines menschen-
+      <lb/>würdigen Daseins für alle entsprechen. In
+      <lb/>diesen Grenzen ist die wirtschaftliche
+      <lb/>Freiheit des Einzelnen zu sichern.</ab><pb facs="#facs_57" n="57" xml:id="img_0057"/><ab facs="#facs_57_tr_3" type="">- 56 -
+      <lb/>Gesetzlicher Zwang ist nur zulässig
+      <lb/>zur Verwirklichung bedrohter Rechte oder
+      <lb/>im Dienst überragender Forderungen des
+      <lb/>Gemeinwohls.
+      <lb/>Die Freiheit des Handels und Gewer-
+      <lb/>bes wird nach Maßgabe der Bundesgesetze
+      <lb/>gewährleistet.</ab></div>
+<div ana="article">
+<head>Art. 167.
+      </head>
+<ab facs="#facs_57_tr_2" type="">Im Wirtschaftsverkehr gilt Vertrags-
+      <lb/>freiheit nach Maßgabe der Gesetze.
+      <lb/>Wucher ist verboten. Rechtsgeschäfte
+      <lb/>die gegen die guten Sitten verstoßen, sind
+      <lb/>nichtig.
+      </ab></div>
+<div ana="article">
+<head>Art. 168.
+      </head>
+<ab>Das Eigentum wird von der Verfassung
+      <lb/>gewährleistet. Sein Inhalt und seine
+      <lb/>Schranken ergeben sich aus den Gesetzen.
+      <lb/>Eine Enteignung kann nur zum Wohle
+      <lb/>der Allgemeinheit und auf gesetzlicher
+      <lb/>Grundlage vorgenommen werden. Sie erfolgt</ab><ab facs="#facs_57_tr_1" type="">gegen angemessene Entschädigung, soweit
+      <lb/>nicht ein Bundesgesetz etwas anderes be-
+      <lb/>stimmt. Wegen der Höhe der Entschädigung
+      <lb/>ist im Streitfalle der Rechtsweg bei den
+      <lb/>ordentlichen Gerichten offen zu halten,
+      <lb/>soweit Bundesgesetze nichts anderes be-
+      <lb/>stimmen. Enteignung durch den Bund gegenü-
+      <lb/>ber Ländern, Gemeinden und gemeinnützigen
+      <lb/>Verbänden kann nur gegen Entschädigung er-
+      <lb/>folgen.
+      <lb/>Eigentum verpflichtet. Sein Gebrauch
+      <lb/>soll zugleich Dienst sein für das Gemeine
+      <lb/>Beste.</ab><pb facs="#facs_58" n="58" xml:id="img_0058"/><ab facs="#facs_58_r" type="">- 57 -</ab></div>
+<div ana="article">
+<head>Art. 169.
+      </head>
+<ab facs="#facs_58_tr_1" type="">Das Erbrecht wird nach Maßgabe des
+      <lb/>bürgerlichen Rechtes gewährleistet.
+      <lb/>Der Anteil des Staates am Erbgut be-
+      <lb/>stimmt sich nach den Gesetzen.
+      </ab></div>
+<div ana="article">
+<head>Art. 170.
+      </head>
+<ab>Die Verteilung und Nutzung des Bodens
+      <lb/>wird von Staatswegen in einer Weise über-
+      <lb/>wacht, die Mißbrauch verhütet und dem Ziele
+      <lb/>zustrebt, jedem Staatsbürger eine gesunde
+      <lb/>Wohnung und allen Familien, besonders den
+      <lb/>kinderreichen, eine ihren Bedürfnissen ent-
+      <lb/>sprechende Wohn- und Wirtschaftsheimstätte</ab><ab facs="#facs_58_tr_3" type="">zu sichern. Kriegsteilnehmer sind bei dem
+      <lb/>zu schaffenden Heimstättenrecht besonders
+      <lb/>zu berücksichtigen.
+      <lb/>Grundbesitz, dessen Erwerb zur Be-
+      <lb/>friedigung des Wohnungsbedürfnisses, zur
+      <lb/>Förderung der Siedlung und Urbarmachung
+      <lb/>oder zur Hebung der Landwirtschaft nötig
+      <lb/>ist, kann enteignet werden. Die Fideikomis-
+      <lb/>se sind aufzulösen.</ab><ab facs="#facs_58_tr_2" type="">Die Bearbeitung und Ausnützung des Bo-
+      <lb/>dens ist eine Pflicht des Grundbesitzers
+      <lb/>gegenüber der Gemeinschaft. Die Wertstei-
+      <lb/>gerung des Bodens, die ohne eine Arbeits-
+      <lb/>oder Kapitalsaufwendung auf das Grundstück
+      <lb/>entsteht, ist für die Gesamtheit nutzbar
+      <lb/>zu machen.
+      <lb/>Alle Bodenschätze und alle wirtschaft-
+      <lb/>lich nutzbaren Naturkräfte sind im Wege
+      <lb/>der Gesetzgebung auf den Staat zu überfüh-
+      <lb/>ren.</ab><pb facs="#facs_59" n="59" xml:id="img_0059"/><ab facs="#facs_59_tr_3" type="">- 58 -
+      </ab></div>
+<div ana="article">
+<head>Art. 171.
+      </head>
+<ab>Der Bund kann durch Gesetz unbescha-
+      <lb/>det der Entschädigung, in sinngemäßer An-
+      <lb/>wendung der für Enteignung geltenden Be-
+      <lb/>stimmungen, für die Vergesellschaftung ge-</ab><ab facs="#facs_59_tr_2" type="">eignete private wirtschaftliche Unterneh-
+      <lb/>mungen in Gemeineigentum überführen. Er
+      <lb/>kann sich selbst, die Länder oder die Ge-
+      <lb/>meinden an der Verwaltung wirtschaftlicher
+      <lb/>Unternehmungen und Verbände beteiligen
+      <lb/>oder sich daran in anderer Weise einen be
+      <lb/>stimmtenden Einfluß sichern.
+      <lb/>Der Bund kann ferner im Falle dringen-
+      <lb/>den Bedürfnisses zum Zwecke der Gemeinwirt-
+      <lb/>schaft durch Gesetz wirtschaftliche Unter-
+      <lb/>nehmungen und Verbände auf der Grundlage
+      <lb/>der Selbstverwaltung zusammenschließen mit
+      <lb/>dem Ziele, die Mitwirkung aller schaffen-
+      <lb/>den Volksteile zu sichern, Arbeitgeber und</ab><ab facs="#facs_59_tr_1" type="">Arbeitnehmer an der Verwaltung zu beteili-
+      <lb/>gen und Erzeugung, Herstellung, Verteilung,
+      <lb/>Verwendung, Preisgestaltung sowie Ein- und
+      <lb/>Ausfuhr der Wirtschaftsgüter nach gemein-
+      <lb/>wirtschaftlichen Grundsätzen zu regeln.
+      <lb/>Die Erwerbs- und Wirtschaftsgenossen-
+      <lb/>schaften und deren Vereinigungen sind auf
+      <lb/>ihr Verlangen unter Berücksichtigung ihrer
+      <lb/>Verfassung und Eigenart in die Gemeinwirt-
+      <lb/>schaft einzugliedern.
+      </ab></div>
+<div ana="article">
+<head>Art. 172.
+      </head>
+<ab>Die Arbeitskraft steht unter dem be-
+      <lb/>sonderen Schutze des Bundes.
+      <lb/>Der Bund schafft ein einheitliches
+      <lb/>Arbeitsrecht.</ab><pb facs="#facs_60" n="60" xml:id="img_0060"/><ab facs="#facs_60_tr_2" type="">- 59 -
+      </ab></div>
+<div ana="article">
+<head>Art. 173.
+      </head>
+<ab>Die geistige Arbeit, das Recht der
+      <lb/>Urheber, der Erfinder und der Künstler, ge-
+      <lb/>nießt den Schutz und die Fürsorge des Bun-
+      <lb/>des.
+      <lb/>Den Schöpfungen der Wissenschaft, Kunst
+      <lb/>und Technik ist durch zwischenstaatliche
+      <lb/>Vereinbarung auch im Auslande Geltung und
+      <lb/>Schutz zu verschaffen.</ab></div>
+<div ana="article">
+<head>Art. 174.
+      </head>
+<ab facs="#facs_60_tr_3" type="">Die Vereinigungsfreiheit zur Wahrung
+      <lb/>und Förderung der Arbeits- und Wirtschafts-
+      <lb/>bedingungen ist für jedermann und für alle
+      <lb/>Berufe gewährleiste. Alle Abreden und Maß-
+      <lb/>nahmen, welche diese Freiheit einzuschrän-
+      <lb/>ken oder zu behindern suchen, sind rechts-
+      <lb/>widrig.</ab></div>
+<div ana="article">
+<head>Art. 175.
+      </head>
+<ab facs="#facs_60_tr_1" type="">Wer in einem Dienst- oder Arbeitsver-
+      <lb/>hältnis als Angestellter oder Arbeiter
+      <lb/>steht, hat das Recht auf die zur Wahrneh-
+      <lb/>mung staatsbürgerlicher Rechte und, soweit
+      <lb/>dadurch der Betrieb nicht erheblich geschä-
+      <lb/>digt wird, zur Ausübung ihm übertragener
+      <lb/>öffentlicher Ehrenämter nötige freie Zeit.
+      <lb/>Wieweit ihm der Anspruch auf Vergütung er-
+      <lb/>halten bleibt, bestimmt das Gesetz.
+      </ab></div>
+<div ana="article">
+<head>Art. 176.
+      </head>
+<ab>Zur Erhaltung der Gesundheit und Ar-
+      <lb/>beitsfähigkeit, zum Schutze der Mutter-
+      <lb/>schaft und zur Vorsorge gegen die wirt-
+      <lb/>schaftlichen Folgen von Alter, Schwäche und</ab><pb facs="#facs_61" n="61" xml:id="img_0061"/><ab facs="#facs_61_r" type="">- 60 -</ab><ab facs="#facs_61_tr_3" type="">Wechselfällen des Lebens schafft der Bund
+      <lb/>ein umfassendes Versicherungswesen unter
+      <lb/>maßgebender Mitwirkung der Versicherten.
+      </ab></div>
+<div ana="article">
+<head>Art. 177.
+      </head>
+<ab>Der Bund tritt für eine zwischenstaat-
+      <lb/>liche Regelung der Rechtsverhältnisse der
+      <lb/>Arbeiter ein, die für die gesamte arbeiten-
+      <lb/>de Klasse der Menschheit ein allgemeines
+      <lb/>Windestmaß der sozialen Rechte erstrebt.</ab></div>
+<div ana="article">
+<head>Art. 178.
+      </head>
+<ab facs="#facs_61_tr_1" type="">Jeder Staatsbürger hat unbeschadet
+      <lb/>seiner persönlichen Freiheit die sittliche
+      <lb/>Pflicht, seine geistigen und körperlichen
+      <lb/>Kräfte so zu betätigen, wie es das Wohl der
+      <lb/>Gesamtheit erfordert.
+      <lb/>Jedem Staatsbürger soll die Möglichkeit
+      <lb/>gegeben werden, durch wirtschaftliche Arbeit
+      <lb/>seinen Unterhalt zu erwerben. Soweit ihm an-
+      <lb/>gemessene Arbeitsgelegenheit nicht nachge-
+      <lb/>wiesen werden kann, wird für seinen notwen-
+      <lb/>digen Unterhalt gesorgt. Das Nähere wird
+      <lb/>durch besondere Bundesgesetze bestimmt.</ab></div>
+<div ana="article">
+<head>Art. 179.
+      </head>
+<ab facs="#facs_61_tr_2" type="">Der selbständige Mittelstand in Land-
+      <lb/>wirtschaft, Gewerbe und Handel ist in Ge-
+      <lb/>setzgebung und Verwaltung zu fördern und
+      <lb/>gegen Ueberlastung und Aufsaugung zu
+      <lb/>schützen.
+      </ab></div>
+<div ana="article">
+<head>Art. 180.
+      </head>
+<ab>Die Arbeiter und Angestellten sind
+      <lb/>dazu berufen, gleichberechtigt in Gemein-</ab><pb facs="#facs_62" n="62" xml:id="img_0062"/><ab facs="#facs_62_r" type="">- 61 -</ab><ab facs="#facs_62_tr_1" type="">schaft mit den Unternehmern an der Rege-
+      <lb/>lung der Lohn- und Arbeitsbedingungen so-
+      <lb/>wie an der gesamten wirtschaftlichen Ent-
+      <lb/>wicklung der produktiven Kräfte mitzu-
+      <lb/>wirken. Die beiderseitigen Organisationen
+      <lb/>und ihre Vereinbarungen werden anerkannt.
+      <lb/>Die Arbeiter und Angestellten erhalten
+      <lb/>zur Wahrnehmung ihrer sozialen und wirt-
+      <lb/>schaftlichen Interessen gesetzliche Ver-
+      <lb/>tretungen in Betriebsarbeiterräten sowie
+      <lb/>in nach Wirtschaftsgebieten gegliederten
+      <lb/>Bezirksarbeiterräten und in einem Bundes-
+      <lb/>arbeiterrat.
+      <lb/>Die Bezirksarbeiterräte und der Bun-
+      <lb/>desarbeiterrat treten zur Erfüllung der</ab><ab facs="#facs_62_tr_3" type="">gesamten wirtschaftlichen Aufgaben und zur
+      <lb/>Mitwirkung bei der Ausführung der Soziali-
+      <lb/>sierungsgesetze mit den Vertretungen der
+      <lb/>Unternehmer und sonst beteiligter Volks-
+      <lb/>kreise zu Bezirkswirtschafteräten und zu
+      <lb/>einem Bundeswirtschaftsrat zusammen. Die
+      <lb/>Bezirkswirtschaftsräte und der Bundeswirt-
+      <lb/>schaftsrat sind so zu gestalten, daß alle
+      <lb/>wichtigen Berufsgruppen entsprechend ihrer</ab><ab facs="#facs_62_tr_2" type="">wirtschaftlichen und sozialen Bedeutung
+      <lb/>darin vertreten sind.
+      <lb/>Sozialpolitische und wirtschaftspoli-
+      <lb/>tische Gesetzentwürfe von grundlegender Be-
+      <lb/>deutung sollen von der Bundesregierung vor
+      <lb/>ihrer Einbringung dem Bundeswirtschaftsrat
+      <lb/>zur Begutachtung vorgelegt werden. Der Bun-
+      <lb/>deswirtschafterat hat das Recht, selbst
+      <lb/>solche Gesetzesvorlagen zu beantragen.
+      <lb/>Stimmt ihnen die Bundesregierung nicht zu,</ab><pb facs="#facs_63" n="63" xml:id="img_0063"/><ab facs="#facs_63_r" type="">- 62 -</ab><ab facs="#facs_63_tr_1" type="">so hat sie trotzdem die Vorlage unter Dar-
+      <lb/>legung ihres Standpunktes beim Bundestag
+      <lb/>einzubringen. Der Bundeswirtschaftsrat
+      <lb/>kann die Vorlage durch eines seiner Mit-
+      <lb/>glieder vor dem Bundestag vertreten lassen.
+      <lb/>Den Arbeiter- und Wirtschaftsräten
+      <lb/>können auf den innen überwiesenen Gebieten
+      <lb/>Kontroll- und Verwaltungsbefugnisse über-
+      <lb/>tragen werden.
+      </ab></div>
+<div ana="article">
+<head>Art. 181.
+      </head>
+<ab>Aufbau und Aufgabe der Arbeiter- und
+      <lb/>Wirtschaftsräte sowie ihr Verhältnis zu
+      <lb/>anderen sozialen Selbstverwaltungskörpern
+      <lb/>zu regeln, ist ausschließlich Sache des
+      <lb/>Bundes.</ab><ab facs="#facs_63_tr_2" type="">Siebenter Abschnitt.
+      <lb/>Von den Garantien des öffentlichen Rechtes.
+      <lb/>Von den Verwaltungsgerichten.
+      </ab></div>
+<div ana="article">
+<head>Art. 182.
+      </head>
+<ab>Wegen Rechtsverletzung durch die Ent-
+      <lb/>scheidung oder Verfügung einer Verwaltungs-
+      <lb/>behörde des Bundes oder eines souveränen
+      <lb/>Landes entscheidet nach Erschöpfung des
+      <lb/>administrativen Instanzenzuges:</ab><ab facs="#facs_63_tr_3" type="">a) in Angelegenheiten des selbständi-
+      <lb/>gen Wirkungskreises der souveränen Länder,
+      <lb/>die Landesverwaltungsgerichte;
+      <lb/>b) in Angelegenheiten der Bundesver-
+      <lb/>waltung, das Bundesverwaltungegericht.
+      </ab></div>
+<div ana="article">
+<head>Art. 183.
+      </head>
+<ab>In jeder Landeshauptstadt wird ein
+      <lb/>Landesverwaltungsgericht errichtet. Seine</ab><pb facs="#facs_64" n="64" xml:id="img_0064"/><ab facs="#facs_64_r" type="">- 63 -</ab><ab facs="#facs_64_tr_3" type="">Mitglieder sind zur Hälfte aus dem Stande
+      <lb/>der Landesverwaltungsbeamten über Vor-
+      <lb/>schlag der Landesregierung, zur Hälfte aus
+      <lb/>dem Stande der richterlichen Beamten über
+      <lb/>Vorschlag der Bundesregierung vom Bundes-
+      <lb/>präsidenten zu ernennen.
+      <lb/>Aus dem Stande der letzterwähnten Be-
+      <lb/>amten ernennt der Bundespräsident über Vor-
+      <lb/>schlag der Bundesregierung den Präsidenten,</ab><ab facs="#facs_64_tr_2" type="">aus dem Stande der ersterwähnten Beamten
+      <lb/>über Vorschlag der Landesregierung den Vi-
+      <lb/>zepräsidenten des Landesverwaltungsgerichtes.
+      </ab></div>
+<div ana="article">
+<head>Art. 184.
+      </head>
+<ab>Das Bundesverwaltungsgericht in Wien
+      <lb/>muß wenigstens zur Hälfte seiner Mitglieder
+      <lb/>aus richterlichen Beamten bestehen.
+      <lb/>Sämtliche Stellen werden über Vor-
+      <lb/>schlag der Bundesregierung vom Bundesprä-
+      <lb/>sidenten besetzt.</ab></div>
+<div ana="article">
+<head>Art. 185.
+      </head>
+<ab facs="#facs_64_tr_1" type="">Das Bundesverwaltungsgericht und die
+      <lb/>Landesverwaltungsgerichte haben in der Re-
+      <lb/>gel nur über Beschwerden der Parteien zu
+      <lb/>erkennen.
+      <lb/>Doch kann, wenn durch eine rechtswi-
+      <lb/>drige Entscheidung oder Verfügung einer
+      <lb/>Landesbehörde die Interessen der Bundesver-
+      <lb/>waltung verletzt werden, auch die Bundes-
+      <lb/>regierung vor einem Landesverwaltungsge-
+      <lb/>richte Beschwerde erheben.</ab><pb facs="#facs_65" n="65" xml:id="img_0065"/><ab facs="#facs_65_tr_1" type="">- 64 -
+      </ab></div>
+<div ana="article">
+<head>Art. 186.
+      </head>
+<ab>Die Organisation der Landesverwaltungs-
+      <lb/>gerichte und des Bundesverwaltungsgerichtes
+      <lb/>sowie das Verfahren vor innen, wird durch
+      <lb/>ein besonderes Bundesgesetz geregelt.
+      </ab></div>
+<div ana="article">
+<head>Art. 187.
+      </head>
+<ab>Von der Zuständigkeit der Verwaltungs-
+      <lb/>gerichte sind ausgeschlossen:
+      <lb/>a) Angelegenheiten, über welche den
+      <lb/>ordentlichen Gerichten die Entscheidung
+      <lb/>zusteht.</ab><ab facs="#facs_65_tr_3" type="">b) Angelegenheiten, welche nach der
+      <lb/>Bundesverfassung zur Kompetenz des Bundes-
+      <lb/>verfassungsgerichtes gehören.
+      <lb/>c) Angelegenheiten, in denen und inso-
+      <lb/>weit die Verwaltungsbehörden nach freiem
+      <lb/>Ermessen vorzugehen haben.
+      <lb/>d) Disziplinarangelegenheiten.
+      </ab></div>
+<div ana="article">
+<head>Art. 188.</head>
+<ab>
+</ab><ab facs="#facs_65_tr_2" type="">Durch Landesgesetz bezw. durch Bundes-
+      <lb/>gesetz kann angeordnet werden, daß in allen
+      <lb/>Angelegenheiten, in denen ein Verwaltungs-
+      <lb/>gericht angerufen werden kann, der admini-
+      <lb/>strative Instanzenzug bei Angelegenheiten
+      <lb/>des Wirkungskreises der souveränen Länder
+      <lb/>noch vor der Entscheidung der Landesregie-
+      <lb/>rung, bei den übrigen Angelegenheiten noch
+      <lb/>vor der Entscheidung der Bundesregierung
+      <lb/>bezw. des zuständigen Bundesamtes beendet
+      <lb/>sei.</ab><pb facs="#facs_66" n="66" xml:id="img_0066"/><ab facs="#facs_66_r" type="">- 65 -</ab><ab facs="#facs_66_tr_1" type="">B) Von dem Bundesverfassungsgericht.
+      </ab></div>
+<div ana="article">
+<head>Art. 189.
+      </head>
+<ab>Das Bundesverfassungsgericht in Wien
+      <lb/>entscheidet alle Rechtsstreitigkeiten
+      <lb/>zwischen den Ländern sowie zwisehen einem
+      <lb/>souveränen Lande und dem Bund.
+      </ab></div>
+<div ana="article">
+<head>Art. 190.
+      </head>
+<ab>Es entscheidet ferner:
+      <lb/>Kompetenzkonflikte
+      <lb/>a) zwischen Gerichten und Verwal¬
+      <lb/>tungsbehörden des Bundes oder der Länder,
+      <lb/>b) zwischen Landesregierungen unter-
+      <lb/>einander sowie zwischen einer Landesregie-
+      <lb/>rung und der Bundesregierung.
+      </ab></div>
+<div ana="article">
+<head>Art. 191.</head>
+<ab>
+</ab><ab facs="#facs_66_tr_3" type="">Das Bundesverfassungsgericht ent-
+      <lb/>scheidet über Gesetzwidrigkeit von Voll¬
+      <lb/>zugsanweisungen (Verordnungen) einer Bun¬
+      <lb/>des- oder Landesbehörde auf Antrag eines
+      <lb/>Gerichtes;
+      <lb/>über Gesetzwidrigkeit von Vollzugsanwei-
+      <lb/>sungen (Verordnungen) einer Landesbehörde</ab><ab facs="#facs_66_tr_2" type="">auch auf Antrag der Bundesregierung;
+      <lb/>über Gesetzwidrigkeit von Vollzugsanwei¬
+      <lb/>sungen der Bundesbehörden auch auf Antrag
+      <lb/>einer Landesregierung.
+      <lb/>Das stattgebende Erkenntnis des Bun-
+      <lb/>desverfassungsgerichtes bewirkt die Kas-
+      <lb/>sation der gesetzwidrigen Vollzugsanwei¬
+      <lb/>sung und verpflichtet die erlassende Be¬
+      <lb/>hörde zur Kundmachung der erfolgten Auf¬
+      <lb/>hebung.
+      <lb/>./.</ab><pb facs="#facs_67" n="67" xml:id="img_0067"/><ab facs="#facs_67_tr_3" type="">- 66 -
+      </ab></div>
+<div ana="article">
+<head>Art. 192.
+      </head>
+<ab>Das Bundesverfassungsgericht ent-
+      <lb/>scheidet über Bundesgesetzwidrigkeit von
+      <lb/>Landesgesetzen auf Antrag der Bundesre-
+      <lb/>gierung.
+      <lb/>Der Antrag der Bundesregierung muß</ab><ab facs="#facs_67_tr_2" type="">binnen vier Wochen nach erfolgter Kundma-
+      <lb/>chung des Landesgesetzes der Landesregie-
+      <lb/>rung bekanntgegeben und binnen weiteren
+      <lb/>vier Wochen bei dem Bundesverfassungsge-
+      <lb/>richte gestellt werden.
+      <lb/>Das stattgebende Erkenntnis des Bun-
+      <lb/>desverfassungsgerichtes bewirkt die Kassa-
+      <lb/>tion des bundesgesetzwidrigen Landesge-
+      <lb/>setzes und verpflichtet die zuständige
+      <lb/>Landesregierung zur Verlautbarung der er-
+      <lb/>folgten Aufgebung im Landesgesetzblatte.</ab></div>
+<div ana="article">
+<head>Art. 193.
+      </head>
+<ab facs="#facs_67_tr_1" type="">Das Bundesverfassungsgericht ent-
+      <lb/>scheidet über Anfechtungen von Wahlen zum
+      <lb/>Bundestag oder Präsidentschaftswahlen und
+      <lb/>über den Antrag der Bundesversammlung auf
+      <lb/>Erklärung des Mandatsverlustes eines ihrer
+      <lb/>Mitglieder.
+      </ab></div>
+<div ana="article">
+<head>Art. 194.
+      </head>
+<ab>Das Bundesverfassungsgericht ent-
+      <lb/>scheidet über die Verantwortlichkeit:
+      <lb/>a) des Bundespräsidenten und seiner
+      <lb/>Stellvertreter,
+      <lb/>b) der Mitglieder der Bundesregie-
+      <lb/>rung und der innen hinsichtlich der Ver-
+      <lb/>antwortlichkeit gleichgestellten Organe,</ab><pb facs="#facs_68" n="68" xml:id="img_0068"/><ab facs="#facs_68_r" type="">- 67 -</ab><ab facs="#facs_68_tr_3" type="">c) der Mitglieder der Landesregie-
+      <lb/>rungen und der ihnen hinsichtlich der Ver-
+      <lb/>antwortlichkeit gleichgestellten Organe,
+      <lb/>u. zw.
+      <lb/>wegen vorsätzlicher oder grobfahrlässiger
+      <lb/>Verletzung der Bundesverfassung durch den
+      <lb/>Bundespräsidenten oder seinen Stellver-
+      <lb/>treter auf Antrag des Bundestages;</ab><ab facs="#facs_68_tr_2" type="">wegen vorsätzlicher und grobfahrlässiger
+      <lb/>Gesetzesverletzung der sub b) genannten
+      <lb/>Personen durch ihre Amtstätigkeit auf An-
+      <lb/>trag des Bundestages;
+      <lb/>wegen vorsätzlicher oder grobfahrlässiger
+      <lb/>Gesetzesverletzung seitens der sub c) ge-
+      <lb/>nannten Personen durch ihre Amtstätigkeit
+      <lb/>auf Antrag des zuständigen Landtages;
+      <lb/>und über die Verantwortlichkeit des Lan-
+      <lb/>deshauptmannes wegen vorsätzlicher und</ab><ab facs="#facs_68_tr_1" type="">grobfahrlässiger Gesetzesverletzung durch
+      <lb/>seine Amtstätigkeit oder wegen Nichtbe-
+      <lb/>folgung der Vollzugsanweisungen oder son-
+      <lb/>stigen Anordnungen der Bundesregierung
+      <lb/>auf Antrag der letzteren.
+      <lb/>Das verurteilende Erkenntnis des Bun-
+      <lb/>desverfassungsgerichtes hat auf Verlust
+      <lb/>des Amtes eventuell auch der politischen
+      <lb/>Rechte zu lauten.
+      </ab></div>
+<div ana="article">
+<head>Art. 195.
+      </head>
+<ab>Die Exekution der Erkenntnisse des
+      <lb/>Bundesverfassungsgerichtes obliegt dem
+      <lb/>Bundespräsidenten.</ab><pb facs="#facs_69" n="69" xml:id="img_0069"/><ab facs="#facs_69_r" type="">- 68 -</ab></div>
+<div ana="article">
+<head>Art. 196.
+      </head>
+<ab facs="#facs_69_tr_2" type="">Das Bundesverfassungsgericht in Wien
+      <lb/>besteht aus einem Präsidenten, einem Vi-
+      <lb/>zepräsidenten, 14 Mitgliedern und 8 Er-
+      <lb/>satzmitgliedern.
+      <lb/>Der Präsident, der Vizepräsdent,
+      <lb/>7 Mitglieder und 4 Ersatzmitgliedert werden
+      <lb/>von dem Bundestag, 7 Mitglieder und 4 Er-
+      <lb/>satzmitglieder vom Bundesrat auf Lebens-
+      <lb/>dauer gewählt.</ab></div>
+<div ana="article">
+<head>Art. 197.
+      </head>
+<ab facs="#facs_69_tr_1" type="">Der Präsident des Bundesverfassungs-
+      <lb/>gerichtes steht im Range des Bundeskanz-
+      <lb/>lers, der Vizepräsident im Lange eines
+      <lb/>Staatssekretärs.
+      <lb/>Das Amt der Mitglieder des Bundesver-
+      <lb/>fassungsgerichtes ist ein Ehrenamt. Nur
+      <lb/>drei Mitglieder fungieren als ständige
+      <lb/>Referenten im Range eines Unterstaatsse-
+      <lb/>kretärs. Sie werden in einer Plenarver-
+      <lb/>sammlung des Bundesverfassungsgerichtes
+      <lb/>aus der Mitte seiner Mitglieder gewählt.</ab></div>
+<div ana="article">
+<head>Art. 198.
+      </head>
+<ab facs="#facs_69_tr_3" type="">Die nähere Organisation des Bundes-
+      <lb/>verfassungsgerichtes sowie das Verfahren
+      <lb/>vor ihm in den verschiedenen in den Art.
+      <lb/>. . . . . . . . angeführten Fällen, wird in ge-
+      <lb/>sonderten Bundesgesetzen geregelt.
+      <lb/>---o0o---</ab></div>
+</div></body>
+    </text>
+</TEI>
