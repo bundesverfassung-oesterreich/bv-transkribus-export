@@ -122,8 +122,8 @@ def make_all_section_divs(doc):
     # # make artikel-divs
     article_divs = seed_div_elements(
         doc,
-        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.')]",
-        regex_test=r"^Art\.?( *$| .{0,10}$)",
+        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
+        regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMm]+) *$",
         ana_val=article_ana,
     )
     # # move created divs to child-level of main div
@@ -138,6 +138,12 @@ def make_all_section_divs(doc):
                 next_element is not None and next_element.xpath("local-name()!='div'")
             ),
         )
+
+def substitute_uselesee_elements(doc: TeiReader, substitution_dict:dict):
+    for substituted_element_name, substitution_element_name in substitution_dict.items():
+        for substituted in doc.any_xpath(f"//tei:{substituted_element_name}"):
+            substituted.tag = substituted.tag.rstrip(substituted_element_name)+substitution_element_name
+
 
 
 def remove_useless_atributes(doc: TeiReader):
@@ -173,6 +179,12 @@ def create_new_xml_data(
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
     make_all_section_divs(doc)
+    substitute_uselesee_elements(
+        doc=doc,
+        substitution_dict={
+            "ab" : "p"
+        }
+    )
     remove_useless_atributes(doc)
     remove_useless_elements(doc)
     body = ET.tostring(body_node).decode("utf-8")
