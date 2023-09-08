@@ -75,6 +75,8 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
     for head_str in section_head_strs:
         head_str: ET._ElementUnicodeResult
         if re.match(regex_test, head_str.strip()):
+            #print("found head!")
+            #input(head_str)
             head_element = head_str.getparent()
             if head_str.is_tail:
                 head_element.tag = "head"
@@ -85,6 +87,8 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
                 head_element.addprevious(section_div)
                 section_div.append(head_element)
                 reverse_ordered_div_elements.append(section_div)
+        #else:
+        #    print(head_str.strip())
     return reverse_ordered_div_elements
 
 
@@ -122,8 +126,9 @@ def make_all_section_divs(doc):
     # # make artikel-divs
     article_divs = seed_div_elements(
         doc,
-        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
-        regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMm]+) *$",
+        #xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
+        xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art')]",
+        regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMm]+) *\.* *$",
         ana_val=article_ana,
     )
     # # move created divs to child-level of main div
@@ -258,13 +263,12 @@ def load_metadata_from_dump():
     meta_data_objs_by_transkribus_id = {}
     for row in json_data.values():
         mets_dict = row
-        transcribus_col_id = mets_dict["transkribus_col_id"]
-        if transcribus_col_id and transcribus_col_id.strip():
-            if transcribus_col_id not in meta_data_objs_by_transkribus_id:
-                meta_data_objs_by_transkribus_id[transcribus_col_id] = {}
-            meta_data_objs_by_transkribus_id[transcribus_col_id][
-                mets_dict["transkribus_doc_id"]
-            ] = mets_dict
+        transkribus_col_id = mets_dict["transkribus_col_id"]
+        transkribus_doc_id = mets_dict["transkribus_doc_id"]
+        if transkribus_col_id and transkribus_col_id.strip():
+            if transkribus_col_id not in meta_data_objs_by_transkribus_id:
+                meta_data_objs_by_transkribus_id[transkribus_col_id] = {}
+            meta_data_objs_by_transkribus_id[transkribus_col_id][transkribus_doc_id] = mets_dict
     return meta_data_objs_by_transkribus_id
 
 
