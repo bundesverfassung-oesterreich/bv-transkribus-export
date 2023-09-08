@@ -144,7 +144,7 @@ def make_all_section_divs(doc):
             ),
         )
 
-def substitute_uselesee_elements(doc: TeiReader, substitution_dict:dict):
+def substitute_useless_elements(doc: TeiReader, substitution_dict:dict):
     for substituted_element_name, substitution_element_name in substitution_dict.items():
         for substituted in doc.any_xpath(f"//tei:{substituted_element_name}"):
             substituted.tag = substituted.tag.rstrip(substituted_element_name)+substitution_element_name
@@ -158,6 +158,26 @@ def remove_useless_atributes(doc: TeiReader):
     for element in elements:
         element.attrib.clear()
 
+def remove_lb_elements(doc: TeiReader):
+    lb_elements = doc.any_xpath("//tei:lb")
+    for lb in lb_elements:
+        prev_element = lb.getprevious()
+        parent_element = lb.getparent()
+        test_tail:str = lb.tail.strip()
+        prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
+        if prev_text and prev_text.endswith("-"):
+            if test_tail and test_tail[0].islower():
+                if not test_tail.startswith("und") and not test_tail.startswith("oder"):
+                    #print(f"text1: {prev_text}")
+                    #print(f"text2: {lb.tail}")
+                    if prev_element is not None and prev_element.tail:
+                        new_text = prev_text.rstrip("-") + lb.tail.lstrip()
+                        prev_element.tail = new_text
+                    else:
+                        new_text = prev_text.rstrip("-") + lb.tail.lstrip()
+                        parent_element.text = new_text
+                    #input(f"new text: {new_text}")
+                    parent_element.remove(lb)
 
 def remove_useless_elements(doc: TeiReader):
     for parent in doc.any_xpath(
@@ -184,7 +204,8 @@ def create_new_xml_data(
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
     make_all_section_divs(doc)
-    substitute_uselesee_elements(
+    #remove_lb_elements(doc)
+    substitute_useless_elements(
         doc=doc,
         substitution_dict={
             "ab" : "p"
