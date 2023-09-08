@@ -158,26 +158,45 @@ def remove_useless_atributes(doc: TeiReader):
     for element in elements:
         element.attrib.clear()
 
+def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
+    if prev_element is not None:
+        prev_element.tail = new_text
+    else:
+        parent_element.text = new_text
+    parent_element.remove(lb)
+    # input(f"new text is '{new_text}'")
+
+
 def remove_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
         prev_element = lb.getprevious()
         parent_element = lb.getparent()
-        test_tail:str = lb.tail.strip()
+        test_tail:str = lb.tail.strip() if lb.tail else ""
+        lstrip_tail = lb.tail.lstrip() if lb.tail else test_tail
         prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
-        if prev_text and prev_text.endswith("-"):
-            if test_tail and test_tail[0].islower():
-                if not test_tail.startswith("und") and not test_tail.startswith("oder"):
-                    #print(f"text1: {prev_text}")
-                    #print(f"text2: {lb.tail}")
-                    if prev_element is not None and prev_element.tail:
-                        new_text = prev_text.rstrip("-") + lb.tail.lstrip()
-                        prev_element.tail = new_text
+        # print(f"\nlstripped lb tail is '{test_tail}'")
+        # print(f"rstripped preceding textnode is '{prev_text}'")
+        if prev_text:
+            if prev_text.endswith("-"):
+                if test_tail:
+                    if test_tail[0].islower() and not test_tail.startswith("und") and not test_tail.startswith("oder"):
+                        new_text = prev_text.rstrip("-") + lstrip_tail
+                        remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
                     else:
-                        new_text = prev_text.rstrip("-") + lb.tail.lstrip()
-                        parent_element.text = new_text
-                    #input(f"new text: {new_text}")
+                        # hyphen but probably not in a word
+                        new_text = prev_text + " " + lstrip_tail
+                        remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
+                else:
                     parent_element.remove(lb)
+            else:
+                new_text = prev_text + " " + lstrip_tail
+                remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
+        else:
+            new_text = lb.tail
+            remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
+
+
 
 def remove_useless_elements(doc: TeiReader):
     for parent in doc.any_xpath(
@@ -204,7 +223,6 @@ def create_new_xml_data(
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
     make_all_section_divs(doc)
-    #remove_lb_elements(doc)
     substitute_useless_elements(
         doc=doc,
         substitution_dict={
@@ -213,6 +231,7 @@ def create_new_xml_data(
     )
     remove_useless_atributes(doc)
     remove_useless_elements(doc)
+    # # remove_lb_elements(doc)
     body = ET.tostring(body_node).decode("utf-8")
     body = body.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
