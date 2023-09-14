@@ -33,6 +33,8 @@ file_rename_errors = 0
 
 NewElement = builder.ElementMaker()
 
+# logfile for defective docs
+malformed_xml_docs = []
 
 # # def funcs
 
@@ -50,8 +52,9 @@ def get_xml_doc(xml_file):
     """
     try:
         return TeiReader(xml_file)
-    except Exception as e:
-        return {"file_name": xml_file, "error": e}
+    except Exception as exception:
+        malformed_xml_docs.append({"file_name": xml_file[:200], "error": exception})
+        return None
 
 
 def log_nonvalid_files(malformed_xml_docs):
@@ -244,8 +247,9 @@ def create_new_xml_data(
         "faksimile": faksimile,
     }
     xml_data = template.render(context)
-    doc = TeiReader(xml_data)
-    doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml"))
+    doc = get_xml_doc(xml_data)
+    if doc is not None:
+        doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml"))
 
 
 def return_image_urls(mets_doc):
@@ -268,7 +272,7 @@ def return_transkribus_doc_id(xml_file_path):
 
 def return_mets_doc(transkribus_doc_id: str, transkribus_collection_id: str):
     mets_file_str = f"./mets/{transkribus_collection_id}/{transkribus_doc_id}_mets.xml"
-    return TeiReader(mets_file_str)
+    return get_xml_doc(mets_file_str)
 
 
 def return_col_id_from_mets_doc(doc: TeiReader):
@@ -318,13 +322,10 @@ def process_all_files():
     for transkribus_collection_id, collection_metadata in metadata.items():
         # # load sourcefiles from fetch / transform job
         source_files = glob.glob(f"{TMP_DIR}/{transkribus_collection_id}/*_tei.xml")
-        malformed_xml_docs = []
         for xml_file_path in source_files:
             # # parsing doc to mem
             doc = get_xml_doc(xml_file_path)
-            if isinstance(doc, dict):
-                malformed_xml_docs.append(doc)
-            else:
+            if doc is not None:
                 # # important stuff happens here
                 # # organize data yet missing in the final doc
                 transkribus_doc_id = return_transkribus_doc_id(xml_file_path)
@@ -337,11 +338,10 @@ def process_all_files():
                     mets_doc = return_mets_doc(
                         transkribus_doc_id, transkribus_collection_id
                     )
-                    image_urls = return_image_urls(mets_doc)
-                    # # change the doc / write data to it
-                    create_new_xml_data(doc, doc_metadata, image_urls)
-    return malformed_xml_docs
-
+                    if mets_doc is not None:
+                        image_urls = return_image_urls(mets_doc)
+                        # # change the doc / write data to it
+                        create_new_xml_data(doc, doc_metadata, image_urls)
 
 if __name__ == "__main__":
     # # the following is needed, cause you never know if this stuff ist there.
@@ -358,7 +358,6 @@ if __name__ == "__main__":
     shutil.rmtree(TEI_DIR, ignore_errors=True)
     os.makedirs(TEI_DIR, exist_ok=True)
     # # load / process all unprocessed files
-    malformed_xml_docs = process_all_files()
     log_nonvalid_files(malformed_xml_docs)
     if file_rename_errors != 0:
         print(
