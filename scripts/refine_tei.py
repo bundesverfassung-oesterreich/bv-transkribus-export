@@ -57,11 +57,13 @@ def get_xml_doc(xml_file):
         return None
 
 
-def log_nonvalid_files(malformed_xml_docs):
+def log_nonvalid_files():
     if not malformed_xml_docs:
         if os.path.isfile(MALFORMED_FILES_LOGPATH):
             os.remove(MALFORMED_FILES_LOGPATH)
+        print("no malformed files")
     else:
+        print("Some or all files where malformed!".upper())
         fieldnames = ["file_name", "error"]
         log_directory, _ = os.path.split(MALFORMED_FILES_LOGPATH)
         if not os.path.exists(log_directory):
@@ -249,8 +251,9 @@ def create_new_xml_data(
     xml_data = template.render(context)
     doc = get_xml_doc(xml_data)
     if doc is not None:
-        doc.tree_to_file(os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml"))
-
+        tei_file_path = os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml")
+        input("writing", tei_file_path)
+        doc.tree_to_file(tei_file_path)
 
 def return_image_urls(mets_doc):
     """
@@ -358,7 +361,8 @@ if __name__ == "__main__":
     shutil.rmtree(TEI_DIR, ignore_errors=True)
     os.makedirs(TEI_DIR, exist_ok=True)
     # # load / process all unprocessed files
-    log_nonvalid_files(malformed_xml_docs)
+    process_all_files()
+    log_nonvalid_files()
     if file_rename_errors != 0:
         print(
             f"\n{file_rename_errors} file(s) couldn’t be renamed since title wasn’t found in xml\n"
