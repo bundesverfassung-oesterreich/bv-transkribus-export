@@ -69,10 +69,9 @@
                     </msContents>
                     <physDesc>
                         <objectDesc form="{{ doc_metadata.type_of_manifestation.value }}">
-                            <ab>{{ doc_metadata.has_description or "" }}</ab>
+                            <p>{{ doc_metadata.has_description or "" }}</p>
                         </objectDesc>
                         <handDesc>
-                        <ab></ab>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -83,9 +82,13 @@
         </fileDesc>
         <profileDesc>
          <abstract>
-            <ab/>
+            <p/>
          </abstract>
-         <creation><date from="{{ doc_metadata.not_before }}" to="{{ doc_metadata.not_after }}">{{ doc_metadata.written_date }}</date></creation>
+         <creation>
+            <date notBefore-iso="{{ doc_metadata.not_before }}" notAfter-iso="{{ doc_metadata.not_after }}">
+                {{ doc_metadata.written_date }}
+            </date>
+         </creation>
       </profileDesc>
     </teiHeader>
     {{faksimile|safe}}
