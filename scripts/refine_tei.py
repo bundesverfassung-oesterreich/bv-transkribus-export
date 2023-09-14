@@ -73,7 +73,7 @@ def log_nonvalid_files():
             dict_writer.writerows(malformed_xml_docs)
 
 
-def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
+def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
     reverse_ordered_div_elements = []
     section_head_strs = doc.any_xpath(xpath_expr)
     section_head_strs.reverse()
@@ -87,7 +87,7 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, ana_val):
                 head_element.tag = "head"
                 head_element.text = head_str
                 head_element.tail = "\n"
-                section_div = NewElement.div("\n", ana=ana_val)
+                section_div = NewElement.div("\n", type=type_val)
                 section_div.tail = "\n"
                 head_element.addprevious(section_div)
                 section_div.append(head_element)
@@ -127,14 +127,14 @@ def expand_div_element(section_div: ET._Element, append_test):
 
 
 def make_all_section_divs(doc):
-    article_ana = "article"
+    article_type = "article"
     # # make artikel-divs
     article_divs = seed_div_elements(
         doc,
         #xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
         xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art')]",
         regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMm]+) *\.* *$",
-        ana_val=article_ana,
+        type_val=article_type,
     )
     # # move created divs to child-level of main div
     for div in article_divs:
@@ -252,7 +252,7 @@ def create_new_xml_data(
     doc = get_xml_doc(xml_data)
     if doc is not None:
         tei_file_path = os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml")
-        input("writing", tei_file_path)
+        print("writing", tei_file_path)
         doc.tree_to_file(tei_file_path)
 
 def return_image_urls(mets_doc):
