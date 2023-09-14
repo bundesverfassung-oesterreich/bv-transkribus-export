@@ -36,3 +36,6 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Exported and Transformed EMT-Transkribus Collections
+    - name: Check for errors
+      run: |
+        if [[ -f "./logs/malformed_files.csv" ]]; then exit 1; else exit 0; fi
