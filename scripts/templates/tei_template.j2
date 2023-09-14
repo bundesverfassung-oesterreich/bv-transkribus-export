@@ -65,11 +65,11 @@
                             <author role="acdh:hasAuthor">{{ author.value }}</author>
                         {% endfor %}
                         <title>{{ doc_metadata.doc_title }}</title>
+                        <p>{{ doc_metadata.has_description or "" }}</p>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="{{ doc_metadata.type_of_manifestation.value }}">
-                            <p>{{ doc_metadata.has_description or "" }}</p>
+                        <objectDesc form="{{ doc_metadata.type_of_manifestation }}">
                         </objectDesc>
                         <handDesc>
                         </handDesc>
@@ -92,7 +92,7 @@
       </profileDesc>
     </teiHeader>
     {{faksimile|safe}}
-    <text type="{{ doc_metadata.type_of_document.value }}">
+    <text type="{{ doc_metadata.type_of_document }}">
         {{ body|safe }}
     </text>
 </TEI>

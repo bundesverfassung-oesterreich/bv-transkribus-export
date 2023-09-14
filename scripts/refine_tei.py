@@ -319,6 +319,19 @@ def load_metadata_from_dump():
     return meta_data_objs_by_transkribus_id
 
 
+def resolve_types(doc_metadata):
+    # this is a bit lazy but the id is build based on the row id, so whatever …
+    mani_types = []
+    for entry in doc_metadata["type_of_manifestation"]:
+        mani_types.append("bv_manifestation_type_id__"+entry["id"])
+    doc_types = []
+    for entry in doc_metadata["type_of_document"]:
+        doc_types.append("bv_doctype_id__"+entry["id"])
+    doc_metadata["type_of_document"] = " ".join(doc_types)
+    doc_metadata["type_of_manifestation"] = " ".join(mani_types)
+    return doc_metadata
+
+
 def process_all_files():
     # # load metadata from baserow
     metadata = load_metadata_from_dump()
@@ -337,7 +350,7 @@ def process_all_files():
                         f"No metadata found for transkribus-doc-id '{transkribus_doc_id}'."
                     )
                 else:
-                    doc_metadata = collection_metadata[transkribus_doc_id]
+                    doc_metadata = resolve_types(collection_metadata[transkribus_doc_id])
                     mets_doc = return_mets_doc(
                         transkribus_doc_id, transkribus_collection_id
                     )
@@ -345,6 +358,7 @@ def process_all_files():
                         image_urls = return_image_urls(mets_doc)
                         # # change the doc / write data to it
                         create_new_xml_data(doc, doc_metadata, image_urls)
+
 
 if __name__ == "__main__":
     # # the following is needed, cause you never know if this stuff ist there.
