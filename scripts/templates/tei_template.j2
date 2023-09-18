@@ -65,7 +65,7 @@
                             <author role="acdh:hasAuthor">{{ author.value }}</author>
                         {% endfor %}
                         <title>{{ doc_metadata.doc_title }}</title>
-                        <p>{{ doc_metadata.has_description or "" }}</p>
+                        <note type="editor">{{ doc_metadata.has_description or "" }}</note>
                         </msItem>
                     </msContents>
                     <physDesc>
