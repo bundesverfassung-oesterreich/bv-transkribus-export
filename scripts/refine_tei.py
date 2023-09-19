@@ -221,7 +221,6 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
 
 def create_main_div(doc: TeiReader):
     parent_div = doc.any_xpath("//tei:body/tei:div[1]")[0]
-    print("hello")
     parent_div.attrib["type"] = "main"
 
 def create_new_xml_data(
