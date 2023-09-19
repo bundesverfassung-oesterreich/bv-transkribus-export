@@ -219,11 +219,10 @@ def get_faksimile_element(doc: TeiReader, image_urls: list):
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
     return ET.tostring(faksimile_element).decode("utf-8")
 
-def create_main_div(body):
-    body.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
-    body[0].attrib["type"] = "main"
-    return body
-
+def create_main_div(doc: TeiReader):
+    parent_div = doc.any_xpath("//tei:body/tei:div[1]")[0]
+    print("hello")
+    parent_div.attrib["type"] = "main"
 
 def create_new_xml_data(
     doc: TeiReader,
@@ -241,15 +240,17 @@ def create_new_xml_data(
     )
     remove_useless_atributes(doc)
     remove_useless_elements(doc)
+    create_main_div(doc)
     # # remove_lb_elements(doc)
-    body = ET.tostring(body_node).decode("utf-8")
+    body_string = ET.tostring(body_node).decode("utf-8")
+    body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
     faksimile = get_faksimile_element(doc, image_urls)
     # # get metadata
     context = {
         "project_md": PROJECT_MD,
         "doc_metadata": doc_metadata,
-        "body": create_main_div(body),
+        "body": body_string,
         "faksimile": faksimile,
     }
     xml_data = template.render(context)
