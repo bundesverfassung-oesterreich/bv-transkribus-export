@@ -93,8 +93,6 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
     for head_str in section_head_strs:
         head_str: ET._ElementUnicodeResult
         if re.match(regex_test, head_str.strip()):
-            #print("found head!")
-            #input(head_str)
             head_element = head_str.getparent()
             if head_str.is_tail:
                 head_element.tag = "head"
@@ -105,8 +103,6 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
                 head_element.addprevious(section_div)
                 section_div.append(head_element)
                 reverse_ordered_div_elements.append(section_div)
-        #else:
-        #    print(head_str.strip())
     return reverse_ordered_div_elements
 
 
@@ -215,8 +211,19 @@ def remove_lb_elements(doc: TeiReader):
             remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
 
 
+def remove_calibration_page(doc: TeiReader):
+    removeable_pb_xpath = "//tei:pb[1][following-sibling::*[1][local-name()='pb']]"
+    removeable_first_pb = doc.any_xpath(removeable_pb_xpath)
+    if removeable_first_pb:
+        calibration_pb = removeable_first_pb[0]
+        if calibration_pb.tail is None or not calibration_pb.tail.strip():
+            calibration_pb.getparent().remove(calibration_pb)
+            first_surface = doc.any_xpath("//tei:surface[1]")[0]
+            first_surface.getparent().remove(first_surface)
+
 
 def remove_useless_elements(doc: TeiReader):
+    remove_calibration_page(doc)
     for parent in doc.any_xpath(
         "//tei:*[(local-name()='p' or local-name()='ab') and ./node()[1][normalize-space(.)=''] and ./*[1][local-name()='lb']]"
     ):
@@ -224,9 +231,9 @@ def remove_useless_elements(doc: TeiReader):
         parent.remove(parent[0])
 
 
-def get_faksimile_element(doc: TeiReader, image_urls: list, bv_doc_id:str):
-    for graphic_element in doc.any_xpath(".//tei:graphic"):
-        #graphic_element.attrib["url"] = image_urls.pop(0)
+def get_faksimile_element(doc: TeiReader, bv_doc_id:str):
+    graphic_elements = doc.any_xpath(".//tei:graphic")
+    for graphic_element in graphic_elements:
         graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
     for zone_element in doc.any_xpath(".//tei:facsimile/tei:surface//tei:zone"):
         zone_element.getparent().remove(zone_element)
@@ -240,7 +247,6 @@ def create_main_div(doc: TeiReader):
 def create_new_xml_data(
     doc: TeiReader,
     doc_metadata: dict,
-    image_urls: list,
 ):
     # # get body & filename
     body_node = doc.any_xpath(".//tei:body")[0]
@@ -258,7 +264,7 @@ def create_new_xml_data(
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
-    faksimile = get_faksimile_element(doc, image_urls, bv_doc_id=doc_metadata["bv_id"])
+    faksimile = get_faksimile_element(doc, bv_doc_id=doc_metadata["bv_id"])
     # # get metadata
     context = {
         "project_md": PROJECT_MD,
@@ -373,9 +379,9 @@ def process_all_files():
                         transkribus_doc_id, transkribus_collection_id
                     )
                     if mets_doc is not None:
-                        image_urls = return_image_urls(mets_doc)
+                        #image_urls = return_image_urls(mets_doc)
                         # # change the doc / write data to it
-                        create_new_xml_data(doc, doc_metadata, image_urls)
+                        create_new_xml_data(doc, doc_metadata)
 
 
 if __name__ == "__main__":
