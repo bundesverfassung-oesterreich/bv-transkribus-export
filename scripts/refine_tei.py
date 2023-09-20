@@ -38,8 +38,7 @@ NewElement = builder.ElementMaker()
 
 # logfile for defective docs
 malformed_xml_docs = []
-# https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__1/ files/images/IMG_0017/full/full/0/default.jpg
-# "https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{}/files/images/{}/full/full/0/default.jpg"
+
 # # def funcs
 def remove_prefix(string, prefix):
     if string.startswith(prefix):
