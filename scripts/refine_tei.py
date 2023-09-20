@@ -28,15 +28,29 @@ templateEnv = jinja2.Environment(
 )
 template = templateEnv.get_template("tei_template.j2")
 file_rename_errors = 0
-
+nsmap = {
+    "mets" : "http://www.loc.gov/METS/",
+    "xml" : "http://www.tei-c.org/ns/1.0"
+}
 # # xml factory
 
 NewElement = builder.ElementMaker()
 
 # logfile for defective docs
 malformed_xml_docs = []
-
+# https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__1/ files/images/IMG_0017/full/full/0/default.jpg
+# "https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{}/files/images/{}/full/full/0/default.jpg"
 # # def funcs
+def remove_prefix(string, prefix):
+    if string.startswith(prefix):
+        string = string[len(prefix):]
+    return string
+
+
+def get_goobi_image_url(graphic_element, bv_doc_id):
+    """replaces the image links pointing to transcribus with image-links pointing to goobi"""
+    img_nmbr = remove_prefix(graphic_element.getparent().xpath("./@xml:id")[0], "facs_")
+    return f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/IMG_{img_nmbr.zfill(4)}/full/full/0/default.jpg"
 
 
 class PersonMetaData:
@@ -211,9 +225,10 @@ def remove_useless_elements(doc: TeiReader):
         parent.remove(parent[0])
 
 
-def get_faksimile_element(doc: TeiReader, image_urls: list):
+def get_faksimile_element(doc: TeiReader, image_urls: list, bv_doc_id:str):
     for graphic_element in doc.any_xpath(".//tei:graphic"):
-        graphic_element.attrib["url"] = image_urls.pop(0)
+        #graphic_element.attrib["url"] = image_urls.pop(0)
+        graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
     for zone_element in doc.any_xpath(".//tei:facsimile/tei:surface//tei:zone"):
         zone_element.getparent().remove(zone_element)
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
@@ -244,7 +259,7 @@ def create_new_xml_data(
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
-    faksimile = get_faksimile_element(doc, image_urls)
+    faksimile = get_faksimile_element(doc, image_urls, bv_doc_id=doc_metadata["bv_id"])
     # # get metadata
     context = {
         "project_md": PROJECT_MD,
