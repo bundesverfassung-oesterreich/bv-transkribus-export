@@ -49,16 +49,22 @@ def remove_prefix(string, prefix):
 def get_img_names_from_goobi_mets(bv_doc_id):
     request_target_url = f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
     mets_doc = TeiReader(request_target_url)
+    # thats a real good solution :)
     flocats = mets_doc.any_xpath("//*[local-name()='FLocat']")
     image_names = []
     for flocat in flocats:
         img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
         try:
             img_name = re.match(r".*?(IMG_[0-9]{4})\.[a-zA-Z]+[^/]*$", img_url).group(1)
-            image_names.append(img_name)
+            # well i could have used the correct xpath but no (elements are doubled, there is default & representation)
+            if img_name not in image_names:
+                image_names.append(img_name)
         except AttributeError as attrib_except:
             print(f"can´t get img name from link '{img_url}' for document '{bv_doc_id}'")
             raise attrib_except
+    sort_key = lambda imgname: int(imgname.removeprefix("IMG_"))
+    # let's at least assume that the images are named correctly …
+    image_names.sort(key=sort_key)
     return image_names
 
 
