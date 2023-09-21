@@ -46,10 +46,31 @@ def remove_prefix(string, prefix):
     return string
 
 
-def get_goobi_image_url(graphic_element, bv_doc_id):
-    """replaces the image links pointing to transcribus with image-links pointing to goobi"""
-    img_nmbr = remove_prefix(graphic_element.getparent().xpath("./@xml:id")[0], "facs_")
-    return f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/IMG_{img_nmbr.zfill(4)}/full/full/0/default.jpg"
+def get_img_names_from_goobi_mets(bv_doc_id):
+    request_target_url = f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
+    mets_doc = TeiReader(request_target_url)
+    flocats = mets_doc.any_xpath("//*[local-name()='FLocat']")
+    image_names = []
+    for flocat in flocats:
+        img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
+        try:
+            img_name = re.match(r".*?(IMG_[0-9]{4})\.[a-zA-Z]+[^/]*$", img_url).group(1)
+            image_names.append(img_name)
+        except AttributeError as attrib_except:
+            print(f"can´t get img name from link '{img_url}' for document '{bv_doc_id}'")
+            raise attrib_except
+    return image_names
+
+
+def replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id):
+    image_names = get_img_names_from_goobi_mets(bv_doc_id)
+    # might need to delete one of the image_names due to remove_useless_elements 
+    # removing the calibration page via remove_calibration_page
+    if len(image_names) > len(graphic_elements):
+        image_names.pop(0)
+    tupled_list = list(map((lambda x,y: (x,y)), image_names, graphic_elements))
+    for image_name, graphic_element in tupled_list:
+        graphic_element.attrib["url"] = f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/{image_name}/full/full/0/default.jpg"
 
 
 class PersonMetaData:
@@ -233,8 +254,9 @@ def remove_useless_elements(doc: TeiReader):
 
 def get_faksimile_element(doc: TeiReader, bv_doc_id:str):
     graphic_elements = doc.any_xpath(".//tei:graphic")
-    for graphic_element in graphic_elements:
-        graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
+    replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id)
+    #for graphic_element in graphic_elements:
+    #    graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
     for zone_element in doc.any_xpath(".//tei:facsimile/tei:surface//tei:zone"):
         zone_element.getparent().remove(zone_element)
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
