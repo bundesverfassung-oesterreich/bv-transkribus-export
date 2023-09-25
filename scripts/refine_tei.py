@@ -424,12 +424,12 @@ def resolve_types(doc_metadata):
     manifestation_types = []
     for entry in doc_metadata["type_of_manifestation"]:
         manifestation_types.append(
-            baserow_type_resolver.get_manifestationtype_from_row(entry["id"])
+            baserow_type_resolver.get_manifestationtype_from_row(str(entry["id"]))["name"]
         )
     doc_types = []
     for entry in doc_metadata["type_of_document"]:
         doc_types.append(
-            baserow_type_resolver.get_doctype_from_row(entry["id"])
+            baserow_type_resolver.get_doctype_from_row(str(entry["id"]))["name"]
         )
     doc_metadata["type_of_document"] = " ".join(doc_types)
     doc_metadata["type_of_manifestation"] = " ".join(manifestation_types)
