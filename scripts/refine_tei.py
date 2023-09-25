@@ -18,6 +18,8 @@ doc_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oest
 project_base_row_dump_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/project_data.json"
 doc_local_baserow_dump = TMP_DIR + "document.json"
 project_local_baserow_dump = TMP_DIR + "project_data.json"
+project_doc_types_dump = TMP_DIR + "doc_types.json"
+project_manifestation_types_dump = TMP_DIR + "manifestation_types.json"
 PROJECT_MD = {}
 
 
@@ -339,13 +341,60 @@ def return_col_id_from_mets_doc(doc: TeiReader):
 
 def fetch_metadata_dump(url, local_filepath):
     import requests
-
+    print(f"downloading from {url}")
     results = requests.get(url)
     json_result = results.json()
     with open(local_filepath, "w") as outfile:
         json.dump(json_result, outfile)
     return json_result
 
+class BaseRowTypeResolver:
+    def __init__(self):
+        self.doc_types_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/type_of_document.json"
+        self.manifestation_types_url = "https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-entities/main/json_dumps/type_of_manifestation.json"
+        self.doc_types_path = project_doc_types_dump
+        self.manifestation_types_path = project_manifestation_types_dump
+        self.doc_types_by_row = fetch_metadata_dump(
+            url=self.doc_types_url,
+            local_filepath=self.doc_types_path
+        )
+        self.manifestation_types_by_row = fetch_metadata_dump(
+            url=self.manifestation_types_url,
+            local_filepath=self.manifestation_types_path
+        )
+        self.doctype_by_id = None
+        self.manitype_by_id = None
+    
+
+    def get_doctype_from_id(self, d_id:str):
+        if self.doctype_by_id is None:
+            self.doctype_by_id = dict(
+                [
+                    (item["bv_id"], item) for rownmbr, item in self.doc_types_by_row.items()
+                ]
+            )
+        return self.doctype_by_id[d_id]
+    
+
+    def get_manifestationtype_from_id(self, m_id:str):
+        if self.manitype_by_id is None:
+            self.manitype_by_id = dict(
+                [
+                    (item["bv_id"], item) for rownmbr, item in self.manifestation_types_by_row.items()
+                ]
+            )
+        return self.manitype_by_id[m_id]
+    
+
+    def get_manifestationtype_from_row(self, row_number:str):
+        return self.manifestation_types_by_row[row_number]
+
+
+    def get_doctype_from_row(self, row_number:str):
+        return self.manifestation_types_by_row[row_number]
+    
+
+baserow_type_resolver = BaseRowTypeResolver()
 
 def load_metadata_from_dump():
     json_data = None
@@ -372,6 +421,22 @@ def load_metadata_from_dump():
 
 
 def resolve_types(doc_metadata):
+    manifestation_types = []
+    for entry in doc_metadata["type_of_manifestation"]:
+        manifestation_types.append(
+            baserow_type_resolver.get_manifestationtype_from_row(entry["id"])
+        )
+    doc_types = []
+    for entry in doc_metadata["type_of_document"]:
+        doc_types.append(
+            baserow_type_resolver.get_doctype_from_row(entry["id"])
+        )
+    doc_metadata["type_of_document"] = " ".join(doc_types)
+    doc_metadata["type_of_manifestation"] = " ".join(manifestation_types)
+    return doc_metadata
+
+
+def resolve_types_bak(doc_metadata):
     # this is a bit lazy but the id is build based on the row id, so whatever …
     mani_types = []
     for entry in doc_metadata["type_of_manifestation"]:
