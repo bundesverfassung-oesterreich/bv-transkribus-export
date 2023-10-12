@@ -1,0 +1,685 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Falser II</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529205</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="goobi">14511</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 250, Mappe 3.</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Falser, Stephan</author>
+                        <title>Falser II</title>
+                        <note type="editor">Falser II (Titel des Dokuments: "Die Verfassung des Bundesstaates Republik Österreich"), Zustand gut, wenige Ergänzungen (Hinweis auf fehlenden Artikel bzw. Fehler bei der Zählung), 37 Artikel</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1919-12-18" to="1919-12-18">18. Dezember 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date notBefore-iso="1919-12-18" notAfter-iso="1919-12-18">
+                18. Dezember 1919
+            </date>
+         </creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2728" lry="4379" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0002/full/full/0/default.jpg" width="2728px" height="4379px"/></surface><surface ulx="0" uly="0" lrx="2728" lry="4375" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0003/full/full/0/default.jpg" width="2728px" height="4375px"/></surface><surface ulx="0" uly="0" lrx="2727" lry="4380" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0004/full/full/0/default.jpg" width="2727px" height="4380px"/></surface><surface ulx="0" uly="0" lrx="2720" lry="4402" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0005/full/full/0/default.jpg" width="2720px" height="4402px"/></surface><surface ulx="0" uly="0" lrx="2721" lry="4409" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0006/full/full/0/default.jpg" width="2721px" height="4409px"/></surface><surface ulx="0" uly="0" lrx="2727" lry="4388" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0007/full/full/0/default.jpg" width="2727px" height="4388px"/></surface><surface ulx="0" uly="0" lrx="2719" lry="4391" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0008/full/full/0/default.jpg" width="2719px" height="4391px"/></surface><surface ulx="0" uly="0" lrx="2724" lry="4391" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0009/full/full/0/default.jpg" width="2724px" height="4391px"/></surface><surface ulx="0" uly="0" lrx="2724" lry="4378" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0010/full/full/0/default.jpg" width="2724px" height="4378px"/></surface><surface ulx="0" uly="0" lrx="2719" lry="4378" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0011/full/full/0/default.jpg" width="2719px" height="4378px"/></surface><surface ulx="0" uly="0" lrx="2807" lry="4482" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0012/full/full/0/default.jpg" width="2807px" height="4482px"/></surface><surface ulx="0" uly="0" lrx="2794" lry="4466" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0013/full/full/0/default.jpg" width="2794px" height="4466px"/></surface><surface ulx="0" uly="0" lrx="2794" lry="4463" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0014/full/full/0/default.jpg" width="2794px" height="4463px"/></surface><surface ulx="0" uly="0" lrx="2771" lry="4420" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0015/full/full/0/default.jpg" width="2771px" height="4420px"/></surface><surface ulx="0" uly="0" lrx="2782" lry="4476" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0016/full/full/0/default.jpg" width="2782px" height="4476px"/></surface><surface ulx="0" uly="0" lrx="2769" lry="4416" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0017/full/full/0/default.jpg" width="2769px" height="4416px"/></surface><surface ulx="0" uly="0" lrx="2722" lry="4376" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0018/full/full/0/default.jpg" width="2722px" height="4376px"/></surface><surface ulx="0" uly="0" lrx="2723" lry="4364" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__7/files/images/IMG_0019/full/full/0/default.jpg" width="2723px" height="4364px"/></surface></facsimile>
+    <text type="Manuskript">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>- 1 -</p><p>Die Verfassung des Bundesstaates Republik Oesterreich.
+      <lb/>--------------------------------------------------
+      <lb/>(Republik der Deutschen Alpenlande).
+      </p><div type="article">
+<head>Art. I.
+      </head>
+<p>Die Länder Kärnten, Niederösterreich, Oberösterreich, Salz-
+      <lb/>burg, Steiermark, Tirol, Vorarlberg und Westungarn in ihren durch
+      <lb/>den Friedensvertrag (Staatsgesetzblatt Z. ex 191) fest-
+      <lb/>gestellten Grenzen und die freie Stadt Wien schließen sich auf Grund</p><p>der rechtsgiltigen Beschlüsse ihrer Landesvertretungen und des Wie-
+      <lb/>ner Gemeinderates, sowie der Nationalversammlung der Republik
+      <lb/>Deutschösterreich zu einem ewigen Bunde mit den Namen
+      <lb/>Republik der deutschen Alpenlande
+      <lb/>oder
+      <lb/>Republik Oesterreich
+      <lb/>und mit der Bundeshauptstadt Wien zusammen. Beide Namen sind in
+      <lb/>allen von den Bundes- und Landesbehörden ausgehenden oder von ih-
+      <lb/>nen zu unterfertigenden Erlässen, Kundmachungen, Entscheidungen und
+      <lb/>Verträgen abwechselnd mit gleicher Rechtswirkung zu gebrauchen.</p></div>
+<div type="article">
+<head>Art. II.
+      </head>
+<p>Die Selbständigkeit jedes Bundesgliedes bleibt gewahrt und
+      <lb/>wird vom Bunde gewährleistet, insoweit sie nicht durch die Bundes-
+      <lb/>verfassung oder durch auf Grund dieser Verfassung zu erlassende
+      <lb/>Bundesgesetze beschränkt ist oder besehränkt wird.
+      </p></div>
+<div type="article">
+<head>Art. III.
+      </head>
+<p>Der Rund schützt sein Gebiet und das Gebiet seiner Glieder vor
+      <lb/>Angriffen von Aussen; er ist verpflichtet, über Ersuchen der Landes-
+      <lb/>regierungen zur Aufrechthaltung der Ruhe und Ordnung im Innern
+      <lb/>Bundeshilfe zu gewähren.</p><p>23</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>- 2 -</p><p>Auch ohne solches Ersuchen kann die Bundesgewalt gegen Störun-
+      <lb/>gen der öffentlichen Ruhe und Ordnung innerhalb des Gebietes eines
+      <lb/>oder mehrerer der Bundesglieder einschreiten, wenn die Landesregie-
+      <lb/>rung außer Stande ist, die Unruhen zu unterdrücken, oder wenn zu
+      <lb/>befürchten ist, daß sie auf das Gebiet anderer Bundesglieder über-
+      <lb/>greifen.
+      </p></div>
+<div type="article">
+<head>Art. IV.
+      </head>
+<p>Zum Zwecke der Erfüllung der im Art. III enthaltenen Aufgaben
+      <lb/>wird ein Bundesheer aufgestellt, das unter dem militärischen Befeh-
+      <lb/>le des Bundesfeldherrn steht, der der Bundesregierung unterstellt
+      <lb/>ist.
+      <lb/>Die Kriegs- und Friedensstärke des Heeres innerhalb der durch
+      <lb/>den Friedensvertrag vom
+      <lb/>gezogenen Grenzen, die Art der
+      <lb/>Ausbildung und die Gliederung des Heeres bestimmt die Bundesgesetz-</p><p>gebung.
+      <lb/>Dem Bunde obliegt der Schutz und die für die Sicherung der Bun-
+      <lb/>desgrenzen erforderliche Grenzbefestigung.
+      <lb/>Die Aufteilung der Truppenmacht nach den verschiedenen Waffen-
+      <lb/>gattungen auf die einzelnen Bundesglieder ist ebenfalls Sache des
+      <lb/>Bundes; die Aufbringung, Ausrüstung und Verpflegung der auf diese
+      <lb/>entfallenden Mannschaften, Offiziere und Unteroffiziere obliegt
+      <lb/>den Bundesgliedern.
+      <lb/>Insoferne der Grenzschutz erhöhte Auslagen für das einzelne
+      <lb/>Bundesglied bedingt, steht diesem ein Anspruch auf Ersatz gegenüber
+      <lb/>dem Bunde zu.
+      <lb/>Die Verwendung der von den einzelnen Bundesgliedern aufgebrach-
+      <lb/>ten Truppen, Offiziere und Unteroffiziere außerhalb ihrer Grenzen
+      <lb/>ist nur in den Fällen des Art. III und bei militärischen Uebungen
+      <lb/>zulässig.</p><p>24</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>- 3 -</p></div>
+<div type="article">
+<head>Art. V.
+      </head>
+<p>Jedes Bundesmitglied hat zur Aufrechthaltung der Ruhe und
+      <lb/>Sicherheit innerhalb seiner Gebietsgrenzen eine Landjägertruppe
+      <lb/>aufzustellen und auf eigene Kosten zu erhalten. Die Größe der Land-
+      <lb/>jägertruppe wird nach der Zahl der Bewohner für jedes Bundesmitglied
+      <lb/>in der Art bemessen, daß auf je 500 Einwohner (nach der jeweilig
+      <lb/>letzten Volkszählung) wenigstens ein Mann entfällt. Die Festsetzung
+      <lb/>der Bedingungen der Aufnahme, die Ausbildung und Gliederung dieser
+      <lb/>Truppe ist Sache der Bundesglieder.</p><p>Im Falle der Abwehr feindlicher Angriffe von Aussen sind die
+      <lb/>Landjägertruppen sämtlicher Bundesglieder der Militärgewalt des
+      <lb/>Bundes (Art. IV) unterstellt; im Falle des Einschreitens der Bundes-
+      <lb/>gewalt zur Aufrechthaltung der öffentlichen Ruhe und Ordnung inner-
+      <lb/>halb des Gebietes eines oder mehrerer Bundesglieder ist die Landjä-
+      <lb/>gertruppe des davon betroffenen Landes (der Bundeshauptstadt) dem
+      <lb/>Bunde und dem vom Bunde bestellten Oberbefehlshaber unterstellt.
+      </p></div>
+<div type="article">
+<head>Art. VI.
+      </head>
+<p>Die Bundesglieder sind verpflichtet, ihre Verfassungen der
+      <lb/>Bundesgewalt mitzuteilen und um die Uebernahme der bundesstaatlichen
+      <lb/>Gewährleistung nachzusuchen (Art. II).
+      <lb/>Der Bund übernimmt die Gewährleistung, wenn die Verfassung
+      <lb/>nichts den Vorschriften der Bundesverfassung Zuwiderlaufendes ent-</p><p>hält,
+      <lb/>wenn sie die Ausübung der politischen Rechte nach den Grundsätzen
+      <lb/>der Rechtsgleichheit Aller vor dem Gesetze sichert,
+      <lb/>wenn sie in allgemeiner Volksabstimmung angenommen worden ist
+      <lb/>und wenn sie die Möglichkeit ihrer Aenderung über Antrag von höch-
+      <lb/>stens einem Drittel der stimmberechtigten Bürger vorsieht.
+      </p></div>
+<div type="article">
+<head>Art. VII.
+      </head>
+<p>Die Glaubens- und Gewissensfreiheit ist unverletzlich. Niemand
+      <lb/>darf zur Teilnahme an einer Religionsgesellschaft oder an einem</p><p>25</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>- 4 -
+      <lb/>religiösen Unterrichte oder zur Vornahme einer religiösen Handlung
+      <lb/>gezwungen werden.
+      <lb/>Ueber die religiöse Erziehung der Kinder verfügt bis zum voll-
+      <lb/>endeten 16. Lebensjahre der Inhaber der väterlichen oder vormund-
+      <lb/>schaftlichen Gewalt.
+      <lb/>Die öffentlichen Unterrichtsanstalten sind den Angehörigen
+      <lb/>aller Religionsgesellschaften ohne Beeinträchtigung der Glaubens-
+      <lb/>und Gewissensfreiheit zugänglich.
+      <lb/>Niemand ist gehalten Abgaben zu leisten, welche für Kultuszwek-
+      <lb/>ke einer Religionsgesellschaft, der er nicht angehört, auferlegt
+      <lb/>werden.
+      <lb/>Die freie Ausübung gottesdienstlicher Handlungen ist innerhalb
+      <lb/>der Schranken der Sittlichkeit und der öffentlichen Ordnung gewähr-
+      <lb/>leistet.</p></div>
+<div type="article">
+<head>Art. VIII.
+      </head>
+<p>Jede Religionsgesellschaft ordnet innerhalb der gesetzlichen
+      <lb/>Schranken ihre Angelegenheiten selbständig.
+      </p></div>
+<div type="article">
+<head>Art. IX.
+      </head>
+<p>Die Pressfreiheit ist gewährleistet; durch ein Bundesgesetz
+      <lb/>sind Bestimmungen gegen den Mißbrauch dieses Rechtes zu treffen.
+      </p></div>
+<div type="article">
+<head>Art. X.</head>
+<p>
+</p><p>Die Bürger haben das Recht, Vereine zu bilden, soferne diese
+      <lb/>weder in ihren Zwecken noch in den Mitteln rechtswidrig oder staats-
+      <lb/>gefährlich sind. Ueber den Mißbrauch dieses Rechtes und über das
+      <lb/>Versammlungsrecht trifft die Bundesgesetzgebung die notwendigen Be-
+      <lb/>stimmungen.
+      </p></div>
+<div type="article">
+<head>Art. XI.
+      </head>
+<p>Niemand darf seinem verfassungsmässigen Richter entzogen werden;
+      <lb/>es dürfen keine Ausnahmegerichte eingeführt werden.
+      <lb/>Die Militärgerichtsbarkeit bleibt nur für rein militärische
+      <lb/>Vergehen bestehen und ist durch Bundesgesetz zu regeln.</p><p>26</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>- 5 -</p></div>
+<div type="article">
+<head>Art. XII.
+      </head>
+<p>Alle Bundesglieder sind verpflichtet, die Angehörigen des
+      <lb/>Bundesstaates sowohl in der Gesetzgebung als auch in der Verwal-
+      <lb/>tung und vor den Gerichten ohne Rücksicht auf ihre Landes- und Ge-
+      <lb/>meindezuständigkeit den eigenen Angehörigen gleichzustellen. Die
+      <lb/>Freizügigkeit ist allen Angehörigen des Bundestaates innerhalb sei-
+      <lb/>ner Grenzen gewährleistet. Niemand kann in mehr als einem Gebiete
+      <lb/>eines Bundesgliedes politische Rechte ausüben.
+      </p></div>
+<div type="article">
+<head>Art. XIII.
+      </head>
+<p>Die Freiheit des Handels und der Gewerbe ist im ganzen Umfange
+      <lb/>des Bundestaates gewährleistet, soweit nicht Bundesgesetze oder
+      <lb/>auf Grund von Bundesgesetzen erlassene Verordnungen eine Einschrän-
+      <lb/>kung bedingen.
+      </p></div>
+<div type="article">
+<head>Art. XIV.</head>
+<p>
+</p><p>In die Zuständigkeit des Bundes fallen:
+      <lb/>1.) Die auswärtigen Angelegenheiten mit Einschluß der diplo-
+      <lb/>matischen und kommerziellen Vertretung dem Auslande gegen
+      <lb/>über, die Zollgesetzgebung, die Prüfung und Genehmigung
+      <lb/>der Handelsverträge und jener Staatsverträge, die den Bun-
+      <lb/>desstaat oder Teile des Bundesstaates belasten oder eine
+      <lb/>Gebietsänderung des Bundes oder seiner Bundesglieder zum
+      <lb/>Gegenstande haben; Grenzverschiebungen zwischen den einzel-
+      <lb/>nen Bundesgliedern sind, wenn dadurch die Auslandsgrenzen
+      <lb/>nicht berührt werden, der Bundesgewalt lediglich zur Kennt-
+      <lb/>nis zu bringen.
+      <lb/>2.) Die Entscheidung über Krieg und Frieden.
+      <lb/>3.) Die Gesetzgebung über das Heerwesen in den Schranken des
+      <lb/>Art. IV, über die militärische Befehlsgewalt, über Vor-
+      <lb/>spannleistung, Verpflegung und Einquartierung des Heeres,
+      <lb/>ferner die Regelung der Militärgerichtsbarkeit in den</p><p>27</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>- 6 -</p><p>Schranken des Art. XI.
+      <lb/>4.) Das Finanzwesen, soweit es die gemeinschaftlich zu verwal-
+      <lb/>tenden Einnahmen und Ausgaben betrifft, also die Feststel-
+      <lb/>lung der Voranschläge des Bundeshaushaltes, die Prüfung
+      <lb/>der Staatsrechnungsabschlüsse und die Erteilung der Entla-
+      <lb/>stung, die Aufnahme von Bundesanlehen, die Umwandlung der
+      <lb/>bestehenden Staatsschulden, die Verwaltung, Veräußerung
+      <lb/>oder Belastung des Bundesvermögens, die Gesetzgebung über
+      <lb/>Monopole; ferner die Festsetzung des Geld-, Münz- und Zet-
+      <lb/>telbankwesens, endlich die Gesetzgebung über Steuern, Ab-
+      <lb/>gaben und Gefälle, diese jedoch mit der Einschränkung, daß
+      <lb/>das Recht der Besteuerung von Grund- und Boden und von Haus-
+      <lb/>besitz ausschließend den Bundesgliedern zukommt.
+      <lb/>Inwieweit die übrigen öffentlichen Steuern, Abgaben und
+      <lb/>Gefälle zwischen dem Bunde und seinen einzelnen Bundesglie-</p><p>dern aufzuteilen sind, wird durch ein eigenes Bundesgesetz
+      <lb/>bestimmt.
+      <lb/>5.) Die Zivil- und Strafgesetzgebung mit Einschluß des Handels-,
+      <lb/>Wechsel-, Berg- und Lehenrechtes, dann des Zivil- und Strafprozeß-
+      <lb/>rechtes und des Polizeirechtes, jedoch mit Ausnahme der Gesetzgebung über die öf-
+      <lb/>fentlichen Bücher und über die Bildung der Gerichts- und
+      <lb/>Verwaltungsbezirke innerhalb des Gebietes der einzelnen
+      <lb/>Glieder des Bundes. Die Gesetzgebung über die Erlangung öf-
+      <lb/>fentlicher Aemter steht dem Bunde nur insoweit zu, als es
+      <lb/>sich um Aemter handelt, deren Amtsbezirk über die Grenzen
+      <lb/>eines Bundesgliedes hinausreicht. Mit der gleichen Beschrän-
+      <lb/>kung steht der Bundesgewalt das Recht der Ernennung der Rich-
+      <lb/>ter und Verwaltungsbeamten zu.
+      <lb/>6.) Das Post-, Telegraphen-, Telephon-, Eisenbahn-, Schiffahrts-
+      <lb/>und Luftschiffahrtswesen, die Elektrizitätsgesetzgebung und
+      <lb/>die Verwaltung der Bundesstraßen.</p><p>28</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>- 7 -</p><p>7.) Die Gesetzgebung über das Kredit- und Bankwesen mit Ausnahme
+      <lb/>des landwirtschaftlichen Kreditwesens (Raiffeisenkassen, land-
+      <lb/>wirtschaftliche Vorschußkassen u.A.) dann die Privilegien-
+      <lb/>und Gewerbegesetzgebung, die Gesetzhebung über Maß und
+      <lb/>Gewicht, über Marken- und Musterschutz, die Gesetzgebung
+      <lb/>über Fabriken, über Kranken-, Unfall- und Altersversorgung
+      <lb/>der Arbeiter und die damit zusammenhängenden Unterstützungs
+      <lb/>und Hilfskassen.
+      <lb/>8.) Die Gesetzgebung über die Sozialisierung der Gütererzeugung.
+      <lb/>9.) Die Medizinalgesetzgebung, sowie die Gesetzgebung zum
+      <lb/>Schutze gegen Epidemien und Viehseuchen.
+      <lb/>10.) Die Gesetzgebung über Staatsbürger- und Heimatrecht, über
+      <lb/>Fremdenpolizei- und Passwesen, und über die Volkszählung.
+      <lb/>11.)Die Gesetzgebung über die Presse (Art. IX) über das Vereins
+      <lb/>und Versammlungsrecht (Art. X) und über den Schutz des gei-
+      <lb/>stigen Eigentums.</p><p>12.) Die Gesetzgebung über die Mittelschulen und die Universi-
+      <lb/>täten.
+      <lb/>13.) Die Oberaufsicht über die Angelegenheiten der Landeskultur,
+      <lb/>und über die Nutzbarmachung der Wasserkräfte; die Bundesge-
+      <lb/>setzgebung stellt zu diesem Behufe die erforderlichen all-
+      <lb/>gemeinen Vorschriften auf.
+      <lb/>Mit diesem Vorbehalte ist die Regelung der Nutzbarma-
+      <lb/>chung der Wasserkräfte eine Angelegenheit der Bundesglieder.
+      <lb/>Wenn jedoch eine Gewässerstrecke, die für die Gewinnung</p><p>einer Wasserkraft in Anspruch genommen wird, unter der Ge-
+      <lb/>bietshoheit zweier oder mehrerer Bundesglieder steht und
+      <lb/>sich diese über eine gemeinsame Konzession nicht einigen
+      <lb/>können, so ist die Erteilung der Konzession Sache des Bun-
+      <lb/>des. Dem Bunde steht auch die Konzessionserteilung an Ge-
+      <lb/>wässerstrecken zu, die die Grenze des  Bundesstaates bilden;
+      <lb/>die an dieser Grenze gelegenen Bundesglieder sind dem Ver-
+      <lb/>fahren als beteiligte Parteien beizuziehen.
+      <lb/>29</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>- 8 -</p><p>14.) Die Oberaufsicht über die Straßen und Brücken, deren In-
+      <lb/>standhaltung für den Bundesstaat Bedeutung hat.
+      </p></div>
+<div type="article">
+<head>Art. XV.
+      </head>
+<p>In Angelegenheiten, welche zur Zuständigkeit der Gesetzgebung
+      <lb/>der Bundesglieder gehören, kann diese die zur Regelung des Gegen-
+      <lb/>standes erforderlichen Bestimmungen auch auf dem Gebiete der Straf-
+      <lb/>justiz- und Polizeistraf- sowie der Zivilgesetzgebung treffen.
+      </p></div>
+<div type="article">
+<head>Art. XVI.</head>
+<p>
+</p><p>Die Landesregierungen sind verpflichtet, alle Gesetzesbeschlüs-
+      <lb/>se der Landtage vor ihrer Kundmachung der Staatsregierung mitzutei-
+      <lb/>len; die gleiche Pflicht obliegt dem Stadtrate der Bundeshauptstadt
+      <lb/>Wien im Betreffe der Gesetzesbeschlüsse des Gemeinderates.
+      <lb/>Hat die Staatsregierung gegen einen solchen Beschluß Bedenken,
+      <lb/>so kann sie gegen ihn binnen 14 Tagen nach Einlangen der Mitteilung
+      <lb/>bei der gesetzgebenden Körperschaft des Bundesgliedes in Wege der
+      <lb/>Landesregierung Vorstellung erheben. Vor Ablauf dieser Frist kann
+      <lb/>das Landesgesetz ohne Zustimmung der Staatsregierung nicht kundge-
+      <lb/>macht werden. Beschließt der Landtag (der Wiener Gemeinderat) auf
+      <lb/>dem ursprünglichen Beschlusse zu beharren, so hat dessen Kundmachung
+      <lb/>durch die Landesregierung zu erfolgen.</p></div>
+<div type="article">
+<head>Art. XVII.
+      </head>
+<p>Gesetzbeschlüsse der Landtage oder des Wiener Gemeinderates
+      <lb/>können wegen Verfassungswidrigkeit (Art. VI bis XIV) von der Staats-
+      <lb/>regierung binnen 14 Tagen nach Einlangen der Mitteilung, und wenn
+      <lb/>gegen diese Beschlüsse im Sinne des Art. XVI zunächst eine Vorstel-
+      <lb/>lung erhoben worden ist, nach Ablauf weiterer 14 Tage beim Verfas-
+      <lb/>sungsgerichtshofe angefochten werden; diese Anfechtung ist der Lan-
+      <lb/>desregierung unverzüglich auf dem kürzesten Wege mitzuteilen. Die
+      <lb/>Kundmachung des angefochtenen Beschlusses darf erst erfolgen, wenn
+      <lb/>der Gerichtshof dessen Verfassungsmässigkeit anerkannt hat; der</p><p>30</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>- 9 -</p><p>Verfassungsgerichtshof hat binnen Monatsfrist das Erkenntnis zu fäl-
+      <lb/>len, widrigens die Kundmachung des angefochtenen Gesetzesbeschlusses
+      <lb/>mit einstweiliger voller Rechtswirkung erfolgen kann.
+      <lb/>Das gleiche Anfechtungsrecht wegen Verfassungswidrigkeit der
+      <lb/>Bundesgesetze und Bundesbeschlüsse steht auch den Landtagen (dem
+      <lb/>Wiener Gemeinderat) und wenn diese nicht versammelt sind, den Landes-
+      <lb/>räten (dem Wiener Stadtrate) zu.
+      </p></div>
+<div type="article">
+<head>Art. XVIII.
+      </head>
+<p>Der Bund wird vertreten
+      <lb/>a) durch die Bundesversammlung
+      <lb/>b) durch das Ständehaus.
+      <lb/>a). Die Bundesversammlung besteht aus den von allen zu den Landtagen
+      <lb/>und zum Gemeinderate der Bundeshauptstadt Wien Wahlberechtigten
+      <lb/>nach dem Verhältniswahlverfahren gewählten Abgeordneten. Die
+      <lb/>Einteilung der Wahlkreise unter Wahrung der Gebietsgrenzen der</p><p>einzelnen Bundesglieder und das Wahlverfahren wird durch besonde-
+      <lb/>res Gesetz, das einen Bestandteil der Bundesverfassung bildet,
+      <lb/>geregelt.
+      <lb/>Die Anzahl der aus jedem Wahlkreise zur Bundesversammlung
+      <lb/>zu wählenden Abgeordneten richtet sich nach der Anzahl der Be-
+      <lb/>wohner zur Zeit der jeweilig letzten Volkszählung, wobei es auf
+      <lb/>je 50.000 Einwohner einen Abgeordneten trifft. Bruchteile bis
+      <lb/>einschließlich zehntausend Einwohnern bleiben unberücksichtigt,
+      <lb/>Bruchteile von zehntausend und darüber zählen für voll.
+      <lb/>b). Das Ständehaus besteht aus den von den Landtagen und dem Gemein-
+      <lb/>derate der Bundeshauptstadt Wien gewählten Vertretern der Bundes-
+      <lb/>glieder; jedes Bundesglied entsendet in das Ständehaus zehn Ver-
+      <lb/>treter; die Vertretung kann nicht widerrufen werden; für ausschei-
+      <lb/>dende Vertreter ist sobald als möglich eine Nachwahl durchzufüh-</p><p>31</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>- 10 -</p><p>ren. Die Art der Wahl und die Voraussetzungen der Wählbarkeit
+      <lb/>bestimmt die Landesgesetzgebung.
+      <lb/>Im Ständehause hat jedes Bundesglied eine Stimme; diese
+      <lb/>Stimme wird nach der einfachen Mehrheit seiner Vertreter ermit-
+      <lb/>telt; Stimmengleichheit bedingt Stimmenthaltung für das betref-
+      <lb/>fende Bundesglied.
+      </p></div>
+<div type="article">
+<head>Art. XIX.</head>
+<p>
+</p><p>Die Bundesversammlung und das Ständehaus werden auf sechs
+      <lb/>Jahre gewählt. Sinkt aber die Zahl der Mitglieder einer dieser
+      <lb/>Körperschaften bis auf die Hälfte seiner gesetzmässigen Anzahl,
+      <lb/>so sind in beiden Körperschaften Neuwahlen durchzuführen; die
+      <lb/>Amtsdauer der neugewählten Vertretungen beträgt wieder sechs
+      <lb/>Jahre.
+      <lb/>Der Beginn der Amtsdauer wird in allen Fällen vom Tage des
+      <lb/>ersten Zusammentrittes der Bundesversammlung gerechnet.
+      </p></div>
+<div type="article">
+<head>Art. XX.
+      </head>
+<p>Wenn fünf Bundesglieder durch ihre Vertretung (Landtag,
+      <lb/>Gemeinderat der Stadt Wien) es verlangen, hat die Bundesregie-
+      <lb/>rung die Bundesversammlung und das Ständehaus aufzulösen und
+      <lb/>Neuwahlen auszuschreiben.
+      </p></div>
+<div type="article">
+<head>Art. XXI.</head>
+<p>
+</p><p>Bundesgesetze kommen durch den übereinstimmenden Beschluß
+      <lb/>der Bundesversammlung und des Ständehauses zusammen; die Fest-
+      <lb/>stellung der Voranschläge des Bundeshaushaltes, die Prüfung
+      <lb/>der Staatsrechnungsabschlüsse und die Erteilung der Entlastung,
+      <lb/>die Aufnahme von Bundesanlehen, die Umwandlung der bestehenden
+      <lb/>Staatsschulden, die Verwaltung, Veräußerung oder Belastung des
+      <lb/>Bundesvermögens und die Gesetzgebung über Steuern, Abgaben und
+      <lb/>Gefälle (diese in den Schranken des Art. XIV,Z.4) steht ausschlies-
+      <lb/>send der Bundesversammlung zu.</p><p>32</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>- 11 -
+      </p></div>
+<div type="article">
+<head>Art. XXII.
+      </head>
+<p>Zu einem giltigen Beschlüsse ist in beiden Vertretungskörpern
+      <lb/>des Bundes die einfache Mehrheit der in beschlußfähiger Anzahl
+      <lb/>anwesenden Mitglieder erfordert, insoferne nicht die Gesetze abwei-
+      <lb/>chende Bestimmungen treffen.
+      <lb/>Die Beschlußfähigkeit der Bundesversammlung richtet sich nach
+      <lb/>dem für den Staat Deutschösterreich beschlossenen Gesetze vom 5.
+      <lb/>März 1919, St. G. Bl. Nr. 162.</p><p>Die Beschlußfähigkeit des Ständehauses ist gegeben, wenn we-
+      <lb/>nigstens vier Bundesglieder an der Abstimmung teilnehmen.
+      <lb/>Abgelehnte Anträge können erst nach Durchführung allgemeiner
+      <lb/>Neuwahlen wieder eingebracht werden.
+      </p></div>
+<div type="article">
+<head>Art. XXIII.
+      </head>
+<p>Die Bundesversammlung und das Ständehaus versammeln sich jähr-
+      <lb/>lich einmal zur ordentlichen Sitzung an einem durch die Geschäfts-
+      <lb/>ordnung festzusetzenden Tage; sie geben sich selbst Geschäftsordnun-
+      <lb/>gen, die mit einfacher Mehrheit der in beschlußfähiger Anzahl anwe-
+      <lb/>senden Mitglieder beschlossen werden, die aber nur mit zwei Drittel
+      <lb/>Mehrheit abgeändert werden können.</p></div>
+<div type="article">
+<head>Art. XXIV.
+      </head>
+<p>Zu außerordentlichen Tagungen sind Bundesversammlung und Stän-
+      <lb/>dehaus durch Beschluß des Bundesrates einzuberufen; die Einberufung
+      <lb/>muß erfolgen, wenn ein Viertel der Mitglieder der Bundesversammlung
+      <lb/>oder drei Bundesglieder es verlangen.
+      </p></div>
+<div type="article">
+<head>Art. XXV.
+      </head>
+<p>Bundesgesetze, sowie allgemein verbindliche Bundesbeschlüsse
+      <lb/>sind dem Volke zur Annahme oder Verwerfung vorzulegen, wenn es von
+      <lb/>fünfzigtausend Rundesbürgern oder von drei Bundesgliedern verlangt
+      <lb/>wird.</p><p>33</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>- 12 -
+      <lb/>Die Durchführung der Volksabstimmung und die Frist zur Ein-
+      <lb/>bringung dieses Verlangens wird durch Bundesgesetz geregelt.
+      </p></div>
+<div type="article">
+<head>Art. XXVI.
+      </head>
+<p>Die Sitzungen der Bundesversammlung und des Ständehauses
+      <lb/>sind in der Regel öffentlich.
+      <lb/>Artikelfehler
+      </p></div>
+<div type="article">
+<head>Art. XXVIII.</head>
+<p>
+</p><p>Die oberste vollziehende und leitende Verwaltungsbehörde
+      <lb/>des Bundesstaates ist der Bundesrat, der aus Mitgliedern be-
+      <lb/>steht. Die Mitglieder werden von der Bundesversammlung aus allen
+      <lb/>in die Bundesversammlung wählbaren Bürgern, auf die Dauer von 3
+      <lb/>Jahren ernannt. Nach jeder Gesamterneuerung der Bundesversammlung
+      <lb/>wird auch der Bundesrat erneuert; die in der Zwischenzeit frei ge-
+      <lb/>wordenen Stellen werden bei der nächstfolgenden Tagung der Bundes-
+      <lb/>versammlung für den Rest der Amtsdauer wieder besetzt.
+      <lb/>Die Mitglieder des Bundesrates dürfen keine andere dienst-
+      <lb/>liche Stellung, sei es im Dienste des Bundesstaates, sein es im
+      <lb/>Dienste eines der Bundesglieder bekleiden, noch irgend einen an-
+      <lb/>deren Beruf oder ein Gewerbe ausüben.</p></div>
+<div type="article">
+<head>Art. XXIX.
+      </head>
+<p>Den Vorsitz im Bundesrate führt der Bundespräsident, der aus
+      <lb/>seinen Mitgliedern von der Bundesversammlung für die Dauer von
+      <lb/>3 Jahren gewählt wird; das gleiche gilt für die Wahl seines Stell-
+      <lb/>vertreters im Vorsitze. Um giltig verhandeln und beschliessen zu
+      <lb/>können, ist die Anwesenheit von wenigstens      Mitgliedern des
+      <lb/>Bundesrates notwendig.
+      </p></div>
+<div type="article">
+<head>Art. XXX.
+      </head>
+<p>Die Mitglieder des Bundesrates beziehen einen jährlichen
+      <lb/>Gehalt aus der Bundeskasse.</p><p>34</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>- 13 -
+      </p></div>
+<div type="article">
+<head>Art. XXXI.
+      </head>
+<p>Die Mitglieder des Bundesrates haben bei den Verhandlungen
+      <lb/>der Bundesversammlung und des Ständehauses beratende Stimme und
+      <lb/>auch das Recht, über einen zur Beratung gestellten Gegenstand Anträ-
+      <lb/>ge zu stellen.
+      </p></div>
+<div type="article">
+<head>Art. XXXII.</head>
+<p>
+</p><p>Der Bundesrat hat insbesondere folgende Befugnisse und Pflich-
+      <lb/>ten.
+      <lb/>1./ er leitet die bundesstaatlichen Angelegenheiten gemäß den
+      <lb/>Bundesgesetzen und Bundesbeschlüssen, nach Maß der in Art. XIV fest-
+      <lb/>gelegten Zuständigkeit der Bundesgewalt;
+      <lb/>2. / er hat die Beobachtung der Verfassung, der Gesetze und Be-
+      <lb/>schlüsse des Bundes zu überwachen:
+      <lb/>3./ er schlägt der Bundesversammlung oder dem Ständehause oder
+      <lb/>beiden Vertretungskörpern gleichzeitig mit Beachtung der im Art. XXI
+      <lb/>aufgestellten Einschränkung Gesetze und Beschlüsse vor und begut-
+      <lb/>achtet die Anträge, die von diesen Vertretungskörpern oder von den
+      <lb/>gesetzlichen Vertretungen der Bundesglieder an ihn gelangen.</p><p>4./ er vollzieht die Bundesgesetze und Beschlüsse;
+      <lb/>5. / er wahrt die Interessen des Bundesstaates nach Aussen und
+      <lb/>besorgt alle auswärtigen Angelegenheiten, er wacht für die äusse-
+      <lb/>re Sicherheit und für die Behauptung der Unabhängigkeit des Bundes-
+      <lb/>staates; er vertritt den Staat im Völkerbunde,
+      <lb/>6. / er sorgt für die öffentliche Sicherheit im Innern des
+      <lb/>Staates und für die Aufrechthaltung der Ruhe und Ordnung nach
+      <lb/>Maßgabe des Art. III.
+      <lb/>7. / er hat die Aufsicht über die Geschäftsführung aller Beam-
+      <lb/>ten und Angestellten der bundesstaatlichen Verwaltung;
+      <lb/>8./ er erstattet der Bundesversamllung bei ihrer ordentlichen
+      <lb/>Tagung Rechenschaft über seine Tätigkeit, sowie einen Bericht über</p><p>35</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>- 14 -
+      <lb/>die Gesamtlage des Bundesstaates im Innern und nach Aussen; er
+      <lb/>hat auch besondere Berichte zu erstatten, wenn die Bundesversammlung
+      <lb/>oder das Ständehaus es verlangen.
+      <lb/>Für seine gesamte Amtsführung ist er der Bundesversammlung ver-
+      <lb/>antwortlich.
+      </p></div>
+<div type="article">
+<head>Art. XXXIII.
+      </head>
+<p>Die Geschäfte des Bundesrates werden unter die einzelnen
+      <lb/>Mitglieder durch Beschluß des Bundesrates verteilt; der Bundesrat
+      <lb/>und seine Geschäftsabteilungen sind befugt, für einzelne Angelegen-
+      <lb/>heiten Sachverständige ihrer Wahl beizuziehen.
+      </p></div>
+<div type="article">
+<head>Art. XXXIV.</head>
+<p>
+</p><p>Zur Erledigung aller Geschäfte des Bundesrates ist ihm die
+      <lb/>Bundeskanzlei beigegeben, die unter Aufsicht des dem Bundesrate ver-
+      <lb/>antwortlichen Bundeskanzlers die ihr übertragenen Geschäfte zu
+      <lb/>erledigen hat.
+      <lb/>Der Vorstand der Bundeskanzlei (Bundeskanzler) wird von
+      <lb/>der Bundesversammlung auf die Dauer von 3 Jahren gleichzeitig
+      <lb/>mit dem Bundesrate gewählt.</p></div>
+<div type="article">
+<head>Art. XXXV.
+      </head>
+<p>Die im Kaiserstaate Oesterreich im Zeitpunkte der Einführung
+      <lb/>der Republik in Geltung gestandenen Gesetze und die auf gesetzlicher
+      <lb/>Grundlage erlassenen Verordnungen der k.k. Behörden, dann die seit
+      <lb/>Einführung der republikanischen Staatsform in Kraft getretenen Ge-
+      <lb/>setze und auf gesetzlicher Grundlage erlassenen Verordnungen der
+      <lb/>Behörden der Republik Deutschösterreich werden als geltendes Recht
+      <lb/>des Bundesstaates und seiner Gliedstaaten übernommen, insoweit
+      <lb/>diese Bundesverfassung nichts gegenteiliges enthält; die Aenderung
+      <lb/>der verfassungsmäßigen Zuständigkeit auf dem Gebiete der Gesetz-</p><p>36</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>- 15 -</p><p>gebung und Verwaltung, berührt die Fortdauer der Giltigkeit der
+      <lb/>vorstehend erwähnten Gesetze und Verordnungen nicht.
+      </p></div>
+<div type="article">
+<head>Art. XXXVI.
+      </head>
+<p>Zur Aenderung der Bestimmungen dieser Bundesverfassung ist
+      <lb/>erforderlich
+      <lb/>1./ ein mit zwei Drittel Mehrheit der in beschlußfähiger Anzahl
+      <lb/>versammelten Bundesversammlung gefasster Beschluß auf Aenderung
+      <lb/>der Verfassung:
+      <lb/>2./ ein mit wenigstens vier Stimmen gefasster gleichlauten-
+      <lb/>der Beschluß des Ständehauses:
+      <lb/>3./ die Annahme dieses Beschlusses durch das Volk in einer all-</p><p>gemeinen, vom Bundesrate binnen sechs Monaten auf einen Sonntag aus-
+      <lb/>zuschreibenden Volksabstimmung durch die Mehrheit der giltig abge-
+      <lb/>gebenen Stimmen.
+      <lb/>Jeder zu den Wahlen in die Landtage (den Wiener Gemeinderat)
+      <lb/>Wahlberechtigte hat eine Stimme.
+      <lb/>Ein Bundesgesetz wird die näheren Bestimmungen über die Durch-
+      <lb/>führung dieser Wahl und die Art der Fragestellung regeln.</p></div>
+<div type="article">
+<head>Art. XXXVII.
+      </head>
+<p>Innerhalb der ersten drei Jahre nach Beginn der Wirksamkeit
+      <lb/>dieser Bundesverfassung kann ein Abänderungsantrag im Sinne des
+      <lb/>Art. XXXVI nicht zum Beschluss erhoben werden; nach Ablauf dieser
+      <lb/>Frist ist jedenfalls ohne Rücksicht auf die Bestimmungen des Art.
+      <lb/>XXXVI der allgemeinen Volksabstimmung die Frage vorzulegen, ob die
+      <lb/>Bundesverfassung als Ganzes genehmigt oder abgelehnt wird.
+      <lb/>Im Falle der Ablehnung durch die Mehrheit der giltig abge-
+      <lb/>gebenen Stimmen hat die Bundesverfassung und das Ständehaus einen
+      <lb/>aus je          Mitgliedern und ebensoviel Ersatzmännern bestehenden
+      <lb/>./.</p><p>37</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>- 16 -
+      <lb/>Ausschuss behufs Ausarbeitung eines neuen Verfassungsentwurfes
+      <lb/>zu bestellen, der binnen Jahresfrist dem Bundesrate Bericht zu
+      <lb/>erstatten hat. Kommt im Ausschusse mit einfacher Stimmenmehrheit
+      <lb/>sämtlicher Mitglieder ein neuer Entwurf zu Stande, so ist dieser
+      <lb/>der Volksabstimmung im Sinne des Art. XXXVI zu unterziehen; im ge-
+      <lb/>genteiligen Falle hat der Bundesrat sofort allgemeine Neuwahlen
+      <lb/>der Bundesversammlung und des Ständehauses anzuordnen.
+      <lb/>Die gegenwärtige Bundesverfassung bleibt dann so lange noch
+      <lb/>in Kraft, bis sie im Sinne des Art. XXXVI geändert wird.</p><p>38</p><pb facs="#facs_18" n="18" xml:id="img_0018"/><p>Bericht über den Entwurf einer Bundesverfassung für die
+      <lb/>Republik der Deutschen Alpenlande.
+      <lb/>Dieser Bericht geht von der Annahme aus, daß die Bundesverfas-
+      <lb/>sung ein von jedem einzelnen der 7 Länder: Vorarlberg, Tirol, Salz-
+      <lb/>burg, Oberösterreich, Niederösterreich, Kärnten, Steiermark für sich
+      <lb/>und von der Nationalversammlung als Verweserin der Bundesstaatsidee
+      <lb/>freiwillig angenommenes Werk sein soll.</p><p>An Vergangenes konnte nicht angeknüpft werden, da die gesetz-
+      <lb/>gebenden Staatsgewalten verschwunden sind ohne Rechtsnachfolger zu
+      <lb/>hinterlassen, so daß nur die Länder als verfassungsrechtlich fest-
+      <lb/>bestehende Einheiten und die von der Revolution geborene National-
+      <lb/>vertretung, die tatsächlich als Staatsgewalt heute innerhalb der
+      <lb/>Schranken der d.ö. Republik die höchste Gewalt neben den Ländern
+      <lb/>ausübt, als einander gleichberechtigte Körperschaften gegenüberste-
+      <lb/>hen.
+      <lb/>Die höchste Gewalt im Staate soll zwischen der Gesamtvertretung
+      <lb/>und der Vertretung der einzelnen Bundesglieder (der Länder und der
+      <lb/>aus jedem Landesverband gelösten Bundeshauptstadt Wien) geteilt
+      <lb/>werden, so zwar, daß jede dieser 2 verfassunggebenden Gruppen für</p><p>ihren Zuständigkeitskreis die höchste Gewalt darstellt.
+      <lb/>Der Vertretung des Bundesstaates, also dem Bunde, sollen ein-
+      <lb/>zeln aufgezählte Angelegenheiten zur ausschließlichen Behandlung in
+      <lb/>Gesetzgebung und Verwaltung zugewiesen werden (Art. XIV). Die Bundes-
+      <lb/>glieder sind für alles das verfassungs- und verwaltungsrechtlich
+      <lb/>zuständig, was nicht in die namentlich aufgezählte Zuständigkeit des
+      <lb/>Bundes fällt, wobei auch vorgesorgt ist, daß Zuständigkeitsstreite
+      <lb/>auf dem Gebiete der Verfasung durch den Verfassungsgerichtshof aus-
+      <lb/>getragen werden (Art. XVI und XVII).
+      <lb/>Es ist aber wünschenswert, ja zum Gedeihen des Staatswesens
+      <lb/>notwendig, daß die Verfassung geändert werden kann, wenn das Volk</p><p>39</p><pb facs="#facs_19" n="19" xml:id="img_0019"/><p>2.</p><p>als oberster Richter über sein eigenes Schicksal, übe sein Wohl
+      <lb/>und Wehe findet, daß die Teilung zwischen den Rechten des Bundes
+      <lb/>und den Rechten der Bundesglieder anders geartet sein soll, als wie
+      <lb/>sie der Entwurf vorsieht; die Aenderung der Verfassung soll aber
+      <lb/>nicht den regelmässigen Lauf der Gesetzgebungsmaschine überlassen
+      <lb/>sein, sondern es sollen für diesen Fall besondere Vorsichtsmaßregeln
+      <lb/>in Kraft treten, um so weit als möglich den wahren Willen des Volkes
+      <lb/>zu erforschen (Art. XXXVI, XXXVII).
+      <lb/>Es empfiehlt sich nicht, den Bundesgliedern das Recht des
+      <lb/>Austrittes aus dem Staatsverbande für den Fall einer Verfassungs-
+      <lb/>Änderung vorzubehalten; ein so loser Verband, in Wahrheit nur ein
+      <lb/>Staatenbund, würde die vereinigten Länder im völkerrechtlichen und</p><p>wirtschaftlichen Verkehr schwächen. Finden sich die 7 Länder zu ei-
+      <lb/>nem Bundesstaate zusammen, so muß jedes Land einen Teil seiner
+      <lb/>Selbständigkeit dem Ganzen opfern, wofür es wieder als Glied des
+      <lb/>Bundesstantes größere Bedeutung im Weltverkehr und gröbere Sicher-
+      <lb/>heit eintauscht.
+      <lb/>Diese Stärke des Bundesstaates würde aber unheilbar geschwächt,
+      <lb/>wenn jedes Bundesglied im Falle einer Ueberstimmung in Verfassungs-
+      <lb/>fragen (wie viele abseits der Verfassung liegende Angelegenheiten
+      <lb/>lassen sich optima fide in Verfassungsfragen umdeuten!) ausschei-
+      <lb/>den könnte.
+      <lb/>Innsbruck, 7.Oktober 1919.</p><p>40</p></div>
+</div></body>
+    </text>
+</TEI>
