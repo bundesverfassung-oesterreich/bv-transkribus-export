@@ -2,7 +2,7 @@
         <zone points="222,117 2244,120 2244,105 222,102" rendition="Line" xml:id="facs_2_l"/>
       </zone><zone points="2358,301 2261,301 2261,225 2358,225" rendition="TextRegion" xml:id="facs_2_r_657">
         <zone points="2279,263 2328,248 2324,234 2274,248" rendition="Line" xml:id="facs_2_l_665"/>
-      </zone><zone points="188,588 2322,588 2322,1932 188,1932" rendition="TextRegion" xml:id="facs_2_tr_1">
+      </zone><zone points="188,588 408,588 2322,588 2322,1932 188,1932" rendition="TextRegion" xml:id="facs_2_tr_1">
         <zone points="801,697 1046,721 1139,665 1323,687 1493,631 1669,671 1852,639 1972,708 2057,673 2020,580 1815,580 1743,535 1658,604 1083,546 1017,585 801,535" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
         <zone points="942,1009 1219,974 1240,995 1336,977 1389,1014 1466,985 1538,1025 1573,1019 1573,881 1389,902 1323,865 1062,886 1027,862 942,862" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
         <zone points="1214,1115 1227,1115 1232,1110 1253,1115 1259,1112 1272,1126 1277,1123 1288,1134 1304,1134 1304,1033 1291,1033 1267,1017 1240,1041 1229,1046 1214,1043" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
@@ -213,7 +213,7 @@
         <zone points="1533,3381 2434,3406 2576,3395 2576,3351 1532,3338" rendition="Line" xml:id="facs_5_tr_2_tl_15"/>
         <zone points="1529,3436 1987,3475 2042,3440 2578,3467 2553,3390 1687,3407 1529,3379" rendition="Line" xml:id="facs_5_tr_2_tl_17"/>
       </zone><zone points="871,3513 75,3513 75,3333 871,3333" rendition="TextRegion" xml:id="facs_5_r_1225">
-        <zone points="91,3415 682,3400 682,3385 90,3401" rendition="Line" xml:id="facs_5_l_1248"/>
+        <zone points="91,3415 482,3390 761,3378 760,3365 482,3378 90,3402" rendition="Line" xml:id="facs_5_l_1248"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2745" lry="3962" xml:id="facs_6"><graphic url="%2Ffiles.jpeg" width="2745px" height="3962px"/><zone points="2293,326 2199,326 2199,219 2293,219" rendition="TextRegion" xml:id="facs_6_r_1102">
         <zone points="2216,274 2267,269 2266,254 2214,260" rendition="Line" xml:id="facs_6_l"/>
       </zone><zone points="1207,388 2285,355 2285,2310 1220,2318" rendition="TextRegion" xml:id="facs_6_tr_1">
@@ -1294,6 +1294,8 @@
         <zone points="1228,1650 1327,1624 2076,1652 2262,1635 2262,1585 1228,1590" rendition="Line" xml:id="facs_24_tr_1_tl_22"/>
         <zone points="1224,1700 2004,1713 2259,1692 2259,1640 1682,1658 1477,1627 1224,1661" rendition="Line" xml:id="facs_24_tr_1_tl_23"/>
         <zone points="1220,1778 1304,1734 1379,1763 1397,1757 1420,1774 1465,1763 1491,1777 1548,1773 1546,1708 1515,1708 1503,1696 1468,1692 1448,1704 1415,1691 1387,1707 1351,1688 1320,1703 1258,1692 1219,1700" rendition="Line" xml:id="facs_24_tr_1_tl_24"/>
+      </zone><zone points="780,958 1022,958 1022,1154 780,1154" rendition="TextRegion" xml:id="facs_24_r_923">
+        <zone points="861,1001 951,1107 939,1107 939,1119 969,1115 870,993" rendition="Line" xml:id="facs_24_l_932"/>
       </zone><zone points="2639,1069 2330,1069 2330,662 2639,662" rendition="TextRegion" xml:id="facs_24_r">
         <zone points="2457,829 2516,1010 2531,1006 2472,824" rendition="Line" xml:id="facs_24_l"/>
       </zone><zone points="1152,1295 147,1295 147,646 1152,646" rendition="TextRegion" xml:id="facs_24_r_884">
@@ -2047,7 +2049,7 @@
       </zone><zone points="1191,3399 1738,3399 1738,3462 1191,3462" rendition="TextRegion" xml:id="facs_37_tr_2">
         <zone points="1184,3465 1233,3486 1296,3455 1365,3482 1416,3456 1490,3472 1542,3452 1588,3469 1682,3451 1737,3461 1737,3416 1701,3400 1581,3412 1537,3399 1448,3420 1404,3401 1184,3391" rendition="Line" xml:id="facs_37_tr_2_tl_1"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_r" type="">
-      <lb facs="#facs_2_l" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_2_r_657" type="">
+      <lb facs="#facs_2_l" n="N001"/><hi rend="bold:true;">Übernahme der ersten Hälfte [?] ?Z.B.[?] 19.[?]</hi></ab><ab facs="#facs_2_r_657" type="">
       <lb facs="#facs_2_l_665" n="N001"/>1</ab><ab facs="#facs_2_tr_1" type="">
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>I. Fassung Mayr
       <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Vorentwurf
@@ -2219,9 +2221,9 @@
       <lb facs="#facs_5_tr_1_tl_38" n="N035"/>besteuerungen, Erschwerungen des Verkehres oder
       <lb facs="#facs_5_tr_1_tl_39" n="N036"/>der wirtschaftlichen Beziehungen im Verhältnis zum
       <lb facs="#facs_5_tr_1_tl_40" n="N037"/>Ausland oder zwischen den Ländern und Landes-</ab><ab facs="#facs_5_r_1201" type="">
-      <lb facs="#facs_5_l_1232" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_5_r_1207" type="">
+      <lb facs="#facs_5_l_1232" n="N001"/><hi rend="bold:true;">Invalide [?] dem Staate - Arbeiter dem Land!!</hi></ab><ab facs="#facs_5_r_1207" type="">
       <lb facs="#facs_5_l_1236" n="N001"/>!!</ab><ab facs="#facs_5_r_1213" type="">
-      <lb facs="#facs_5_l_1240" n="N001"/>zu wem?</ab><ab facs="#facs_5_r_1219" type="">
+      <lb facs="#facs_5_l_1240" n="N001"/>von wem?</ab><ab facs="#facs_5_r_1219" type="">
       <lb facs="#facs_5_l_1244" n="N001"/>?</ab><ab facs="#facs_5_tr_2" type="">
       <lb facs="#facs_5_tr_2_tl_1" n="N001"/>teilen, der übermäßigen Belastung bei der Benützung
       <lb facs="#facs_5_tr_2_tl_2" n="N002"/>öffentlicher Einrichtungen und der Schädigung der
@@ -2239,7 +2241,7 @@
       <lb facs="#facs_5_tr_2_tl_14" n="N014"/>Kurorte-, Leichen- und Begräbniswesens sowie des
       <lb facs="#facs_5_tr_2_tl_15" n="N015"/>Gemeindesanitätsdienstes- und Rettungswesens; die
       <lb facs="#facs_5_tr_2_tl_17" n="N016"/>Bevölkerungspolitik, die Mutterschafts, Säuglings-</ab><ab facs="#facs_5_r_1225" type="">
-      <lb facs="#facs_5_l_1248" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_r_1102" type="">
+      <lb facs="#facs_5_l_1248" n="N001"/>Wien - Kurorts[?]!</ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_r_1102" type="">
       <lb facs="#facs_6_l" n="N001"/>5</ab><ab facs="#facs_6_tr_1" type="">
       <lb facs="#facs_6_tr_1_tl_1" n="N001"/>und <hi rend="underlined:true;">Jugendfürsorge </hi>sowie das Volkswohnungs= und
       <lb facs="#facs_6_tr_1_tl_2" n="N002"/>Volkspfl gestättenwesen; das Beterinärwesen und die
@@ -2272,9 +2274,9 @@
       <lb facs="#facs_6_tr_1_tl_32" n="N029"/>besorgen haben, einschließlich des Dienstwechsels von
       <lb facs="#facs_6_tr_1_tl_33" n="N030"/>Land zu Land,</ab><ab facs="#facs_6_r" type="">
       <lb facs="#facs_6_l_1111" n="N001"/>!</ab><ab facs="#facs_6_r_1089" type="">
-      <lb facs="#facs_6_l_1115" n="N001"/><hi rend="italic:true;">Grundzüge bei der</hi>
+      <lb facs="#facs_6_l_1115" n="N001"/><hi rend="italic:true;">Grundzüge bei dieser</hi>
       <lb facs="#facs_6_l_1119" n="N002"/><hi rend="italic:true;">Macht zu Ländern!</hi></ab><ab facs="#facs_6_r_1095" type="">
-      <lb facs="#facs_6_l_1125" n="N001"/><hi rend="italic:true;">Dienstrecht Grundzüge!</hi></ab><ab facs="#facs_6_tr_2" type="">
+      <lb facs="#facs_6_l_1125" n="N001"/><hi rend="italic:true;">Dienstrechtl Grundzüge!!</hi></ab><ab facs="#facs_6_tr_2" type="">
       <lb facs="#facs_6_tr_2_tl_1" n="N001"/>Artikel 13.
       <lb facs="#facs_6_tr_2_tl_2" n="N002"/>(1) Wenn eine Angelegenheit nicht ausdrücklich
       <lb facs="#facs_6_tr_2_tl_3" n="N003"/>durch die Bundesverfassung der Gesetzgebung oder
@@ -2422,8 +2424,8 @@
       <lb facs="#facs_9_tr_2_tl_12" n="N012"/>Verantwortung frei.
       <lb facs="#facs_9_tr_2_tl_13" n="N013"/>B. Der Bundesrat.
       <lb facs="#facs_9_tr_2_tl_14" n="N014"/>Artikel 25.</ab><ab facs="#facs_9_r_1064" type="">
-      <lb facs="#facs_9_l_1073" n="N001"/><hi rend="italic:true;">str!!</hi></ab><ab facs="#facs_9_r_1039" type="">
-      <lb facs="#facs_9_l_1069" n="N001"/><hi rend="italic:true;">Interpretation</hi></ab><ab facs="#facs_9_tr_1" type="">
+      <lb facs="#facs_9_l_1073" n="N001"/><hi rend="italic:true;">bfs[?]!!</hi></ab><ab facs="#facs_9_r_1039" type="">
+      <lb facs="#facs_9_l_1069" n="N001"/><hi rend="italic:true;">Interpretation ?</hi></ab><ab facs="#facs_9_tr_1" type="">
       <lb facs="#facs_9_tr_1_tl_1" n="N001"/>(1) In den Bundesrat entsendet jeder Landtag
       <lb facs="#facs_9_tr_1_tl_2" n="N002"/>aus seiner Mitte drei Mitglieder, die Landtage von
       <lb facs="#facs_9_tr_1_tl_3" n="N003"/>Oberösterreich und Steiermark je ein weiteres Mit-
@@ -2449,7 +2451,7 @@
       <lb facs="#facs_9_tr_1_tl_24" n="N023"/>entsendeten Vertreter des jeweils zum Vorsitz be-
       <lb facs="#facs_9_tr_1_tl_25" n="N024"/>rufenen Landes.</ab><ab facs="#facs_9_r_1049" type="">
       <lb facs="#facs_9_l_1081" n="N001"/>!!</ab><ab facs="#facs_9_r_1044" type="">
-      <lb facs="#facs_9_l_1077" n="N001"/><hi rend="italic:true;">2 1/2 Mitglieder</hi></ab><ab facs="#facs_9_r_1059" type="">
+      <lb facs="#facs_9_l_1077" n="N001"/><hi rend="italic:true;">2 1/2 Mitt [?] - 6 Mitt.[?] </hi></ab><ab facs="#facs_9_r_1059" type="">
       <lb facs="#facs_9_l_1085" n="N001"/>!</ab><ab facs="#facs_9_r_1054" type="">
       <lb facs="#facs_9_l_1089" n="N001"/>!!!</ab><pb facs="#facs_10" n="10" xml:id="img_0010"/><ab facs="#facs_10_r" type="">
       <lb facs="#facs_10_l" n="N001"/>9</ab><ab facs="#facs_10_tr_2" type="">
@@ -2504,8 +2506,8 @@
       <lb facs="#facs_10_tr_1_tl_25" n="N022"/>werden.</ab><ab facs="#facs_10_r_1035" type="">
       <lb facs="#facs_10_l_1063" n="N001"/>n</ab><ab facs="#facs_10_r_1030" type="">
       <lb facs="#facs_10_l_1059" n="N001"/>?</ab><ab facs="#facs_10_r_1025" type="">
-      <lb facs="#facs_10_l_1055" n="N001"/><hi rend="italic:true;">Müsst die Reg?</hi></ab><ab facs="#facs_10_r_1040" type="">
-      <lb facs="#facs_10_l_1067" n="N001"/><hi rend="bold:true;">unleserlich</hi></ab><ab facs="#facs_10_r_1050" type="">
+      <lb facs="#facs_10_l_1055" n="N001"/><hi rend="italic:true;">Muß die Reg?</hi></ab><ab facs="#facs_10_r_1040" type="">
+      <lb facs="#facs_10_l_1067" n="N001"/><hi rend="bold:true;">Initiative</hi></ab><ab facs="#facs_10_r_1050" type="">
       <lb facs="#facs_10_l_1071" n="N001"/>!</ab><ab facs="#facs_10_r_1045" type="">
       <lb facs="#facs_10_l_1075" n="N001"/>!!</ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_r" type="">
       <lb facs="#facs_11_l" n="N001"/>10</ab><ab facs="#facs_11_tr_3" type="">
@@ -2536,9 +2538,9 @@
       <lb facs="#facs_11_tr_2_tl_16" n="N014"/>die Mehrheit der abgegebenen Stimmen sich für
       <lb facs="#facs_11_tr_2_tl_17" n="N015"/>die Verfassungsänderung oder gegen das Bundes-
       <lb facs="#facs_11_tr_2_tl_18" n="N016"/>gesetz ausgesprochen hat.</ab><ab facs="#facs_11_r_982" type="">
-      <lb facs="#facs_11_l_993" n="N001"/><hi rend="bold:true;">Unleserlich</hi> 
-      <lb facs="#facs_11_l_997" n="N002"/></ab><ab facs="#facs_11_r_987" type="">
-      <lb facs="#facs_11_l_1001" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_11_tr_1" type="">
+      <lb facs="#facs_11_l_993" n="N001"/><hi rend="bold:true;">Also immer 5 Wochen warten? </hi>
+      <lb facs="#facs_11_l_997" n="N002"/>Oder [???]-GEsetz aufheben [?]? </ab><ab facs="#facs_11_r_987" type="">
+      <lb facs="#facs_11_l_1001" n="N001"/><hi rend="bold:true;">Stil!</hi></ab><ab facs="#facs_11_tr_1" type="">
       <lb facs="#facs_11_tr_1_tl_1" n="N001"/>Artikel 34.
       <lb facs="#facs_11_tr_1_tl_2" n="N002"/>Das Ergebnis der Volksabstimmung ist amt-
       <lb facs="#facs_11_tr_1_tl_3" n="N003"/>lich zu verlautbaren. Im Falle ein Bundesgesetz
@@ -2676,7 +2678,7 @@
       <lb facs="#facs_14_tr_2_tl_14" n="N014"/>E. Stellung der Bundesregierung im Bundestag
       <lb facs="#facs_14_tr_2_tl_15" n="N015"/>und Bundesrat
       <lb facs="#facs_14_tr_2_tl_16" n="N016"/>Artikel 45.</ab><ab facs="#facs_14_r_941" type="">
-      <lb facs="#facs_14_l_947" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_14_tr_1" type="">
+      <lb facs="#facs_14_l_947" n="N001"/><hi rend="bold:true;">Essay [?]?</hi></ab><ab facs="#facs_14_tr_1" type="">
       <lb facs="#facs_14_tr_1_tl_1" n="N001"/>Die Mitglieder der Bundesregierung sowie
       <lb facs="#facs_14_tr_1_tl_2" n="N002"/>die von ihnen entsendeten Vertreter sind berechtigt,
       <lb facs="#facs_14_tr_1_tl_3" n="N003"/>an allen Beratungen des Bundestages und des
@@ -2742,7 +2744,7 @@
       <lb facs="#facs_15_tr_2_tl_16" n="N014"/>auf Vorschlag der Bundesregierung. Inwieweit die
       <lb facs="#facs_15_tr_2_tl_17" n="N015"/>Bundesregierung hiebei selbst an Vorschläge anderer
       <lb facs="#facs_15_tr_2_tl_18" n="N016"/>Stellen gebunden ist, bestimmt das Gesetz.</ab><ab facs="#facs_15_r_908" type="">
-      <lb facs="#facs_15_l_913" n="N001"/><hi rend="italic:true;">staatl. Gesetzgebung</hi>
+      <lb facs="#facs_15_l_913" n="N001"/><hi rend="italic:true;">staatl. Gnadengeber?</hi>
       <lb facs="#facs_15_l_917" n="N002"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_15_tr_3" type="">
       <lb facs="#facs_15_tr_3_tl_1" n="N001"/>Artikel 51.
       <lb facs="#facs_15_tr_3_tl_2" n="N002"/>Der Bundespräsident kann das ihm zustehende
@@ -2795,8 +2797,8 @@
       <lb facs="#facs_16_tr_2_tl_16" n="N016"/>innerhalb ihres Wirkungskreises Verordnungen er-
       <lb facs="#facs_16_tr_2_tl_17" n="N017"/>lassen.
       <lb facs="#facs_16_tr_2_tl_18" n="N018"/>Artikel 57.</ab><ab facs="#facs_16_r_1064" type="">
-      <lb facs="#facs_16_l" n="N001"/><hi rend="bold:true;">Unleserlich</hi>
-      <lb facs="#facs_16_l_1072" n="N002"/>gebung??</ab><ab facs="#facs_16_tr_3" type="">
+      <lb facs="#facs_16_l" n="N001"/><hi rend="italic:true;">Wozu dann Gegen-</hi>
+      <lb facs="#facs_16_l_1072" n="N002"/>zeichnung??</ab><ab facs="#facs_16_tr_3" type="">
       <lb facs="#facs_16_tr_3_tl_1" n="N001"/>(1) Die Bundesregierung wird vom Bundestag
       <lb facs="#facs_16_tr_3_tl_2" n="N002"/>über den Gesamtvorschlag eines besonderen Aus-
       <lb facs="#facs_16_tr_3_tl_3" n="N003"/>schusses, dessen Zusammensetzung, Wirkungskreis und
@@ -2906,10 +2908,10 @@
       <lb facs="#facs_18_tr_1_tl_40" n="N036"/>(2) Die Urteile und Erkenntnisse werden im
       <lb facs="#facs_18_tr_1_tl_41" n="N037"/>Namen der Republik Österreich verkündet und aus¬
       <lb facs="#facs_18_tr_1_tl_42" n="N038"/>gefertigt.</ab><ab facs="#facs_18_r_1005" type="">
-      <lb facs="#facs_18_l_1015" n="N001"/><hi rend="bold:true;">Unleserlich</hi>
+      <lb facs="#facs_18_l_1015" n="N001"/>Wie veranlasst! 
       <lb facs="#facs_18_l_1019" n="N002"/><hi rend="italic:true;">Republik?</hi></ab><ab facs="#facs_18_r_986" type="">
       <lb facs="#facs_18_l_1027" n="N001"/>!</ab><ab facs="#facs_18_r_1010" type="">
-      <lb facs="#facs_18_l_1023" n="N001"/>*<hi rend="bold:true;">unleserlich</hi></ab><ab facs="#facs_18_r_991" type="">
+      <lb facs="#facs_18_l_1023" n="N001"/>ganze !!!</ab><ab facs="#facs_18_r_991" type="">
       <lb facs="#facs_18_l_1031" n="N001"/>!!</ab><ab facs="#facs_18_r_996" type="">
       <lb facs="#facs_18_l_1001" n="N001"/>2</ab><pb facs="#facs_19" n="19" xml:id="img_0019"/><ab facs="#facs_19_r" type="">
       <lb facs="#facs_19_l" n="N001"/>18</ab><ab facs="#facs_19_tr_3" type="">
@@ -3015,7 +3017,7 @@
       <lb facs="#facs_20_tr_1_tl_25" n="N021"/>bei allen politischen Verbrechen und Vergehen ent-
       <lb facs="#facs_20_tr_1_tl_26" n="N022"/>scheiden Geschworene über die Schuld des An-
       <lb facs="#facs_20_tr_1_tl_27" n="N023"/>geklagten.</ab><ab facs="#facs_20_r_1070" type="">
-      <lb facs="#facs_20_l_1039" n="N001"/><hi rend="bold:true;">Unleserlich</hi>
+      <lb facs="#facs_20_l_1039" n="N001"/>Sicherungen gegen Richter [/Ritter?] à la [unleserlich]?
       <lb facs="#facs_20_l_1043" n="N002"/></ab><pb facs="#facs_21" n="21" xml:id="img_0021"/><ab facs="#facs_21_r" type="">
       <lb facs="#facs_21_l" n="N001"/>20</ab><ab facs="#facs_21_tr_1" type="">
       <lb facs="#facs_21_tr_1_tl_1" n="N001"/>Artikel 79.
@@ -3033,7 +3035,7 @@
       <lb facs="#facs_21_tr_1_tl_13" n="N013"/>teiligten frei, wenn nicht im Gesetze etwas anderes
       <lb facs="#facs_21_tr_1_tl_14" n="N014"/>bestimmt ist, Abhilfe gegen die andere Partei <hi rend="underlined:true;">im</hi>
       <lb facs="#facs_21_tr_1_tl_17" n="N015"/><hi rend="underlined:true;">Rechtswege</hi> zu suchen.</ab><ab facs="#facs_21_r_888" type="">
-      <lb facs="#facs_21_l_894" n="N001"/><hi rend="italic:true;">Wortlaut?</hi></ab><ab facs="#facs_21_tr_2" type="">
+      <lb facs="#facs_21_l_894" n="N001"/><hi rend="italic:true;">welchen?</hi></ab><ab facs="#facs_21_tr_2" type="">
       <lb facs="#facs_21_tr_2_tl_1" n="N001"/>Vierter Abschnitt.
       <lb facs="#facs_21_tr_2_tl_2" n="N002"/>Von der Gesetzgebung und Vollziehung der
       <lb facs="#facs_21_tr_2_tl_3" n="N003"/>Länder.
@@ -3049,7 +3051,7 @@
       <lb facs="#facs_21_tr_2_tl_13" n="N013"/><hi rend="underlined:true;">nicht enger ziehen, </hi>als dies in der Wahlordnung
       <lb facs="#facs_21_tr_2_tl_14" n="N014"/>zum Bundestag der Fall ist.
       <lb facs="#facs_21_tr_2_tl_15" n="N015"/>Artikel 83.</ab><ab facs="#facs_21_r_898" type="">
-      <lb facs="#facs_21_l_904" n="N001"/><hi rend="bold:true;">unleserlich</hi></ab><ab facs="#facs_21_tr_3" type="">
+      <lb facs="#facs_21_l_904" n="N001"/><hi rend="bold:true;">unleserlich [Symbole, Steno?]</hi></ab><ab facs="#facs_21_tr_3" type="">
       <lb facs="#facs_21_tr_3_tl_1" n="N001"/>(1) Die Mitglieder des Landtages genießen die
       <lb facs="#facs_21_tr_3_tl_2" n="N002"/>gleiche Immunität wie die Mitglieder des Bundes-
       <lb facs="#facs_21_tr_3_tl_3" n="N003"/>tages, wobei die Bestimmungen des Artikels 42
@@ -3087,9 +3089,9 @@
       <lb facs="#facs_22_tr_1_tl_23" n="N021"/>Anwesenheit von <hi rend="underlined:true;">zwei Drittel</hi> aller Mitglieder des
       <lb facs="#facs_22_tr_1_tl_24" n="N022"/>Landtages mit einer Mehrheit von <hi rend="underlined:true;">drei Viertel</hi>
       <lb facs="#facs_22_tr_1_tl_25" n="N023"/>aller abgegebenen Stimmen beschlossen werden.</ab><ab facs="#facs_22_r_1226" type="">
-      <lb facs="#facs_22_l_1256" n="N001"/><hi rend="bold:true;">Unleserlich</hi>
-      <lb facs="#facs_22_l_1260" n="N002"/>
-      <lb facs="#facs_22_l_1264" n="N003"/></ab><ab facs="#facs_22_tr_2" type="">
+      <lb facs="#facs_22_l_1256" n="N001"/>also Ldtg mehr 
+      <lb facs="#facs_22_l_1260" n="N002"/>selbst[?]ung als 
+      <lb facs="#facs_22_l_1264" n="N003"/>Parla [?]</ab><ab facs="#facs_22_tr_2" type="">
       <lb facs="#facs_22_tr_2_tl_1" n="N001"/>Artikel 87.
       <lb facs="#facs_22_tr_2_tl_2" n="N002"/>(1) Die Kundmachung der Landesgesetze erfolgt
       <lb facs="#facs_22_tr_2_tl_3" n="N003"/>mit Berufung auf den Beschluß des Landtages
@@ -3106,8 +3108,8 @@
       <lb facs="#facs_22_tr_2_tl_14" n="N014"/>binnen sechs Wochen Neuwahlen auszuschreiben und
       <lb facs="#facs_22_tr_2_tl_15" n="N015"/>binnen vier Wochen nach durchgeführter Wahl den
       <lb facs="#facs_22_tr_2_tl_16" n="N016"/>neugewählten Landtag einzuberufen.</ab><ab facs="#facs_22_r_1220" type="">
-      <lb facs="#facs_22_l_1248" n="N001"/>Unleserlich
-      <lb facs="#facs_22_l_1252" n="N002"/></ab><ab facs="#facs_22_tr_4" type="">
+      <lb facs="#facs_22_l_1248" n="N001"/>Referendum?
+      <lb facs="#facs_22_l_1252" n="N002"/>Initiative?</ab><ab facs="#facs_22_tr_4" type="">
       <lb facs="#facs_22_tr_4_tl_1" n="N001"/>Artikel 89.
       <lb facs="#facs_22_tr_4_tl_2" n="N002"/>Die vollziehende Gewalt jedes Landes wird
       <lb facs="#facs_22_tr_4_tl_3" n="N003"/>durch eine vom Landtag zu wählende <hi rend="underlined:true;">Landes</hi>
@@ -3119,10 +3121,10 @@
       <lb facs="#facs_22_tr_4_tl_9" n="N009"/>nicht dem Landtage angehören. Jedoch kann in die
       <lb facs="#facs_22_tr_4_tl_10" n="N010"/>Landesregierung nur gewählt werden, wer zum
       <lb facs="#facs_22_tr_4_tl_11" n="N011"/>Landtage wählbar ist.</ab><ab facs="#facs_22_r_1214" type="">
-      <lb facs="#facs_22_l_1232" n="N001"/>Unleserlich
-      <lb facs="#facs_22_l_1236" n="N002"/>
-      <lb facs="#facs_22_l_1240" n="N003"/>
-      <lb facs="#facs_22_l_1244" n="N004"/></ab><ab facs="#facs_22_r_1208" type="">
+      <lb facs="#facs_22_l_1232" n="N001"/>Städte mit eigenem [?]
+      <lb facs="#facs_22_l_1236" n="N002"/>Statrt [?]?
+      <lb facs="#facs_22_l_1240" n="N003"/>Kreise?
+      <lb facs="#facs_22_l_1244" n="N004"/>Bezirke?</ab><ab facs="#facs_22_r_1208" type="">
       <lb facs="#facs_22_l_1268" n="N001"/>!!!</ab><pb facs="#facs_23" n="23" xml:id="img_0023"/><ab facs="#facs_23_r" type="">
       <lb facs="#facs_23_l" n="N001"/>22</ab><ab facs="#facs_23_tr_1" type="">
       <lb facs="#facs_23_tr_1_tl_1" n="N001"/>(1) Der Landeshauptmann und sein Stellvertreter
@@ -3166,7 +3168,7 @@
       <lb facs="#facs_23_tr_2_tl_16" n="N016"/>einheitlichen und geregelten Geschäftsgang in sämt-
       <lb facs="#facs_23_tr_2_tl_17" n="N017"/>lichen Zweigen der Landesverwaltung zu sorgen.
       <lb facs="#facs_23_tr_2_tl_18" n="N018"/>Artikel 93.</ab><ab facs="#facs_23_r_1181" type="">
-      <lb facs="#facs_23_l_1186" n="N001"/><hi rend="italic:true;">Verantwortung, wenn auch beruflich?</hi></ab><ab facs="#facs_23_tr_4" type="">
+      <lb facs="#facs_23_l_1186" n="N001"/><hi rend="italic:true;">Verantwortung, wenn andre [?]allierte ?</hi></ab><ab facs="#facs_23_tr_4" type="">
       <lb facs="#facs_23_tr_4_tl_1" n="N001"/>(1) In dem der Landesregierung vom Bunde
       <lb facs="#facs_23_tr_4_tl_2" n="N002"/>übertragenen Wirkungskreis ist der Landesamts-
       <lb facs="#facs_23_tr_4_tl_3" n="N003"/>direktor das unmittelbare Hilfsorgan des Landes-
@@ -3201,11 +3203,12 @@
       <lb facs="#facs_24_tr_1_tl_21" n="N021"/>kreise zustehen, <hi rend="underlined:true;">ein Akt der vollziehenden Gewalt</hi>
       <lb facs="#facs_24_tr_1_tl_22" n="N022"/><hi rend="underlined:true;">für mehrere Länder Rechtswirksamkeit äußern soll,</hi>
       <lb facs="#facs_24_tr_1_tl_23" n="N023"/>geht die Zuständigkeit für diesen Vollzugsakt auf
-      <lb facs="#facs_24_tr_1_tl_24" n="N024"/>den Bund über.</ab><ab facs="#facs_24_r" type="">
+      <lb facs="#facs_24_tr_1_tl_24" n="N024"/>den Bund über.</ab><ab facs="#facs_24_r_923" type="">
+      <lb facs="#facs_24_l_932" n="N001"/>?</ab><ab facs="#facs_24_r" type="">
       <lb facs="#facs_24_l" n="N001"/>!</ab><ab facs="#facs_24_r_884" type="">
-      <lb facs="#facs_24_l_890" n="N001"/><hi rend="strikethrough:true; bold:true;">Unleserlich</hi>
-      <lb facs="#facs_24_l_897" n="N002"/>
-      <lb facs="#facs_24_l_901" n="N003"/></ab><ab facs="#facs_24_tr_4" type="">
+      <lb facs="#facs_24_l_890" n="N001"/><hi rend="strikethrough:true; bold:true;">Höchste [Z???] !</hi>
+      <lb facs="#facs_24_l_897" n="N002"/><hi rend="strikethrough:true;">Länder Mehrheit gegen</hi>
+      <lb facs="#facs_24_l_901" n="N003"/><hi rend="strikethrough:true;">einzelne Länder!</hi></ab><ab facs="#facs_24_tr_4" type="">
       <lb facs="#facs_24_tr_4_tl_1" n="N001"/>Artikel 96.
       <lb facs="#facs_24_tr_4_tl_2" n="N002"/><hi rend="underlined:true;">Vereinbarungen der Länder</hi> untereinander
       <lb facs="#facs_24_tr_4_tl_3" n="N003"/>können nur über Angelegenheiten ihres selbständigen
@@ -3214,7 +3217,7 @@
       <lb facs="#facs_24_tr_4_tl_7" n="N006"/>Fünfter Abschnitt.
       <lb facs="#facs_24_tr_4_tl_8" n="N007"/>Von der Rechnungskontrolle im Bunde.
       <lb facs="#facs_24_tr_4_tl_9" n="N008"/>Artikel 97.</ab><ab facs="#facs_24_r_905" type="">
-      <lb facs="#facs_24_l_911" n="N001"/><hi rend="bold:true;">Unleserlich</hi></ab><ab facs="#facs_24_tr_2" type="">
+      <lb facs="#facs_24_l_911" n="N001"/><hi rend="bold:true;">S. 16</hi></ab><ab facs="#facs_24_tr_2" type="">
       <lb facs="#facs_24_tr_2_tl_1" n="N001"/>Zur Überprüfung der Gebarung in der ge-
       <lb facs="#facs_24_tr_2_tl_2" n="N002"/>samten Staatswirtschaft des Bundes und der Länder,
       <lb facs="#facs_24_tr_2_tl_3" n="N003"/>ferner der Gebarung der von Organen des Bundes
