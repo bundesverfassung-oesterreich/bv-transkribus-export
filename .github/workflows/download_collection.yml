@@ -19,8 +19,10 @@ jobs:
       run: |
         EDITIONSPATH="./editions"
         METSPATH="./mets"
+        LOGPATH="./logs/malformed_files.csv"
         if [ -d "$EDITIONSPATH" ]; then rm -r "$EDITIONSPATH"; fi
         if [ -d "$METSPATH" ]; then rm -r "$METSPATH"; fi
+        if [ -f "$LOGPATH" ]; then rm -r "$LOGPATH"; fi
         mkdir -p "$METSPATH"
         mkdir -p "$EDITIONSPATH"
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
@@ -38,4 +40,4 @@ jobs:
         commit_message: Exported and Transformed EMT-Transkribus Collections
     - name: Check for errors
       run: |
-        if [[ -f "./logs/malformed_files.csv" ]]; then exit 1; else exit 0; fi
+        if [ -f "$LOGPATH" ]; then exit 1; else exit 0; fi
