@@ -57,12 +57,12 @@ def get_img_names_from_goobi_mets(bv_doc_id):
     for flocat in flocats:
         img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
         try:
-            img_name = re.match(r".*?(IMG_[0-9]{4})\.[a-zA-Z]+[^/]*$", img_url).group(1)
+            img_name = re.match(r".*?(IMG_[0-9]+)\.[a-zA-Z]+[^/]*$", img_url).group(1)
             # well i could have used the correct xpath but no (elements are doubled, there is default & representation)
             if img_name not in image_names:
                 image_names.append(img_name)
         except AttributeError as attrib_except:
-            print(f"can´t get img name from link '{img_url}' for document '{bv_doc_id}'")
+            print(f"can´t get img name from link '{img_url}' for document '{bv_doc_id}' that just was requested via GET '{request_target_url}'.")
             raise attrib_except
     sort_key = lambda imgname: int(imgname.removeprefix("IMG_"))
     # let's at least assume that the images are named correctly …
