@@ -390,7 +390,7 @@
         <zone points="1170,1567 1231,1591 1276,1573 1747,1588 1747,1512 1677,1524 1643,1505 1573,1533 1444,1493 1359,1524 1289,1499 1170,1509" rendition="Line" xml:id="facs_10_tr_2_tl_16"/>
         <zone points="376,1652 2550,1686 2648,1655 2648,1484 2373,1588 376,1570" rendition="Line" xml:id="facs_10_tr_2_tl_17"/>
         <zone points="391,1728 1215,1811 1444,1728 2431,1814 2846,1765 2681,1628 2541,1692 388,1652" rendition="Line" xml:id="facs_10_tr_2_tl_18"/>
-        <zone points="1420,1838 1451,1829 1466,1832 1487,1848 1502,1841 1524,1857 1530,1851 1548,1854 1548,1731 1527,1728 1512,1741 1505,1735 1496,1744 1484,1738 1466,1747 1444,1728 1420,1728" rendition="Line" xml:id="facs_10_tr_2_tl_19"/>
+        <zone points="1436,1809 1465,1806 1510,1812 1825,1820 1825,1805 1511,1797 1465,1791 1434,1794" rendition="Line" xml:id="facs_10_tr_2_tl_19"/>
         <zone points="623,1921 2577,1942 2513,1841 623,1851" rendition="Line" xml:id="facs_10_tr_2_tl_20"/>
       </zone><zone points="379,1989 2582,1989 2582,2906 379,2906" rendition="TextRegion" xml:id="facs_10_tr_1">
         <zone points="373,2073 2513,2080 2513,1991 2357,1961 373,1967" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
@@ -459,6 +459,7 @@
         <zone points="634,4219 2529,4254 2466,4153 634,4159" rendition="Line" xml:id="facs_11_tr_2_tl_27"/>
         <zone points="333,4275 1648,4296 1856,4400 1990,4290 2698,4341 2695,4251 2561,4233 333,4189" rendition="Line" xml:id="facs_11_tr_2_tl_28"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2944" lry="4730" xml:id="facs_12"><graphic url="%2Ffiles.jpeg" width="2944px" height="4730px"/><zone points="271,242 2857,242 2857,2927 271,2927" rendition="TextRegion" xml:id="facs_12_tr_2">
+        <zone points="2592,280 2732,267 2732,267 2732,251 2731,251 2590,265" rendition="Line" xml:id="facs_12_l"/>
         <zone points="901,331 1029,300 1241,316 1263,294 1341,319 1408,300 1505,316 1505,185 1323,115 1184,149 1144,121 1068,137 1044,121 962,182 901,167" rendition="Line" xml:id="facs_12_tr_2_tl_1"/>
         <zone points="659,516 974,495 1150,543 1226,495 1363,534 1496,492 1633,571 1769,473 2061,501 2067,334 1848,382 1736,331 1645,404 1521,376 1426,425 1068,370 986,422 847,331 662,392" rendition="Line" xml:id="facs_12_tr_2_tl_2"/>
         <zone points="1278,725 1411,704 1460,728 1502,719 1499,504 1448,510 1381,561 1351,549 1329,561 1314,546 1275,546" rendition="Line" xml:id="facs_12_tr_2_tl_3"/>
@@ -535,6 +536,7 @@
         <zone points="475,4555 1480,4493 1909,4549 2020,4481 2723,4481 2763,4404 478,4419" rendition="Line" xml:id="facs_13_tr_1_tl_16"/>
         <zone points="475,4616 2791,4632 2834,4444 1992,4549 475,4555" rendition="Line" xml:id="facs_13_tr_1_tl_17"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2937" lry="4729" xml:id="facs_14"><graphic url="%2Ffiles.jpeg" width="2937px" height="4729px"/><zone points="170,66 2889,66 2889,2765 170,2765" rendition="TextRegion" xml:id="facs_14_tr_1">
+        <zone points="2706,99 2826,119 2806,119 2806,134 2850,121 2708,84" rendition="Line" xml:id="facs_14_l"/>
         <zone points="1524,127 1560,127 1567,134 1590,130 1624,150 1644,144 1704,150 1704,53 1674,50 1667,57 1647,57 1641,50 1594,47 1557,57 1550,50 1524,50" rendition="Line" xml:id="facs_14_tr_1_tl_1"/>
         <zone points="281,307 1407,257 2556,354 2767,294 2767,180 2202,237 2075,134 1751,144 1610,227 1206,107 999,214 621,231 421,144 281,231" rendition="Line" xml:id="facs_14_tr_1_tl_2"/>
         <zone points="388,458 2676,391 2676,327 2359,291 1854,337 1580,267 518,277 391,358" rendition="Line" xml:id="facs_14_tr_1_tl_3"/>
@@ -1767,13 +1769,13 @@
       <lb facs="#facs_5_tr_4_tl_4" n="N004"/>tum [Oesterreich]/ob der Enns, das Herzogtum Salzburg, das Hertzogtum Steiermark,
       <lb facs="#facs_5_tr_4_tl_5" n="N005"/>[ferner]
       <lb facs="#facs_5_tr_4_tl_6" n="N006"/>das Herzogtum Kärnten[,] die gefürstete Grafschaft Tirol und Vor¬
-      <lb facs="#facs_5_tr_4_tl_7" n="N007"/>[mit Ausschluss]
+      <lb facs="#facs_5_tr_4_tl_7" n="N007"/>[mit Ausschluss des geschlossenen italienischen Siedlingsgebietes]
       <lb facs="#facs_5_tr_4_tl_8" n="N008"/>[geschlossenen]
-      <lb facs="#facs_5_tr_4_tl_9" n="N009"/>[italienischer?]
+      <lb facs="#facs_5_tr_4_tl_9" n="N009"/>
       <lb facs="#facs_5_tr_4_tl_10" n="N010"/>arlberg [mit Ausschluss der [geschlossenen] jugoslavischen [und italienischen
-      <lb facs="#facs_5_tr_4_tl_11" n="N011"/> [Siedlungsgebieten]
-      <lb facs="#facs_5_tr_4_tl_12" n="N012"/>Siedlungsgebieten]
-      <lb facs="#facs_5_tr_4_tl_13" n="N013"/>[neuau gerichteten]
+      <lb facs="#facs_5_tr_4_tl_11" n="N011"/>
+      <lb facs="#facs_5_tr_4_tl_12" n="N012"/>
+      <lb facs="#facs_5_tr_4_tl_13" n="N013"/>[neuaufgerichteten]
       <lb facs="#facs_5_tr_4_tl_14" n="N014"/>endlich 
       <lb facs="#facs_5_tr_4_tl_15" n="N015"/>Siedlungsgebiete, [ferner]ferner die [neukonstituierte]  Provinz[en] Nordböhmen
       <lb facs="#facs_5_tr_4_tl_16" n="N016"/>und die Provinz Deutschschlesien.
@@ -1986,245 +1988,247 @@
       <lb facs="#facs_9_tr_2_tl_39" n="N039"/>versagen. [Der] Präsident des Vollzugsausschusses bestätigt, dass der
       <lb facs="#facs_9_tr_2_tl_40" n="N040"/>[Indem der]
       <lb facs="#facs_9_tr_2_tl_41" n="N041"/>[mit seiner Namensfertigung]</ab><pb facs="#facs_10" n="10" xml:id="img_0010"/><ab facs="#facs_10_tr_2" type="">
-      <lb facs="#facs_10_tr_2_tl_1" n="N001"/>Naalnat.
-      <lb facs="#facs_10_tr_2_tl_2" n="N002"/>der Vollzugsausschuss den Beschluss der Nationalversammlung
-      <lb facs="#facs_10_tr_2_tl_3" n="N003"/>seiner
-      <lb facs="#facs_10_tr_2_tl_4" n="N004"/>gemäss den Gesetzen und xxx Geschäftsvxxordnung beraten
-      <lb facs="#facs_10_tr_2_tl_5" n="N005"/>und dessen Vollzug beschlossen hat,  erlangt der Be-
+      <lb facs="#facs_10_tr_2_tl_1" n="N001"/>[Staatsrat]
+      <lb facs="#facs_10_tr_2_tl_2" n="N002"/>der [Vollzugsausschuss] den Beschluss der Nationalversammlung
+      <lb facs="#facs_10_tr_2_tl_3" n="N003"/>[seiner]
+      <lb facs="#facs_10_tr_2_tl_4" n="N004"/>gemäss den Gesetzen und [der] Geschäfts[vorschrift][ordnung] beraten
+      <lb facs="#facs_10_tr_2_tl_5" n="N005"/>und dessen Vollzug beschlossen hat[,] [Damit]  erlangt der Be-
       <lb facs="#facs_10_tr_2_tl_6" n="N006"/>schluss der Nationalversammlung den Charakter eines Gesetzes.
-      <lb facs="#facs_10_tr_2_tl_7" n="N007"/>Zu sassen Inkraftreten bedarf das Gesetz der Ordnungs-
+      <lb facs="#facs_10_tr_2_tl_7" n="N007"/>Zu [seinem] [dessen] Inkraftreten bedarf das Gesetz der Ordnungs-
       <lb facs="#facs_10_tr_2_tl_8" n="N008"/>mässigen Kundmachung. Diese erfolgt im Staatsanzeiger für
-      <lb facs="#facs_10_tr_2_tl_9" n="N009"/>formel
-      <lb facs="#facs_10_tr_2_tl_10" n="N010"/>Südostdeutschland nid folgender
-      <lb facs="#facs_10_tr_2_tl_11" n="N011"/>eise: Nach Anhörung des Senates
-      <lb facs="#facs_10_tr_2_tl_12" n="N012"/>auf Grund des Beschlusses des Volkshauses undkraft der Zu¬
-      <lb facs="#facs_10_tr_2_tl_13" n="N013"/>Sieatsrales wird angeordnet, wie folgt.
-      <lb facs="#facs_10_tr_2_tl_14" n="N014"/>stimmung des Vollzugsausschusses die Staatsregierung
-      <lb facs="#facs_10_tr_2_tl_15" n="N015"/>das nachstehende Gesetz kund. Die Kundmachung ist zu zeichnen
-      <lb facs="#facs_10_tr_2_tl_16" n="N016"/>Maatsvates
-      <lb facs="#facs_10_tr_2_tl_17" n="N017"/>vom Präsidenten des Voltzugsausschusses und vom Staatskanzler (
-      <lb facs="#facs_10_tr_2_tl_18" n="N018"/>und von den mit dem Vollzuge betrauten Staatssekretären zu ziehnen.
-      <lb facs="#facs_10_tr_2_tl_19" n="N019"/>5.30
-      <lb facs="#facs_10_tr_2_tl_20" n="N020"/>Das Volkshaus besteht aus Abgeordneten, welche</ab><ab facs="#facs_10_tr_1" type="">
+      <lb facs="#facs_10_tr_2_tl_9" n="N009"/>[formel]
+      <lb facs="#facs_10_tr_2_tl_10" n="N010"/>Südostdeutschland [in] [mit] folgender
+      <lb facs="#facs_10_tr_2_tl_11" n="N011"/>[Weise]: Nach Anhörung des Senates[,]
+      <lb facs="#facs_10_tr_2_tl_12" n="N012"/>[und] auf Grund des Beschlusses des Volkshauses und[]kraft der Zu¬
+      <lb facs="#facs_10_tr_2_tl_13" n="N013"/>[Staatsrates] [macht] [wird angeordnet, wie folgt.]
+      <lb facs="#facs_10_tr_2_tl_14" n="N014"/>stimmung des Vollzugsausschusses [erkent?] die Staatsregierung
+      <lb facs="#facs_10_tr_2_tl_15" n="N015"/>[das nachstehende Gesetz kund]. Die Kundmachung ist [zu zeichnen]
+      <lb facs="#facs_10_tr_2_tl_16" n="N016"/>[Staatsrates]
+      <lb facs="#facs_10_tr_2_tl_17" n="N017"/>vom Präsidenten des Voltzugsausschusses [und vom] [dem] Staatskanzler
+      <lb facs="#facs_10_tr_2_tl_18" n="N018"/>[und von den mit dem Vollzuge betrauten Staatssekretären zu zeichnen.
+      <lb facs="#facs_10_tr_2_tl_19" n="N019"/>[§ 32.] [§ 18]
+      <lb facs="#facs_10_tr_2_tl_20" n="N020"/>Das Volkshaus besteht aus [.......] Abgeordneten, welche</ab><ab facs="#facs_10_tr_1" type="">
       <lb facs="#facs_10_tr_1_tl_1" n="N001"/>auf Grund des allgemeinen, gleichen und direkten Wahlrechtes
-      <lb facs="#facs_10_tr_1_tl_2" n="N002"/>nach den Grundsätzen der Verhältniswahl ### berufen
-      <lb facs="#facs_10_tr_1_tl_3" n="N003"/>werden. Jeder politische Kreis (§27., 44) ist zugleich Wahl¬
-      <lb facs="#facs_10_tr_1_tl_4" n="N004"/>kreis, und wählt auf je.... Einwohner einen Abgeordneten
-      <lb facs="#facs_10_tr_1_tl_5" n="N005"/>so viele Abgeordnete, dass auf je............ Einwohner ein
-      <lb facs="#facs_10_tr_1_tl_6" n="N006"/>deu
-      <lb facs="#facs_10_tr_1_tl_7" n="N007"/>samt Ersatzmännern
-      <lb facs="#facs_10_tr_1_tl_8" n="N008"/>Vertreter entfällt. Sämtliche Abgeordnete eines Kreises werden
+      <lb facs="#facs_10_tr_1_tl_2" n="N002"/>nach den Grundsätzen der Verhältniswahl [gewählt we] berufen
+      <lb facs="#facs_10_tr_1_tl_3" n="N003"/>werden. Jeder politische Kreis ([......] [§27, 44]) ist zugleich Wahl¬
+      <lb facs="#facs_10_tr_1_tl_4" n="N004"/>kreis, und wählt [auf je ..... Einwohner einen Abgeordneten]
+      <lb facs="#facs_10_tr_1_tl_5" n="N005"/>so viele Abgeordnete, dass auf je ............ Einwohner ein
+      <lb facs="#facs_10_tr_1_tl_6" n="N006"/>[den]
+      <lb facs="#facs_10_tr_1_tl_7" n="N007"/>[samt Ersatzmänner[n]]
+      <lb facs="#facs_10_tr_1_tl_8" n="N008"/>Vertreter entfällt. Sämtliche Abgeordnete eines Kreises* werden
       <lb facs="#facs_10_tr_1_tl_9" n="N009"/>in einem Wahlgange durch Listenwahl berufen.
-      <lb facs="#facs_10_tr_1_tl_10" n="N010"/>19
-      <lb facs="#facs_10_tr_1_tl_11" n="N011"/>§ 23.</ab><ab facs="#facs_10_tr_3" type="">
+      <lb facs="#facs_10_tr_1_tl_10" n="N010"/>[19]
+      <lb facs="#facs_10_tr_1_tl_11" n="N011"/>[§ 23.]</ab><ab facs="#facs_10_tr_3" type="">
       <lb facs="#facs_10_tr_3_tl_1" n="N001"/>Wahlberechtigt zur Wahl eines Abgeordneten ist jeder Staats-
       <lb facs="#facs_10_tr_3_tl_2" n="N002"/>bürger ohne Unterschied des Geschlechtes, welcher das 20. Lebenjahr
-      <lb facs="#facs_10_tr_3_tl_3" n="N003"/>zurückgelegt hat, nach der Reichsratswahlerdnung vom Wahlrechte
-      <lb facs="#facs_10_tr_3_tl_4" n="N004"/>nicht ausgenommen oder ausgeschlossen ist und innerhal b des
+      <lb facs="#facs_10_tr_3_tl_3" n="N003"/>zurückgelegt hat, nach der Reichsratswahlordnung vom Wahlrechte
+      <lb facs="#facs_10_tr_3_tl_4" n="N004"/>nicht ausgenommen oder ausgeschlossen ist und innerhal[]b des
       <lb facs="#facs_10_tr_3_tl_5" n="N005"/>Staatsgebietes, in der Gemeinde, wo das Wahlrecht auszuüben ist,
       <lb facs="#facs_10_tr_3_tl_6" n="N006"/>in der Wählerliste erscheint.
-      <lb facs="#facs_10_tr_3_tl_7" n="N007"/>Wählbar als Abgordneter ist.
+      <lb facs="#facs_10_tr_3_tl_7" n="N007"/>Wählbar als Abgordneter ist ..............
       <lb facs="#facs_10_tr_3_tl_8" n="N008"/>Die näheren Vorschriften über die Ausübung des Wahlrechtes und
       <lb facs="#facs_10_tr_3_tl_9" n="N009"/>die Durchführung der Wahlen enthält die Wahlordnung.
-      <lb facs="#facs_10_tr_3_tl_10" n="N010"/>§ 24. 20
+      <lb facs="#facs_10_tr_3_tl_10" n="N010"/>[§ 24.] [20]
       <lb facs="#facs_10_tr_3_tl_11" n="N011"/>Die Abgeordneten des Volkshauses werden auf die Dauer
       <lb facs="#facs_10_tr_3_tl_12" n="N012"/>von drei Jahren gewählt. Nach Ablauf der Wahlperiode erfolgen
-      <lb facs="#facs_10_tr_3_tl_13" n="N013"/>wähgemeirden XXXX Neuwahlen. Gewesene Abgeordnete können wieder gew</ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_tr_1" type="">
-      <lb facs="#facs_11_tr_1_tl_1" n="N001"/>weder gewählt werden.
-      <lb facs="#facs_11_tr_1_tl_2" n="N002"/>Für Abgordnete, welche während der Dauer der Wahlperiode durch Tod
+      <lb facs="#facs_10_tr_3_tl_13" n="N013"/>[wählt ??? Wahl] [allgemeine] Neuwahlen. Gewesene Abgeordnete können wieder [gew]</ab><pb facs="#facs_11" n="11" xml:id="img_0011"/><ab facs="#facs_11_tr_1" type="">
+      <lb facs="#facs_11_tr_1_tl_1" n="N001"/>w[i]eder gewählt werden.
+      <lb facs="#facs_11_tr_1_tl_2" n="N002"/>Für Abgeordnete, welche während der Dauer der Wahlperiode durch Tod
       <lb facs="#facs_11_tr_1_tl_3" n="N003"/>oder Verzicht ausscheiden, wird der nächst berechtigte Ersatzmann
       <lb facs="#facs_11_tr_1_tl_4" n="N004"/>einberufen.
-      <lb facs="#facs_11_tr_1_tl_5" n="N005"/>und höchstens...
-      <lb facs="#facs_11_tr_1_tl_6" n="N006"/>S. 24
-      <lb facs="#facs_11_tr_1_tl_7" n="N007"/>Der Senat besteht aus Unterstens.. Mitgliedern.
+      <lb facs="#facs_11_tr_1_tl_5" n="N005"/>[und höchstens...]
+      <lb facs="#facs_11_tr_1_tl_6" n="N006"/>[§ 25.] [21?]
+      <lb facs="#facs_11_tr_1_tl_7" n="N007"/>Der Senat besteht aus [....] [mindestens] Mitgliedern. Mitglieder
       <lb facs="#facs_11_tr_1_tl_8" n="N008"/>des Senates sind kraft ihrer Stellung 1. der bürgermeister
       <lb facs="#facs_11_tr_1_tl_9" n="N009"/>und die beiden Vizebürgermeister der Staatshauptsradt Wien und
-      <lb facs="#facs_11_tr_1_tl_10" n="N010"/>die Bürgermeister der Landeshauptstädte. 2. Die Landeshraupt¬</ab><ab facs="#facs_11_tr_2" type="">
-      <lb facs="#facs_11_tr_2_tl_1" n="N001"/>männer der Provinzen, 33. Die Rektoren der Universitäten und
-      <lb facs="#facs_11_tr_2_tl_2" n="N002"/>aller anderen Hochschulen, die Präsidenten der Akademien.
+      <lb facs="#facs_11_tr_1_tl_10" n="N010"/>die Bürgermeister der Landeshauptstädte. 2. Die Landeshaupt¬</ab><ab facs="#facs_11_tr_2" type="">
+      <lb facs="#facs_11_tr_2_tl_1" n="N001"/>männer der Provinzen, 33. [Direktoren] [Die] [R]ektoren der Universitäten und
+      <lb facs="#facs_11_tr_2_tl_2" n="N002"/>aller anderen Hochschulen, [D][d]ie Präsidenten der Akademien.
       <lb facs="#facs_11_tr_2_tl_3" n="N003"/>Durch Wahl berufen werden die Vertreter: 1. Der Handels- und
-      <lb facs="#facs_11_tr_2_tl_4" n="N004"/>lewerbekammer und zwar von der Handels- und Gewerbekammer
+      <lb facs="#facs_11_tr_2_tl_4" n="N004"/>Gewerbekammer und zwar von der Handels- und Gewerbekammer
       <lb facs="#facs_11_tr_2_tl_5" n="N005"/>Wien...... Mitglieder
-      <lb facs="#facs_11_tr_2_tl_6" n="N006"/>Linz
-      <lb facs="#facs_11_tr_2_tl_7" n="N007"/>2. Der Arbeiterkammern und zwar..
-      <lb facs="#facs_11_tr_2_tl_8" n="N008"/>3. Der Landwirtschaftskammern und zwar...
-      <lb facs="#facs_11_tr_2_tl_9" n="N009"/>4. der Notaren und Anwaltkammern und zwar.
-      <lb facs="#facs_11_tr_2_tl_10" n="N010"/>5. Der Aerztekammern und zwar
-      <lb facs="#facs_11_tr_2_tl_11" n="N011"/>.
-      <lb facs="#facs_11_tr_2_tl_12" n="N012"/>6. Der Technikerkammern und zwar.
-      <lb facs="#facs_11_tr_2_tl_13" n="N013"/>(Staatsrate)
-      <lb facs="#facs_11_tr_2_tl_14" n="N014"/>Ausserdem werden vom Vollzugsausschusse auf die Dauer.
-      <lb facs="#facs_11_tr_2_tl_15" n="N015"/>der Wahlperiode des Volkshauses ausgezeichnete Männer, welche
+      <lb facs="#facs_11_tr_2_tl_6" n="N006"/>Linz ....... "
+      <lb facs="#facs_11_tr_2_tl_7" n="N007"/>2. Der Arbeiterkammern und zwar [......]
+      <lb facs="#facs_11_tr_2_tl_8" n="N008"/>3. Der Landwirtschaftskammern und zwar [......]
+      <lb facs="#facs_11_tr_2_tl_9" n="N009"/>4. der Notaren und Anwaltkammern und zwar [......]
+      <lb facs="#facs_11_tr_2_tl_10" n="N010"/>5. Der Aerztekammern und zwar [......]
+      <lb facs="#facs_11_tr_2_tl_11" n="N011"/>[......]
+      <lb facs="#facs_11_tr_2_tl_12" n="N012"/>6. Der Technikerkammern und zwar [......]
+      <lb facs="#facs_11_tr_2_tl_13" n="N013"/>[(Staatsrate)]
+      <lb facs="#facs_11_tr_2_tl_14" n="N014"/>A Ausserdem werden vom [Vollzugsausschusse] [auf die Dauer
+      <lb facs="#facs_11_tr_2_tl_15" n="N015"/>der Wahlperiode des Volkshauses] ausgezeichnete Männer, welche
       <lb facs="#facs_11_tr_2_tl_16" n="N016"/>sich um den Staat, um die Staatsverwaltung, um die Volks-
-      <lb facs="#facs_11_tr_2_tl_17" n="N017"/>wirtschaft, um Wissenschaft oder Kunst verdien Xt gemacht haben
+      <lb facs="#facs_11_tr_2_tl_17" n="N017"/>wirtschaft, um Wissenschaft oder Kunst verdien[s]t gemacht haben[,]
       <lb facs="#facs_11_tr_2_tl_18" n="N018"/>auf die Dauer der Wahlperiode des Volkshauses berufen. Die Zahl
-      <lb facs="#facs_11_tr_2_tl_19" n="N019"/>Zahl des Summe des
-      <lb facs="#facs_11_tr_2_tl_20" n="N020"/>dieser Mitglieder darf die Kraft ihrer Stellung oder durch
+      <lb facs="#facs_11_tr_2_tl_19" n="N019"/>[Zahl der] [Summe der]
+      <lb facs="#facs_11_tr_2_tl_20" n="N020"/>dieser Mitglieder darf die kraft ihrer Stellung oder [kraft] durch
       <lb facs="#facs_11_tr_2_tl_21" n="N021"/>Wahl berufenen Mitglieder nicht überschreiten.
-      <lb facs="#facs_11_tr_2_tl_22" n="N022"/>8.25
-      <lb facs="#facs_11_tr_2_tl_23" n="N023"/>Das Abgeordnetenhaus wählt aus seiner Mitte den Präsidenten
-      <lb facs="#facs_11_tr_2_tl_24" n="N024"/>und zwei Vizepräsidenten. Der Sanat / den Präcidenten und einen
+      <lb facs="#facs_11_tr_2_tl_22" n="N022"/>[§ 26.][22]
+      <lb facs="#facs_11_tr_2_tl_23" n="N023"/>[Das Abgeordnetenhaus wählt aus seiner Mitte den Präsidenten
+      <lb facs="#facs_11_tr_2_tl_24" n="N024"/>und zwei Vizepräsidenten. Der Senat den Präsidenten und einen
       <lb facs="#facs_11_tr_2_tl_25" n="N025"/>Vizepräsidenten. Im Ueberigen beschliesst das Volkshaus und der
-      <lb facs="#facs_11_tr_2_tl_26" n="N026"/>Benat seine Geschäfts- und Hausordnung selbständig.
-      <lb facs="#facs_11_tr_2_tl_27" n="N027"/>Die Wahlen zum Volkshause xx finden am 1. Sonntag
-      <lb facs="#facs_11_tr_2_tl_28" n="N028"/>des Monates März statt. Die Wahlen zum Senate am 3. Sonntag dieses</ab><pb facs="#facs_12" n="12" xml:id="img_0012"/><ab facs="#facs_12_tr_2" type="">
-      <lb facs="#facs_12_tr_2_tl_1" n="N001"/>Kérter Titel
-      <lb facs="#facs_12_tr_2_tl_2" n="N002"/>Von der öffentlichen Gewalt.
-      <lb facs="#facs_12_tr_2_tl_3" n="N003"/>§ 16
-      <lb facs="#facs_12_tr_2_tl_4" n="N004"/>Alle öffentliche Gewalt wird im Namen des Freistaats
-      <lb facs="#facs_12_tr_2_tl_5" n="N005"/>durch Beauftragte des Volkes ausgeübt. Die Gewalten
-      <lb facs="#facs_12_tr_2_tl_6" n="N006"/>sind wie folgt gegliedert und zusammengefaßt.
-      <lb facs="#facs_12_tr_2_tl_7" n="N007"/>§ 17.
-      <lb facs="#facs_12_tr_2_tl_8" n="N008"/>diesesetzgebende Gewalt über das ganze Staatsgabiet
-      <lb facs="#facs_12_tr_2_tl_9" n="N009"/>und seine Bewohner überträgt das Saek der Nationalver¬
-      <lb facs="#facs_12_tr_2_tl_10" n="N010"/>sammlung.
-      <lb facs="#facs_12_tr_2_tl_11" n="N011"/>In Rahmen der von ihr beschlossenen Gesetze übertragen
-      <lb facs="#facs_12_tr_2_tl_12" n="N012"/>und verlassenen
-      <lb facs="#facs_12_tr_2_tl_13" n="N013"/>und Landesadmung übertragen die Bürger des jedes
-      <lb facs="#facs_12_tr_2_tl_14" n="N014"/>Landes das Gesetzgebungsrecht über das Land u seine
-      <lb facs="#facs_12_tr_2_tl_15" n="N015"/>Bewohner der Landtagen, im Rahmen der Staats- und
-      <lb facs="#facs_12_tr_2_tl_16" n="N016"/>Landesgesetze das die Gewalt, allgemeine verbindliche
-      <lb facs="#facs_12_tr_2_tl_17" n="N017"/>Anononungen zu treffen über das Gebiet u. die Bewohner
-      <lb facs="#facs_12_tr_2_tl_18" n="N018"/>Das Kreises zu treffen treffen den Kreistagen.
-      <lb facs="#facs_12_tr_2_tl_19" n="N019"/>Auf Grund folche dieser Gesetze und Anordnungen
-      <lb facs="#facs_12_tr_2_tl_20" n="N020"/>selbst
-      <lb facs="#facs_12_tr_2_tl_21" n="N021"/>regeln die Bememdebewohner ihre Gemeinsamen
-      <lb facs="#facs_12_tr_2_tl_22" n="N022"/>Angelegenheiten selb durch die Gemeindevertre
-      <lb facs="#facs_12_tr_2_tl_23" n="N023"/>tinig.
-      <lb facs="#facs_12_tr_2_tl_24" n="N024"/>§ 18.</ab><ab facs="#facs_12_tr_1" type="">
-      <lb facs="#facs_12_tr_1_tl_1" n="N001"/>Mit dem Vollzuge ihnen der Gesetze und ihrer Be¬
+      <lb facs="#facs_11_tr_2_tl_26" n="N026"/>Senat seine Geschäfts- und Hausordnung selbständig.
+      <lb facs="#facs_11_tr_2_tl_27" n="N027"/>Die Wahlen zum Volkshause [und zu] finden am 1. Sonntag
+      <lb facs="#facs_11_tr_2_tl_28" n="N028"/>des Monates März statt. Die Wahlen zum Senate am 3. Sonntag dieses]</ab><pb facs="#facs_12" n="12" xml:id="img_0012"/><ab facs="#facs_12_tr_2" type="">
+      <lb facs="#facs_12_l" n="N001"/>7
+      <lb facs="#facs_12_tr_2_tl_1" n="N002"/>Vierter Titel.
+      <lb facs="#facs_12_tr_2_tl_2" n="N003"/>Von der öffentlichen Gewalt.
+      <lb facs="#facs_12_tr_2_tl_3" n="N004"/>§ 16.
+      <lb facs="#facs_12_tr_2_tl_4" n="N005"/>Alle öffentliche Gewalt wird im Namen des Freistaats
+      <lb facs="#facs_12_tr_2_tl_5" n="N006"/>durch Beauftragte des Volkes ausgeübt. Die Gewalten
+      <lb facs="#facs_12_tr_2_tl_6" n="N007"/>sind wie folgt gegliedert und [vom?] zusammengefaßt.
+      <lb facs="#facs_12_tr_2_tl_7" n="N008"/>§ 17.
+      <lb facs="#facs_12_tr_2_tl_8" n="N009"/>Die gesetzgebende Gewalt über das ganze Staatsgebiet
+      <lb facs="#facs_12_tr_2_tl_9" n="N010"/>und seine Bewohner überträgt das Volk der Nationalver¬
+      <lb facs="#facs_12_tr_2_tl_10" n="N011"/>sammlung.
+      <lb facs="#facs_12_tr_2_tl_11" n="N012"/>In Rahmen der von ihr beschlossenen Gesetze [übertragen
+      <lb facs="#facs_12_tr_2_tl_12" n="N013"/>und erlassenen]
+      <lb facs="#facs_12_tr_2_tl_13" n="N014"/>und Landesordnung übertragen die Bürger [das es jedes
+      <lb facs="#facs_12_tr_2_tl_14" n="N015"/>Landes] das Gesetzgebungsrecht über das Land u seine
+      <lb facs="#facs_12_tr_2_tl_15" n="N016"/>Bewohner den Landtagen, im Rahmen der Staats- und
+      <lb facs="#facs_12_tr_2_tl_16" n="N017"/>Landesgesetze [das] die Gewalt, allgemeine verbindliche
+      <lb facs="#facs_12_tr_2_tl_17" n="N018"/>Anordnungen [zu treffen] über das Gebiet u die Bewohner
+      <lb facs="#facs_12_tr_2_tl_18" n="N019"/>des Kreises zu [erlassen] [treffen] den Kreistagen.
+      <lb facs="#facs_12_tr_2_tl_19" n="N020"/>Auf Grund [solche] dieser Gesetze und Anordnungen
+      <lb facs="#facs_12_tr_2_tl_20" n="N021"/>[selbst]
+      <lb facs="#facs_12_tr_2_tl_21" n="N022"/>regeln die Gemeindebewohner ihre gemeinsamen
+      <lb facs="#facs_12_tr_2_tl_22" n="N023"/>Angelegenheiten [selbs] durch die Gemeindevertre-
+      <lb facs="#facs_12_tr_2_tl_23" n="N024"/>tung.
+      <lb facs="#facs_12_tr_2_tl_24" n="N025"/>§ 18.</ab><ab facs="#facs_12_tr_1" type="">
+      <lb facs="#facs_12_tr_1_tl_1" n="N001"/>Mit dem Vollzuge [ihrer] der Gesetze und ihrer Be¬
       <lb facs="#facs_12_tr_1_tl_2" n="N002"/>schlüsse beauftragt die Nationalversammlung den
-      <lb facs="#facs_12_tr_1_tl_3" n="N003"/>von ihr eingesetzten Vollzugsausschuss. er führt
-      <lb facs="#facs_12_tr_1_tl_4" n="N004"/>der Titel Staatsrat und ist als aberster Tragen
+      <lb facs="#facs_12_tr_1_tl_3" n="N003"/>von ihr eingesetzten Vollzugsausschuss. Er führt
+      <lb facs="#facs_12_tr_1_tl_4" n="N004"/>den Titel Staatsrat und ist als oberster Träger
       <lb facs="#facs_12_tr_1_tl_5" n="N005"/>der Staatsgewalt berufen, Gesetzgebung, Verwal¬
-      <lb facs="#facs_12_tr_1_tl_6" n="N006"/>tung, und Rechtspflege einheitlich und stetig
-      <lb facs="#facs_12_tr_1_tl_7" n="N007"/>zusammenzufassen. (und bewaffnete Macht in
-      <lb facs="#facs_12_tr_1_tl_8" n="N008"/>enträchtiger, stetiger Zusammenarbeit nach
+      <lb facs="#facs_12_tr_1_tl_6" n="N006"/>tung, [und] Rechtspflege ][einheitlich und stetig
+      <lb facs="#facs_12_tr_1_tl_7" n="N007"/>zusammenzufassen.] (und bewaffnete Macht in
+      <lb facs="#facs_12_tr_1_tl_8" n="N008"/>[sch?] einträchtiger, stetiger Zusammenarbeit nach
       <lb facs="#facs_12_tr_1_tl_9" n="N009"/>dem Willen des Volkes zu erhalten. Der Staats¬
-      <lb facs="#facs_12_tr_1_tl_10" n="N010"/>rat übt die Regierungs- und Vollzugssanwalt
-      <lb facs="#facs_12_tr_1_tl_11" n="N011"/>Durch die Regier von ihm bestellte Regierung aus.
-      <lb facs="#facs_12_tr_1_tl_12" n="N012"/>###</ab><pb facs="#facs_13" n="13" xml:id="img_0013"/><ab facs="#facs_13_tr_2" type="">
-      <lb facs="#facs_13_tr_2_tl_1" n="N001"/>819.
+      <lb facs="#facs_12_tr_1_tl_10" n="N010"/>rat übt [die] [Regierungs- und] [die] Vollzugsgewalt
+      <lb facs="#facs_12_tr_1_tl_11" n="N011"/>durch die [Regier] von ihm bestellte Regierung aus.
+      <lb facs="#facs_12_tr_1_tl_12" n="N012"/>[jurie?]</ab><pb facs="#facs_13" n="13" xml:id="img_0013"/><ab facs="#facs_13_tr_2" type="">
+      <lb facs="#facs_13_tr_2_tl_1" n="N001"/>§19.
       <lb facs="#facs_13_tr_2_tl_2" n="N002"/>Der Organe der Regierung sind der Staatskanzler
-      <lb facs="#facs_13_tr_2_tl_3" n="N003"/>und die Staatssekretäre. Sie sind einzeln und gemein
-      <lb facs="#facs_13_tr_2_tl_4" n="N004"/>sam der nach dem besonderen Gesetze war die
-      <lb facs="#facs_13_tr_2_tl_5" n="N005"/>Ministerverantwortlichkeit der Nationalversam¬
+      <lb facs="#facs_13_tr_2_tl_3" n="N003"/>und die Staatssekretäre. Sie sind einzeln und gemein¬
+      <lb facs="#facs_13_tr_2_tl_4" n="N004"/>sam [der] nach dem besonderen Gesetze über die
+      <lb facs="#facs_13_tr_2_tl_5" n="N005"/>Ministerverantwortlichkeit der Nationalversamm¬
       <lb facs="#facs_13_tr_2_tl_6" n="N006"/>lung verantwortlich.
-      <lb facs="#facs_13_tr_2_tl_7" n="N007"/>820</ab><ab facs="#facs_13_tr_3" type="">
-      <lb facs="#facs_13_tr_3_tl_1" n="N001"/>Die richterliche Gewalt wird im Namen des Volkes
-      <lb facs="#facs_13_tr_3_tl_2" n="N002"/>und im Auftrag des Vockes und im Namen des Frei¬
-      <lb facs="#facs_13_tr_3_tl_3" n="N003"/>Maats durch unabhängige Röchter gesand¬
-      <lb facs="#facs_13_tr_3_tl_4" n="N004"/>habt. Die Justizverwaltung liegt in der Händen
-      <lb facs="#facs_13_tr_3_tl_5" n="N005"/>des Staatsckretars des Justizants.
-      <lb facs="#facs_13_tr_3_tl_6" n="N006"/>S21.
-      <lb facs="#facs_13_tr_3_tl_7" n="N007"/>Die bewaffnete Macht ist die unter Wasser gewesene
-      <lb facs="#facs_13_tr_3_tl_8" n="N008"/>Bürgersthaft des Staates. Sie steht unter Befehl des
-      <lb facs="#facs_13_tr_3_tl_9" n="N009"/>Der Nationalversammlung verantwortlicher
-      <lb facs="#facs_13_tr_3_tl_10" n="N010"/>Oberbefehlstabers. Die Gravasverwaltig
+      <lb facs="#facs_13_tr_2_tl_7" n="N007"/>§20.</ab><ab facs="#facs_13_tr_3" type="">
+      <lb facs="#facs_13_tr_3_tl_1" n="N001"/>Die richterliche Gewalt wird im [Namen des Volkes
+      <lb facs="#facs_13_tr_3_tl_2" n="N002"/>und] im Auftrag des Volkes und im Namen des Frei¬
+      <lb facs="#facs_13_tr_3_tl_3" n="N003"/>staats durch unabhängige Richter gehand¬
+      <lb facs="#facs_13_tr_3_tl_4" n="N004"/>habt. Die Justizverwaltung liegt in den Händen
+      <lb facs="#facs_13_tr_3_tl_5" n="N005"/>des Staatsekretärs des Justizamts.
+      <lb facs="#facs_13_tr_3_tl_6" n="N006"/>§21.
+      <lb facs="#facs_13_tr_3_tl_7" n="N007"/>Die bewaffnete Macht ist die unter Waffen gerufene
+      <lb facs="#facs_13_tr_3_tl_8" n="N008"/>Bürgerschaft des Staates. Sie steht unter Befehl des
+      <lb facs="#facs_13_tr_3_tl_9" n="N009"/>der Nationalversammlung verantwortlichen
+      <lb facs="#facs_13_tr_3_tl_10" n="N010"/>Oberbefehlshabers. Die Heeresverwaltung
       <lb facs="#facs_13_tr_3_tl_11" n="N011"/>führt der Staatssekretär des Heerwesens.</ab><ab facs="#facs_13_tr_1" type="">
       <lb facs="#facs_13_tr_1_tl_1" n="N001"/>Erster Abschnitt.
-      <lb facs="#facs_13_tr_1_tl_2" n="N002"/>Von der Gesch geben Gewalt.
-      <lb facs="#facs_13_tr_1_tl_3" n="N003"/>a) die Staatsgesetzgeb
-      <lb facs="#facs_13_tr_1_tl_4" n="N004"/>22.
+      <lb facs="#facs_13_tr_1_tl_2" n="N002"/>Von der gesetzgeben Gewalt.
+      <lb facs="#facs_13_tr_1_tl_3" n="N003"/>[a) die Staatsgesetzgebung]
+      <lb facs="#facs_13_tr_1_tl_4" n="N004"/>§22.
       <lb facs="#facs_13_tr_1_tl_5" n="N005"/>Bis zur endgiltigen Abgrengung des Staatsgebietes
-      <lb facs="#facs_13_tr_1_tl_6" n="N006"/>§ 5 jam bis zum Zeit Tage, wo die Raustituierende
-      <lb facs="#facs_13_tr_1_tl_7" n="N007"/>Rakonalversammlung Zusammentritt, bilden
-      <lb facs="#facs_13_tr_1_tl_8" n="N008"/>die in der Nachstehend bezeichneten Wahlbe¬
-      <lb facs="#facs_13_tr_1_tl_9" n="N009"/>Zirkin (Reichsratswahlordung) nieuwählten
-      <lb facs="#facs_13_tr_1_tl_10" n="N010"/>Reichsratsabgeordneter die Nationalver¬
-      <lb facs="#facs_13_tr_1_tl_11" n="N011"/>provisorische,
-      <lb facs="#facs_13_tr_1_tl_12" n="N012"/>sammlag von Lüdostdeuschland.
-      <lb facs="#facs_13_tr_1_tl_13" n="N013"/>823.
-      <lb facs="#facs_13_tr_1_tl_14" n="N014"/>Die konstituierende Nationalversammlung besetzt den
-      <lb facs="#facs_13_tr_1_tl_15" n="N015"/>volle unbeschränkte und allmathängige Gesetzgebungs¬
-      <lb facs="#facs_13_tr_1_tl_16" n="N016"/>gewalt Gewalt und Hoheit des freistaates nach einem
+      <lb facs="#facs_13_tr_1_tl_6" n="N006"/>(§ 5) und bis zum [Zeit] Tage, wo die konstituierende
+      <lb facs="#facs_13_tr_1_tl_7" n="N007"/>Nationalversammlung zusammentritt, bilden
+      <lb facs="#facs_13_tr_1_tl_8" n="N008"/>die in der nachstehend bezeichneten Wahlbe¬
+      <lb facs="#facs_13_tr_1_tl_9" n="N009"/>Zirken (Reichsratswahlordung) gewählten
+      <lb facs="#facs_13_tr_1_tl_10" n="N010"/>Reichsratsabgeordneten die Nationalver¬
+      <lb facs="#facs_13_tr_1_tl_11" n="N011"/>[provisorische,]
+      <lb facs="#facs_13_tr_1_tl_12" n="N012"/>sammlung von Südostdeuschland.
+      <lb facs="#facs_13_tr_1_tl_13" n="N013"/>§23.
+      <lb facs="#facs_13_tr_1_tl_14" n="N014"/>Die konstituierende Nationalversammlung besitzt die
+      <lb facs="#facs_13_tr_1_tl_15" n="N015"/>volle unbeschränkte und [?] unabängige [Gesetzgebungs¬
+      <lb facs="#facs_13_tr_1_tl_16" n="N016"/>gewalt] Gewalt und Hoheit des Freistaates nach innen
       <lb facs="#facs_13_tr_1_tl_17" n="N017"/>und außen. Sie ordnet, gliedert und richtet alle öffent¬</ab><pb facs="#facs_14" n="14" xml:id="img_0014"/><ab facs="#facs_14_tr_1" type="">
-      <lb facs="#facs_14_tr_1_tl_1" n="N001"/>auf
-      <lb facs="#facs_14_tr_1_tl_2" n="N002"/>liche Gewalten im Staate ein. Sie wird von einberufen
-      <lb facs="#facs_14_tr_1_tl_3" n="N003"/>sobald die Wiederkehr des Friedens Neuwahlen und
-      <lb facs="#facs_14_tr_1_tl_4" n="N004"/>ihren Zusammentritt vermöglicht haben. Die Wahl
-      <lb facs="#facs_14_tr_1_tl_5" n="N005"/>daß
-      <lb facs="#facs_14_tr_1_tl_6" n="N006"/>ordnung für sie wird vom provisorische Nationalver¬
-      <lb facs="#facs_14_tr_1_tl_7" n="N007"/>ihrer
-      <lb facs="#facs_14_tr_1_tl_8" n="N008"/>sammlung in den nachstehend gegebenen Ver¬
-      <lb facs="#facs_14_tr_1_tl_9" n="N009"/>fassung festgesetzt und Kundgemacht.
-      <lb facs="#facs_14_tr_1_tl_10" n="N010"/>quiode
-      <lb facs="#facs_14_tr_1_tl_11" n="N011"/>3.24
-      <lb facs="#facs_14_tr_1_tl_12" n="N012"/>In Würdigung der Tatsache, daß die Wahl der
-      <lb facs="#facs_14_tr_1_tl_13" n="N013"/>die
-      <lb facs="#facs_14_tr_1_tl_14" n="N014"/>für walzte die Receßratsabgedeute, welche die provisorische Na¬
-      <lb facs="#facs_14_tr_1_tl_15" n="N015"/>bereits abgelaufen ist,
-      <lb facs="#facs_14_tr_1_tl_16" n="N016"/>vonalversammlung zusammensatzig und zur
-      <lb facs="#facs_14_tr_1_tl_17" n="N017"/>leich Überleitung aus den bestehenden Macht- und
-      <lb facs="#facs_14_tr_1_tl_18" n="N018"/>in den künftigen Zustand
-      <lb facs="#facs_14_tr_1_tl_19" n="N019"/>Rechtsverhältnissen, wird die provi¬
-      <lb facs="#facs_14_tr_1_tl_20" n="N020"/>sorische Nationalverhandlung ergänzt. Die
-      <lb facs="#facs_14_tr_1_tl_21" n="N021"/>Versammlung der bisherigen Abgeordneten
-      <lb facs="#facs_14_tr_1_tl_22" n="N022"/>bildet das Volkshaus, zu dem im Senat
-      <lb facs="#facs_14_tr_1_tl_23" n="N023"/>in Jucken
-      <lb facs="#facs_14_tr_1_tl_24" n="N024"/>krit. Volkshaus und Senat bilden die provi¬
-      <lb facs="#facs_14_tr_1_tl_25" n="N025"/>wesche Nationalversammlung.
-      <lb facs="#facs_14_tr_1_tl_26" n="N026"/>Beschlußgewalt kommt einzig dem
-      <lb facs="#facs_14_tr_1_tl_27" n="N027"/>Volkshause zu. Der Senat wirkt bei dessen
-      <lb facs="#facs_14_tr_1_tl_28" n="N028"/>Beschlüssen mit seinem Rate und Geteilte mit
-      <lb facs="#facs_14_tr_1_tl_29" n="N029"/>25.</ab><ab facs="#facs_14_tr_2" type="">
-      <lb facs="#facs_14_tr_2_tl_1" n="N001"/>Mitglieder des Senatus Smaks werden Kraft
+      <lb facs="#facs_14_l" n="N001"/>9
+      <lb facs="#facs_14_tr_1_tl_1" n="N002"/>[auf]
+      <lb facs="#facs_14_tr_1_tl_2" n="N003"/>lichen Gewalten im Staate ein. Sie wird [von] einberufen,
+      <lb facs="#facs_14_tr_1_tl_3" n="N004"/>sobald die Wiederkehr des Friedens Neuwahlen und [de]
+      <lb facs="#facs_14_tr_1_tl_4" n="N005"/>ihren Zusammentritt ermöglicht haben. Die Wahl
+      <lb facs="#facs_14_tr_1_tl_5" n="N006"/>[der]
+      <lb facs="#facs_14_tr_1_tl_6" n="N007"/>ordnung für sie wird vo[m][n] provisorische Nationalver¬
+      <lb facs="#facs_14_tr_1_tl_7" n="N008"/>[ihrer]
+      <lb facs="#facs_14_tr_1_tl_8" n="N009"/>sammlung in [der] nachstehend [h?] gegebenen Ver¬
+      <lb facs="#facs_14_tr_1_tl_9" n="N010"/>fassung festgesetzt und kundgemacht.
+      <lb facs="#facs_14_tr_1_tl_10" n="N011"/>quiode
+      <lb facs="#facs_14_tr_1_tl_11" n="N012"/>§.24
+      <lb facs="#facs_14_tr_1_tl_12" n="N013"/>In Würdigung der Tatsache, daß die Wahl [der] [?]
+      <lb facs="#facs_14_tr_1_tl_13" n="N014"/>[die]
+      <lb facs="#facs_14_tr_1_tl_14" n="N015"/>[für welche die] Reichsratsabgeordeten, [welche] die provisorische Na¬
+      <lb facs="#facs_14_tr_1_tl_15" n="N016"/>[bereits abgelaufen ist,]
+      <lb facs="#facs_14_tr_1_tl_16" n="N017"/>tionalversammlung [bei] Zusammensetzung und zur
+      <lb facs="#facs_14_tr_1_tl_17" n="N018"/>[leich?] Überleitung [aus] der bestehenden Macht- und
+      <lb facs="#facs_14_tr_1_tl_18" n="N019"/>[in den künftigen Zustand]
+      <lb facs="#facs_14_tr_1_tl_19" n="N020"/>Rechtsverhältnisse[n] [ergänz], wird die provi¬
+      <lb facs="#facs_14_tr_1_tl_20" n="N021"/>sorische Nationalversammlung ergänzt. Die
+      <lb facs="#facs_14_tr_1_tl_21" n="N022"/>Versammlung der bisherigen Abgeordneten
+      <lb facs="#facs_14_tr_1_tl_22" n="N023"/>bildet das Volkshaus, zu dem im Senat
+      <lb facs="#facs_14_tr_1_tl_23" n="N024"/>[in Hinkunft]
+      <lb facs="#facs_14_tr_1_tl_24" n="N025"/>krit.[?] Volkshaus und Senat bilden die provi¬
+      <lb facs="#facs_14_tr_1_tl_25" n="N026"/>rische Nationalversammlung.
+      <lb facs="#facs_14_tr_1_tl_26" n="N027"/>Beschlußgewalt kommt einzig dem
+      <lb facs="#facs_14_tr_1_tl_27" n="N028"/>Volkshause zu. Der Senat wirkt bei dessen
+      <lb facs="#facs_14_tr_1_tl_28" n="N029"/>Beschlüssen mit seinem Rate [mit] [und Gutachten mit.]
+      <lb facs="#facs_14_tr_1_tl_29" n="N030"/>§ 25.</ab><ab facs="#facs_14_tr_2" type="">
+      <lb facs="#facs_14_tr_2_tl_1" n="N001"/>Mitglieder des [Senates] [Senates] werden [Kraft]
       <lb facs="#facs_14_tr_2_tl_2" n="N002"/>Kraft ihrer öffentlichen Stellung
-      <lb facs="#facs_14_tr_2_tl_3" n="N003"/>Faußerdem un
-      <lb facs="#facs_14_tr_2_tl_4" n="N004"/>#
-      <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Sinne des §6 jean
-      <lb facs="#facs_14_tr_2_tl_6" n="N006"/>1.4 Die Landeshauptmänner der Länder und
-      <lb facs="#facs_14_tr_2_tl_7" n="N007"/>van Staatsrat
-      <lb facs="#facs_14_tr_2_tl_8" n="N008"/>2. Der Bürgermeister der Staats Hauptstadt
-      <lb facs="#facs_14_tr_2_tl_9" n="N009"/>Inbezeichnen
-      <lb facs="#facs_14_tr_2_tl_10" n="N010"/>des idées
-      <lb facs="#facs_14_tr_2_tl_11" n="N011"/>es treistaales Wien und die Bürgermeister
-      <lb facs="#facs_14_tr_2_tl_12" n="N012"/>deutsches
-      <lb facs="#facs_14_tr_2_tl_13" n="N013"/>Métglied des
-      <lb facs="#facs_14_tr_2_tl_14" n="N014"/>der Landeshauptslädte außerdem un
-      <lb facs="#facs_14_tr_2_tl_15" n="N015"/>Landesans
-      <lb facs="#facs_14_tr_2_tl_16" n="N016"/>Seine des §6 die Bürgermeister von Brünn
-      <lb facs="#facs_14_tr_2_tl_17" n="N017"/>schußes von
-      <lb facs="#facs_14_tr_2_tl_18" n="N018"/>Böhmen
-      <lb facs="#facs_14_tr_2_tl_19" n="N019"/>vielen und, MährischOstrau sind ein vom
-      <lb facs="#facs_14_tr_2_tl_20" n="N020"/>à Mähren
-      <lb facs="#facs_14_tr_2_tl_21" n="N021"/>Staatsrat bezeichneter deutscher Gemein¬
-      <lb facs="#facs_14_tr_2_tl_22" n="N022"/>30
-      <lb facs="#facs_14_tr_2_tl_23" n="N023"/>devertreter von Gernowitz
-      <lb facs="#facs_14_tr_2_tl_24" n="N024"/>3. Die Oberlandesgerechtspræsidenten von Wien, Graz
-      <lb facs="#facs_14_tr_2_tl_25" n="N025"/>u. Innsbruck sowie je ein vom Staatsrat in hezeich¬
-      <lb facs="#facs_14_tr_2_tl_26" n="N026"/>nander deutscher Mileficul Senats præsident der
-      <lb facs="#facs_14_tr_2_tl_27" n="N027"/>Oberlandesgerichte von Prag und Trünn
+      <lb facs="#facs_14_tr_2_tl_3" n="N003"/>[außerdem im]
+      <lb facs="#facs_14_tr_2_tl_4" n="N004"/>[A?]
+      <lb facs="#facs_14_tr_2_tl_5" n="N005"/>[Sinne des §6 Gesetz [?]]
+      <lb facs="#facs_14_tr_2_tl_6" n="N006"/>1.1 [?] Die Landeshauptmänner der Länder und
+      <lb facs="#facs_14_tr_2_tl_7" n="N007"/>[vom Staatsrat]
+      <lb facs="#facs_14_tr_2_tl_8" n="N008"/>2. Der Bürgermeister der [Staats] Hauptstadt
+      <lb facs="#facs_14_tr_2_tl_9" n="N009"/>[zu bezeichnen-]
+      <lb facs="#facs_14_tr_2_tl_10" n="N010"/>[des [M?]]
+      <lb facs="#facs_14_tr_2_tl_11" n="N011"/>des Freistaates Wien und die Bürgermeister
+      <lb facs="#facs_14_tr_2_tl_12" n="N012"/>[deutsches]
+      <lb facs="#facs_14_tr_2_tl_13" n="N013"/>[Mitglied des]
+      <lb facs="#facs_14_tr_2_tl_14" n="N014"/>der Landeshauptstädte außerdem im
+      <lb facs="#facs_14_tr_2_tl_15" n="N015"/>[Landesaus-]
+      <lb facs="#facs_14_tr_2_tl_16" n="N016"/>Sinne des §6 die Bürgermeister von Brünn
+      <lb facs="#facs_14_tr_2_tl_17" n="N017"/>[schußes von]
+      <lb facs="#facs_14_tr_2_tl_18" n="N018"/>[Böhmen]
+      <lb facs="#facs_14_tr_2_tl_19" n="N019"/>[Iglau und] [,] Mährisch Ostrau und ein vom
+      <lb facs="#facs_14_tr_2_tl_20" n="N020"/>[u Mähren]
+      <lb facs="#facs_14_tr_2_tl_21" n="N021"/>[3.] Staatsrat bezeichneter deutscher Gemein¬
+      <lb facs="#facs_14_tr_2_tl_22" n="N022"/>[3.]
+      <lb facs="#facs_14_tr_2_tl_23" n="N023"/>devertreter von Czernowitz
+      <lb facs="#facs_14_tr_2_tl_24" n="N024"/>3. Die Oberlandesgerichtspräsidenten von Wien, Graz
+      <lb facs="#facs_14_tr_2_tl_25" n="N025"/>u. Innsbruck sowie je ein vom Staatsrat zu bezeich¬
+      <lb facs="#facs_14_tr_2_tl_26" n="N026"/>nende[s][r] deutsche[s][r] [Mitglied] Senatspräsident der
+      <lb facs="#facs_14_tr_2_tl_27" n="N027"/>Oberlandesgerichte von Prag und Brünn
       <lb facs="#facs_14_tr_2_tl_28" n="N028"/>Angenörige
-      <lb facs="#facs_14_tr_2_tl_29" n="N029"/>5. Ruf vom Haatsrat zu bezeichnende Möglichke
-      <lb facs="#facs_14_tr_2_tl_30" n="N030"/>der hohen Generalität</ab><pb facs="#facs_15" n="15" xml:id="img_0015"/><ab facs="#facs_15_tr_1" type="">
+      <lb facs="#facs_14_tr_2_tl_29" n="N029"/>[5.][4.] Fünf vom Staatsrat zu bezeichnende [Mitglieder] [Angehörige]
+      <lb facs="#facs_14_tr_2_tl_30" n="N030"/>der hohen Generalität.</ab><pb facs="#facs_15" n="15" xml:id="img_0015"/><ab facs="#facs_15_tr_1" type="">
       <lb facs="#facs_15_tr_1_tl_1" n="N001"/>40
-      <lb facs="#facs_15_tr_1_tl_2" n="N002"/>5.8. Die Rektoren der deutschen Universitäten und
+      <lb facs="#facs_15_tr_1_tl_2" n="N002"/>5.6. Die Rektoren der deutschen Universitäten und
       <lb facs="#facs_15_tr_1_tl_3" n="N003"/>die Praesidenten der Akademien
       <lb facs="#facs_15_tr_1_tl_4" n="N004"/>§ 26
       <lb facs="#facs_15_tr_1_tl_5" n="N005"/>Mitglieder des Senats werden durch Wahl be¬
-      <lb facs="#facs_15_tr_1_tl_6" n="N006"/>Bernfug auf
-      <lb facs="#facs_15_tr_1_tl_7" n="N007"/>Diejenigsweise durch Vorschläg von Korporatischen
-      <lb facs="#facs_15_tr_1_tl_8" n="N008"/>Grund von
-      <lb facs="#facs_15_tr_1_tl_9" n="N009"/>11) Fünf Vertreter der Land- u Vorschwirtschaft darunter
-      <lb facs="#facs_15_tr_1_tl_10" n="N010"/>Zwei des Großgrundbesitzes und drei der
+      <lb facs="#facs_15_tr_1_tl_6" n="N006"/>[Berufung auf]
+      <lb facs="#facs_15_tr_1_tl_7" n="N007"/>ziehungsweise durch Vorschlag von Korporationen[?]
+      <lb facs="#facs_15_tr_1_tl_8" n="N008"/>[Grund von]
+      <lb facs="#facs_15_tr_1_tl_9" n="N009"/>17[?]) Fünf Vertreter der Land- u Forstwirtschaft, darunter
+      <lb facs="#facs_15_tr_1_tl_10" n="N010"/>zwei des Großgrundbesitzes und drei der
       <lb facs="#facs_15_tr_1_tl_11" n="N011"/>Bauernschaft,
-      <lb facs="#facs_15_tr_1_tl_12" n="N012"/>2. Fünf Vertreter der Industrie und darunter
-      <lb facs="#facs_15_tr_1_tl_13" n="N013"/>einer
-      <lb facs="#facs_15_tr_1_tl_14" n="N014"/>Zwei des Berg- u. Hüllenwesens und dre
-      <lb facs="#facs_15_tr_1_tl_15" n="N015"/>der nbrigen Industrien,</ab><ab facs="#facs_15_tr_3" type="">
+      <lb facs="#facs_15_tr_1_tl_12" n="N012"/>2. Fünf Vertreter der Industrie [und] darunter
+      <lb facs="#facs_15_tr_1_tl_13" n="N013"/>[einer]
+      <lb facs="#facs_15_tr_1_tl_14" n="N014"/>[Zwei] des Berg- u. Hüttenwesens [und drei]
+      <lb facs="#facs_15_tr_1_tl_15" n="N015"/>[der übrigen Industriev,],</ab><ab facs="#facs_15_tr_3" type="">
       <lb facs="#facs_15_tr_3_tl_1" n="N001"/>3. drei Vertreter des Handels,
       <lb facs="#facs_15_tr_3_tl_2" n="N002"/>4. fünf Vertreter des Gewerbes
-      <lb facs="#facs_15_tr_3_tl_3" n="N003"/>5. Zehn Vertreter der gewerkschaplich und
+      <lb facs="#facs_15_tr_3_tl_3" n="N003"/>5. zehn Vertreter der gewerkschaftlich und
       <lb facs="#facs_15_tr_3_tl_4" n="N004"/>genossenschaftlich organisierten Arbei¬
       <lb facs="#facs_15_tr_3_tl_5" n="N005"/>terschaft.
-      <lb facs="#facs_15_tr_3_tl_6" n="N006"/>6 drei Vertreter der liberalen Berufe um
-      <lb facs="#facs_15_tr_3_tl_7" n="N007"/>zwar einer der juridischen, der
-      <lb facs="#facs_15_tr_3_tl_8" n="N008"/>ärztlichen und der kchuischen Bempe
-      <lb facs="#facs_15_tr_3_tl_9" n="N009"/>7. Junf Vertreter der öffentlichen und privaten Eingestellten.
-      <lb facs="#facs_15_tr_3_tl_10" n="N010"/>Ny Raatswat jetzt durch eine Landmähung fast
-      <lb facs="#facs_15_tr_3_tl_11" n="N011"/>in welcher Weise die Mitglieder gewählt, beziehigs¬
-      <lb facs="#facs_15_tr_3_tl_12" n="N012"/>weise vorgeschlagen und beweife werden.
+      <lb facs="#facs_15_tr_3_tl_6" n="N006"/>6 drei Vertreter der liberalen Berufe und
+      <lb facs="#facs_15_tr_3_tl_7" n="N007"/>zwar [ein] je einer der juridischen, [der]
+      <lb facs="#facs_15_tr_3_tl_8" n="N008"/>ärztlichen und [der] technischen [Berufe.]
+      <lb facs="#facs_15_tr_3_tl_9" n="N009"/>7. fünf Vertreter der öffentlichen und privaten Angestellten.
+      <lb facs="#facs_15_tr_3_tl_10" n="N010"/>Der Staatsrat legt[?] durch eine Kundmachung [?]fast
+      <lb facs="#facs_15_tr_3_tl_11" n="N011"/>in welcher Weise die Mitglieder gewählt, beziehungs¬
+      <lb facs="#facs_15_tr_3_tl_12" n="N012"/>weise vorgeschlagen und berufen werden.
       <lb facs="#facs_15_tr_3_tl_13" n="N013"/>p 27</ab><ab facs="#facs_15_tr_2" type="">
       <lb facs="#facs_15_tr_2_tl_1" n="N001"/>Ausserdem werden vom Staatsrat ausgezeichnete
       <lb facs="#facs_15_tr_2_tl_2" n="N002"/>Märmen, welche sich um den Staat oder die Nation
