@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__24">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">UA 26. August 1920 Textvariante</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529223</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="goobi">14550</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E1717 (Nachlass Fink) Karton 3, Mappe 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                        <title>UA 26. August 1920 Textvariante</title>
+                        <note type="editor">UA-Entwurf 26. August Textvariante (Titel des Dokuments: "Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit "Seipel II", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift, 157 Artikel</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Druck">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-08-26" to="1920-08-26">26. August 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">
+                26. August 1920
+            </date>
+         </creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3101" lry="4439" xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0001/full/full/0/default.jpg" width="3101px" height="4439px"/></surface><surface ulx="0" uly="0" lrx="3125" lry="4405" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0002/full/full/0/default.jpg" width="3125px" height="4405px"/></surface><surface ulx="0" uly="0" lrx="3052" lry="4375" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0003/full/full/0/default.jpg" width="3052px" height="4375px"/></surface><surface ulx="0" uly="0" lrx="3119" lry="4430" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0004/full/full/0/default.jpg" width="3119px" height="4430px"/></surface><surface ulx="0" uly="0" lrx="3046" lry="4441" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0005/full/full/0/default.jpg" width="3046px" height="4441px"/></surface><surface ulx="0" uly="0" lrx="3040" lry="4382" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0006/full/full/0/default.jpg" width="3040px" height="4382px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4438" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0007/full/full/0/default.jpg" width="3018px" height="4438px"/></surface><surface ulx="0" uly="0" lrx="3050" lry="4377" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0008/full/full/0/default.jpg" width="3050px" height="4377px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4389" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0009/full/full/0/default.jpg" width="3018px" height="4389px"/></surface></facsimile>
+    <text type="Manuskript">
+        <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001"/><p/><p>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/></p><p>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/>
+      <lb/></p><pb facs="#facs_2" n="2" xml:id="img_0002"/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_3" n="3" xml:id="img_0003"/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_4" n="4" xml:id="img_0004"/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_5" n="5" xml:id="img_0005"/><p/><p>Durch Cö6sste</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p/><p/><p/><p/><pb facs="#facs_7" n="7" xml:id="img_0007"/><p/><p/><p/><p/><p/><pb facs="#facs_8" n="8" xml:id="img_0008"/><p/><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>Nationalrates, bezüglich des Vizepräsidenten und der körpern und über den Antrag eines dieser Ver¬
+      <lb/>(2) Er besteht aus einem Präsidenten, einem
+      <lb/>anderen Hälfte der Müglieder der Zustimmung des tretungskörper auf Erklärung des Mandatsverlustes
+      <lb/>Vizepräsidenten, vierzehn Mitgliedern und acht Ersatz
+      <lb/>Bundesrates.
+      <lb/>eines seiner Mitglieder.
+      <lb/>mitgliedern
+      </p><div type="article">
+<head>Artikel 146.
+      </head>
+<p>(3) Der Präsident, der Vizepräident, sieben Mit¬
+      </p></div>
+<div type="article">
+<head>Artikel 152.
+      </head>
+<p>slieder und vier Ersatzmitglieder werden vom National¬
+      <lb/>Die näheren Bestimmungen über die Verwaltungs
+      <lb/>rate, sieben Mitglieder und vier Ersatzmitgliedner vom
+      <lb/>(1) Der Verfassungsgerichtshof entscheidet über die
+      <lb/>gerichtsbarkeit erfolgen durch Bundesgesetz
+      <lb/>Bundesrat auf Lebensdauer gewählt.
+      <lb/>Verantwortlichkeit
+      <lb/>B. Der Verfassungsgerichtshof.
+      </p></div>
+<div type="article">
+<head>Artikel 156.
+      </head>
+<p>a. des Bundespräsidenten
+      <lb/>(1) Der Präsident des Verfassungsgerichtshofes steht
+      </p></div>
+<div type="article">
+<head>Artikel 147.
+      </head>
+<p>b. der Mitglieder der Bundesregierung und der
+      <lb/>im Lange des Bundeskanzlers, der Vizepräsident im
+      <lb/>Der Verfassungsgerichtshof entscheidet alle Rechts, ihnen hinsichtlich der Verantwortlichkeit gleichgestellten
+      <lb/>Range eines Bundesministers
+      <lb/>Organe ;
+      <lb/>streitigkeiten zwischen den Ländern sowie z wischen einem
+      <lb/>(2) Das Amt der Mitglieder des Verfassungsgerichts¬
+      <lb/>Lande und dem Bunde.
+      <lb/>c. der Mitglieder der Landesregierungen und der
+      <lb/>hofes ist, soweit nicht Mitglieder als ständige Referenten
+      <lb/>ihnen hinsichtlich der Verantwortlichkeit gleichgestellten
+      </p></div>
+<div type="article">
+<head>Artikel 148.
+      </head>
+<p>fungieren, ein Ehrenamt. Die ständigen Referenten
+      <lb/>Organe, und zwar:
+      <lb/>werden in einer Plenarversammlung des Gerichts¬
+      <lb/>Der Verfassungsgerichtshof entscheidet ferner
+      <lb/>1. wegen vorsätzlicher oder grobfahrlässiger Verletzung
+      <lb/>hofes aus der Mitte seiner Mitglieder gewählt.
+      <lb/>Kompetenzkonflikte
+      <lb/>der Bundesverfassung durch den Bundespräsidenten
+      <lb/>a. zwischen Gerichten und Verwaltungsbehörder
+      </p></div>
+<div type="article">
+<head>Artikel 157
+      </head>
+<p>auf einen Antrag der Bundesversammlung;
+      <lb/>des Bundes oder der Länder;
+      <lb/>Die nähere Organisation und das Verfahren des
+      <lb/>2. wegen vorsätzlicher oder grobfahrlässiger Gesetzes¬
+      <lb/>b. zwischen dem Verwaltungsgerichtshof und den
+      <lb/>Verfassungsgerichtshofes wird durch Bundesgesetz geregelt.
+      <lb/>verletzung der unter b) genannten Personen durch ihre
+      <lb/>ordentlichen Gerichten;
+      <lb/>Amtstätigkeit auf einen Antrag des Nationalrates und
+      <lb/>c. zwischen Landesregierungen untereinander sowie
+      <lb/>Aus den Übergangsbestimmungen.
+      <lb/>wegen vorsätzlicher oder grobsahrlässiger Gesetzesverletzung
+      <lb/>zwischen einer Landesregierung und der Bundes
+      <lb/>der unter c) genannten Personen durch ihre Amts¬
+      <lb/>regierung
+      </p></div>
+<div type="article">
+<head>Artikel x.
+      </head>
+<p>tätigkeit auf Antrag des zuständigen Landtages;
+      </p></div>
+<div type="article">
+<head>Artikel 149.
+      </head>
+<p>(1) Bis zur Errichtung der allgemeinen staatlichen
+      <lb/>3. über die Verantwortlichkeit des Landeshaupt¬ Verwaltung in den Ländern nach den Bestimmungen
+      <lb/>(1) Der Verfassungsgerichtshof entscheidet über Gesetz¬
+      <lb/>mannes wegen vorsätzlicher oder grobsahrlässiger Ge¬
+      <lb/>der Artikel 97a bis 97e bleibt die dermalige Bezirksver¬
+      <lb/>widrigkeit von Verordnungen einer Bundes= oder
+      <lb/>setzesverletzung sowie wegen Nichtbesolgung der Ver
+      <lb/>waltung mit der Maßgabe bestehen, daß im Bereiche
+      <lb/>Landesbehörde auf Antrag eines Gerichtes:
+      <lb/>ordungen oder sonstigen Anordnungen der Bundes¬
+      <lb/>jeder Bezirkshauptmannschaft für jene Verwaltungs¬
+      <lb/>über Gesetzwidrigkeit von Verordnungen einer Landes= | regierung in Angelegenheiten der mittelbaren Bundes
+      <lb/>zweige, für die nicht besondere Einrichtungen der
+      <lb/>behörde auch auf Antrag der Bundesregierung
+      <lb/>verwaltung durch seine Amtstätigkeit auf Antrag der
+      <lb/>Selbstverwaltung bestehen, eine Bezirksvertretung ge¬
+      <lb/>über Gesetzwidrigkeit von Verordnungen der Bundes¬
+      <lb/>Bundesregierung
+      <lb/>wählt wird.
+      <lb/>behörden auch auf Antrag einer Landesregierung
+      <lb/>(2) Das verurteilende Erkenntnis des Verfassungs
+      <lb/>(2) In den Städten mit eigenem Statut übernimmt
+      <lb/>(2) Das stattgebende Erkenntnis des Verfassungs
+      <lb/>gerichtshofes hat auf Verlust des Amtes, unter beson¬ die Gemeindevertretung zugleich die Aufgaben der Be¬
+      <lb/>gerichtshofes bewirkt die Aufhebung der gesetzwidrigen
+      <lb/>ders erschwerenden Umständen auch auf Verlust der
+      <lb/>zirksvertretung. Diese Aufgaben können einem beson¬
+      <lb/>Verordnung und verpflichtet die erlassende Behörde
+      <lb/>politischen Rechte auf bestimmte Zeit zu lauten; bei deren Ausschusse der Gemeindeverteiung übertragen
+      <lb/>zur unverzüglichen Kundmachung der erfolgten Auf¬
+      <lb/>geringfügigeren Rechtsverletzungen in den unter 3.) er¬
+      <lb/>werden.
+      <lb/>hebung.
+      <lb/>wähnten Fällen kann sich der Verfassungsgerichtsho
+      <lb/>(3) In den Bereichen der Bezirkshauptmannschaften
+      </p></div>
+<div type="article">
+<head>Artikel 150.
+      </head>
+<p>darauf beschränken, festzustellen, daß eine Rechts
+      <lb/>wird die Wahl auf Grund des gleichen, geheimen, per¬
+      <lb/>verletzung vorliegt.
+      <lb/>sönlichen und unmittelbaren Wahlrechtes aller Bundes¬
+      <lb/>(1) Der Verfassungsgerichtshof entscheidet über
+      <lb/>angehörigen durchgeführt, die im Bereiche der Bezirks¬
+      </p></div>
+<div type="article">
+<head>Artikel 153.
+      </head>
+<p>Verfassungswidrigkeit von Landesgesetzen auf Antrag
+      <lb/>hauptmannschaft ihren ordentlichen Wohnsitz haben.
+      <lb/>der Bundesregierung, über Verfassungswidrigkeit von
+      <lb/>(1) Der Verfassungsgerichtshof entscheidet über Die Wahl ist im Bereiche jeder Bezireshauptmannschaft
+      <lb/>Bundesgesetzen auf Antrag einer Landesregierung
+      <lb/>Beschwerden wegen Verletzung der verfassungsmäßig
+      <lb/>gerichtsbezirksweise vorzunehmen; die Anzahl der Man¬
+      <lb/>(2) Der Antrag kann jederzeit gestellt werden; er
+      <lb/>gewährleisteten subjektiven Rechte durch eine Behörde
+      <lb/>date der Bezirksvertretungen wird auf die Gerichtsbezirke
+      <lb/>ist sofort der zuständigen Landesregierung oder der
+      <lb/>nach Erschöpfung des administrativen Instanzenzuges. nach dem Verhältnis ihrer Einwohnerzahl aufgeteilt.
+      <lb/>Bundesregierung bekanntzugeben.
+      <lb/>(2) Das stattgebende Erkenntnis des Verfassungs
+      <lb/>Die Bestimmungen des Artikels 97 c, Äbsatz 2, finden
+      <lb/>(3) Das stattgebende Erkenntnis des Verfassungs¬
+      <lb/>gerichtshofes bewirkt die Aufhebung der verfassungs
+      <lb/>sinngemäße Anwendung
+      <lb/>gerichtshofes bewirkt die Aufhebung des Gesetzes und
+      <lb/>widrigen Entscheidung oder Verfügung. Die Behörden
+      <lb/>(4) In die Bezirksvertretung sind nur Personen
+      <lb/>verpflichtet die zuständige Landesregierung oder die
+      <lb/>sind bei der neu zu treffenden Entscheidung oder
+      <lb/>wählbar, die im Bereiche der Bezireshauptmannschaft
+      <lb/>Bundesregierung zur Verlautbarung der erfolgten
+      <lb/>Verfügung an die Rechtsanschauung des Verfassungs
+      <lb/>ihren ordentlichen Wohnsitz haben und zum Landtage
+      <lb/>Aufhebung im Landesgesetzblatte oder im Bundes
+      <lb/>gerichtshofes gebunden.
+      <lb/>wählbar sind.
+      <lb/>gesetzblatte.
+      <lb/>(5) Die näheren Bestimmungen der Durchführung
+      <lb/>(4) Der Verfassungsgerichtshof ist bei der Prüfung
+      </p></div>
+<div type="article">
+<head>Artikel 154.
+      </head>
+<p>dieser Wahlen werden von der Landesgesetzgebung ge¬
+      <lb/>der Verfassungsmäßigkeit von Gesetzen an keinerlei
+      <lb/>Die Exekution der Erkenntnisse des Verfassungs¬ troffen.
+      <lb/>Schranken gebunden.
+      <lb/>Artikel y.
+      <lb/>gerichtshofes liegt dem Bundespräsidenten ob.
+      </p></div>
+<div type="article">
+<head>Artikel 151.
+      </head>
+<p>Die Festsetzung der weiteren Grundsätze für die vor¬
+      </p></div>
+<div type="article">
+<head>Artikel 155.
+      </head>
+<p>läufige Ausgestaltung der dermaligen Bezirksverwal¬
+      <lb/>Der Verfassungsgerichtshof entscheidet über An¬
+      <lb/>(1) Der Verfassungsgerichtshof hat seinen Sitz in
+      <lb/>fechtungen von Wahlen zum Nationalrat, zu den
+      <lb/>tung nach Artikel x ist Sache der Bundesgesetzgebung;
+      <lb/>Landtagen und allen anderen allgemeinen Vertretungs= Wien.
+      <lb/>ihre Ausführung liegt den Landesgesetzen ob.
+      <lb/>Tilenr oder mich
+      <lb/>Hollfürst?</p></div>
+</div></body>
+    </text>
+</TEI>

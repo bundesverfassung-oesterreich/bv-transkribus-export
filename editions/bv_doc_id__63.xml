@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__63">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bericht VfA Sonderdruck</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                                    applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529235</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="goobi">14619</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                        <title>Bericht VfA Sonderdruck</title>
+                        <note type="editor">Bericht VfA ("Bericht des Verfassungsausschusses über den Entwurf eines Gesetzes, womit die Republik Österreich als Bundesstaat eingerichtet wird [Bundes-Verfassungsgesetz]"), 
+
+KNV Beilage 991
+
+Typ: Druck
+
+Zustand: gut, keine Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Druck">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-09-26" to="1920-09-26">26. September 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date notBefore-iso="1920-09-26" notAfter-iso="1920-09-26">
+                26. September 1920
+            </date>
+         </creation>
+      </profileDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2880" lry="4206" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0003/full/full/0/default.jpg" width="2880px" height="4206px"/></surface><surface ulx="0" uly="0" lrx="2888" lry="4236" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0004/full/full/0/default.jpg" width="2888px" height="4236px"/></surface><surface ulx="0" uly="0" lrx="2895" lry="4209" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0005/full/full/0/default.jpg" width="2895px" height="4209px"/></surface><surface ulx="0" uly="0" lrx="2929" lry="4275" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0006/full/full/0/default.jpg" width="2929px" height="4275px"/></surface><surface ulx="0" uly="0" lrx="2902" lry="4244" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0007/full/full/0/default.jpg" width="2902px" height="4244px"/></surface><surface ulx="0" uly="0" lrx="2894" lry="4275" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0008/full/full/0/default.jpg" width="2894px" height="4275px"/></surface><surface ulx="0" uly="0" lrx="2904" lry="4281" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0009/full/full/0/default.jpg" width="2904px" height="4281px"/></surface><surface ulx="0" uly="0" lrx="2827" lry="4244" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0010/full/full/0/default.jpg" width="2827px" height="4244px"/></surface><surface ulx="0" uly="0" lrx="2885" lry="4240" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__63/files/images/IMG_0011/full/full/0/default.jpg" width="2885px" height="4240px"/></surface></facsimile>
+    <text type="Lithographie">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>991 der Beilagen. — Konstituierende Nationalversammlung.1
+      <lb/>Bericht
+      <lb/>des
+      <lb/>Verfassungsausschusses
+      <lb/>über
+      <lb/>den Entwurf eines Gesetzes, womit die Republik Österreich als Bundes¬
+      <lb/>staat eingerichtet wird (Bundes=Verfassungsgesetz).
+      <lb/>Sozusagen in letzter Stunde unternimmt es die Nationalversammlung, die als „Konstituierende
+      <lb/>gewählt wurde, ihrer größten Aufgabe gerecht zu werden. Schier unüberwindliche Schwierigkeiten haben
+      <lb/>sie gehindert, früher in die Beratung der Verfassung, die sie unserem Staate geben soll, einzu¬
+      <lb/>treten. Zuerst ließen uns die unerwartet lange sich hinziehenden Friedensverhandlungen über die Grenzen
+      <lb/>des neuen österreichischen Staates im Ungewissen. Dann nahmen der Versuch, die finanziellen Verhält¬
+      <lb/>nisse des Staates wenn auch vorläufig nur aufs notdürftigste zu regeln, sowie die Notwendigkeit
+      <lb/>täglich neu auf die Versorgung der Bevölkerung mit Nahrungsmitteln, der Volkswirtschaft mit Kohle
+      <lb/>und Rohstoffen bedacht zu sein, und die infolge der wirtschaftlichen Not sich steigernden sozialen
+      <lb/>Schwierigkeiten fast die ganze Arbeitszeit der Regierung und der Nationalversammlung in Anspruch
+      <lb/>Hemmender jedoch als die genannten äußeren Schwierigkeiten wirkten die tiefgehenden Meinungsver¬
+      <lb/>schiedenheiten über den Grundcharakter und die Einzelheiten der Verfassung, die zwischen den Parteien
+      <lb/>der Nationalversammlung zutage traten, noch mehr aber die Interessengegensätze zwischen dem Ge¬
+      <lb/>samtstaate und seinen sich immer mehr als selbständige Staaten fühlenden Gliedern, den Ländern.
+      <lb/>Diese Gegensätze zeigten sich übrigens schon vom Zeitpunkt des Entstehens unseres Staats¬
+      <lb/>wesens an. Das erste Verfassungsgesetz, das die deutschen Abgeordneten des ehemaligen österreichischen
+      <lb/>Abgeordnetenhauses in den Tagen des Umsturzes beschlossen haben, nämlich der Beschluß über die
+      <lb/>grundlegenden Einrichtungen der Staatsgewalt vom 30. Oktober 1918, St. G. Bl. Nr. 1, stellt den
+      <lb/>Versuch dar, die von Deutschen bewohnten Gebiete des ehemaligen österreichischen Kaiserstaates als
+      <lb/>strengen nationalen Einheitsstaat zu begründen. Aber gleichzeitig mit diesem Gesetzgebungsakte hat sich
+      <lb/>ein paralleler Vorgang vollzogen, der der österreichischen Republik schon von ihrer Entstehung an einen
+      <lb/>föderativen Wesenszug anheftete. Im Einverständnis mit der maßgebenden Zentralstelle in Wien hatten
+      <lb/>sich die ehemaligen „Kronländer“ auf dem gleichen Wege wie der Gesamtstaat, nämlich revolutionär, zu
+      <lb/>staatsartigen Gebilden konstituiert. Und mit dem Beschluß vom 12. November 1918, St. G. Bl.
+      <lb/>Nr. 23, hat die „Provisorische Nationalversammlung für Deutschösterreich“ „die feierlichen Erklärungen
+      <lb/>der Länder, Kreise und Gaue des Staatsgebietes" zur Kenntnis genommen und diese Gebiete unter den
+      <lb/>Schutz der ganzen Nation gestellt.
+      <lb/>Einem solchen Beschluß liegt, wenn er sinnvoll gedeutet werden soll, die Vorstellung einer vertrags¬
+      <lb/>mäßigen Begründung des Staates durch den Zusammenschluß bis dahin unabhängiger Staatsteile
+      <lb/>zugrunde. Der tatsächlichen von Anbeginn staatsähnlichen Stellung der österreichischen Länder im Rahmen
+      <lb/>1
+      <lb/>(Seiten fehlt) 250-260</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 2
+      <lb/>des neugegründeten Gesamtstaates hat auch alsbald das Gesetz vom 14. November 1918, St. G. Bl.
+      <lb/>Nr. 24, betreffend die Übernahme der Staatsgewalt in den Ländern, durch seine bekannten organisations¬
+      <lb/>technischen Maßnahmen Rechnung getragen. Zunächst erfolgte die Anerkennung des legislativen Wirkungs¬
+      <lb/>kreises der Landtage, für die infolge des Wechsels der Staatsform selbstverständlich das Erfordernis der
+      <lb/>Gesetzessanktion hinweggefallen war. Dann hat dieses Gesetz die durch die eigenen politischen Kräfte der
+      <lb/>Länder erfolgte Beseitigung der Statthaltereien und die Übertragung der allgemeinen politischen Ver¬
+      <lb/>waltung auf die gewählten Landesregierungen vom Standpunkt der zentralen Staatsgesetzgebung aus
+      <lb/>legalisiert. Schon die angedeutete zwiespältige Entstehung des neuen Staates hat seinem Wesen bundes¬
+      <lb/>staatliche Elemente aufgeprägt. Die weitere Verfassungsentwicklung in Österreich, die sich in einer Reihe
+      <lb/>mehr oder minder provisorisch gedachter Spezialgesetze und Novellen — es sei insbesondere der
+      <lb/>sogenannten Verfassungsnovelle vom 19. Dezember 1918, St. G. Bl. Nr. 139, und der ungleich ein¬
+      <lb/>schneidenderen Gesetze vom 14. März 1919 über die Volksvertretung und übei die Staatsregierung,
+      <lb/>St. G. Bl. Nr. 179 und 180, gedacht — vollzog, hat bei den beschränkten Aufgaben, die sich diese
+      <lb/>Gesetze gestellt haben, nicht dahin geführt, den angedeuteten Zwiespalt in der Struktur unseres Staates
+      <lb/>zu überwinden. Es konnte sich, was das Verhältnis zwischen dem Gesamtstaat und den Ländern betraf,
+      <lb/>nur darum handeln, gewisse Vorsorgen zu treffen, um die bei der Ungeklärtheit dieses Verhältnisses
+      <lb/>unvermeidlichen Reibungen zwischen den beiden Faktoren zu bereinigen.
+      <lb/>Diese provisorische Verfassungsgesetzgebung mußte sich insbesondere damit begnügen, die wider¬
+      <lb/>spruchsvolle Zuständigkeitsabgrenzung zwischen Staat und Ländern, die nach der altösterreichischen Ver¬
+      <lb/>fassung bestanden hatte, unverändert zu übernehmen. Diese Rezeption des alten Rechtszustandes mußte
+      <lb/>aber dadurch ungeahnte Schwierigkeiten zeitigen, daß es mit dem Wechsel der Staatsform nunmehr an
+      <lb/>dem Faktor fehlte, der durch sein unbeschränktes Sanktionsrecht in der Lage gewesen wäre, die bei solch
+      <lb/>widerspruchsvoller Kompetenzverteilung unvermeidlichen Kompetenzkonflikte zu beseitigen. Die Art der
+      <lb/>Stellungnahme der Staatsregierung zu den Landesgesetzen, die in dem vorzitierten Gesetze über die
+      <lb/>Volksvertretung vorgesehen wurde, konnte sich im Zeitpunkte der Regelung auf keine genügenden
+      <lb/>Erfahrungen stützen und hat sich mittlerweile als wenig glücklich herausgestellt. Die Art und Weise, wie
+      <lb/>die Rechtsmittel der Staatsregierung gegen Gesetzesbeschlüsse der Landtage eingerichtet waren, hat sich
+      <lb/>einerseits für die Staatsregierung als nicht brauchbar erwiesen und andrerseits doch in den Ländern
+      <lb/>den Eindruck unliebsamer Schranken der Landesgesetzgebung hervorgerufen. Auch auf dem Gebiete der
+      <lb/>Verwaltung hat sich auf Grund der provisorischen Verfassung ein unerfreulicher Zustand im Verhältnis
+      <lb/>zwischen dem Staate und den Ländern ergeben, der dadurch charakterisiert ist, daß sich die Länder trotz
+      <lb/>ihrer im Vergleiche zu dem früheren Zustand auch auf dem Gebiete der Verwaltung ungleich erweiterten
+      <lb/>Selbständigkeit durch die Staatsregierung beengt fühlen. Es soll nicht verkannt werden, daß dieser
+      <lb/>Zustand vom Standpunkte des gesamtstaatlichen Interesses aus dem Grunde mangelhaft erscheint, weil
+      <lb/>das Recht der Staatsregierung zur Erteilung von Dienstesanweisungen an die Landesregierungen sanktions-
+      <lb/>los geblieben ist. Soll die oft beklagte Verwaltungsanarchie, die auch auf dem zuletzt bezeichneten
+      <lb/>Gebiete eingetreten ist, beseitigt werden, so ist eine Reform in der Richtung geboten, daß einerseits ein
+      <lb/>bestimmtes Gebiet voller Selbständigkeit der Verwaltung der Länder sichergestellt, anderseits aber, soweit
+      <lb/>die Landesverwaltung Zwecken des Oberstaates dient, eine wirkliche Verantwortlichkeit der Landesorgane
+      <lb/>gegenüber dem vorgesetzten Organe des Bundesstaates begründet werde.
+      <lb/>Der Ausgleich zwischen den der provisorischen Verfassung zugrundeliegenden Elementen eines
+      <lb/>zentralistischen Einheitsstaates und einer föderativen Staatenverbindung liegt in dem Gedanken des
+      <lb/>Bundesstaates. So erklärt es sich, daß diese Staatsform schon vor mehr als Jahresfrist als die geeignetste
+      <lb/>für jene Ländergemeinschaft erkannt wurde, welche im Zeitpunkte des Zusammenbruches die Deutschen
+      <lb/>des alten Österreich zusammengeschlossen und fast ein Jahr später, freilich um große und wertvolle Volks
+      <lb/>teile vermindert, der Friede von St. Germain zu einer Schicksalsgemeinschaft zusammengeschmiedet hat;
+      <lb/>so erklärt es sich ferner auch, daß sich auf der Plattform der bundesstaatlichen Idee diametral entgegen¬
+      <lb/>gesetzte politische Richtungen im gemeinsamen Willen, dieses Staatswesen vor dem politischen Zerfall und
+      <lb/>materiellen Untergang zu bewahren, begegnet und auf das vorliegende Kompromiß einer bundesstaatlichen
+      <lb/>Verfassung geeinigt haben.
+      <lb/>Die eben geschilderten Gegensätze, die sich natürlich auch innerhalb der drei Regierungen, die seit der
+      <lb/>Wahl der konstituierenden Nationalversammlung aufeinanderfolgten, geltend machten, sind schuld daran,
+      <lb/>daß dem hohen Hause auch heute noch kein Regierungsentwurf für das Verfassungsgesetz vorliegt
+      <lb/>Freilich, das Interesse der Parteien an der Verfassung hat sich immer wieder gezeigt. Am 14. Mai 1919
+      <lb/>legte als erste die christlichsoziale Vereinigung einen fertig ausgearbeiteten Verfassungsentwurf vor
+      <lb/>(Antrag der Abgeordneten Dr. Michael Mayr und Genossen, Nr. 231 der Beilagen). Am 18. Mai 1920
+      <lb/>folgte die großdeutsche Vereinigung (Antrag der Abgeordneten Dr. Dinghofer und Genossen, Nr. 842</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 3
+      <lb/>der Beilagen). Der 25. Juni 1920 brachte einen zweiten christlichsozialen Entwurf (Antrag der Abge¬
+      <lb/>ordneten Dr. Michael Mayr und Genossen, Nr. 888 der Beilagen). Am 7. Juli 1920 endlich schloß
+      <lb/>die sozialdemokratische Vereinigung mit dem Antrag der Abgeordneten Abraham und Genossen (Nr. 904
+      <lb/>der Beilagen) den Reigen. Alle diese Verfassungsentwürfe vertreten mehr oder weniger den bundes¬
+      <lb/>staatlichen Gedanken.
+      <lb/>Die Regierung der Republik hat sich diesen ebenfalls, und zwar bereits im Frühjahr 1919 zu
+      <lb/>eigen gemacht und seit dieser Zeit datieren die umfangreichen und intensiven Vorarbeiten der berufenen
+      <lb/>Stellen am Verfassungswerk. Der damalige Staatskanzler Dr. Karl Renner leitete vor seiner Abreise
+      <lb/>zu den Verhandlungen in St. Germain im Schoße der Staatskanzlei die Reformarbeiten ein und
+      <lb/>betraute insbesondere den wissentschaftlichen Mitarbeiter des Gesetzgebungsdienstes der Staatskanzlei
+      <lb/>Universitätsprofessor Dr. Hans Kelsen mit der Ausarbeitung des Entwurfes einer Bundesverfassung,
+      <lb/>Später hat die Nationalversammlung ihre Absicht, das Verfassungswerk mit aller Entschiedenheit
+      <lb/>zu fördern und baldmöglichst zu vollenden, dadurch kundgegeben, daß sie in der Person des gegen¬
+      <lb/>wärtigen Vorsitzenden des Kabinetts, Staatssekretärs Professor Dr. Michael Mayr, ein Regierungs¬
+      <lb/>mitglied eigens zur Mitwirkung an der Vorbereitung der Verfassungs= und Verwaltungsreform berief.
+      <lb/>Staatssekretär Dr. Mayr hat dieser Aufgabe vom Augenblicke seiner Bestellung an mit aller Intensität
+      <lb/>und Hingebung obgelegen. Zugleich hat Professor Dr. Hans Kelsen im ständigen Einvernehmen und
+      <lb/>unter unermüdlicher Mitwirkung der Leiter der legislativen Abteilungen der Staatskanzlei, Ministerial
+      <lb/>rates Dr. Georg Fröhlich und Sektionsrates Dr. Egbert Mannlicher, eine ganze Reihe von
+      <lb/>Bundesverfassungsentwürfen hergestellt, die den verschiedensten politischen Eventualitäten Rechnung tragen.
+      <lb/>Gleichzeitig drängte das Verfassungsproblem in den Ländern immer entschiedener zu einer Lösung. Die
+      <lb/>Länder veranstalteten aus eigener Initiative die Verfassungskonferenzen in Salzburg und später in
+      <lb/>Linz, auf denen die damalige Regierung durch den gegenwärtigen Vorsitzenden des Kabinetts vertreten
+      <lb/>war. Da aus den angedeuteten Gründen kein eigentlicher Regierungsentwurf vorlag, hat sich Staats¬
+      <lb/>sekretär Dr. Mayr damals entschlossen, einen privaten Borentwurf der Konferenz in Salzburg und
+      <lb/>nachmals wieder einen jener in Linz im eigenen Namen zu unterbreiten.
+      <lb/>Durch die beiden Konferenzen wurde der Gedanke der Verfassungsreform stark gefördert und reich¬
+      <lb/>liches Material für die Reformarbeit bereitgestellt, das um so wertvoller war, als die maßgebender
+      <lb/>Stimmen der Politiker der drei großen Parteien aus sämtlichen Ländern zu Worte gekommen waren
+      <lb/>und ihre Wünsche zum Ausdruck gebracht hatten. Die Staatsregierung setzte ihrerseits eine Kabinetts¬
+      <lb/>konferenz zur Anbahnung eines Übereinkommens zwischen den im Kabinett vertretenen Parteien ein. Das
+      <lb/>Ergebnis war eine Gegenüberstellung der von den beiden Koalitionsparteien vertretenen Anschauungen,
+      <lb/>die unter dem Titel: „Das Ergebnis der Vereinbarungen über die österreichische Bundesverfassung" in
+      <lb/>Druck gelegt wurde. Eine Regierungsvorlage kam auch jetzt noch nicht zustande.
+      <lb/>Das Verfassungswerk war aber doch mittlerweile soweit gereift und die Ansicht von der Not¬
+      <lb/>wendigkeit der Verfassungsreform hatte sich im politischen Denken derart festgewurzelt, daß es trotz des
+      <lb/>Hinwegfallens des Koalitionspaktes von den politischen Parteien der Nationalversammlung mit Erfolg
+      <lb/>aufgegriffen und zu Ende geführt werden konnte. Während der Verhandlungen über die große Vermögens¬
+      <lb/>abgabe, die im Frühsommer dieses Jahres die Nationalversammlung beschäftigten, war der Gedanke
+      <lb/>aufgetaucht, zwischen diesem Gesetze und der Verfassung ein Junktim herzustellen. Die Parteien verzichteten
+      <lb/>dann zwar darauf, ein solches Junktim formal anzuerkennen, aber sie verpflichteten sich anläßlich der
+      <lb/>Bildung der neuen Regierung, die nach dem Sturze der zweiten Koalitionsregierung die Geschäfte zu
+      <lb/>übernehmen hatte, alles zu tun, um auch nach Erledigung der Vermögensabgabe noch vor der Wahl
+      <lb/>der neuen Nationalversammlung, die schon damals für den Herbst dieses Jahres in Aussicht genommen
+      <lb/>war, die Verfassung fertigzustellen und dem hohen Hause zur Beschlußfasung vorzulegen. Am 15. Juli
+      <lb/>setzte der Verfassungsausschuß einen siebengliedrigen Unterausschnuß ein, der auf Grund aller
+      <lb/>vorgenannten Anträge zur Verfassungsreform in vielen Beratungen, die mehrfach durch Verhandlungen
+      <lb/>zwischen den Parteien unterbrochen wurden, unterstützt von den Vertretern der Regierung und namentlich
+      <lb/>den vorerwähnten Funktionären der Staatskanzlei sowie vom wissenschaftlichen Experten Professor Kelsen,
+      <lb/>einen Verfaffungsentwurf ausarbeitete, den er am 24. September dem Verfassungsausschusse vorlegen
+      <lb/>konnte. Dieser beauftragte den unterzeichneten Berichterstatter, den in verschiedenen Belangen abgeänderten
+      <lb/>Entwurf, der diesem Berichte beigegeben ist, dem hohen Hause zur Beschlußfassung zu unterbreiten. Es
+      <lb/>geschieht dies nicht, ohne daß vorher mehrere hervorragende Kenner des Verfassungs= und Verwaltungs¬
+      <lb/>rechtes um ihr Gutachten gebeten worden wären. Den Staatsrechtslehrern Professor Dr. Adolf Menzel
+      <lb/>(Wien), Dr. Max Layer (Graz), De. Max Kulisch und Dr. Karl Lamp (Innsbruck), dem Senats¬
+      <lb/>präsidenten Dr. Schuster, den Hofräten Dr. Tezner, Dr. Herrnritt und Dr. Hock sei hiemit für
+      <lb/>ihre Mühewaltung der geziemende Dank gesagt.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 4
+      <lb/>Das Bundes=Verfassungsgesetz, dessen einschränkender Titel sich einerseits durch die Bedachtnahme
+      <lb/>auf die Landesverfassungen, anderseits durch den Umstand erklärt, daß es selbst nur eines, wenn auch
+      <lb/>das wichtigste jener Gesetze ist, die in ihrer Gesamtheit die Bundesverfassung ausmachen, gliedert sich in
+      <lb/>sieben Hauptstücke: Allgemeine Bestimmungen, Gesetzgebung des Bundes, Vollziehung des Bundes, Gesetz
+      <lb/>gebung und Vollziehung der Länder, Rechnungskontrolle des Bundes, Garantien der Verfassung und
+      <lb/>Verwaltung, Schlußbestimmungen.
+      <lb/>Schon diese Aufzählung läßt erkennen, daß das vorliegende Bundes=Verfassungsgesetz nicht alle
+      <lb/>Bestandteile einer erschöpfenden Verfassungsurkunde enthält. Vor allem fehlt ihm ein Abschnitt über die
+      <lb/>Grund= und Freiheitsrechte, der zum typischen Requisit moderner Staatsverfassungen gehört. Über diesen
+      <lb/>Punkt, in dem mehr als in allen anderen nicht nur die verschiedenen Parteiprogramme, sondern die
+      <lb/>Weltanschauungen miteinander in Widerstreit stehen, konnte bei der gedrängten Zeit ein Übereinkommen
+      <lb/>der Parteien nicht zustande kommen, weshalb das geltende Staatsgrundgesetz über die allgemeinen Rechte
+      <lb/>der Staatsbürger vom 21. Dezember 1867, R. G. Bl. Nr. 142, mit der einen Einschränkung des den
+      <lb/>Ausnahmszustand vorsehenden Artikels 20 vorläufig übernommen wurde. Auch die finanzielle Auseinander
+      <lb/>setzung zwischen Bund und Ländern mußte einem späteren besonderen Bundes=Verfassungsgesetz vorbehalten
+      <lb/>werden. Desgleichen mußte bei der Regelung der Zuständigkeit auf dem Gebiete des Schul-, Erziehungs¬
+      <lb/>und Volksbildungswesens, worüber trotz langwieriger Bemühungen eine Einigung zwischen den Parteien
+      <lb/>nicht zu erzielen war, zu dem Auskunftsmittel gegriffen werden, den gegenwärtigen Rechtszustand in
+      <lb/>Geltung zu belassen und eine materielle Neuregelung einem besonderen Bundes=Verfassungsgesetze vor¬
+      <lb/>zubehalten (Artikel 14).
+      <lb/>Die einleitenden Bestimmungen der Verfassung enthalten zugleich ein entschiedenes Bekenntnis zur
+      <lb/>demokratischen Republik (artikel 1) und zum bundesstaatlichen Prinzip (Artikel 2). In jener
+      <lb/>Hinsicht bot die geltende provisorische Verfassung keinen Anlaß zu wesentlichen Veränderungen; einschneidende
+      <lb/>Reformen führt die neue Verfassung jedoch in der Richtung einer erschöpfenden Ausgestaltung der bundes¬
+      <lb/>staatlichen Organisation durch. Mit Entschiedenheit proklamiert sie die Selbständigkeit der die Republik
+      <lb/>konstituierenden Länder, denen bisher staatsrechtlich noch immer der Rest eines provinziellen Charakters an
+      <lb/>gehaftet hatte, während sie jetzt in jeder Hinsicht eine Rechtsstellung erhalten, wie sie nach der üblichen
+      <lb/>staatsrechtlichen Terminologie den Gliedstaaten eines Bundesstaates eigentümlich ist. Die für den Gesamt
+      <lb/>staat grundlegende Bedeutung der Länder kommt darin zum Ausdruck, daß über ihr Gebiet nur mit
+      <lb/>ihrer Einwilligung verfügt werden kann (Artikel 3) und daß die Zugehörigkeit zu ihnen, die Landesbürger¬
+      <lb/>schaft, die Vorbedingung für die grundsätzlich nur mittelbar aus ihr sich ergebende Bundesbürgerschaft ist
+      <lb/>(Artikel 4). Indirekt äußert sich diese grundlegende Bedeutung der Länder auch darin, daß die als „Bund"
+      <lb/>bezeichnete Gesamtheit der Länder terminologisch als eine Verbindung der Lünder erscheint; konsequenter
+      <lb/>weise sind auch alle verfassungsmäßigen Organe des Gesamtstaates als Bundesorgane bezeichnet. In
+      <lb/>diesem Zusammenhange sei allgemein festgestellt, daß der Entwurf den Ausdruck „Staat“ und „staatlich"
+      <lb/>in einem sowohl den Bund als auch die Länder umfassenden Sinne gebraucht. Über das gegenseitige
+      <lb/>Verhältnis zwischen Bundesrecht und Landesrecht enthält der Verfassungsentwurf keine grundsätzliche
+      <lb/>Erklärung; es müssen in dieser Hinsicht die allgemeinen Auslegungsgrundsätze gelten.
+      <lb/>Eine grundlegende Aufgabe einer Bundesstaatsverfassung ist die Verteilung der Staats¬
+      <lb/>funktionen auf Oberstaat und Gliedstaaten. Diese besonders schwierige Kompetenzabgrenzung zwischen
+      <lb/>Bund und Ländern ist im vorliegenden Entwurf, sorgfältig und unter Berücksichtigung des Urteils von
+      <lb/>Fachleuten abgesteckt, in den Artikeln 10 bis 13 und 15 niedergelegt. Um Irrtümern vorzubeugen, sei
+      <lb/>festgestellt, daß diese Kompetenzabgrenzung der durch Bundesgesetz zu vollziehenden Verteilung der Bundes¬
+      <lb/>kompetenzen zwischen den Bundesministerien nicht präjudiziert. Der Verfassungsentwurf unterscheidet vier
+      <lb/>verschiedene Zuständigkeitstypen: ausschließliche Bundeskompetenz in Gesetzgebung und Vollziehung
+      <lb/>Gesetzgebung des Bundes und Vollziehung der Länder; Gesetzgehung des Bundes über die Grundsähe
+      <lb/>neben Ausführungsgesetzgebung und Vollziehung der Länder; endlich ausschließliche Kompetenz der
+      <lb/>Länder in Gesetzgebung und Vollziehung. Zugunsten des letztgenannten Kompetenzfalles ist eine General
+      <lb/>klausel ausgesprochen, wodurch der Entwurf abermals einem föderativen Prinzip gerecht wird.
+      <lb/>Zu den einzelnen Kompetenzfällen, deren Aufzählung hier erübrigt, sei einiges besonders fest¬
+      <lb/>gestellt.
+      <lb/>In der lange strittigen Frage der Kompetenz in Sachen des Elektrizitätswesens und Wasserrechtes
+      <lb/>wurde der Ausweg gewählt, daß die Regelung der rein technischen Fragen der Gesetzgebung und Voll¬
+      <lb/>ziehung des Bundes überwiesen, die wirtschaftliche Seite aber innerhalb einer Rahmengesetzgebung des
+      <lb/>Bundes den Ländern überlassen wurde (Artikel 10, z. 10, und Artikel 12, Absatz 1, Z. 7). Ähnlich überträgt
+      <lb/>Artikel 10, Z. 12, die sanitäre Aufsicht über die Heil= und Pflegeanstalten, das Kurortewesen und die</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 5
+      <lb/>Heilquellen nach Gesetzgebung und Vollziehung dem Bunde, während alles übrige teils im Artikel 12,
+      <lb/>Z. 2, erwähnt, also der grundsätzlichen Regelung durch die Bundesgesetzgebung vorbehalten, teils ganz
+      <lb/>der Kompetenz der Länder überlassen wurde.
+      <lb/>Zu Artikel 14 sei bemerkt, daß das Recht des Bundes (wie übrigens auch der Länder) gleich
+      <lb/>jeder Privatperson zur Förderung des wirtschaftlichen und kulturellen Lebens innerhalb des gesamten
+      <lb/>Bundesgebietes, unbeschadet der vorerwähnten Kompetenzverteilung, Unternehmungen zu schaffen und zu
+      <lb/>erhalten, sowie Veranstaltungen zu treffen, als unbestritten gilt.
+      <lb/>Die Gesetzgebung des Bundes soll nunmehr von einem vom ganzen Bundesvolk gewählten
+      <lb/>Nationalrat gemeinsam mit dem von den Landtagen gewählten Bundesrate ausgeübt werden,
+      <lb/>wobei die Verfassung eine möglichst demokratische Bestellung dieser wie überhaupt aller politischen
+      <lb/>Vertretungskörper vorsieht (Artikel 27, 36, 96 und 120). Der Nationalrat hat in der National¬
+      <lb/>versammlung sein stark ähnelndes Vorbild. Der Bundesrat stellt sich als Delegation der Landtage dar
+      <lb/>wobei sich die im Entwurfe festgelegte Zusammensetzung als billiges Kompromiß zwischen der
+      <lb/>föderalistischen Forderung einer gleich großen Vertretungsziffer sämtlicher Länder und der zentralistischen
+      <lb/>Forderung einer dem Bevölkerungsschlüssel entsprechenden Vertreterzahl ergeben hat. Das bundes
+      <lb/>staatliche Prinzip der Parität der Gliedstaaten erscheint in diesem spezifisch bundesstaatlichen Organe,
+      <lb/>das den jedem Bundesstaat eigentümlichen Anteil der Länder an der Bundesgesetzgebung darstellt, auch
+      <lb/>im vorliegenden Verfassungsentwurf gewahrt und namentlich durch den Wechsel im Vorsitze zwischen den
+      <lb/>Ländern betont (Artikel 37). Da der Bundesrat von den Landtagen nach dem Grundsatz der Verhältnis¬
+      <lb/>wahl entsendet wird und daher deren parteimäßige Zusammensetzung wiederspiegelt, kann die Abstimmung
+      <lb/>im Bundesrate nicht nach Ländern, sondern muß sie nach Stimmen erfolgen (Artikel 38). Für gewisse
+      <lb/>solenne Akte treten Nationalrat und Bundesrat als Bundesversammlung zu gemeinsamen Sitzungen
+      <lb/>zusammen (Artikel 39 und 41).
+      <lb/>Der im Verfassungsentwurf vorgesehene Weg der Bundesgesetzgebung ist im Einklang mit dem
+      <lb/>bundesstaatlichen Prinzip dadurch gekennzeichnet, daß dem Bundesrate das Rechtsmittel des Einspruches
+      <lb/>gegen die Beschlüsse des Nationalrates — abgesehen von einzelnen den Bund allein berührenden
+      <lb/>parlamentarischen Verwaltungsakten - eingeräumt ist (Artikel 43).
+      <lb/>Gemäß einer schon im Gesetze vom 14. März 1919, St. G. Bl. Nr. 179, gegebenen Verheißung
+      <lb/>ist im Entwurfe neben dem normalen Weg der repräsentativen Gesetzgebung nunmehr auch der Weg
+      <lb/>unmittelbarer Gesetzgebung durch das Bundesvolk eröffnet. Die Verfassung läßt drei Varianten der Volks¬
+      <lb/>abstimmung zu: Das Volksbegehren, worin die Gesetzgebungsinitiative des Bundesvolkes zum Ausdruck
+      <lb/>kommt, die Volksabstimmung über Gesetzesbeschlüsse des Nationalrates, die zur Voraussetzung hat, daß
+      <lb/>der Nationalrat die Volksabstimmung beschließt oder die Mehrheit der Mitglieder des Nationalrates sie
+      <lb/>verlangt; endlich die obligatorische Mitwirkung des Bundesvolkes bei einer Gesamtänderung der Bundes¬
+      <lb/>verfassung und die fakultative Mitwirkung bei einer bloßen Teiländerung (Artikel 43, 44 und 45).
+      <lb/>Das Hauptstück über die Vollziehung des Bundes schafft in der Person des Bundes¬
+      <lb/>präsidenten ein neues, der bisherigen Verfassung fremdes Organ. Die gegenwärtige Personalunion
+      <lb/>zwischen den Funktionen eines Parlamentsvorsitzenden und obersten Regierungsorganes wird fallen ge¬
+      <lb/>lassen, die bisher dem Präsidenten der Nationalversammlung vorbehaltenen Regierungsgeschäfte werden
+      <lb/>nummehr, um einige Zuständigkeitsfälle erweitert, einem echten Staatspräsidenten übertragen. Erwähnter
+      <lb/>sei, daß der Entwurf, um einem praktischen Bedürfnisse zu entsprechen, die Delegation gewisser Regierungs-
+      <lb/>geschäfte des Bundespräsidenten, namentlich das Recht zum Abschluß bestimmter minder bedeutsamer
+      <lb/>Kategorien von Staatsverträgen, an die Bundesregierung oder an deren einzelne Mitglieder vorsieht. Es
+      <lb/>soll auf diesem Wege insbesondere die bisherige durch völkerrechtliche Gepflogenheiten bedingte verein¬
+      <lb/>fachte Form des Abschlusses von Ressorts übereinkommen oder Regierungsübereintommen durch die zu¬
+      <lb/>ständigen Zentralstellen legitimiert werden. Was die anfänglich bestrittene Form der Bestellung des
+      <lb/>Bundespräsidenten betrifft, hat sich der Ausschuß für die Wahl durch die Bundesversammlung, - die aber
+      <lb/>nicht aus deren Mitte erfolgen muß, entschieden (artikel (Artikel 61 bis 69).
+      <lb/>Die Abschnitte über Bundesregierung, Bundesheer und Gerichtsbarkeit übernehmen im
+      <lb/>wesentlichen den gegenwärtigen Rechtszustand. Aus dem zuletzt erwähnten Abschnitt wäre hervorzuheben,
+      <lb/>daß, da künftig der Verfassungsgerichtshof auch als sogenannter Verordnungsgeschichshof fungieren soll,
+      <lb/>die Gerichte bei Bedenken über die Gesetzmäßigkeit von Verordnungen das Verfahren zu unterbrechen
+      <lb/>und beim Verfassungsgerichtshof den Antrag auf Aufhebung der betreffenden Verordnung zu stellen
+      <lb/>haben werden (Artikel 90).
+      <lb/>Das Hauptstück über Gesetzgebung und Vollziehung der Länder beschränkt sich auf die
+      <lb/>weiteste Absteckung des Rahmens, innerhalb dessen sich die Landesgesetzgebung und namentlich die Landts¬
+      <lb/>verfassungen zu halten haben werden.</p><p>2</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 6
+      <lb/>Das Verfahren der Landesgesetzgebung wird auf Grund der auf diesem Gebiete reichlich gewonnenen
+      <lb/>Erfahrungen in einer Weise reformiert, daß die Mitwirkung des Bundes, die übrigens prinzipiell über
+      <lb/>die Art und das Maß der Mitwirkung der Länder an der Bundesgesetzgebung nicht hinausgeht, ent¬
+      <lb/>sprechend zur Geltung kommt.
+      <lb/>Auch die Vollziehung der Länder muß das Bundes=Verfassungsgesetz in ihrem Grundrisse
+      <lb/>vorzeichnen, da die Landesorgane im übertragenen Wirkungsbereiche die allgemeine Bundesverwaltung in
+      <lb/>den Ländern besorgen werden. Diese Vollmacht zur sogenannten mittelbaren Bundesverwaltung setzt
+      <lb/>selbstverständlich eine Verantwortlichkeit des Trägers der Landesverwaltung — des Landeshauptmannes
+      <lb/>gegenüber der Bundesregierung voraus, an der es bisher gemangelt hat (Artikel 143).
+      <lb/>Der Bundeshauptstadt Wien und dem Lande Niederösterreich wird im Entwurfe ein
+      <lb/>besonderer Abschnitt gewidmet, der beiden Teilen, ohne die Einheit des Landes grundsätzlich aufzuheben,
+      <lb/>eine weitgehende Selbständigkeit einräumt. Der Abschnitt über die Gemeinden bahnt die Lösung des
+      <lb/>schwebenden Gemeindeproblems in der Richtung eines Ausbaues der Selbstverwaltung an.
+      <lb/>Das Hauptstück über die Rechnungskontrolle des Bundes fügt die bewährten bestehenden
+      <lb/>Einrichtungen in die neue staatliche Organisation ein.
+      <lb/>Das sechste Hauptstück schafft im Verwaltungsgerichtshof und Verfassungsberichthof
+      <lb/>zwei Grundpfeiler der künftigen staatlichen Organisation, die mit besonderer Absicht unter dem Titel
+      <lb/>der Garantien der Verfassung und Verwaltung in den Verfassungsentwurf aufgenommen sind. Die
+      <lb/>grundsätzliche Bedeutung dieser Gerichtshöfe für einen Bundesstaat im allgemeinen wie im besondern für
+      <lb/>die bundesstaatliche Organisation unseres Staatswesens kann nicht hoch genug eingeschätzt werden. Ver¬
+      <lb/>fassungs= und Verwaltungsgerichtshof sind gewissermaßen als die Klammern gedacht, welche die dualistische
+      <lb/>Konstruktion von Bund und Ländern zu einer höheren Einheit zusammenfügen und das nur zu leicht
+      <lb/>beziehungslose und anarchische Nebeneinanderfunktionieren der beiden organisatorischen Apparate zu einem
+      <lb/>harmonischen Zusammenwirken verbinden. Schon die vom Entwurf vorgesehene Zusammensetzung der
+      <lb/>beiden Gerichtshöfe, deren Mitglieder teils vom Bunde, teils von den Ländern bestellt werden, läßt sie
+      <lb/>gewissermaßen als eine dem Bunde und den Ländern gemeinsame und ihnen zugleich übergeordnete
+      <lb/>Instanz erscheinen.
+      <lb/>Der Verfassungsgerichtshof soll in Hinkunft nicht nur den Wirkungskreis des ehemaligen Reichs¬
+      <lb/>gerichtes inne haben und als Verordnungsgerichtshof fungieren, sondern auch zur Überprüfung der
+      <lb/>Verfassungsmäßigkeit von Gesetzen berufen sein. Hiebei ist, da die Überprüfung sowohl von der
+      <lb/>Bundesregierung als auch von den Landesregierungen beantragt werden kann und sich auf Bundesgesetze
+      <lb/>wie auf Landesgesetze bezieht, wiederum die volle Parität zwischen Bund und Ländern gewahrt. Ferner
+      <lb/>fungiert der Verfassungsgerichtshof als Wahlgerichstshof und endlich soll er den beträchtlich erweiterten
+      <lb/>Wirkungskreis des ehemaligen Staatsgerichtshofes übernehmen. In dieser Eigenschaft ist er die Instanz
+      <lb/>bei der die Verantwortlichkeit des Bundespräsidenten, der Mitglieder der Bundesregierung der Mit¬
+      <lb/>glieder der Landesregierungen und insbesondere des Landeshauptmanns in seiner Eigenschaft als Haupt
+      <lb/>der mittelbaren Bundesverwaltung geltend gemacht wird. Der Vewaltungsgerichtshof wird auch als
+      <lb/>ein Form eingerichtet, bei dem der zuständige Minister in dem Falle, daß er die Interessen des
+      <lb/>Bundes durch eine rechtswidrige Entscheidung oder Verfügung einer Landesbehörde für verletzt erachtet,
+      <lb/>wegen dieser Rechtsverletzung Beschwerde erheben kann. Zu erwähnen wäre im Rahmen der Neu¬
+      <lb/>regelung des Verwaltungsgerichtshofes auch die neue juristisch korrekte Formulierung der Nichtzuständigkeit
+      <lb/>in den Fällen des freien Ermessens (Artikel 130, Absatz 2).
+      <lb/>Die Schlußbestimmungen enthalten einen Katalog der neben dem Bundesverfassungsgesetz im
+      <lb/>Range von Verfassungsgesetzen rezipierten bisherigen Gesetze (Artikel 150). Hiebei wird als selbstver¬
+      <lb/>ständlich angesehen, daß die zahlreichen besonderen Gesetze, die zur Gänze oder vermöge einzelner
+      <lb/>Bestimmungen den Charakter von Verfassungsgesetzen aufweisen — erwähnt seien der Artikel 3 des
+      <lb/>Gesetzes über die Staats= und Regierungsform, St. G. Bl. Nr. 5 aus 1918, ferner eine Reihe von
+      <lb/>Bestimmungen des Wehrgesetzes usw. — als einfache Gesetze weiter in Geltung bleiben, soweit sie zur
+      <lb/>Bundesverfassung nicht im Widerspruch stehen.
+      <lb/>Das Bundesverfassungsgesetz wird nicht in seiner Gänze sofort in Kraft treten können.
+      <lb/>Der sofortigen tatsächlichen Aufteilung der dem Bunde oder den Ländern übertragenen Wirkungs-
+      <lb/>kreise stehen insolange große Hindernisse entgegen, als nicht die gesamte Verwaltung des Bundes und
+      <lb/>der Länder neu organisiert ist. Bei der Kürze der Zeit ließ sich das hiezu nötige Verwaltungs-
+      <lb/>organisationsgesetz ebensowenig wie die Gesetze über die Verteilung der Steuerquellen und üner die
+      <lb/>Schulorganisation gleichzeitig mit der Verfassung fertigstellen. Es bleibt daher nichts übrig, als daß der
+      <lb/>Verfassungsausschuß dem hohen Hause empfiehlt, jene Teile des Bundes=Verfaffungsgesetzes, die das
+      <lb/>Vorhandensein der eben genannten Gesetze, die sämtlich den Charakter von Verfassungsgesetzen werden</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 7
+      <lb/>haben müssen, voraussetzen, einstweilen unter Aufrechthaltung des gegenwärtigen Rechtszustandes zu
+      <lb/>suspendieren. Das Nähere hierüber wird das Gesetz betreffend den Übergang zur bundesstaatlichen Ver¬
+      <lb/>fassung enthalten.
+      <lb/>Dem Gesetze sind einige Minderheitsanträge, die bei der Verhandlung im Verfassungsaus¬
+      <lb/>schusse gestellt wurden, angefügt. In Anbetracht des großen Umfanges des Gesetzes sind ihrer nur
+      <lb/>wenige. Als der Entwurf den Unterausschuß verließ, war es anders. Damals begleitete ein ganzes
+      <lb/>System von Minderheitsanträgen den mit stets wechselnden Mehrheiten beschlossenen Gesetzestext. Daß
+      <lb/>die meisten Minderheitsanträge bereits zurückgezogen werden konnten, ist den Parteienverhandlungen zu
+      <lb/>verdanken, die inzwischen geführt wurden. Möge es dem hohen Hause gelingen, in den wenigen offenen
+      <lb/>Fragen so zu entscheiden, daß der Verabschiedung des Bundesverfassungsgesetzes kein neues Hindernis
+      <lb/>erwächst.
+      <lb/>Der Verfassungsausschuß stellt den Antrag:
+      <lb/>„Die Nationalversammlung möge den angeschlossenen Entwurf eines Gesetzes, womit die Republik
+      <lb/>Österreich als Bundesstaat eingerichtet wird (Bundesverfassungsgesetz) zum Beschlusse erheben.
+      <lb/>Wien, 26. September 1920.
+      <lb/>Bauer,
+      <lb/>Obmann.
+      <lb/>Heipel,
+      <lb/>Berichterstatter.</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 9
+      <lb/>Minderheitsanträge.
+      <lb/>Minderheitsanträge der Abgeordneten Dr. Robert Danneberg und Genossen.
+      <lb/>Nach dem Artickel 3 ist folgender Artikel neu einzuschalten:
+      <lb/>„(1) Wenn Gemeinden, deren Einwohner die Mehrheit in einem zusammenhängenden Landesgebiete
+      <lb/>bilden, es verlangen, hat in diesem Gebiete eine Volksabstimmung darüber stattzufinden, ob dieses Gebiet
+      <lb/>einem anderen angrenzenden Lande angegliedert werden oder ein neues Land bilden soll.
+      <lb/>(2) Entscheidet die Volksabstimmung mit absoluter Mehrheit der gültig abgegebenen Stimmen für die
+      <lb/>Angliederung an das andere Land, dann erfolgt die Gebietsänderung durch einfaches Gesetz dieses Landes
+      <lb/>(3) Entscheidet die Volksabstimmung für die Bildung eines neuen Landes, dann ist, wenn das Gebiet
+      <lb/>wenigstens 140.000 Einwohner zählt, durch den Bundespräsidenten nach dem Nationalratswahlrecht
+      <lb/>ein verfassungsgebender Landtag zur Konstituierung des neuen Landes einzuberufen. Das Nähere regelt
+      <lb/>ein Bundesgesetz.
+      <lb/>(4) Über Streitigkeiten, die aus der vermögensrechtlichen Auseinandersetzung zwischen den Ländern in
+      <lb/>den im Absatz 1 bis 3 erwähnten Fällen entstehen, entscheidet der Verfassungsgerichtshof.
+      <lb/>Im Artikel 28, 1. Absatz, soll es heißen:
+      <lb/>„Die Gesetzgebungsperiode des Nationalrates dauert zwei Jahre usw.
+      <lb/>Im Artikel 28, 2. Absatz, soll es heißen:
+      <lb/>„...nach dem Ablaufe des zweiten Jahres...“.
+      <lb/>Im Artikel 120, Absatz 2, ist folgender Satz zu streichen:
+      <lb/>„doch kann für die Wahlen in die Vertretungen der Ortsgemeinden das Wahlrecht von der Dauer
+      <lb/>des Aufenthaltes in der Gemeinde bis zu einem Jahre abhängig gemacht werden.
+      <lb/>Dr. Robert Danneberg.
+      <lb/>Schiegl.
+      <lb/>Adelheid Popp.
+      <lb/>Minderheitsantrag der Abgeordneten Fink und Genossen.
+      <lb/>Dem Artikel 3 ist anzufügen:
+      <lb/>„(4) Innerhalb der ersten zehn Jahre des Bestandes dieser Verfassung kann ein Land durch Volks¬
+      <lb/>abstimmung beschließen, sich einem anderen Staatswesen anzuschliebten oder einen selbständigen Staats
+      <lb/>zu bilden.
+      <lb/>(6) Entscheidet die Volksabstimmung mit absoluter Mehrheit der gültig abgegebenen Stimmen für die
+      <lb/>Einverleibung in ein anderes angrenzendes Staatswesen oder für die Bildung eines selbständigen
+      <lb/>Staates, so ist dieser Entscheid der Bundesversammlung vorzulegen. Verweigert die Bundesversammlung
+      <lb/>die Zustimmung, so kann das Land die Entscheidung des Völkerbundes anrufen.
+      <lb/>(6) In gleicher Weise kann das Land an den Völkerbund berufen, wenn sich aus Anlaß der Lösung
+      <lb/>des Bundesverhältnisses finanzrechtliche Schwierigkeiten ergeben, die nicht durch Einvernehmen des
+      <lb/>Bundes mit dem ausscheidenden Lande behoben werden können."
+      <lb/>Fink.
+      <lb/>Dr. Aigner.
+      <lb/>Dr. Ramek.</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>991 der Beilagen. — Konstituierende Nationalversammlung. 10
+      <lb/>Minderheitsanträge der Abgeordneten Dr. Ignaz Seipel und Genossen.
+      <lb/>Artikel 10, Z. 11, hat zu lauten:
+      <lb/>„Arbeiterrecht sowie Arbeiter= und Angestelltenschutz, soweit es sich nicht um land= und forst¬
+      <lb/>wirtschaftliche Arbeiter und Angestellte handelt; Sozial= und Vertragsversicherungswesen;
+      <lb/>Artikel 1, Absatz 1, Z. 2, hat zu lauten:
+      <lb/>„Berufliche Vertretungen, soweit sie nicht unter Artikel 12 fallen, jedoch mit Ausnahme jener
+      <lb/>auf land= und forstwirtschaftlichem Gebiete;
+      <lb/>In Artikel 12, Absatz 1, ist nach Z. 4 unter eigener Zahl einzufügen:
+      <lb/>„Arbeiterrecht sowie Arbeiter- und Angestelltenschutz, soweit es sich um land= und
+      <lb/>forstwirtschaftliche Arbeiter und Angestellte handelt;
+      <lb/>Artikel 12, Absatz 1, Z. 8 ist zu streichen.
+      <lb/>Artikel 18 ist zu streichen.
+      <lb/>Seipel.
+      <lb/>Kunschak.
+      <lb/>Fink.
+      <lb/>Minderheitsanträge der Abgeordneten Heinrich Classin und Genossen.
+      <lb/>zu streichen.
+      <lb/>In Artikel 20 ist „die Staatssekretäre
+      <lb/>Die Absätze 2 und 3 des Artikels 79 sind zu streichen.
+      <lb/>Clessin.
+      <lb/>Dr. Schönbauer,
+      <lb/>Dr. Waber.
+      <lb/>Österreichische Staatsdruckerei. 563120</p></div></body>
+    </text>
+</TEI>
