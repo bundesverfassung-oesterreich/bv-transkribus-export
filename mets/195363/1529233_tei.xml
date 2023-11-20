@@ -1132,6 +1132,7 @@
         <zone points="NaN,NaN NaN,NaN NaN,NaN NaN,NaN" rendition="Line" xml:id="facs_25_l_1865"/>
       </zone><zone points="39,3199 618,3199 618,4683 39,4683" rendition="TextRegion" xml:id="facs_25_r_1618">
       </zone></surface><surface ulx="0" uly="0" lrx="3007" lry="4781" xml:id="facs_26"><graphic url="%2Ffiles.jpeg" width="3007px" height="4781px"/><zone points="504,87 2936,87 2936,2657 504,2657" rendition="TextRegion" xml:id="facs_26_tr_1">
+        <zone points="2751,91 2896,176 2904,163 2759,78" rendition="Line" xml:id="facs_26_l_1513"/>
         <zone points="1075,198 1219,174 1411,213 1600,139 1831,154 1993,210 2070,186 2067,77 1993,59 1890,92 1822,47 1476,97 1423,50 1308,103 1225,56 1154,94 1072,80" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
         <zone points="487,275 2861,325 2858,100 2687,204 2492,103 2285,221 1597,145 1075,204 933,97 487,227" rendition="Line" xml:id="facs_26_tr_1_tl_2"/>
         <zone points="490,425 1143,384 1671,455 1925,387 2028,455 2144,390 2704,407 2704,304 1866,345 1426,260 1022,366 632,272 490,325" rendition="Line" xml:id="facs_26_tr_1_tl_3"/>
@@ -1156,12 +1157,8 @@
         <zone points="750,2374 1414,2433 1692,2350 2619,2312 2755,2374 2828,2347 2831,2229 2297,2206 2152,2276 1893,2208 1772,2276 750,2300" rendition="Line" xml:id="facs_26_tr_1_tl_22"/>
         <zone points="741,2518 2067,2462 2265,2518 2471,2454 2654,2518 2840,2454 2843,2347 744,2418" rendition="Line" xml:id="facs_26_tr_1_tl_23"/>
         <zone points="771,2648 1060,2699 1246,2616 1665,2628 1819,2728 2412,2589 2876,2595 2879,2486 774,2560" rendition="Line" xml:id="facs_26_tr_1_tl_24"/>
-      </zone><zone points="1462,2785 2677,2785 2677,2904 1462,2904" rendition="TextRegion" xml:id="facs_26_tr_3">
-        <zone points="2152,2911 2229,2893 2279,2852 2309,2864 2332,2843 2347,2855 2386,2849 2409,2870 2436,2864 2439,2681 2406,2690 2389,2681 2309,2740 2279,2725 2235,2737 2208,2716 2155,2713" rendition="Line" xml:id="facs_26_tr_3_tl_1"/>
-        <zone points="2474,2885 2530,2885 2548,2896 2622,2876 2666,2882 2684,2648 2634,2651 2589,2678 2560,2675 2542,2657 2513,2678 2489,2672" rendition="Line" xml:id="facs_26_tr_3_tl_2"/>
-        <zone points="1630,2935 1645,2935 1659,2920 1671,2929 1689,2911 1704,2908 1748,2917 1754,2787 1736,2787 1730,2781 1718,2790 1692,2778 1677,2784 1662,2775 1653,2781 1636,2778" rendition="Line" xml:id="facs_26_tr_3_tl_3"/>
-        <zone points="1745,2902 1766,2899 1780,2905 1798,2893 1804,2899 1831,2899 1839,2728 1825,2728 1813,2737 1804,2737 1798,2728 1786,2740 1774,2728 1754,2731" rendition="Line" xml:id="facs_26_tr_3_tl_4"/>
-        <zone points="1447,2908 1488,2908 1500,2899 1512,2908 1518,2902 1541,2905 1538,2814 1521,2814 1509,2802 1500,2808 1467,2787 1444,2790" rendition="Line" xml:id="facs_26_tr_3_tl_5"/>
+      </zone><zone points="2857,2932 1293,2932 1293,2702 2857,2702" rendition="TextRegion" xml:id="facs_26_r_1540">
+        <zone points="1413,2790 2737,2783 2737,2768 1413,2775" rendition="Line" xml:id="facs_26_l_1549"/>
       </zone><zone points="511,2933 624,2970 2930,2970 2930,4438 778,4424" rendition="TextRegion" xml:id="facs_26_tr_2">
         <zone points="588,3171 2766,3053 2772,2941 2090,3006 1698,2947 1175,3041 602,2914" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
         <zone points="511,3292 906,3325 1107,3248 1464,3336 1792,3215 2430,3242 2731,3177 2734,3094 2235,3062 1981,3150 1683,3094 1408,3198 818,3130 514,3230" rendition="Line" xml:id="facs_26_tr_2_tl_2"/>
@@ -1193,8 +1190,8 @@
         <zone points="580,1195 2667,1052 2696,979 1490,979 1294,1064 1183,1012 586,1105" rendition="Line" xml:id="facs_27_tr_2_tl_11"/>
         <zone points="583,1265 1183,1274 1338,1201 1606,1265 2519,1140 2673,1198 2851,1151 2857,1076 1641,1076 589,1201" rendition="Line" xml:id="facs_27_tr_2_tl_12"/>
         <zone points="1915,1294 1936,1291 1965,1309 1979,1294 1997,1294 2023,1312 2043,1294 2073,1306 2096,1283 2128,1306 2148,1300 2134,1192 2084,1195 2023,1166 2000,1181 1988,1175 1962,1210 1903,1210" rendition="Line" xml:id="facs_27_tr_2_tl_13"/>
-        <zone points="805,1431 1373,1326 2632,1355 2737,1338 2743,1245 2230,1242 2116,1318 1825,1236 1405,1248 807,1373" rendition="Line" xml:id="facs_27_tr_2_tl_15"/>
         <zone points="595,1379 627,1373 638,1388 705,1379 711,1388 735,1370 755,1382 799,1358 842,1373 866,1353 877,1361 918,1350 924,1291 892,1286 851,1303 799,1256 778,1256 740,1286 703,1277 627,1318 600,1315" rendition="Line" xml:id="facs_27_tr_2_tl_16"/>
+        <zone points="805,1431 1373,1326 2632,1355 2737,1338 2743,1245 2230,1242 2116,1318 1825,1236 1405,1248 807,1373" rendition="Line" xml:id="facs_27_tr_2_tl_15"/>
         <zone points="1775,1411 2070,1408 2218,1475 2282,1411 2580,1390 2889,1440 2889,1335 2781,1309 2711,1353 1775,1350" rendition="Line" xml:id="facs_27_tr_2_tl_17"/>
         <zone points="1746,1525 1764,1522 1790,1539 1810,1530 1839,1530 1851,1519 1874,1516 1863,1417 1825,1417 1801,1405 1787,1414 1755,1390 1749,1399 1734,1399" rendition="Line" xml:id="facs_27_tr_2_tl_18"/>
         <zone points="1058,1580 1344,1513 1530,1516 1568,1554 1638,1522 1708,1536 1726,1338 1595,1358 1484,1332 1437,1355 1396,1326 1265,1373 1076,1393" rendition="Line" xml:id="facs_27_tr_2_tl_19"/>
@@ -1207,9 +1204,6 @@
         <zone points="615,2469 1242,2457 1463,2382 1580,2463 1699,2367 2428,2320 2571,2373 2676,2352 2685,2215 2475,2198 2367,2271 2151,2198 1901,2300 1679,2227 1090,2373 869,2303 624,2355" rendition="Line" xml:id="facs_27_tr_2_tl_26"/>
         <zone points="644,2565 1122,2603 1326,2521 2073,2516 2848,2422 2880,2358 650,2484" rendition="Line" xml:id="facs_27_tr_2_tl_27"/>
         <zone points="685,2720 1527,2629 1793,2679 2784,2562 2825,2492 2352,2533 2221,2457 1320,2615 697,2600" rendition="Line" xml:id="facs_27_tr_2_tl_28"/>
-        <zone points="2431,2621 2478,2621 2501,2641 2615,2618 2632,2641 2661,2635 2667,2542 2641,2542 2609,2568 2565,2562 2533,2589 2495,2589 2481,2571 2463,2583 2434,2580" rendition="Line" xml:id="facs_27_tr_2_tl_29"/>
-        <zone points="2297,2653 2315,2653 2335,2644 2347,2644 2364,2661 2376,2661 2382,2586 2367,2586 2344,2571 2335,2574 2326,2565 2317,2571 2303,2571" rendition="Line" xml:id="facs_27_tr_2_tl_30"/>
-        <zone points="126,2799 651,2767 650,2752 125,2784" rendition="Line" xml:id="facs_27_l_1807"/>
         <zone points="749,2842 1186,2868 1382,2772 2326,2769 2696,2685 2842,2734 2898,2618 1522,2635 1338,2731 1070,2679 930,2766 755,2752" rendition="Line" xml:id="facs_27_tr_2_tl_31"/>
         <zone points="752,2965 886,3020 1965,2871 2865,2877 2871,2778 2008,2758 1183,2889 880,2833 755,2915" rendition="Line" xml:id="facs_27_tr_2_tl_34"/>
         <zone points="583,3218 761,3104 1239,3049 1702,3029 1831,3137 2274,2988 2790,3029 2833,2854 598,3011" rendition="Line" xml:id="facs_27_tr_2_tl_37"/>
@@ -1233,8 +1227,8 @@
         <zone points="670,4171 1455,4101 1460,4037 1399,3996 1341,3999 1041,4084 971,4026 904,4037 851,3991 764,4040 679,4037" rendition="Line" xml:id="facs_27_tr_1_tl_6"/>
         <zone points="1458,4317 1533,4273 1647,4259 1842,4294 1956,4247 2064,4268 2113,4235 2195,4262 2207,4055 2099,4084 2046,4049 1915,4122 1790,4104 1647,4166 1469,4142" rendition="Line" xml:id="facs_27_tr_1_tl_7"/>
         <zone points="662,4466 2825,4358 2860,4241 2349,4288 2233,4209 2029,4326 1880,4273 1638,4340 668,4335" rendition="Line" xml:id="facs_27_tr_1_tl_8"/>
-        <zone points="1487,4489 2813,4422 2863,4410 2865,4340 1490,4416" rendition="Line" xml:id="facs_27_tr_1_tl_9"/>
         <zone points="673,4649 1224,4547 1501,4594 1906,4527 2008,4617 2122,4521 2309,4585 2475,4504 2781,4507 2784,4410 1822,4492 1507,4492 1417,4416 1312,4486 679,4475" rendition="Line" xml:id="facs_27_tr_1_tl_10"/>
+        <zone points="1487,4489 2813,4422 2863,4410 2865,4340 1490,4416" rendition="Line" xml:id="facs_27_tr_1_tl_9"/>
         <zone points="921,4679 2743,4641 2749,4507 2008,4617 1691,4539 1560,4612 1230,4550 921,4597" rendition="Line" xml:id="facs_27_tr_1_tl_13"/>
       </zone><zone points="603,4658 75,4658 75,4371 603,4371" rendition="TextRegion" xml:id="facs_27_r">
         <zone points="124,4492 550,4483 549,4468 124,4477" rendition="Line" xml:id="facs_27_l"/>
@@ -1253,8 +1247,8 @@
         <zone points="2016,1175 2198,1205 2589,1163 2864,1214 2891,1205 2894,1096 2791,1108 2719,1066 2673,1105 2540,1087 2464,1138 2265,1108 2213,1147 2168,1114 2019,1138" rendition="Line" xml:id="facs_28_tr_2_tl_10"/>
         <zone points="1426,1214 1502,1205 1520,1220 1547,1205 1562,1220 1605,1199 1835,1214 1838,1141 1813,1141 1783,1169 1708,1129 1635,1153 1592,1141 1538,1157 1508,1141 1471,1169 1429,1169" rendition="Line" xml:id="facs_28_tr_2_tl_11"/>
         <zone points="948,1290 2831,1293 2831,1208 2694,1172 1835,1232 948,1190" rendition="Line" xml:id="facs_28_tr_2_tl_12"/>
-        <zone points="418,1362 1026,1335 1217,1393 1405,1323 1844,1329 1874,1265 972,1299 663,1229 421,1317" rendition="Line" xml:id="facs_28_tr_2_tl_13"/>
         <zone points="660,1444 1493,1387 1774,1468 1925,1384 2767,1393 2822,1320 2028,1317 1965,1253 1583,1356 660,1353" rendition="Line" xml:id="facs_28_tr_2_tl_14"/>
+        <zone points="418,1362 1026,1335 1217,1393 1405,1323 1844,1329 1874,1265 972,1299 663,1229 421,1317" rendition="Line" xml:id="facs_28_tr_2_tl_13"/>
         <zone points="675,1553 908,1541 1038,1626 1408,1520 2746,1553 2803,1435 2231,1393 1272,1471 1017,1405 678,1483" rendition="Line" xml:id="facs_28_tr_2_tl_15"/>
         <zone points="957,1717 1387,1650 2852,1653 2891,1568 1995,1608 1559,1523 1359,1620 1178,1565 957,1614" rendition="Line" xml:id="facs_28_tr_2_tl_16"/>
         <zone points="642,1816 884,1880 1090,1786 1435,1786 1629,1889 2071,1777 2797,1774 2764,1647 1847,1723 1480,1656 1287,1720 645,1698" rendition="Line" xml:id="facs_28_tr_2_tl_17"/>
@@ -1281,8 +1275,8 @@
         <zone points="1420,4290 1468,4308 1508,4287 1568,4320 1762,4217 1829,4214 1868,4257 1929,4223 2001,4257 2095,4242 2125,4229 2134,4072 1922,4078 1826,4139 1726,4066 1432,4114" rendition="Line" xml:id="facs_28_tr_1_tl_7"/>
         <zone points="554,4411 902,4405 1014,4490 1438,4387 2673,4396 2891,4360 2894,4248 1762,4217 1565,4338 1299,4344 705,4208 557,4254" rendition="Line" xml:id="facs_28_tr_1_tl_8"/>
         <zone points="460,4620 945,4526 1595,4605 1771,4511 2631,4556 2891,4517 2894,4432 2240,4375 1801,4441 1438,4387 1305,4487 466,4450" rendition="Line" xml:id="facs_28_tr_1_tl_9"/>
-        <zone points="2016,4641 2062,4629 2095,4647 2143,4611 2298,4635 2392,4608 2425,4626 2473,4614 2504,4641 2558,4614 2625,4626 2622,4547 2386,4547 2349,4514 2013,4514" rendition="Line" xml:id="facs_28_tr_1_tl_10"/>
         <zone points="493,4705 693,4662 730,4681 793,4662 833,4690 881,4656 1102,4662 1108,4575 960,4541 899,4572 827,4547 787,4565 757,4541 500,4572" rendition="Line" xml:id="facs_28_tr_1_tl_11"/>
+        <zone points="2016,4641 2062,4629 2095,4647 2143,4611 2298,4635 2392,4608 2425,4626 2473,4614 2504,4641 2558,4614 2625,4626 2622,4547 2386,4547 2349,4514 2013,4514" rendition="Line" xml:id="facs_28_tr_1_tl_10"/>
         <zone points="2116,4662 2243,4690 2861,4681 2861,4593 2716,4578 2634,4629 2567,4611 2501,4638 2395,4605 2337,4635 2116,4623" rendition="Line" xml:id="facs_28_tr_1_tl_12"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2955" lry="4784" xml:id="facs_29"><graphic url="%2Ffiles.jpeg" width="2955px" height="4784px"/><zone points="504,159 2810,159 2810,1748 504,1748" rendition="TextRegion" xml:id="facs_29_tr_1">
         <zone points="2624,275 2640,275 2658,291 2668,291 2702,269 2723,244 2760,244 2757,117 2702,105 2689,114 2652,111 2637,124 2618,124" rendition="Line" xml:id="facs_29_tr_1_tl_1"/>
@@ -1321,6 +1315,7 @@
         <zone points="504,3966 2235,3839 2519,3907 2776,3870 2813,3756 1808,3722 1527,3808 1277,3737 1085,3818 507,3824" rendition="Line" xml:id="facs_29_tr_3_tl_3"/>
         <zone points="572,4077 1651,3985 2448,4043 2662,3969 2665,3892 2071,3917 1991,3858 1388,3954 903,3895 575,3951" rendition="Line" xml:id="facs_29_tr_3_tl_4"/>
         <zone points="569,4210 717,4152 998,4142 1116,4216 1502,4124 1793,4136 1824,4019 1388,4003 1218,4090 1079,4025 785,4059 683,4025 572,4080" rendition="Line" xml:id="facs_29_tr_3_tl_5"/>
+        <zone points="391,4316 495,4324 496,4309 392,4301" rendition="Line" xml:id="facs_29_l"/>
         <zone points="628,4420 2609,4340 2807,4266 1468,4263 1128,4343 915,4244 637,4247" rendition="Line" xml:id="facs_29_tr_3_tl_6"/>
         <zone points="365,4535 2600,4470 2813,4424 2816,4346 940,4451 374,4306" rendition="Line" xml:id="facs_29_tr_3_tl_7"/>
         <zone points="399,4674 615,4597 2859,4550 2884,4476 2686,4414 2232,4501 943,4470 402,4547" rendition="Line" xml:id="facs_29_tr_3_tl_8"/>
@@ -1331,13 +1326,13 @@
         <zone points="974,316 1355,297 1354,282 973,301" rendition="Line" xml:id="facs_30_l_843"/>
         <zone points="370,329 760,301 759,286 368,314" rendition="Line" xml:id="facs_30_l"/>
       </zone><zone points="250,484 2045,484 2045,1724 250,1724" rendition="TextRegion" xml:id="facs_30_tr_2">
+        <zone points="1333,544 822,547 822,562 1333,559" rendition="Line" xml:id="facs_30_l_848"/>
         <zone points="1297,610 1435,580 1462,600 1550,566 1588,583 1625,568 1661,588 1700,585 1707,478 1690,481 1652,449 1603,461 1559,442 1503,457 1482,437 1450,435 1428,454 1409,440 1338,457 1307,440" rendition="Line" xml:id="facs_30_tr_2_tl_1"/>
-        <zone points="731,607 833,648 886,629 901,639 920,619 952,648 1037,641 1052,447 945,461 882,486 838,454 782,469 743,461" rendition="Line" xml:id="facs_30_tr_2_tl_2"/>
         <zone points="1304,668 1333,675 1365,651 1435,663 1484,636 1506,656 1562,663 1586,648 1598,661 1632,631 1698,644 1778,624 1783,554 1712,588 1584,588 1552,566 1452,602 1414,580 1333,614 1307,605" rendition="Line" xml:id="facs_30_tr_2_tl_3"/>
         <zone points="236,799 653,765 733,811 1756,702 2004,758 2045,600 1958,554 1761,644 896,656 746,733 243,646" rendition="Line" xml:id="facs_30_tr_2_tl_4"/>
         <zone points="257,896 818,865 886,908 989,850 1282,835 1384,889 1528,823 1851,823 1858,724 1484,721 1341,772 1176,733 1081,792 658,821 534,772 423,835 260,831" rendition="Line" xml:id="facs_30_tr_2_tl_5"/>
-        <zone points="1224,940 1448,911 1537,972 1586,930 1615,945 1671,906 1797,899 1843,918 1860,913 1865,823 1814,811 1722,850 1683,835 1627,852 1530,823 1387,886 1307,840 1227,879" rendition="Line" xml:id="facs_30_tr_2_tl_6"/>
         <zone points="257,1052 335,1006 532,976 631,1013 704,981 758,1003 920,959 1171,952 1176,886 996,857 862,916 792,891 648,913 622,882 265,901" rendition="Line" xml:id="facs_30_tr_2_tl_7"/>
+        <zone points="1224,940 1448,911 1537,972 1586,930 1615,945 1671,906 1797,899 1843,918 1860,913 1865,823 1814,811 1722,850 1683,835 1627,852 1530,823 1387,886 1307,840 1227,879" rendition="Line" xml:id="facs_30_tr_2_tl_6"/>
         <zone points="1227,991 1253,1001 1302,976 1321,993 1343,972 1392,979 1440,967 1467,976 1467,913 1448,908 1375,925 1336,920 1314,940 1285,925 1273,935 1227,937" rendition="Line" xml:id="facs_30_tr_2_tl_8"/>
         <zone points="272,1093 913,1108 1151,1030 1992,1008 1996,925 277,1027" rendition="Line" xml:id="facs_30_tr_2_tl_9"/>
         <zone points="304,1195 840,1151 996,1197 1319,1115 1933,1091 1970,1027 1809,981 991,1054 903,1117 760,1071 658,1129 311,1117" rendition="Line" xml:id="facs_30_tr_2_tl_10"/>
@@ -1357,25 +1352,25 @@
         <zone points="408,2145 760,2140 925,2191 1037,2128 1142,2169 1365,2098 1865,2094 1943,2079 1948,2009 1780,1970 1474,2026 1414,1979 1059,2060 945,2011 413,2086" rendition="Line" xml:id="facs_30_tr_1_tl_4"/>
         <zone points="430,2285 750,2254 833,2339 984,2244 1338,2256 1771,2179 1873,2266 1987,2213 1992,2106 1812,2125 1754,2081 1586,2142 1452,2101 1348,2169 1231,2125 1117,2193 1023,2147 947,2203 833,2162 729,2213 440,2164" rendition="Line" xml:id="facs_30_tr_1_tl_5"/>
         <zone points="437,2424 542,2436 704,2385 738,2414 1066,2346 1261,2361 1355,2334 1363,2247 1244,2300 1052,2242 896,2285 833,2341 753,2256 588,2319 549,2278 447,2288" rendition="Line" xml:id="facs_30_tr_1_tl_8"/>
-        <zone points="78,2489 648,2494 1695,2329 1805,2378 2026,2322 2033,2251 597,2419 306,2339 90,2373" rendition="Line" xml:id="facs_30_tr_1_tl_7"/>
+        <zone points="92,2476 107,2476 152,2470 208,2470 241,2470 286,2467 331,2464 376,2458 421,2458 465,2455 510,2452 555,2452 600,2449 645,2446 689,2440 734,2434 779,2431 824,2428 869,2425 913,2419 958,2416 1003,2413 1048,2407 1093,2404 1137,2401 1182,2395 1227,2392 1272,2386 1317,2383 1362,2377 1406,2371 1451,2362 1496,2356 1541,2347 1586,2344 1630,2335 1675,2329 1720,2323 1765,2317 1810,2311 1854,2305 1899,2302 1944,2299 1989,2293 2034,2296 2035,2281 1989,2278 1943,2284 1898,2287 1852,2290 1808,2296 1763,2302 1718,2308 1673,2314 1627,2320 1584,2329 1539,2332 1494,2341 1449,2347 1404,2356 1360,2362 1316,2368 1271,2371 1226,2377 1181,2380 1135,2386 1092,2389 1047,2392 1002,2398 957,2401 911,2404 867,2410 823,2413 778,2416 733,2419 687,2425 643,2431 599,2434 554,2437 509,2437 464,2440 420,2443 375,2443 330,2449 285,2452 240,2455 208,2455 151,2455 106,2461 92,2461" rendition="Line" xml:id="facs_30_tr_1_tl_7"/>
         <zone points="49,2555 1564,2441 1678,2485 1970,2424 1977,2329 656,2487 53,2475" rendition="Line" xml:id="facs_30_tr_1_tl_9"/>
         <zone points="70,2625 131,2613 163,2635 214,2618 226,2630 284,2623 413,2555 466,2572 549,2533 554,2502 483,2499 359,2540 291,2521 228,2565 177,2533 141,2555 83,2560" rendition="Line" xml:id="facs_30_tr_1_tl_11"/>
         <zone points="386,2642 1717,2538 1965,2570 1989,2468 1805,2421 1559,2504 1020,2475 391,2579" rendition="Line" xml:id="facs_30_tr_1_tl_10"/>
         <zone points="420,2706 539,2749 1042,2674 1720,2689 1967,2633 1970,2570 1863,2536 1780,2584 1078,2582 425,2650" rendition="Line" xml:id="facs_30_tr_1_tl_12"/>
         <zone points="202,2849 272,2822 338,2861 423,2866 500,2897 515,2885 551,2907 568,2890 607,2893 576,2735 495,2740 301,2672 170,2681" rendition="Line" xml:id="facs_30_tr_1_tl_13"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2974" lry="4760" xml:id="facs_31"><graphic url="%2Ffiles.jpeg" width="2974px" height="4760px"/><zone points="328,81 2875,81 2875,1252 328,1252" rendition="TextRegion" xml:id="facs_31_tr_2">
-        <zone points="1916,172 2183,149 2304,213 2369,172 2402,186 2470,162 2466,68 2203,47 2118,78 2014,61 1912,108" rendition="Line" xml:id="facs_31_tr_2_tl_1"/>
-        <zone points="1409,206 1446,203 1534,149 1595,176 1659,162 1713,176 1750,155 1787,159 1787,84 1740,88 1696,44 1618,95 1578,74 1537,84 1504,57 1463,68 1416,51" rendition="Line" xml:id="facs_31_tr_2_tl_2"/>
         <zone points="2693,240 2717,240 2740,260 2767,267 2781,280 2798,270 2828,270 2835,108 2808,108 2794,118 2771,115 2757,128 2740,118 2727,125 2700,111" rendition="Line" xml:id="facs_31_tr_2_tl_3"/>
+        <zone points="1409,206 1446,203 1534,149 1595,176 1659,162 1713,176 1750,155 1787,159 1787,84 1740,88 1696,44 1618,95 1578,74 1537,84 1504,57 1463,68 1416,51" rendition="Line" xml:id="facs_31_tr_2_tl_2"/>
+        <zone points="1916,172 2183,149 2304,213 2369,172 2402,186 2470,162 2466,68 2203,47 2118,78 2014,61 1912,108" rendition="Line" xml:id="facs_31_tr_2_tl_1"/>
         <zone points="960,358 2004,297 2416,348 2460,341 2463,166 1483,206 1338,71 1206,118 963,84" rendition="Line" xml:id="facs_31_tr_2_tl_4"/>
         <zone points="2037,487 2075,480 2105,490 2125,487 2139,497 2186,466 2203,466 2196,311 2179,311 2173,321 2146,328 2132,318 2108,321 2095,311 2061,328 2034,324" rendition="Line" xml:id="facs_31_tr_2_tl_5"/>
         <zone points="1470,527 1520,534 1537,551 1622,487 1656,493 1672,514 1791,493 1801,351 1764,365 1730,348 1679,365 1666,351 1645,365 1585,358 1544,378 1510,348 1483,348" rendition="Line" xml:id="facs_31_tr_2_tl_6"/>
         <zone points="794,601 841,628 960,585 1047,601 1122,571 1257,591 1335,564 1416,588 1419,453 1179,453 1007,497 892,460 794,510" rendition="Line" xml:id="facs_31_tr_2_tl_7"/>
         <zone points="470,703 2865,595 2872,439 2247,537 2108,476 1743,588 841,628 655,557 473,635" rendition="Line" xml:id="facs_31_tr_2_tl_8"/>
         <zone points="307,845 2622,737 2801,662 2524,598 2281,683 1784,628 314,716" rendition="Line" xml:id="facs_31_tr_2_tl_9"/>
+        <zone points="1071,848 1145,811 1172,828 1216,824 1230,811 1243,824 1308,808 1338,808 1358,824 1385,804 1416,804 1416,770 1382,774 1362,760 1341,774 1314,764 1277,780 1247,760 1220,780 1196,764 1074,780" rendition="Line" xml:id="facs_31_tr_2_tl_12"/>
         <zone points="1497,818 1514,821 1544,791 1568,787 1578,801 1615,797 1639,818 1666,794 1689,801 1713,780 1754,777 1764,787 1828,770 1828,743 1760,740 1750,730 1733,743 1649,737 1581,760 1564,750 1534,764 1500,757" rendition="Line" xml:id="facs_31_tr_2_tl_10"/>
         <zone points="351,953 2787,814 2818,723 358,845" rendition="Line" xml:id="facs_31_tr_2_tl_11"/>
-        <zone points="1071,848 1145,811 1172,828 1216,824 1230,811 1243,824 1308,808 1338,808 1358,824 1385,804 1416,804 1416,770 1382,774 1362,760 1341,774 1314,764 1277,780 1247,760 1220,780 1196,764 1074,780" rendition="Line" xml:id="facs_31_tr_2_tl_12"/>
         <zone points="416,1078 2568,953 2737,929 2744,811 1037,865 419,970" rendition="Line" xml:id="facs_31_tr_2_tl_13"/>
         <zone points="399,1196 1923,1041 2450,1112 2578,1020 2848,1047 2858,899 1460,1041 1270,976 757,1088 581,1020 405,1101" rendition="Line" xml:id="facs_31_tr_2_tl_14"/>
         <zone points="466,1318 794,1260 953,1338 1122,1223 1882,1169 1889,1085 1740,1054 1487,1139 1331,1085 1210,1166 1020,1115 713,1196 639,1145 541,1199 480,1169" rendition="Line" xml:id="facs_31_tr_2_tl_15"/>
@@ -1410,8 +1405,9 @@
         <zone points="652,3946 1223,3875 1335,3957 1629,3848 1818,3913 2142,3804 2798,3771 2855,3690 662,3784" rendition="Line" xml:id="facs_31_tr_1_tl_28"/>
         <zone points="686,4044 868,4098 2500,3906 2703,3977 2909,3936 2916,3825 2426,3781 1868,3906 1689,3852 1331,3957 1233,3875 693,3946" rendition="Line" xml:id="facs_31_tr_1_tl_29"/>
         <zone points="676,4180 808,4186 868,4261 963,4207 1064,4247 1220,4156 1301,4159 1311,4054 1250,4068 1199,4024 1152,4054 1044,4024 997,4061 963,4034 885,4095 848,4071 804,4105 683,4112" rendition="Line" xml:id="facs_31_tr_1_tl_30"/>
-        <zone points="2294,4203 2325,4190 2345,4203 2382,4180 2439,4217 2463,4193 2497,4190 2510,4176 2585,4173 2588,4021 2551,4011 2527,3984 2497,4000 2477,3980 2439,4004 2402,4000 2392,3987 2375,3994 2352,3967 2301,3970" rendition="Line" xml:id="facs_31_tr_1_tl_31"/>
         <zone points="1608,4176 1639,4173 1689,4180 1703,4169 1720,4176 1730,4166 1757,4166 1760,4109 1716,4109 1679,4085 1656,4102 1642,4088 1632,4095 1612,4095" rendition="Line" xml:id="facs_31_tr_1_tl_32"/>
+        <zone points="1802,4151 2022,4154 2008,4151 2005,4166 1993,4151 1802,4136" rendition="Line" xml:id="facs_31_l"/>
+        <zone points="2294,4203 2325,4190 2345,4203 2382,4180 2439,4217 2463,4193 2497,4190 2510,4176 2585,4173 2588,4021 2551,4011 2527,3984 2497,4000 2477,3980 2439,4004 2402,4000 2392,3987 2375,3994 2352,3967 2301,3970" rendition="Line" xml:id="facs_31_tr_1_tl_31"/>
         <zone points="1490,4284 1514,4284 1561,4244 1588,4237 1595,4244 1696,4230 1754,4237 1750,4169 1716,4176 1700,4169 1689,4180 1666,4173 1483,4180" rendition="Line" xml:id="facs_31_tr_1_tl_33"/>
         <zone points="926,4396 1135,4457 1355,4375 1429,4423 2146,4318 2754,4328 2828,4294 2835,4176 2629,4149 2341,4281 1781,4220 1426,4311 1169,4223 933,4281" rendition="Line" xml:id="facs_31_tr_1_tl_34"/>
         <zone points="2223,4413 2314,4426 2369,4406 2392,4423 2443,4399 2615,4446 2700,4392 2828,4409 2831,4352 2717,4291 2541,4318 2500,4294 2335,4348 2227,4345" rendition="Line" xml:id="facs_31_tr_1_tl_35"/>
@@ -1423,11 +1419,10 @@
         <zone points="764,324 855,338 906,308 953,318 980,348 1038,297 1051,308 1085,287 1136,291 1149,132 1112,139 1098,122 1058,135 967,74 943,74 872,122 781,135" rendition="Line" xml:id="facs_32_tr_2_tl_3"/>
         <zone points="1612,355 1714,328 1768,338 1781,324 1805,331 1825,318 1886,314 1883,122 1845,118 1822,139 1781,142 1714,101 1693,115 1653,101 1629,122 1609,122" rendition="Line" xml:id="facs_32_tr_2_tl_4"/>
         <zone points="341,564 2349,487 2839,558 2843,331 1876,433 1484,341 936,446 615,355 341,483" rendition="Line" xml:id="facs_32_tr_2_tl_5"/>
-        <zone points="2153,595 2471,575 2613,585 2684,619 2816,608 2812,490 2684,537 2630,504 2559,534 2454,490 2329,493 2275,521 2244,490 2150,504" rendition="Line" xml:id="facs_32_tr_2_tl_6"/>
         <zone points="301,720 1568,747 2342,642 2501,750 2670,659 2849,723 2853,615 1893,507 977,612 642,527 304,619" rendition="Line" xml:id="facs_32_tr_2_tl_7"/>
-        <zone points="2150,733 2187,730 2207,744 2258,720 2292,747 2366,737 2363,673 2336,673 2315,686 2288,666 2254,659 2231,676 2187,646 2146,646" rendition="Line" xml:id="facs_32_tr_2_tl_8"/>
+        <zone points="2153,595 2471,575 2613,585 2684,619 2816,608 2812,490 2684,537 2630,504 2559,534 2454,490 2329,493 2275,521 2244,490 2150,504" rendition="Line" xml:id="facs_32_tr_2_tl_6"/>
+        <zone points="2166,716 2210,716 2255,722 2300,722 2345,722 2844,788 2846,773 2346,707 2300,707 2256,707 2211,701 2166,701" rendition="Line" xml:id="facs_32_tr_2_tl_8"/>
         <zone points="382,852 2123,788 2342,882 2562,811 2565,744 2038,683 1440,760 1271,700 1041,777 886,679 683,774 531,696 385,737" rendition="Line" xml:id="facs_32_tr_2_tl_9"/>
-        <zone points="2718,845 2748,848 2755,842 2768,855 2778,852 2792,865 2799,859 2816,859 2816,700 2799,700 2788,693 2775,703 2718,703" rendition="Line" xml:id="facs_32_tr_2_tl_10"/>
         <zone points="642,1021 926,984 1092,1071 1281,963 2714,960 2718,842 2339,886 2031,794 1511,896 1251,835 646,889" rendition="Line" xml:id="facs_32_tr_2_tl_11"/>
         <zone points="372,1153 1217,1115 1528,1203 1731,1088 2146,1078 2295,1180 2413,1088 2684,1129 2690,953 1318,970 1055,1095 750,997 372,1095" rendition="Line" xml:id="facs_32_tr_2_tl_12"/>
         <zone points="1055,1203 1105,1193 1142,1220 1169,1217 1197,1197 1213,1210 1230,1193 1305,1203 1305,1129 1274,1129 1264,1119 1237,1126 1217,1115 1176,1136 1142,1115 1136,1122 1055,1115" rendition="Line" xml:id="facs_32_tr_2_tl_13"/>
@@ -1436,18 +1431,19 @@
       </zone><zone points="92,1456 2849,1456 2849,4646 92,4646" rendition="TextRegion" xml:id="facs_32_tr_1">
         <zone points="74,1626 436,1710 1335,1558 1977,1629 2143,1524 2785,1548 2792,1376 2576,1457 2014,1396 1470,1507 81,1507" rendition="Line" xml:id="facs_32_tr_1_tl_1"/>
         <zone points="446,1761 1328,1690 1480,1744 1639,1676 1771,1758 2704,1595 2143,1524 1971,1633 1720,1562 1295,1663 1139,1572 980,1683 754,1609 450,1714" rendition="Line" xml:id="facs_32_tr_1_tl_2"/>
-        <zone points="2305,1734 2356,1727 2383,1747 2400,1727 2481,1724 2576,1744 2599,1727 2623,1744 2640,1727 2714,1727 2819,1744 2816,1646 2782,1639 2748,1666 2667,1676 2569,1636 2488,1656 2410,1639 2356,1666 2302,1653" rendition="Line" xml:id="facs_32_tr_1_tl_3"/>
         <zone points="541,1903 1041,1849 1298,1930 1491,1818 2532,1825 2805,1808 2809,1744 2106,1656 1781,1758 1633,1687 1085,1815 886,1747 544,1788" rendition="Line" xml:id="facs_32_tr_1_tl_4"/>
-        <zone points="510,2035 1011,1977 1092,2065 1291,1977 1443,2048 1582,1957 2400,1916 2839,1974 2843,1879 2670,1791 2140,1795 514,1954" rendition="Line" xml:id="facs_32_tr_1_tl_5"/>
+        <zone points="2305,1734 2356,1727 2383,1747 2400,1727 2481,1724 2576,1744 2599,1727 2623,1744 2640,1727 2714,1727 2819,1744 2816,1646 2782,1639 2748,1666 2667,1676 2569,1636 2488,1656 2410,1639 2356,1666 2302,1653" rendition="Line" xml:id="facs_32_tr_1_tl_3"/>
         <zone points="122,2014 206,2038 348,1981 422,1991 548,1954 693,1954 713,1933 767,1954 774,1893 466,1866 267,1920 240,1889 199,1913 135,1903" rendition="Line" xml:id="facs_32_tr_1_tl_6"/>
-        <zone points="2079,2021 2481,1984 2525,2028 2630,2004 2768,2052 2768,1954 2701,1916 2606,1944 2518,1916 2430,1940 2393,1920 2305,1954 2211,1923 2079,1950" rendition="Line" xml:id="facs_32_tr_1_tl_7"/>
+        <zone points="510,2035 1011,1977 1092,2065 1291,1977 1443,2048 1582,1957 2400,1916 2839,1974 2843,1879 2670,1791 2140,1795 514,1954" rendition="Line" xml:id="facs_32_tr_1_tl_5"/>
         <zone points="493,2143 1034,2204 1169,2112 1423,2106 1660,2167 1893,2079 2494,2085 2528,1984 2062,2038 1856,1947 1433,2048 1278,1974 1095,2062 1004,1977 493,2106" rendition="Line" xml:id="facs_32_tr_1_tl_8"/>
+        <zone points="2079,2021 2481,1984 2525,2028 2630,2004 2768,2052 2768,1954 2701,1916 2606,1944 2518,1916 2430,1940 2393,1920 2305,1954 2211,1923 2079,1950" rendition="Line" xml:id="facs_32_tr_1_tl_7"/>
         <zone points="568,2322 2400,2180 2687,2231 2697,2069 2035,2143 1876,2082 1501,2177 1268,2112 1017,2207 575,2150" rendition="Line" xml:id="facs_32_tr_1_tl_9"/>
         <zone points="477,2427 527,2403 548,2417 612,2363 740,2383 852,2346 879,2373 930,2373 980,2336 1082,2342 1085,2268 994,2254 760,2302 693,2285 646,2312 544,2234 480,2244" rendition="Line" xml:id="facs_32_tr_1_tl_10"/>
         <zone points="2248,2474 2275,2484 2302,2471 2339,2474 2386,2498 2491,2467 2498,2214 2427,2227 2390,2197 2282,2254 2254,2248" rendition="Line" xml:id="facs_32_tr_1_tl_11"/>
-        <zone points="1305,2491 1413,2444 1440,2467 1480,2444 1575,2474 1619,2440 1717,2437 1714,2288 1666,2298 1572,2282 1436,2325 1379,2285 1301,2298" rendition="Line" xml:id="facs_32_tr_1_tl_12"/>
+        <zone points="1324,2431 1369,2434 1414,2428 1459,2434 1503,2440 1548,2437 1593,2434 1608,2434 1617,2434 1661,2441 1706,2434 2048,2358 2045,2343 1703,2419 1661,2426 1618,2419 1608,2419 1592,2419 1547,2422 1504,2425 1461,2419 1414,2413 1369,2419 1325,2416" rendition="Line" xml:id="facs_32_tr_1_tl_12"/>
         <zone points="504,2636 1704,2582 2075,2650 2163,2569 2464,2640 2721,2565 2724,2383 2062,2525 1839,2464 1044,2525 933,2457 507,2518" rendition="Line" xml:id="facs_32_tr_1_tl_13"/>
         <zone points="385,2788 1501,2721 1987,2778 2214,2704 2376,2761 2724,2697 2728,2576 2356,2663 2163,2572 2065,2653 389,2684" rendition="Line" xml:id="facs_32_tr_1_tl_14"/>
+        <zone points="1302,2808 1677,2791 1676,2776 1301,2793" rendition="Line" xml:id="facs_32_l"/>
         <zone points="433,2890 1217,2859 1399,2941 1538,2859 2623,2866 2839,2839 2843,2711 433,2816" rendition="Line" xml:id="facs_32_tr_1_tl_15"/>
         <zone points="429,3062 943,2981 1098,3042 1271,2964 1690,2998 1815,2927 2254,2951 2315,2941 2322,2832 1430,2910 1142,2859 747,2951 666,2887 436,2897" rendition="Line" xml:id="facs_32_tr_1_tl_16"/>
         <zone points="1839,3072 2011,3059 2194,3160 2258,3160 2322,3110 2383,3147 2454,3140 2450,2897 2322,2917 2278,2964 2214,2930 2082,2947 2028,2920 1954,2971 1839,2978" rendition="Line" xml:id="facs_32_tr_1_tl_17"/>
@@ -2636,11 +2632,11 @@
       <lb facs="#facs_24_tr_2_tl_11" n="N011"/>Verordnungen u  Verfügungen sind nichtig andernfalls nichtig.
       <lb facs="#facs_24_tr_2_tl_13" n="N012"/>(gehen vom Staatsrate aus und)
       <lb facs="#facs_24_tr_2_tl_12" n="N013"/>§ 57
-      <lb facs="#facs_24_tr_2_tl_14" n="N014"/>38.
+      <lb facs="#facs_24_tr_2_tl_14" n="N014"/>38. 37.
       <lb facs="#facs_24_tr_2_tl_15" n="N015"/></ab><ab facs="#facs_24_tr_3" type="">
       <lb facs="#facs_24_tr_3_tl_1" n="N001"/>Die zentrale Staatsverwaltung besorgen führen die nach-
       <lb facs="#facs_24_tr_3_tl_2" n="N002"/>stehenden Ämter Behörden.
-      <lb facs="#facs_24_tr_3_tl_3" n="N003"/>1. Das Staatskanzleramt, dem die allgemeine Untersicht über
+      <lb facs="#facs_24_tr_3_tl_3" n="N003"/>1. Das Staatskanzleramt, dem die allgemeine Übersicht über
       <lb facs="#facs_24_tr_3_tl_4" n="N004"/>die genannten alle Verwaltungsgeschäfte, die Geschäftsverteilung, die Leitung zwei
       <lb facs="#facs_24_tr_3_tl_5" n="N005"/>oder mehreren Ämtern obliegender Geschäfte, die Beschleunigung
       <lb facs="#facs_24_tr_3_tl_6" n="N006"/>des Geschäftsgangs und o, die Austragung von Fällen zweifelhafter
@@ -2721,315 +2717,311 @@
       <lb facs="#facs_25_l_1853" n="N018"/>
       <lb facs="#facs_25_l_1859" n="N019"/>
       <lb facs="#facs_25_l_1865" n="N020"/></ab><ab facs="#facs_25_r_1618" type=""/><pb facs="#facs_26" n="26" xml:id="img_0026"/><ab facs="#facs_26_tr_1" type="">
-      <lb facs="#facs_26_tr_1_tl_1" n="N001"/>allein oder mit dem Kanzler
-      <lb facs="#facs_26_tr_1_tl_2" n="N002"/>und die Pflicht, in der seinen Verwaltungszweig berührenden
-      <lb facs="#facs_26_tr_1_tl_3" n="N003"/>Kommission des Vollzugsauschusses zu erscheinen.
-      <lb facs="#facs_26_tr_1_tl_4" n="N004"/>Auf Verlange (des Praesidentes des Vollzugs aus
-      <lb facs="#facs_26_tr_1_tl_5" n="N005"/>Weisung
-      <lb facs="#facs_26_tr_1_tl_6" n="N006"/>Völkcheinse
-      <lb facs="#facs_26_tr_1_tl_7" n="N007"/>schusses oder auf Beschluß des Senates oder Senates
-      <lb facs="#facs_26_tr_1_tl_8" n="N008"/>haben die Milefieder des Kanzlerrates in den beiden
-      <lb facs="#facs_26_tr_1_tl_9" n="N009"/>Körpern der Nationalversammlung zuscheinen
-      <lb facs="#facs_26_tr_1_tl_10" n="N010"/>wie
-      <lb facs="#facs_26_tr_1_tl_11" n="N011"/>in deren Ausschusser
-      <lb facs="#facs_26_tr_1_tl_12" n="N012"/>Der Kanzlerrat hat das Recht, in allen
-      <lb facs="#facs_26_tr_1_tl_13" n="N013"/>Argelegenheiten der Gesetzgebung auch ohne Auftrag
-      <lb facs="#facs_26_tr_1_tl_14" n="N014"/>des Vollzugs ausserusses Gesetzesvorlagen
-      <lb facs="#facs_26_tr_1_tl_15" n="N015"/>auszuarbeiten, und ihm zu unterbreiten. Schul¬
-      <lb facs="#facs_26_tr_1_tl_16" n="N016"/>Einbringung
-      <lb facs="#facs_26_tr_1_tl_17" n="N017"/>dieser die an die Nationalversammlung
-      <lb facs="#facs_26_tr_1_tl_18" n="N018"/>gege
-      <lb facs="#facs_26_tr_1_tl_19" n="N019"/>ab, 30 kann der Kanzlerrat gegen diele
-      <lb facs="#facs_26_tr_1_tl_20" n="N020"/>Ablehnung unter Anschluß des Entwurfes
-      <lb facs="#facs_26_tr_1_tl_21" n="N021"/>eine monvierte Vorstellung an die National¬
-      <lb facs="#facs_26_tr_1_tl_22" n="N022"/>versammlung richten. Über diese Vorstellung
-      <lb facs="#facs_26_tr_1_tl_23" n="N023"/>muß binnen die Monaten eine Beschluß
-      <lb facs="#facs_26_tr_1_tl_24" n="N024"/>der Nationalversammlung eingeholt werden.</ab><ab facs="#facs_26_tr_3" type="">
-      <lb facs="#facs_26_tr_3_tl_1" n="N001"/>48
-      <lb facs="#facs_26_tr_3_tl_2" n="N002"/>58
-      <lb facs="#facs_26_tr_3_tl_3" n="N003"/>de
-      <lb facs="#facs_26_tr_3_tl_4" n="N004"/>des
-      <lb facs="#facs_26_tr_3_tl_5" n="N005"/>zur</ab><ab facs="#facs_26_tr_2" type="">
-      <lb facs="#facs_26_tr_2_tl_1" n="N001"/>Die Mittelstellef der Staatsverwaltung ist,
-      <lb facs="#facs_26_tr_2_tl_2" n="N002"/>die Landexregierung. In jeder Provinz avec
-      <lb facs="#facs_26_tr_2_tl_3" n="N003"/>mit dem Silze in der Landeshauptstadt eine Landes¬
+      <lb facs="#facs_26_l_1513" n="N001"/>14
+      <lb facs="#facs_26_tr_1_tl_1" n="N002"/>
+      <lb facs="#facs_26_tr_1_tl_2" n="N003"/>und die Pflicht, allein oder mit dem Kanzler in der seinen Verwaltungszweig berührenden
+      <lb facs="#facs_26_tr_1_tl_3" n="N004"/>Kommission des Vollzugsauschusses StR zu erscheinen.
+      <lb facs="#facs_26_tr_1_tl_4" n="N005"/>Auf Verlangen Weisung des Praesidentes des Vollzugsaus-
+      <lb facs="#facs_26_tr_1_tl_5" n="N006"/>
+      <lb facs="#facs_26_tr_1_tl_6" n="N007"/>
+      <lb facs="#facs_26_tr_1_tl_7" n="N008"/>schusses oder auf Beschluß des Senates Volkshauses oder Senates
+      <lb facs="#facs_26_tr_1_tl_8" n="N009"/>haben die Mitglieder des Kanzlerrates in den beiden
+      <lb facs="#facs_26_tr_1_tl_9" n="N010"/>ges Körpern der Nationalversammlung zu erscheinen
+      <lb facs="#facs_26_tr_1_tl_10" n="N011"/>wie
+      <lb facs="#facs_26_tr_1_tl_11" n="N012"/>und in deren Ausschüssen
+      <lb facs="#facs_26_tr_1_tl_12" n="N013"/>Der Kanzlerrat hat das Recht, in allen
+      <lb facs="#facs_26_tr_1_tl_13" n="N014"/>Argelegenheiten der Gesetzgebung auch ohne Auftrag
+      <lb facs="#facs_26_tr_1_tl_14" n="N015"/>des Vollzugsausschusses StR Gesetzesvorlagen
+      <lb facs="#facs_26_tr_1_tl_15" n="N016"/>auszuarbeiten, und ihm zu unterbreiten. Lehnt
+      <lb facs="#facs_26_tr_1_tl_16" n="N017"/>
+      <lb facs="#facs_26_tr_1_tl_17" n="N018"/>dieser die Vorlage Einbringung an die Nationalversammlung
+      <lb facs="#facs_26_tr_1_tl_18" n="N019"/>
+      <lb facs="#facs_26_tr_1_tl_19" n="N020"/>ab, so kann der Kanzlerrat gegen diese
+      <lb facs="#facs_26_tr_1_tl_20" n="N021"/>Ablehnung unter Anschluß des Entwurfes
+      <lb facs="#facs_26_tr_1_tl_21" n="N022"/>eine motivierte Vorstellung an die National¬
+      <lb facs="#facs_26_tr_1_tl_22" n="N023"/>versammlung richten. Über diese Vorstellung
+      <lb facs="#facs_26_tr_1_tl_23" n="N024"/>muß binnen drei zwei Monaten eine ein Beschluß
+      <lb facs="#facs_26_tr_1_tl_24" n="N025"/>der Nationalversammlung eingeholt werden.</ab><ab facs="#facs_26_r_1540" type="">
+      <lb facs="#facs_26_l_1549" n="N001"/>§ 41 39 40 § 50 54</ab><ab facs="#facs_26_tr_2" type="">
+      <lb facs="#facs_26_tr_2_tl_1" n="N001"/>Die Mittelsteller der Staatsverwaltung ist,
+      <lb facs="#facs_26_tr_2_tl_2" n="N002"/>die Landesregierung. In jeder Provinz wird
+      <lb facs="#facs_26_tr_2_tl_3" n="N003"/>mit dem Sitze in der Landeshauptstadt eine Landes¬
       <lb facs="#facs_26_tr_2_tl_4" n="N004"/>regierung errichtet, welche unter einem die bisher
-      <lb facs="#facs_26_tr_2_tl_5" n="N005"/>genannte landesfürstliche und die bisher
-      <lb facs="#facs_26_tr_2_tl_6" n="N006"/>nogenannte  autonome Verwaltung pr
+      <lb facs="#facs_26_tr_2_tl_5" n="N005"/>sogenannte landesfürstliche und die bisher
+      <lb facs="#facs_26_tr_2_tl_6" n="N006"/>sogenannte  "autonome" Verwaltung führt.
       <lb facs="#facs_26_tr_2_tl_7" n="N007"/>zweiter Instanz führt. Die Scheidung in landes¬
-      <lb facs="#facs_26_tr_2_tl_8" n="N008"/>fürkliche Verwaltung ist aufgehoben.
-      <lb facs="#facs_26_tr_2_tl_10" n="N009"/>Bis zur Erlassung eines eigenen
-      <lb facs="#facs_26_tr_2_tl_12" n="N010"/>(cout autououm)
-      <lb facs="#facs_26_tr_2_tl_13" n="N011"/>Kompeteuzgesetzes bleibt die bisherige Kom¬
-      <lb facs="#facs_26_tr_2_tl_14" n="N012"/>petenz verteilung aufrecht.</ab><ab facs="#facs_26_r" type="">
-      <lb facs="#facs_26_l" n="N001"/>
-      <lb facs="#facs_26_l_1542" n="N002"/>
-      <lb facs="#facs_26_l_1548" n="N003"/></ab><pb facs="#facs_27" n="27" xml:id="img_0027"/><ab facs="#facs_27_tr_2" type="">
+      <lb facs="#facs_26_tr_2_tl_8" n="N008"/>fürstliche Verwaltung ist aufgehoben.
+      <lb facs="#facs_26_tr_2_tl_10" n="N009"/>Bis zur Be Erlassung eines eigenen
+      <lb facs="#facs_26_tr_2_tl_12" n="N010"/>(und autonome)
+      <lb facs="#facs_26_tr_2_tl_13" n="N011"/>Kompetenzgesetzes bleibt die bisherige Kom¬
+      <lb facs="#facs_26_tr_2_tl_14" n="N012"/>petenzverteilung aufrecht.</ab><ab facs="#facs_26_r" type="">
+      <lb facs="#facs_26_l" n="N001"/>unter 
+      <lb facs="#facs_26_l_1542" n="N002"/>einem
+      <lb facs="#facs_26_l_1548" n="N003"/>mitbringen[?]</ab><pb facs="#facs_27" n="27" xml:id="img_0027"/><ab facs="#facs_27_tr_2" type="">
       <lb facs="#facs_27_tr_2_tl_1" n="N001"/>15
-      <lb facs="#facs_27_tr_2_tl_2" n="N002"/>3
-      <lb facs="#facs_27_tr_2_tl_3" n="N003"/>2.
-      <lb facs="#facs_27_tr_2_tl_4" n="N004"/>S.
+      <lb facs="#facs_27_tr_2_tl_2" n="N002"/>§
+      <lb facs="#facs_27_tr_2_tl_3" n="N003"/>42. i
+      <lb facs="#facs_27_tr_2_tl_4" n="N004"/>55
       <lb facs="#facs_27_tr_2_tl_5" n="N005"/>Jeder Landtag bestellt aus seiner Mitte einen
-      <lb facs="#facs_27_tr_2_tl_6" n="N006"/>Landesaussschuß, dieser wählt als seinen
+      <lb facs="#facs_27_tr_2_tl_6" n="N006"/>Landesaussschuß, dieser gibt wählt als seinen
       <lb facs="#facs_27_tr_2_tl_7" n="N007"/>zur Führung des Vorsitzes den Landeshauptmann
-      <lb facs="#facs_27_tr_2_tl_8" n="N008"/>und zwey Stellvertreter. Auf dem verteilt
+      <lb facs="#facs_27_tr_2_tl_8" n="N008"/>und zwei Stellvertreter. Außerdem Erla[?] verteilt
       <lb facs="#facs_27_tr_2_tl_9" n="N009"/>er die Berichterstattung über die Agenden der
       <lb facs="#facs_27_tr_2_tl_10" n="N010"/>bisherigen autonomen Landesverwaltung auf
       <lb facs="#facs_27_tr_2_tl_11" n="N011"/>die einzelnen Mitglieder des Landesaus¬
       <lb facs="#facs_27_tr_2_tl_12" n="N012"/>schusses auf und führt die in der bisherigen
-      <lb facs="#facs_27_tr_2_tl_13" n="N013"/>Agendie
-      <lb facs="#facs_27_tr_2_tl_15" n="N014"/>In diesen Angelegenheiten ist des Landesanschluß
-      <lb facs="#facs_27_tr_2_tl_16" n="N015"/>Weise
+      <lb facs="#facs_27_tr_2_tl_13" n="N013"/>diese Agenden
+      <lb facs="#facs_27_tr_2_tl_16" n="N014"/>Weise
+      <lb facs="#facs_27_tr_2_tl_15" n="N015"/>In diesen Angelegenheiten ist der Landesausschuß
       <lb facs="#facs_27_tr_2_tl_17" n="N016"/>dem Landtag verantwortlich.
-      <lb facs="#facs_27_tr_2_tl_18" n="N017"/>et de
-      <lb facs="#facs_27_tr_2_tl_19" n="N018"/>56.843.54
+      <lb facs="#facs_27_tr_2_tl_18" n="N017"/>
+      <lb facs="#facs_27_tr_2_tl_19" n="N018"/>§ 52[?] 56 §43 § 42
       <lb facs="#facs_27_tr_2_tl_20" n="N019"/>Der Landeshauptmann und seine beiden Stell¬
       <lb facs="#facs_27_tr_2_tl_21" n="N020"/>vertreter bilden zusammen die Landesregie¬
-      <lb facs="#facs_27_tr_2_tl_22" n="N021"/>rung. Sie führt Kolle Korperschaftlich
+      <lb facs="#facs_27_tr_2_tl_22" n="N021"/>rung. Sie führt Kolle Körperschaftlich
       <lb facs="#facs_27_tr_2_tl_23" n="N022"/>diejenigen Agenden, die durch das Gesetz
-      <lb facs="#facs_27_tr_2_tl_24" n="N023"/>vom 19. Mai 1868 No. 44. RgBl. u. bez.
-      <lb facs="#facs_27_tr_2_tl_25" n="N024"/>die Enrichten der politischer Verwaltungs¬
+      <lb facs="#facs_27_tr_2_tl_24" n="N023"/>vom 19. Mai 1868 No. 44. RgBl. über
+      <lb facs="#facs_27_tr_2_tl_25" n="N024"/>die Errichtung der politischen Verwaltungs¬
       <lb facs="#facs_27_tr_2_tl_26" n="N025"/>behörde (§2 - 9) dem LandesChef
-      <lb facs="#facs_27_tr_2_tl_27" n="N026"/>zugewiexn ist, und zwar nach den
+      <lb facs="#facs_27_tr_2_tl_27" n="N026"/>vorbest zugewiesen ist sind, und zwar nach den
       <lb facs="#facs_27_tr_2_tl_28" n="N027"/>Weisungen des Staatskanzlers und der
-      <lb facs="#facs_27_tr_2_tl_29" n="N028"/>bei, né
-      <lb facs="#facs_27_tr_2_tl_30" n="N029"/>ev.
-      <lb facs="#facs_27_l_1807" n="N030"/>
-      <lb facs="#facs_27_tr_2_tl_31" n="N031"/>zuständigen Staatssekretare, diesen allein
-      <lb facs="#facs_27_tr_2_tl_34" n="N032"/>beziehungsweise der Nationalversammlung
-      <lb facs="#facs_27_tr_2_tl_37" n="N033"/>sind nicht dem Landtage verantwortlich
-      <lb facs="#facs_27_tr_2_tl_38" n="N034"/>est
-      <lb facs="#facs_27_tr_2_tl_41" n="N035"/>und ausschließt
-      <lb facs="#facs_27_tr_2_tl_42" n="N036"/>55
-      <lb facs="#facs_27_tr_2_tl_43" n="N037"/>844.</ab><ab facs="#facs_27_r_1784" type="">
-      <lb facs="#facs_27_l_1795" n="N001"/>
-      <lb facs="#facs_27_l_1801" n="N002"/>
-      <lb facs="#facs_27_l_1813" n="N003"/>
-      <lb facs="#facs_27_l_1819" n="N004"/>
-      <lb facs="#facs_27_l_1825" n="N005"/>
-      <lb facs="#facs_27_l_1831" n="N006"/></ab><ab facs="#facs_27_tr_1" type="">
+      <lb facs="#facs_27_tr_2_tl_31" n="N028"/>zuständigen Staatssekretäre, wobei sie diesen allein,
+      <lb facs="#facs_27_tr_2_tl_34" n="N029"/>beziehungsweise der Nationalversammlung
+      <lb facs="#facs_27_tr_2_tl_37" n="N030"/>allein und nicht dem Landtage verantwortlich
+      <lb facs="#facs_27_tr_2_tl_38" n="N031"/>ist
+      <lb facs="#facs_27_tr_2_tl_41" n="N032"/>und ausschließt
+      <lb facs="#facs_27_tr_2_tl_42" n="N033"/>§ 53 57
+      <lb facs="#facs_27_tr_2_tl_43" n="N034"/>§ 43 44.</ab><ab facs="#facs_27_r_1784" type="">
+      <lb facs="#facs_27_l_1795" n="N001"/>Erledigt[?]
+      <lb facs="#facs_27_l_1801" n="N002"/>allgemeinen Staatsgesetzen, nachdem
+      <lb facs="#facs_27_l_1813" n="N003"/>d[?] Durchführungs-
+      <lb facs="#facs_27_l_1819" n="N004"/>verordnungen[?] des 
+      <lb facs="#facs_27_l_1825" n="N005"/>Staatsrats und
+      <lb facs="#facs_27_l_1831" n="N006"/>nach den</ab><ab facs="#facs_27_tr_1" type="">
       <lb facs="#facs_27_tr_1_tl_1" n="N001"/>Durch besondere Dienstauweisungen können
-      <lb facs="#facs_27_tr_1_tl_2" n="N002"/>von den in § 13 berührten Angelegenheiten allge¬
-      <lb facs="#facs_27_tr_1_tl_3" n="N003"/>man oder fallweise einzelne wie die Angelegen¬
-      <lb facs="#facs_27_tr_1_tl_4" n="N004"/>heiter des Staatspolizei, dem Landeshaupt¬
-      <lb facs="#facs_27_tr_1_tl_5" n="N005"/>manns zur persönliche Erledigung vorbe
-      <lb facs="#facs_27_tr_1_tl_6" n="N006"/>halter werden.
-      <lb facs="#facs_27_tr_1_tl_7" n="N007"/>§ 4544 858
-      <lb facs="#facs_27_tr_1_tl_8" n="N008"/>Am Vorste des Kreises, und am selve des Kreis
-      <lb facs="#facs_27_tr_1_tl_9" n="N009"/>als oberste und zusammenfassen die Lokalverwaltungstelle
-      <lb facs="#facs_27_tr_1_tl_10" n="N010"/>tages / werden Kreisregierungen errichtet
+      <lb facs="#facs_27_tr_1_tl_2" n="N002"/>von den in § 43 § 52 berührten Angelegenheiten allge¬
+      <lb facs="#facs_27_tr_1_tl_3" n="N003"/>mein oder fallweise einzelne wie die Angelegen¬
+      <lb facs="#facs_27_tr_1_tl_4" n="N004"/>heiten der Staatspolizei, dem Landeshaupt¬
+      <lb facs="#facs_27_tr_1_tl_5" n="N005"/>mann zur persönlichen Erledigung vorbe-
+      <lb facs="#facs_27_tr_1_tl_6" n="N006"/>halten werden.
+      <lb facs="#facs_27_tr_1_tl_7" n="N007"/>§ 45 44 § 54 58
+      <lb facs="#facs_27_tr_1_tl_8" n="N008"/>Am Vororte des Kreises, und am Sitze des Kreis-
+      <lb facs="#facs_27_tr_1_tl_10" n="N009"/>tages werden Kreisregierungen errichtet.
+      <lb facs="#facs_27_tr_1_tl_9" n="N010"/>als oberste und zusammenfassende Lokalverwaltungstellen
       <lb facs="#facs_27_tr_1_tl_13" n="N011"/>Der Kreistag bestellt aus seiner Mitte</ab><ab facs="#facs_27_r" type="">
-      <lb facs="#facs_27_l" n="N001"/>
-      <lb facs="#facs_27_l_1769" n="N002"/>
-      <lb facs="#facs_27_l_1775" n="N003"/></ab><pb facs="#facs_28" n="28" xml:id="img_0028"/><ab facs="#facs_28_tr_2" type="">
+      <lb facs="#facs_27_l" n="N001"/>und der Kreis- und
+      <lb facs="#facs_27_l_1769" n="N002"/>und Landes-
+      <lb facs="#facs_27_l_1775" n="N003"/>gerichte</ab><pb facs="#facs_28" n="28" xml:id="img_0028"/><ab facs="#facs_28_tr_2" type="">
       <lb facs="#facs_28_tr_2_tl_1" n="N001"/>16
-      <lb facs="#facs_28_tr_2_tl_2" n="N002"/>einen Kreisausschuß von 17 zieber Mitglieder
-      <lb facs="#facs_28_tr_2_tl_3" n="N003"/>dieser aus seiner Mille als Vorschauen
+      <lb facs="#facs_28_tr_2_tl_2" n="N002"/>einen Kreisausschuß von 17 sieben Mitgliedern,
+      <lb facs="#facs_28_tr_2_tl_3" n="N003"/>dieser aus seiner Mitte den V als Vorsitzenden
       <lb facs="#facs_28_tr_2_tl_4" n="N004"/>den Kreishauptmann und zwei Stellver¬
       <lb facs="#facs_28_tr_2_tl_5" n="N005"/>treter.
-      <lb facs="#facs_28_tr_2_tl_6" n="N006"/>Der Kreis ausschuß führt diejenige Agen
-      <lb facs="#facs_28_tr_2_tl_7" n="N007"/>den, welche bisher in einiger Landern wie in
-      <lb facs="#facs_28_tr_2_tl_8" n="N008"/>Böhnen und in der Skiermark den Bezirks
-      <lb facs="#facs_28_tr_2_tl_9" n="N009"/>vertretungen nähertragen waren.
-      <lb facs="#facs_28_tr_2_tl_10" n="N010"/>durch Gesondere Geretze
-      <lb facs="#facs_28_tr_2_tl_11" n="N011"/>werdee
-      <lb facs="#facs_28_tr_2_tl_12" n="N012"/>Außerdem gehe auf ihm die Angelegen¬
-      <lb facs="#facs_28_tr_2_tl_13" n="N013"/>die Leitung u. Beauprichtigung ###
-      <lb facs="#facs_28_tr_2_tl_14" n="N014"/>heiter der Besriksstraßenansschüsse und
-      <lb facs="#facs_28_tr_2_tl_15" n="N015"/>der Bezirksarmeurate übertragen.
-      <lb facs="#facs_28_tr_2_tl_16" n="N016"/>In diesen Funktionen ist der Kreis aus
-      <lb facs="#facs_28_tr_2_tl_17" n="N017"/>schup dem Kreislage verantwortlich.
-      <lb facs="#facs_28_tr_2_tl_18" n="N018"/>¬
-      <lb facs="#facs_28_tr_2_tl_19" n="N019"/>76</ab><ab facs="#facs_28_tr_3" type="">
+      <lb facs="#facs_28_tr_2_tl_6" n="N006"/>Der Kreisausschuß führt diejenige Agen-
+      <lb facs="#facs_28_tr_2_tl_7" n="N007"/>den, welche bisher in einiger Ländern wie in
+      <lb facs="#facs_28_tr_2_tl_8" n="N008"/>Böhmen und in der Steiermark den Bezirks-
+      <lb facs="#facs_28_tr_2_tl_9" n="N009"/>vertretungen übertragen waren.
+      <lb facs="#facs_28_tr_2_tl_10" n="N010"/>durch besondere Gesetze
+      <lb facs="#facs_28_tr_2_tl_11" n="N011"/>werden
+      <lb facs="#facs_28_tr_2_tl_12" n="N012"/>Außerdem gehen auf ihm die Angelegen¬
+      <lb facs="#facs_28_tr_2_tl_14" n="N013"/>heiten der Bezirksstraßenausschüsse und
+      <lb facs="#facs_28_tr_2_tl_13" n="N014"/>die Leitung[?] u. Beaufsichtigung der
+      <lb facs="#facs_28_tr_2_tl_15" n="N015"/>der Bezirksarmenräte übertragen.
+      <lb facs="#facs_28_tr_2_tl_16" n="N016"/>In diesen Funktionen ist der Kreisaus-
+      <lb facs="#facs_28_tr_2_tl_17" n="N017"/>schuß dem Kreistage verantwortlich.
+      <lb facs="#facs_28_tr_2_tl_18" n="N018"/>§ 46 45 §59 55
+      <lb facs="#facs_28_tr_2_tl_19" n="N019"/></ab><ab facs="#facs_28_tr_3" type="">
       <lb facs="#facs_28_tr_3_tl_1" n="N001"/>Der Kreishauptmann und seine Stellvertreter
       <lb facs="#facs_28_tr_3_tl_2" n="N002"/>bilden die Kreisregierung. Auf sie geht
-      <lb facs="#facs_28_tr_3_tl_3" n="N003"/>die gesamte Wompetenz über, die durch
-      <lb facs="#facs_28_tr_3_tl_4" n="N004"/>das erwähnte Gesetz vom 19. Mai 1868, 8
+      <lb facs="#facs_28_tr_3_tl_3" n="N003"/>die gesamte Kompetenz über, die durch
+      <lb facs="#facs_28_tr_3_tl_4" n="N004"/>das erwähnte Gesetz vom 19. Mai 1868, §§
       <lb facs="#facs_28_tr_3_tl_5" n="N005"/>10 bis 14 den Bezirkshauptmannschaften
       <lb facs="#facs_28_tr_3_tl_6" n="N006"/>zugewiesen ist, und die Kreisregierung
-      <lb facs="#facs_28_tr_3_tl_7" n="N007"/>Gubit diese Geschärte nach den allgemeinen
+      <lb facs="#facs_28_tr_3_tl_7" n="N007"/>führt diese Geschäfte nach den allgemeinen
       <lb facs="#facs_28_tr_3_tl_8" n="N008"/>Staatsgesetzen, nach den Durchführungs¬
-      <lb facs="#facs_28_tr_3_tl_9" n="N009"/>Verordnungen des Staatsvales und sowie
-      <lb facs="#facs_28_tr_3_tl_10" n="N010"/>nach der Weisungen der übergeordneter</ab><ab facs="#facs_28_tr_1" type="">
+      <lb facs="#facs_28_tr_3_tl_9" n="N009"/>verordnungen des Staatsrates und sowie
+      <lb facs="#facs_28_tr_3_tl_10" n="N010"/>nach den Weisungen der übergeordneten</ab><ab facs="#facs_28_tr_1" type="">
       <lb facs="#facs_28_tr_1_tl_1" n="N001"/>Behörden, darin nur diesen und nicht
-      <lb facs="#facs_28_tr_1_tl_2" n="N002"/>dem Kreistage verantwortlich
-      <lb facs="#facs_28_tr_1_tl_3" n="N003"/>Durch besondere Diendauweisung
-      <lb facs="#facs_28_tr_1_tl_4" n="N004"/>können von diesen Angelegenheiter einzelve
+      <lb facs="#facs_28_tr_1_tl_2" n="N002"/>dem Kreistage verantwortlich.
+      <lb facs="#facs_28_tr_1_tl_3" n="N003"/>Durch besondere Dienstanweisungen
+      <lb facs="#facs_28_tr_1_tl_4" n="N004"/>können von diesen Angelegenheiten einzelne
       <lb facs="#facs_28_tr_1_tl_5" n="N005"/>fallweise oder allgemein dem Kreishaupt¬
       <lb facs="#facs_28_tr_1_tl_6" n="N006"/>mann vorbehalten werden.
-      <lb facs="#facs_28_tr_1_tl_7" n="N007"/>847. 590
-      <lb facs="#facs_28_tr_1_tl_8" n="N008"/>Der Kreisregierung zur Leite steht das Kreisamt
-      <lb facs="#facs_28_tr_1_tl_9" n="N009"/>für die Leitung der Kanzlei geschäfte bestellt, ist der
-      <lb facs="#facs_28_tr_1_tl_10" n="N010"/>unS dan Kreishaupl"
-      <lb facs="#facs_28_tr_1_tl_11" n="N011"/>Kreisamts-
-      <lb facs="#facs_28_tr_1_tl_12" n="N012"/>manu verantwortlich,</ab><pb facs="#facs_29" n="29" xml:id="img_0029"/><ab facs="#facs_29_tr_1" type="">
+      <lb facs="#facs_28_tr_1_tl_7" n="N007"/>847. § 56 60
+      <lb facs="#facs_28_tr_1_tl_8" n="N008"/>Der Kreisregierung zur Seite steht das Kreisamt.
+      <lb facs="#facs_28_tr_1_tl_9" n="N009"/>Für die Leitung der Kanzleigeschäfte bestellt, ist der
+      <lb facs="#facs_28_tr_1_tl_11" n="N010"/>Kreisamts-
+      <lb facs="#facs_28_tr_1_tl_10" n="N011"/>und dem Kreishaupt-
+      <lb facs="#facs_28_tr_1_tl_12" n="N012"/>mann verantwortlich,</ab><pb facs="#facs_29" n="29" xml:id="img_0029"/><ab facs="#facs_29_tr_1" type="">
       <lb facs="#facs_29_tr_1_tl_1" n="N001"/>17
       <lb facs="#facs_29_tr_1_tl_2" n="N002"/>leiter.
       <lb facs="#facs_29_tr_1_tl_3" n="N003"/>Das Kreisamt hat außer den Fachabteilungen
-      <lb facs="#facs_29_tr_1_tl_4" n="N004"/>anseinem Sitze exponierte Abteilungen
-      <lb facs="#facs_29_tr_1_tl_5" n="N005"/>auperhalb dieses Sitzes jeder Gerichts-
-      <lb facs="#facs_29_tr_1_tl_6" n="N006"/>bezirke. Diese Bezirksämter stehen unter
+      <lb facs="#facs_29_tr_1_tl_4" n="N004"/>an seinem Sitze exponierte Abteilungen
+      <lb facs="#facs_29_tr_1_tl_5" n="N005"/>außerhalb dieses Sitzes am Sitze für jeden Gerichts-
+      <lb facs="#facs_29_tr_1_tl_6" n="N006"/>bezirks. Diese Bezirksämter stehen unter
       <lb facs="#facs_29_tr_1_tl_7" n="N007"/>der Leitung des Amtmannes. Sie sind
       <lb facs="#facs_29_tr_1_tl_8" n="N008"/>Teile des Kreisamts und ihm gegenüber
-      <lb facs="#facs_29_tr_1_tl_9" n="N009"/>Keine Instanz. Der Amtmann führt die
-      <lb facs="#facs_29_tr_1_tl_10" n="N010"/>Geschäute einfacher oder dringlicher Art un
-      <lb facs="#facs_29_tr_1_tl_11" n="N011"/>Namen des Kreishauptmanns. [Fühly sich
-      <lb facs="#facs_29_tr_1_tl_12" n="N012"/>durch
-      <lb facs="#facs_29_tr_1_tl_13" n="N013"/>eine Partei gegen eine Verfügung oder Entschei¬
+      <lb facs="#facs_29_tr_1_tl_9" n="N009"/>keine Instanz. Der Amtmann führt die
+      <lb facs="#facs_29_tr_1_tl_10" n="N010"/>Geschäfte einfacher oder dringlicher Art im
+      <lb facs="#facs_29_tr_1_tl_11" n="N011"/>Namen des Kreishauptmanns. [Fühlt sich
+      <lb facs="#facs_29_tr_1_tl_12" n="N012"/>
+      <lb facs="#facs_29_tr_1_tl_13" n="N013"/>eine Partei gegen durch eine Verfügung oder Entschei¬
       <lb facs="#facs_29_tr_1_tl_14" n="N014"/>dung des Amtmanns beschwert, so steht ihr
-      <lb facs="#facs_29_tr_1_tl_15" n="N015"/>das Recht unmittelbare persönlicher, mündlicher
-      <lb facs="#facs_29_tr_1_tl_16" n="N016"/>telephonischer oder drohtlicher oder schrüplicher</ab><ab facs="#facs_29_tr_2" type="">
+      <lb facs="#facs_29_tr_1_tl_15" n="N015"/>das Recht unmittelbarer persönlicher, mündlicher
+      <lb facs="#facs_29_tr_1_tl_16" n="N016"/>telephonischer oder drahtlicher oder schriftlicher</ab><ab facs="#facs_29_tr_2" type="">
       <lb facs="#facs_29_tr_2_tl_1" n="N001"/>Vorstellung an den Amtschef zu. Erfolgt
       <lb facs="#facs_29_tr_2_tl_2" n="N002"/>keine Vorstellung oder wird diese abgewiesen, so geht
-      <lb facs="#facs_29_tr_2_tl_3" n="N003"/>Gelf die Verfügung oder Entscheidung als von
-      <lb facs="#facs_29_tr_2_tl_4" n="N004"/>Kreisunterflossen.
-      <lb facs="#facs_29_tr_2_tl_5" n="N005"/>Die bestehenden Bezirkshauptmanu¬
-      <lb facs="#facs_29_tr_2_tl_6" n="N006"/>schaften und Bezirksvertretungen werden auf
-      <lb facs="#facs_29_tr_2_tl_7" n="N007"/>gelassen, beziehungsweise in Kreisregierung und
-      <lb facs="#facs_29_tr_2_tl_8" n="N008"/>teilweise  Bezirksamte überführt.
-      <lb facs="#facs_29_tr_2_tl_9" n="N009"/>3.40
+      <lb facs="#facs_29_tr_2_tl_3" n="N003"/>gilt die Verfügung oder Entscheidung als vom
+      <lb facs="#facs_29_tr_2_tl_4" n="N004"/>Kreisamt erflossen[?].
+      <lb facs="#facs_29_tr_2_tl_5" n="N005"/>Die bestehenden Bezirkshauptmann¬
+      <lb facs="#facs_29_tr_2_tl_6" n="N006"/>schaften und Bezirksvertretungen werden auf-
+      <lb facs="#facs_29_tr_2_tl_7" n="N007"/>gelassen, beziehungsweise in die Kreisregierungen und
+      <lb facs="#facs_29_tr_2_tl_8" n="N008"/>teilweise die  Bezirksämter überführt.
+      <lb facs="#facs_29_tr_2_tl_9" n="N009"/>§.40 49 § 47
       <lb facs="#facs_29_tr_2_tl_10" n="N010"/>Der Rechtszug geht, einerlei ob im eigenen oder
       <lb facs="#facs_29_tr_2_tl_11" n="N011"/>übertragenen Wirkungskreise, von der Gemeinde
       <lb facs="#facs_29_tr_2_tl_12" n="N012"/>einheitlich im Wege des Bezirksamts an die
       <lb facs="#facs_29_tr_2_tl_13" n="N013"/>Kreisregierung.</ab><ab facs="#facs_29_tr_3" type="">
-      <lb facs="#facs_29_tr_3_tl_1" n="N001"/>Das gewähnte Kompetenz gesetz wird
-      <lb facs="#facs_29_tr_3_tl_2" n="N002"/>feststellen, in welcher Angelegenheiten der Rechts¬
-      <lb facs="#facs_29_tr_3_tl_3" n="N003"/>Jorq bei der Kreis= oder bei den Landesregiern
-      <lb facs="#facs_29_tr_3_tl_4" n="N004"/>abschließt und in welchen er bis zu den
-      <lb facs="#facs_29_tr_3_tl_5" n="N005"/>Staatsamten offensteht.
-      <lb facs="#facs_29_tr_3_tl_6" n="N006"/>Die Verfassung der Gemeinden wird durch eine
-      <lb facs="#facs_29_tr_3_tl_7" n="N007"/>als Staatsgesetz zu erlassende Gemeindeordnung neu gere
-      <lb facs="#facs_29_tr_3_tl_8" n="N008"/>gelt. Im Rahmen derselben werden die Landtage durch Landesgehil
-      <lb facs="#facs_29_tr_3_tl_9" n="N009"/>und in desse Rahmen Anordnungen der Kreistage die Enrechtingen
-      <lb facs="#facs_29_tr_3_tl_10" n="N010"/>der Gemeinden im Einzelnen xxx ournen¬</ab><pb facs="#facs_30" n="30" xml:id="img_0030"/><ab facs="#facs_30_r" type="">
-      <lb facs="#facs_30_l_849" n="N001"/>
-      <lb facs="#facs_30_l_843" n="N002"/>
-      <lb facs="#facs_30_l" n="N003"/></ab><ab facs="#facs_30_tr_2" type="">
-      <lb facs="#facs_30_tr_2_tl_1" n="N001"/>be Dienns
-      <lb facs="#facs_30_tr_2_tl_2" n="N002"/>Denen
-      <lb facs="#facs_30_tr_2_tl_3" n="N003"/>Staats-mid
-      <lb facs="#facs_30_tr_2_tl_4" n="N004"/>Die deutschen, innerhalb des deelschen Tiedlungs
-      <lb facs="#facs_30_tr_2_tl_5" n="N005"/>und Verwaltungsgebietes (§5 n 6) der
-      <lb facs="#facs_30_tr_2_tl_6" n="N006"/>Königreiche
-      <lb facs="#facs_30_tr_2_tl_7" n="N007"/>im Reichsrat vertreter
-      <lb facs="#facs_30_tr_2_tl_8" n="N008"/>tätigen
-      <lb facs="#facs_30_tr_2_tl_9" n="N009"/>und Kinder angestellten, Beamte und Diener
-      <lb facs="#facs_30_tr_2_tl_10" n="N010"/>werden in den öffentliche Dienst des Frei¬
-      <lb facs="#facs_30_tr_2_tl_11" n="N011"/>steates übernommen, hören Jedoch auf, einen
-      <lb facs="#facs_30_tr_2_tl_12" n="N012"/>Gesammtstatus Inbilden. Nur In den
-      <lb facs="#facs_30_tr_2_tl_13" n="N013"/>entätigen
-      <lb facs="#facs_30_tr_2_tl_14" n="N014"/>fentralämtern Bedienskten werden
-      <lb facs="#facs_30_tr_2_tl_15" n="N015"/>Steel Dienst, die in den Ländern Bedien¬
-      <lb facs="#facs_30_tr_2_tl_16" n="N016"/>stet Naatsbediendete, in der Landeun</ab><ab facs="#facs_30_r_858" type="">
-      <lb facs="#facs_30_l_868" n="N001"/>
-      <lb facs="#facs_30_l_874" n="N002"/></ab><ab facs="#facs_30_tr_1" type="">
-      <lb facs="#facs_30_tr_1_tl_1" n="N001"/>tâtige Landes- oder Kreis bedienstete.
+      <lb facs="#facs_29_tr_3_tl_1" n="N001"/>Das ob erwähnte Kompetenzgesetz wird
+      <lb facs="#facs_29_tr_3_tl_2" n="N002"/>feststellen, in welchen Angelegenheiten der Rechts¬
+      <lb facs="#facs_29_tr_3_tl_3" n="N003"/>zug bei der Kreis- oder bei der Landesregierung
+      <lb facs="#facs_29_tr_3_tl_4" n="N004"/>abschließt und in welchen er bis zur zu zum den
+      <lb facs="#facs_29_tr_3_tl_5" n="N005"/>Staatsämtern offensteht.
+      <lb facs="#facs_29_l" n="N006"/>§ 57 61
+      <lb facs="#facs_29_tr_3_tl_6" n="N007"/>Die Verfassung der Gemeinden wird durch eine
+      <lb facs="#facs_29_tr_3_tl_7" n="N008"/>als Staatsgesetz zu erlassende Gemeindeordnung neu gere-
+      <lb facs="#facs_29_tr_3_tl_8" n="N009"/>gelt. Im Rahmen derselben werden die Landtage durch Landesgesetz
+      <lb facs="#facs_29_tr_3_tl_9" n="N010"/>und in dessen Rahmen Anordnungen der Kreistage die Einrichtungen[?]
+      <lb facs="#facs_29_tr_3_tl_10" n="N011"/>der Gemeinden im Einzelnen regeln ordnen.</ab><pb facs="#facs_30" n="30" xml:id="img_0030"/><ab facs="#facs_30_r" type="">
+      <lb facs="#facs_30_l_849" n="N001"/>§ 58
+      <lb facs="#facs_30_l_843" n="N002"/>§ 62
+      <lb facs="#facs_30_l" n="N003"/>§ 47 zwei[?]</ab><ab facs="#facs_30_tr_2" type="">
+      <lb facs="#facs_30_l_848" n="N001"/>Der öffentliche
+      <lb facs="#facs_30_tr_2_tl_1" n="N002"/>Dienst
+      <lb facs="#facs_30_tr_2_tl_3" n="N003"/>staats- und
+      <lb facs="#facs_30_tr_2_tl_4" n="N004"/>Die deutschen, innerhalb des deutschen Siedlungs-
+      <lb facs="#facs_30_tr_2_tl_5" n="N005"/>und Verwaltungsgebietes (§1 u 2) (§5 u 6) der
+      <lb facs="#facs_30_tr_2_tl_7" n="N006"/>im Reichsrat vertreten
+      <lb facs="#facs_30_tr_2_tl_6" n="N007"/>Königreiche
+      <lb facs="#facs_30_tr_2_tl_8" n="N008"/>
+      <lb facs="#facs_30_tr_2_tl_9" n="N009"/>und Länder angestellten und tätigen Beamte und Diener
+      <lb facs="#facs_30_tr_2_tl_10" n="N010"/>werden in den öffentlichen Dienst des Frei¬
+      <lb facs="#facs_30_tr_2_tl_11" n="N011"/>staates übernommen, hören jedoch auf, einen
+      <lb facs="#facs_30_tr_2_tl_12" n="N012"/>Gesamtstatus Inbilden. Nur Die In den
+      <lb facs="#facs_30_tr_2_tl_13" n="N013"/>
+      <lb facs="#facs_30_tr_2_tl_14" n="N014"/>Zentralämtern tätigen Bediensteten werden
+      <lb facs="#facs_30_tr_2_tl_15" n="N015"/>Staatsdiener, die in den Ländern Bedien¬
+      <lb facs="#facs_30_tr_2_tl_16" n="N016"/>stet Staatsbedienstete, in der Ländern</ab><ab facs="#facs_30_r_858" type="">
+      <lb facs="#facs_30_l_868" n="N001"/>Je nach der
+      <lb facs="#facs_30_l_874" n="N002"/>Dienststufe</ab><ab facs="#facs_30_tr_1" type="">
+      <lb facs="#facs_30_tr_1_tl_1" n="N001"/>tätige Landes- oder Kreisbedienstete.
       <lb facs="#facs_30_tr_1_tl_2" n="N002"/>Die Besoldung erfolgt demnach [durch
-      <lb facs="#facs_30_tr_1_tl_3" n="N003"/>den Staat, das Land over den Kreis.
-      <lb facs="#facs_30_tr_1_tl_4" n="N004"/>sobald die finanzielle tusemander-
+      <lb facs="#facs_30_tr_1_tl_3" n="N003"/>den Staat, das Land oder den Kreis,
+      <lb facs="#facs_30_tr_1_tl_4" n="N004"/>sobald die finanzielle Auseinander-
       <lb facs="#facs_30_tr_1_tl_5" n="N005"/>setzung zwischen diesen Verwaltungs-
-      <lb facs="#facs_30_tr_1_tl_8" n="N006"/>Körpern vollzogen ist
-      <lb facs="#facs_30_tr_1_tl_7" n="N007"/>Öffentliche Beamte müssen kauf allen drei Diepststufen verwendet worden (bevor die
-      <lb facs="#facs_30_tr_1_tl_9" n="N008"/>in selbständige Stellungen Durch die Neuregelung dürfe, daß
-      <lb facs="#facs_30_tr_1_tl_11" n="N009"/>aufrucken können
+      <lb facs="#facs_30_tr_1_tl_8" n="N006"/>körpern vollzogen ist.
+      <lb facs="#facs_30_tr_1_tl_7" n="N007"/>Öffentliche Beamte müssen auf allen drei Diensststufen verwendet worden sein, bevor sie
+      <lb facs="#facs_30_tr_1_tl_9" n="N008"/>in selbständige Stellungen aufrücken können. Durch die Neuregelung dürfen das die
+      <lb facs="#facs_30_tr_1_tl_11" n="N009"/>
       <lb facs="#facs_30_tr_1_tl_10" n="N010"/>bestehenden Rechtsverhältnisse und Bezüge
       <lb facs="#facs_30_tr_1_tl_12" n="N011"/>der Beamten nicht verschlechtert werden.
-      <lb facs="#facs_30_tr_1_tl_13" n="N012"/>in Einkürt.</ab><pb facs="#facs_31" n="31" xml:id="img_0031"/><ab facs="#facs_31_tr_2" type="">
-      <lb facs="#facs_31_tr_2_tl_1" n="N001"/>Beschick
-      <lb facs="#facs_31_tr_2_tl_2" n="N002"/>Dochter
-      <lb facs="#facs_31_tr_2_tl_3" n="N003"/>18
-      <lb facs="#facs_31_tr_2_tl_4" n="N004"/>C. Van der rechterlichen Gewalt
-      <lb facs="#facs_31_tr_2_tl_5" n="N005"/>56
-      <lb facs="#facs_31_tr_2_tl_6" n="N006"/>50
-      <lb facs="#facs_31_tr_2_tl_7" n="N007"/>Gerichtsberkeit
-      <lb facs="#facs_31_tr_2_tl_8" n="N008"/>Alle richterliche Gewalt wird im Namen des Volks
+      <lb facs="#facs_30_tr_1_tl_13" n="N012"/>in Hinkunft.</ab><pb facs="#facs_31" n="31" xml:id="img_0031"/><ab facs="#facs_31_tr_2" type="">
+      <lb facs="#facs_31_tr_2_tl_3" n="N001"/>18
+      <lb facs="#facs_31_tr_2_tl_2" n="N002"/>Dritter
+      <lb facs="#facs_31_tr_2_tl_1" n="N003"/>Abschnitt
+      <lb facs="#facs_31_tr_2_tl_4" n="N004"/>C. Von der richterlichen Gewalt
+      <lb facs="#facs_31_tr_2_tl_5" n="N005"/>§ 63 57
+      <lb facs="#facs_31_tr_2_tl_6" n="N006"/>§ 50 48
+      <lb facs="#facs_31_tr_2_tl_7" n="N007"/>Gerichtsbarkeit
+      <lb facs="#facs_31_tr_2_tl_8" n="N008"/>Alle richterliche Gewalt wird im Namen des Volkes
       <lb facs="#facs_31_tr_2_tl_9" n="N009"/>und Gesetzes ausgeübt, alle Urteile werden im Namen
-      <lb facs="#facs_31_tr_2_tl_10" n="N010"/>verstaales
-      <lb facs="#facs_31_tr_2_tl_11" n="N011"/>das Wockes und gefertigt. Die Einrichtung und
-      <lb facs="#facs_31_tr_2_tl_12" n="N012"/>in Auftrag
+      <lb facs="#facs_31_tr_2_tl_12" n="N010"/>im Auftrag
+      <lb facs="#facs_31_tr_2_tl_10" n="N011"/>des Freistattes
+      <lb facs="#facs_31_tr_2_tl_11" n="N012"/>des Volkes und Gesetzes gefertigt. Die Einrichtung und
       <lb facs="#facs_31_tr_2_tl_13" n="N013"/>Zuständigkeit der Gerichte wird durch Gesetze
-      <lb facs="#facs_31_tr_2_tl_14" n="N014"/>festgestellt und kann mir durch die gesetzgebende
-      <lb facs="#facs_31_tr_2_tl_15" n="N015"/>Inwalt abgeänder werde.</ab><ab facs="#facs_31_tr_1" type="">
-      <lb facs="#facs_31_tr_1_tl_1" n="N001"/>49 564
-      <lb facs="#facs_31_tr_1_tl_2" n="N002"/>851.
-      <lb facs="#facs_31_tr_1_tl_3" n="N003"/>Zweiterle
+      <lb facs="#facs_31_tr_2_tl_14" n="N014"/>festgestellt und kann nur durch die gesetzgebende
+      <lb facs="#facs_31_tr_2_tl_15" n="N015"/>Gewalt abgeändert werden.</ab><ab facs="#facs_31_tr_1" type="">
+      <lb facs="#facs_31_tr_1_tl_1" n="N001"/>49 §60 64
+      <lb facs="#facs_31_tr_1_tl_2" n="N002"/>§ 51.
+      <lb facs="#facs_31_tr_1_tl_3" n="N003"/>zwey Teile
       <lb facs="#facs_31_tr_1_tl_4" n="N004"/>Die Richter werden entweder aus dem Volke auf
       <lb facs="#facs_31_tr_1_tl_5" n="N005"/>Zeit bestellt oder, zum Teile aus beruflich vor¬
       <lb facs="#facs_31_tr_1_tl_6" n="N006"/>auf Grund ihrer beruflichen
-      <lb facs="#facs_31_tr_1_tl_7" n="N007"/>Gebilderten
-      <lb facs="#facs_31_tr_1_tl_8" n="N008"/>Verbildung auf Lebensdauer ernannt.
-      <lb facs="#facs_31_tr_1_tl_9" n="N009"/>352
-      <lb facs="#facs_31_tr_1_tl_10" n="N010"/>In den Straßachtsschlage bei Verbrechen, mit die mit der Straß
-      <lb facs="#facs_31_tr_1_tl_11" n="N011"/>haber
-      <lb facs="#facs_31_tr_1_tl_12" n="N012"/>Des Todes oder mit Freiheitsstrafen von einem
+      <lb facs="#facs_31_tr_1_tl_7" n="N007"/>gebildeten
+      <lb facs="#facs_31_tr_1_tl_8" n="N008"/>Vorbildung auf Lebensdauer ernannt.
+      <lb facs="#facs_31_tr_1_tl_9" n="N009"/>§ 52 §50 §65
+      <lb facs="#facs_31_tr_1_tl_10" n="N010"/>In den Strafrechtspflege haben bei Verbrechen, mit die mit der Strafe
+      <lb facs="#facs_31_tr_1_tl_11" n="N011"/>
+      <lb facs="#facs_31_tr_1_tl_12" n="N012"/>des Todes oder mit Freiheitsstrafen von einem
       <lb facs="#facs_31_tr_1_tl_13" n="N013"/>Jahre und mehr bedroht sind, sowie bei allen
-      <lb facs="#facs_31_tr_1_tl_14" n="N014"/>oblische und durch Druckschriftig verübten
-      <lb facs="#facs_31_tr_1_tl_15" n="N015"/>allen
-      <lb facs="#facs_31_tr_1_tl_16" n="N016"/>Verbrechen und Vergehen aus dem
+      <lb facs="#facs_31_tr_1_tl_14" n="N014"/>politischen[?] und durch Druckschriften verübten
+      <lb facs="#facs_31_tr_1_tl_15" n="N015"/>
+      <lb facs="#facs_31_tr_1_tl_16" n="N016"/>Verbrechen und Vergehen haben allein aus dem
       <lb facs="#facs_31_tr_1_tl_17" n="N017"/>Volke bestellte Geschworene über die Schuld¬
       <lb facs="#facs_31_tr_1_tl_18" n="N018"/>frage zu entscheiden, bei allen Vergehen ernann¬
-      <lb facs="#facs_31_tr_1_tl_19" n="N019"/>te Berufsrichter nicht ohne aus dem Wolke
-      <lb facs="#facs_31_tr_1_tl_20" n="N020"/>(bei)
-      <lb facs="#facs_31_tr_1_tl_21" n="N021"/>bestellte Schäffen.
-      <lb facs="#facs_31_tr_1_tl_22" n="N022"/>In der Zivilrechtspflege sind der Urteils.
+      <lb facs="#facs_31_tr_1_tl_19" n="N019"/>te Berufsrichter nicht ohne aus dem Volke
+      <lb facs="#facs_31_tr_1_tl_20" n="N020"/>
+      <lb facs="#facs_31_tr_1_tl_21" n="N021"/>bestellte Schöffen.
+      <lb facs="#facs_31_tr_1_tl_22" n="N022"/>In der Zivilrechtspflege sind bei der Urteils-
       <lb facs="#facs_31_tr_1_tl_23" n="N023"/>fällung in allen Streitfragen Streitsachen von
       <lb facs="#facs_31_tr_1_tl_24" n="N024"/>fachlicher und technischer Eigenart oder von be¬
-      <lb facs="#facs_31_tr_1_tl_25" n="N025"/>rächtlichem Werte des Streitgegenstandes
-      <lb facs="#facs_31_tr_1_tl_26" n="N026"/>von
-      <lb facs="#facs_31_tr_1_tl_27" n="N027"/>Laienrichter ### fachlicher u technischen
-      <lb facs="#facs_31_tr_1_tl_28" n="N028"/>Wissen oder mit hoher Geschäftserfährung
+      <lb facs="#facs_31_tr_1_tl_25" n="N025"/>trächtlichem Werte des Streitgegenstandes
+      <lb facs="#facs_31_tr_1_tl_26" n="N026"/>
+      <lb facs="#facs_31_tr_1_tl_27" n="N027"/>Laienrichter mit von fachlichem u technischem
+      <lb facs="#facs_31_tr_1_tl_28" n="N028"/>Wissen oder mit hoher Geschäftserfahrung
       <lb facs="#facs_31_tr_1_tl_29" n="N029"/>beizuziehen oder berufliche Schiedsgerichte
       <lb facs="#facs_31_tr_1_tl_30" n="N030"/>vorzusehen.
-      <lb facs="#facs_31_tr_1_tl_31" n="N031"/>60
-      <lb facs="#facs_31_tr_1_tl_32" n="N032"/>– 2
-      <lb facs="#facs_31_tr_1_tl_33" n="N033"/>33
-      <lb facs="#facs_31_tr_1_tl_34" n="N034"/>Die Bestellung der Geschworenen und Schöff
-      <lb facs="#facs_31_tr_1_tl_35" n="N035"/>und Schöffen
-      <lb facs="#facs_31_tr_1_tl_36" n="N036"/>Wird, durch ein besonderes Gesetz neugeregelt werden,
-      <lb facs="#facs_31_tr_1_tl_37" n="N037"/>ohne Verzug</ab><pb facs="#facs_32" n="32" xml:id="img_0032"/><ab facs="#facs_32_tr_2" type="">
-      <lb facs="#facs_32_tr_2_tl_1" n="N001"/>78
-      <lb facs="#facs_32_tr_2_tl_2" n="N002"/>£53
-      <lb facs="#facs_32_tr_2_tl_3" n="N003"/>67
-      <lb facs="#facs_32_tr_2_tl_4" n="N004"/>55
+      <lb facs="#facs_31_tr_1_tl_32" n="N031"/>§ 53
+      <lb facs="#facs_31_l" n="N032"/>§ 67
+      <lb facs="#facs_31_tr_1_tl_31" n="N033"/>§ 60 62
+      <lb facs="#facs_31_tr_1_tl_33" n="N034"/>
+      <lb facs="#facs_31_tr_1_tl_34" n="N035"/>Die Bestellung der Geschworenen und Schöff
+      <lb facs="#facs_31_tr_1_tl_35" n="N036"/>und Schöffen
+      <lb facs="#facs_31_tr_1_tl_36" n="N037"/>wird, durch ein besonderes Gesetz neugeregelt werden,
+      <lb facs="#facs_31_tr_1_tl_37" n="N038"/>ohne Verzug</ab><pb facs="#facs_32" n="32" xml:id="img_0032"/><ab facs="#facs_32_tr_2" type="">
+      <lb facs="#facs_32_tr_2_tl_1" n="N001"/>19
+      <lb facs="#facs_32_tr_2_tl_2" n="N002"/>§ 63 67
+      <lb facs="#facs_32_tr_2_tl_3" n="N003"/>§ 53
+      <lb facs="#facs_32_tr_2_tl_4" n="N004"/>§ 52
       <lb facs="#facs_32_tr_2_tl_5" n="N005"/>Die Ernennung der beruflich vorgebildeten Rich¬
-      <lb facs="#facs_32_tr_2_tl_6" n="N006"/>Hollgium
-      <lb facs="#facs_32_tr_2_tl_7" n="N007"/>tir erfolgt durch das Justiz Commission
-      <lb facs="#facs_32_tr_2_tl_8" n="N008"/>noch
-      <lb facs="#facs_32_tr_2_tl_9" n="N009"/>der Nationalversammlung (§70)
-      <lb facs="#facs_32_tr_2_tl_10" n="N010"/>2
-      <lb facs="#facs_32_tr_2_tl_11" n="N011"/>(5 Sie besteht aus sieben Mitgliedern
-      <lb facs="#facs_32_tr_2_tl_12" n="N012"/>von dann durch das Volkshaus
-      <lb facs="#facs_32_tr_2_tl_13" n="N013"/>vier,
-      <lb facs="#facs_32_tr_2_tl_14" n="N014"/>und drei durch den Sendt berufen werden.
-      <lb facs="#facs_32_tr_2_tl_15" n="N015"/>Die Berichterstattung über die Ernennungen</ab><ab facs="#facs_32_tr_1" type="">
-      <lb facs="#facs_32_tr_1_tl_1" n="N001"/>der Sicher, jedoch ohne Stimmrecht, steht dem Haats¬
+      <lb facs="#facs_32_tr_2_tl_7" n="N006"/>ter erfolgt durch die das Justizcommission
+      <lb facs="#facs_32_tr_2_tl_6" n="N007"/>Kollegium
+      <lb facs="#facs_32_tr_2_tl_8" n="N008"/>die N[?]
+      <lb facs="#facs_32_tr_2_tl_9" n="N009"/>der Nationalversammlung (§ 40)
+      <lb facs="#facs_32_tr_2_tl_11" n="N010"/>Es Sie besteht aus sieben Mitgliedern,
+      <lb facs="#facs_32_tr_2_tl_12" n="N011"/>von denen drei durch das Volkshaus
+      <lb facs="#facs_32_tr_2_tl_13" n="N012"/>vier,
+      <lb facs="#facs_32_tr_2_tl_14" n="N013"/>und drei durch den Senat berufen werden.
+      <lb facs="#facs_32_tr_2_tl_15" n="N014"/>Die Berichterstattung über die Ernennungen</ab><ab facs="#facs_32_tr_1" type="">
+      <lb facs="#facs_32_tr_1_tl_1" n="N001"/>der Richter, jedoch steht ohne Stimmrecht, steht dem Staats¬
       <lb facs="#facs_32_tr_1_tl_2" n="N002"/>sekretär des Justizamts zu. Die Ernennung
-      <lb facs="#facs_32_tr_1_tl_3" n="N003"/>Kollegum
-      <lb facs="#facs_32_tr_1_tl_4" n="N004"/>wird vom Horstzinden des Justiz kommen
-      <lb facs="#facs_32_tr_1_tl_5" n="N005"/>und unter Gegänzeichung des Staatsse Kretars
-      <lb facs="#facs_32_tr_1_tl_6" n="N006"/>duckbrieuens-
-      <lb facs="#facs_32_tr_1_tl_7" n="N007"/>Aufträge des
-      <lb facs="#facs_32_tr_1_tl_8" n="N008"/>ausgefertigt und erfolgt im Kamin
-      <lb facs="#facs_32_tr_1_tl_9" n="N009"/>Slagtes und Volkes von Sudostdeutschland.
-      <lb facs="#facs_32_tr_1_tl_10" n="N010"/>preistaats.
-      <lb facs="#facs_32_tr_1_tl_11" n="N011"/>68
-      <lb facs="#facs_32_tr_1_tl_12" n="N012"/>55k
-      <lb facs="#facs_32_tr_1_tl_13" n="N013"/>Die Rechter sind in Ausübung ihres richten
+      <lb facs="#facs_32_tr_1_tl_4" n="N003"/>wird vom Vorsitzenden der des Justizkommision
+      <lb facs="#facs_32_tr_1_tl_3" n="N004"/>kollegium
+      <lb facs="#facs_32_tr_1_tl_6" n="N005"/>direktoriums[?]
+      <lb facs="#facs_32_tr_1_tl_5" n="N006"/>und unter Gegenzeichnung des Staatssekretärs
+      <lb facs="#facs_32_tr_1_tl_8" n="N007"/>ausgefertigt und erfolgt im Namen des
+      <lb facs="#facs_32_tr_1_tl_7" n="N008"/>Auftrage des
+      <lb facs="#facs_32_tr_1_tl_9" n="N009"/>Staates und Volkes von Südostdeutschland.
+      <lb facs="#facs_32_tr_1_tl_10" n="N010"/>Freistaats.
+      <lb facs="#facs_32_tr_1_tl_11" n="N011"/>§ 64 68
+      <lb facs="#facs_32_tr_1_tl_12" n="N012"/>§ 54 § 53
+      <lb facs="#facs_32_tr_1_tl_13" n="N013"/>Die Richter sind in Ausübung ihres richter-
       <lb facs="#facs_32_tr_1_tl_14" n="N014"/>lichen Amtes selbständig, unabhängig und
-      <lb facs="#facs_32_tr_1_tl_15" n="N015"/>unverletzlich (Artikel) des Staatsgeme¬
-      <lb facs="#facs_32_tr_1_tl_16" n="N016"/>gesetzes vom 21 Dezember 1867 R. 9 Bl. N. 144.
-      <lb facs="#facs_32_tr_1_tl_17" n="N017"/>t. 869
-      <lb facs="#facs_32_tr_1_tl_18" n="N018"/>955
-      <lb facs="#facs_32_tr_1_tl_19" n="N019"/>Bis zur allgemeinen Reform der Ver¬
-      <lb facs="#facs_32_tr_1_tl_20" n="N020"/>Waltung bleibt ein Verwaltungsgerichts¬
-      <lb facs="#facs_32_tr_1_tl_21" n="N021"/>hof mach die Bestimmung des Gesetzes
-      <lb facs="#facs_32_tr_1_tl_22" n="N022"/>vom 22. Okt 1875 Regßl Nr. 1875
-      <lb facs="#facs_32_tr_1_tl_23" n="N023"/>Regre No. 36 ex 1876 aufrecht.
-      <lb facs="#facs_32_tr_1_tl_24" n="N024"/>Das Reichsgerichts (Gesetz vom 18.
-      <lb facs="#facs_32_tr_1_tl_25" n="N025"/>April 1869. No 44 Regtb nur der Staatsgerichts¬
-      <lb facs="#facs_32_tr_1_tl_26" n="N026"/>hof (Geselz von 25. Juli 1867 R.O.Bl.
-      <lb facs="#facs_32_tr_1_tl_27" n="N027"/>No. 101 / worden durch ein besonderes
-      <lb facs="#facs_32_tr_1_tl_28" n="N028"/>Gesetz sont einander verschmolzen</ab><pb facs="#facs_33" n="33" xml:id="img_0033"/><ab facs="#facs_33_r" type="">
+      <lb facs="#facs_32_l" n="N015"/>u.s.w.
+      <lb facs="#facs_32_tr_1_tl_15" n="N016"/>unverletzlich ... (Artikel) 6 des Staatsgrund¬
+      <lb facs="#facs_32_tr_1_tl_16" n="N017"/>gesetzes vom 21 Dezember 1867 R.g.Bl. No. 144.
+      <lb facs="#facs_32_tr_1_tl_17" n="N018"/>§54 §65 §69
+      <lb facs="#facs_32_tr_1_tl_18" n="N019"/>§ 55
+      <lb facs="#facs_32_tr_1_tl_19" n="N020"/>Bis zur allgemeinen Reform der Ver¬
+      <lb facs="#facs_32_tr_1_tl_20" n="N021"/>waltung bleibt ein Verwaltungsgerichts¬
+      <lb facs="#facs_32_tr_1_tl_21" n="N022"/>hof nach den Bestimmungen des Gesetzes
+      <lb facs="#facs_32_tr_1_tl_22" n="N023"/>vom 22. Okt 1875 RgBl Nr. 1875
+      <lb facs="#facs_32_tr_1_tl_23" n="N024"/>RgBl No. 36 ex 1876 aufrecht.
+      <lb facs="#facs_32_tr_1_tl_24" n="N025"/>Das Reichsgerichte (Gesetz vom 18.
+      <lb facs="#facs_32_tr_1_tl_25" n="N026"/>April 1869. No 44 RgBl) und der Staatsgerichts¬
+      <lb facs="#facs_32_tr_1_tl_26" n="N027"/>hof (Gesetz vom 25. Juli 1867 R.O.Bl.
+      <lb facs="#facs_32_tr_1_tl_27" n="N028"/>No. 101 / worden durch ein besonderes
+      <lb facs="#facs_32_tr_1_tl_28" n="N029"/>Gesetz miteinander verschmolzen.</ab><pb facs="#facs_33" n="33" xml:id="img_0033"/><ab facs="#facs_33_r" type="">
       <lb facs="#facs_33_l" n="N001"/>
       <lb facs="#facs_33_l_1607" n="N002"/>
       <lb facs="#facs_33_l_1613" n="N003"/>
