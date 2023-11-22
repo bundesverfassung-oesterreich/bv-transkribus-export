@@ -94,435 +94,1734 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3101" lry="4439" xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0001/full/full/0/default.jpg" width="3101px" height="4439px"/></surface><surface ulx="0" uly="0" lrx="3125" lry="4405" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0002/full/full/0/default.jpg" width="3125px" height="4405px"/></surface><surface ulx="0" uly="0" lrx="3052" lry="4375" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0003/full/full/0/default.jpg" width="3052px" height="4375px"/></surface><surface ulx="0" uly="0" lrx="3119" lry="4430" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0004/full/full/0/default.jpg" width="3119px" height="4430px"/></surface><surface ulx="0" uly="0" lrx="3046" lry="4441" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0005/full/full/0/default.jpg" width="3046px" height="4441px"/></surface><surface ulx="0" uly="0" lrx="3040" lry="4382" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0006/full/full/0/default.jpg" width="3040px" height="4382px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4438" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0007/full/full/0/default.jpg" width="3018px" height="4438px"/></surface><surface ulx="0" uly="0" lrx="3050" lry="4377" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0008/full/full/0/default.jpg" width="3050px" height="4377px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4389" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0009/full/full/0/default.jpg" width="3018px" height="4389px"/></surface></facsimile>
     <text type="Manuskript">
-        <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001"/><p/><p>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/></p><p>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/>
-      <lb/></p><pb facs="#facs_2" n="2" xml:id="img_0002"/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_3" n="3" xml:id="img_0003"/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_4" n="4" xml:id="img_0004"/><p/><p/><p/><p/><p/><p/><p/><pb facs="#facs_5" n="5" xml:id="img_0005"/><p/><p>Durch Cö6sste</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p/><p/><p/><p/><pb facs="#facs_7" n="7" xml:id="img_0007"/><p/><p/><p/><p/><p/><pb facs="#facs_8" n="8" xml:id="img_0008"/><p/><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>Nationalrates, bezüglich des Vizepräsidenten und der körpern und über den Antrag eines dieser Ver¬
-      <lb/>(2) Er besteht aus einem Präsidenten, einem
-      <lb/>anderen Hälfte der Müglieder der Zustimmung des tretungskörper auf Erklärung des Mandatsverlustes
-      <lb/>Vizepräsidenten, vierzehn Mitgliedern und acht Ersatz
-      <lb/>Bundesrates.
-      <lb/>eines seiner Mitglieder.
-      <lb/>mitgliedern
+        <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001"/><p/><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Unleserlich</p><p>Unleserlich</p><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für ein Bundesverfassung
+      <lb/>die Materie mit Ausnahme des Abschnittes über die Grund- und Freiheitsrechte durchberaten.
+      <lb/>Im nachfolgenden wird nunmehr der Entwurf, wie er im Unterausschusse beschlossen wurde, in seiner Gänze der Öffentlichkeit zu
+      <lb/>Kenntnis gebracht Bei der durch die Verhältnisse bedingten raschen Beratung war es unvermeidlich, daß sich in der Tertierung gewisse
+      <lb/>Unstimmigkeiten ergeben haben; diese zu korrigieren, wird der Vollausschuß Gelegenheit haben, der in naher Zeit zusammentreten wird.</p><p>Entwurf eines Gesetzes, belreffend die Ver-
+      <lb/>fassung der Republik Osterreich.
+      <lb/>Erstes Hauptstück
+      <lb/>Allgemeine Bestimmungen.
       </p><div type="article">
-<head>Artikel 146.
+<head>Artikel 1.
       </head>
-<p>(3) Der Präsident, der Vizepräident, sieben Mit¬
+<p>(1) Osterreich ist eine demokratische Republik.
+      <lb/>(2)  Alle öffentlichen Gewalten werden vom Volke
+      <lb/>eingesetzt und in seinem Namen auegeübt.
       </p></div>
 <div type="article">
-<head>Artikel 152.
+<head>Artikel 2.
       </head>
-<p>slieder und vier Ersatzmitglieder werden vom National¬
-      <lb/>Die näheren Bestimmungen über die Verwaltungs
-      <lb/>rate, sieben Mitglieder und vier Ersatzmitgliedner vom
-      <lb/>(1) Der Verfassungsgerichtshof entscheidet über die
-      <lb/>gerichtsbarkeit erfolgen durch Bundesgesetz
-      <lb/>Bundesrat auf Lebensdauer gewählt.
-      <lb/>Verantwortlichkeit
+<p>(1) Osterreich ist ein Bundesstaat.
+      <lb/>(2) Der Bundesstaat wird gebildet aus den selb-
+      <lb/>ständigen Ländern: Kärnten, Niederösterreich, Ober-
+      <lb/>österreich, Satzburg, Steiermart, Tirol, Vorarlberg
+      <lb/>und Wien.
+      <lb/>(3) Das Burgenland wird als selbständiges und
+      <lb/>gleichberechtigtes Land in den Bund aufgenommen,
+      <lb/>sobald es seinen Willen dazu ausgebrückt hat.
+      </p></div>
+<div type="article">
+<head>Artikel 3.
+      </head>
+<p>(1) Das Bundesgebiet umfaßt die Gebiete der
+      <lb/>Bundesländer. Es steht unter dem Schutze des
+      <lb/>Bundes.
+      <lb/>(2) Eine Änderung des Bundesgebietes, die zu-
+      <lb/>gleich Änderung eines Landesgebietes ist, ebenso
+      <lb/>die Änderung einer Landesgrenze innerhalb des
+      <lb/>Bundesgebietes kann — abgesehen von Friedensver-
+      <lb/>trägen - nur durch übereinstimmende Verfassungs-
+      <lb/>gesetze des Bundes und jenes Landes erfolgen, dessen
+      <lb/>Gebiet eine Änderung erfährt.
+      <lb/><hi rend="bold:true;">Unleserlich</hi>
+      <lb/>Artitel 3 a.
+      <lb/>(1) Das Bundesgebiet bildet ein einheitliches
+      <lb/>Wahrungs-, Wirtschafts- und Zollgebiet.
+      <lb/>(2) Innerhalb der Grenzen des Bundes dürfen
+      <lb/>keinerlei Zwischenzollinien errichtet werden.
+      <lb/>Artikel 3b.
+      <lb/>Bundeshauptstadt und Sitz der obersten Organe
+      <lb/>des Bundes ist Wien.
+      </p></div>
+<div type="article">
+<head>Artikel 4.
+      </head>
+<p>(1) Für jedes Land besteht eine Landesbürgerschaft.
+      <lb/>Die Voraussetzungen für Erwerb und Verlust der
+      <lb/>Landesbürgerschaft sind in jedem Lande gleich und
+      <lb/>durch Bundesgesetz geregelt.
+      <lb/>(2) Grundlegende Voraussetung der Landesbürger-
+      <lb/>schaft ist das Heimatrecht in einer Gemeinde des
+      <lb/>Landes.
+      <lb/>(3) Mit der Landesbürgerschaft wird die Bundes-
+      <lb/>bürgerschaft erworben.
+      <lb/>(4) Jeder Bundesbürger hat in jedem Lande die
+      <lb/>gleichen Rechte und Pflichten wie die Bürger des
+      <lb/>Landes selbst.
+      <lb/>Artikel 4 a.
+      <lb/>(1) Alle Bundesbürger sind vor dem Gesetze
+      <lb/>gleich. Vorrechte der Geburt, des Geschlechtes, des
+      <lb/>Standes, der Klasse und des Bekenntnisses sind aus-
+      <lb/>geschlossen.
+      <lb/>(2) Den öffentlichen Angestellten und Funktionären,
+      <lb/>einschließlich der Angehörigen des Bundesheeres, ist
+      <lb/>die ungeschmälerte Ausübung ihrer politischen Rechte
+      <lb/>gewährleistet.
+      <lb/>(Artikel 5 fällt aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 6.
+      </head>
+<p>Die deutsche Sprache ist, unbeschadet der den
+      <lb/>sprächlichen Minderheiten gesezlich eingeräumten Rechte,
+      <lb/>die Staatssprache der Republik.
+      <lb/>Artilel 6a.
+      <lb/>Die allgemein anerkannten Regeln des Völlerrechtes
+      <lb/>gelten als Bestandteile des Bundesrechtes.
+      <lb/>(Artitel 7, 8 und 9 fallen aus.)
+      <lb/>Artitel 10.
+      <lb/>Bundessache ist die Gesetzgebung und Vollziehung 
+      <lb/>in folgenden Angelegenheiten:</p><p>1. Bundesverfassung, insbesondere Wahlen zum
+      <lb/>Nationalrat, Volksabstimmungen, die sich auf das
+      <lb/>ganze Bundesgebiet erstrecken; Verfassungsgerichts-
+      <lb/>barkeit:
+      <lb/>﻿2. auswärtige Angelegenheiten mit Einschluß der
+      <lb/>politischen und wirtschaftlichen Vertretung gegenüber
+      <lb/>dem Auslande, insbesondere Abschluß aller Staats-
+      <lb/>verträge; Grenzverwaltung; Regelung des Waren-
+      <lb/>und Viehverkehres mit dem Auslande; Zollwesen;
+      <lb/>3. Regelung und Überwachung des Eintrittes in
+      <lb/>das Bundesgebiet und des Austritts aus ihm; Ein-
+      <lb/>uns Auswanderungswesen; Abschiebung, Abschäffung,
+      <lb/>Ausweisung und Auslieferung aus dem Bundesgebiete
+      <lb/>sowie Durchlieferung;
+      <lb/>4. Bundesfinanzen, insbesondere öffentliche Abgaben,
+      <lb/>die ausschließlich oder teilweise für den Bund einzuheben
+      <lb/>sind: Monopolwesen; Regelung, welche Abgaben dem
+      <lb/>Bunde und den Ländern zustehen; Regelung der
+      <lb/>Anteilnahme der Länder an den Einnahmen des
+      <lb/>Bundes und Regelung der Beiträge und Zuschüsse
+      <lb/>aus Bundesmitteln zu den Ausgaben der Länder;
+      <lb/>5. Geld-, Kredit-, Börse- und Bankwesen; Maß-
+      <lb/>und Gewichts, Normen- und Punzierungswesen;
+      <lb/>﻿6. Zivil- und Strafrechtswesen einschließlich des
+      <lb/>wirtschaftlichen Assoziationswesens; Justizwesen; Ver-
+      <lb/>waltungestrafrecht in Angelegenheiten, deren Vollziehung
+      <lb/>Angelegenheiten betrifft, die in den Wirkungskreis der
+      <lb/>Länder und verwandter Berufe;
+      <lb/>7. Angelegenheiten des Erwerbes und der Industrie;
+      <lb/>Bekämpfung des unlauteren Wettbewerbes; Patent-
+      <lb/>wesen sowie Marken und Musterschutz; Ingenieur
+      <lb/>und Ziviltechnikerwesen; Handels- und Gewerbe-
+      <lb/>kammern;
+      <lb/>8. Verkehrswesen bezüglich der Eisenbahnen, der
+      <lb/>Schiffahrt und der Luftschiffahrt; Angelegenheiten der
+      <lb/>wegen ihrer Bedeutung für den Durchzugsverkehr durch
+      <lb/>Bundesgebiet als Bundesstrafen erklärten Straßenzüge,
+      <lb/>Strom und Schiffahrtspolizei; Post-, Telegraphen-
+      <lb/>und Fernsprechwesen.
+      <lb/>9. Bergwesen; Ausführurg der Regulierung und
+      <lb/>Instandhaltung der schiffbaren und flößbaren Gewässer,
+      <lb/>dann solcher Gewässer, welche die Grenze gegen das
+      <lb/>Ausland oder zwischen Ländern bilden oder die zwei
+      <lb/>oder mehrere Länder durchfließen; Bau derjenigen
+      <lb/>Wasserstraßen, die das Inland mit dem Ausland
+      <lb/>oder die mehrere Länder verbinden, Dampfkessel- und
+      <lb/>Kraftmaschinenwesen, Vermessungswesen.
+      <lb/>10. Bodenreform (agrarische Operationen, Wieder-
+      <lb/>besiedelung usw.) und Bodenentschuldung,
+      <lb/>11. gesamtes Arbeiterrecht sowie Arbeiter- und
+      <lb/>vorswirtschaftliche Arbeiter und Ungestellte handelt,
+      <lb/>Sopial- und Vertragsversicherungswesen.
+      <lb/>12. Gesundheits- und Peterinärwesen, jedoch mit
+      <lb/>Ausnahme der Heil- uind Pflegeanstalten und Am-
+      <lb/>bulatorien, des Kurorte-, Leichen- und Bestattungs-
+      <lb/>wesens sowie des Gemeindesanitätsdienstes und
+      <lb/>Rettungswesens: Nahrungsmittelkontrolle;
+      <lb/>13. gesamtes Schul- und Erziehungswesen; Volks
+      <lb/>bildungswesen; Regelung des wissenschaftichen und
+      <lb/>sachtechnischen Archis- und Bibliotheksdienstes; Unge-
+      <lb/>legenheiten der künstlerischen und wissenschaftlicher
+      <lb/>Sammlungen und Einrichtungen; Denkmalschutz.
+      <lb/>Angelegenheiten des Kultus; Volkszählungswesen so-
+      <lb/>wie sonstige Statistik, soweit sie nicht nur den Inter¬
+      <lb/>essen eines einzelnen Landes dient; Stiftungs- und
+      <lb/>Sondswesen, soweit es sich um Stiftungen und Fonds
+      <lb/>handelt, die nach ihren Zwecken über den Interessen-
+      <lb/>bereich eines Landes hinausgehen und nicht schon bis
+      <lb/>her von den Ländern autonom verwaltet wurden;
+      <lb/>Agelegenheiten und Fürsorge für Kriegsteilnehmer
+      <lb/>und deren Hinterbliebene; Kriegsgräberwesen; aus
+      <lb/>Anlas eines Krieges oder im Gefolge eines solchen
+      <lb/>schaft notwendig erscheinende Mahnahmen, insbesondere des bundesgesetzlich festgelegten Nahmens. Das Bundes-</p><p>Bedarf-gegenstanden;
+      <lb/>15. Einrichtung der Bundesämter und sonstigen
+      <lb/>Bundesbehörden; Dienstrecht der Bundesangestelten.
+      <lb/>Artitel 11.
+      <lb/>(1) Bundesjache ist die Gesetzgebung, Landessache
+      <lb/>die Vollziehung in folgenden Angelegenheiten.
+      <lb/>Staatsbürgerschaft und Heimarrecht;
+      <lb/>3. Bereins- und Versammlungerec.
+      <lb/>3. nicht im Urtitel 10 angeführte berufliche Ver-
+      <lb/>tretungen
+      <lb/>4. Personenstandsangelegenheiten einschließlich des
+      <lb/>Mairitenwesens und der Namenhänderung;
+      <lb/>5. Waßwesen und Fremdenpolizei;
+      <lb/>6. öffentliche Agentien und Brivatgeschäftsvermiti-
+      <lb/>lung;
+      <lb/>7. hinsichtlich der öffentlichen Abgaben, die nicht
+      <lb/>ausschließlich oder teilweise für den Bund eingehoben
+      <lb/>werden. die Anordnungen zur verhinderung von
+      <lb/>Soppelbesteuerungen oder sonstigen übermäßigen Bei
+      <lb/>lastungen, zur Verhinderung von Brschwerungen des
+      <lb/>Verlehres oder der wirtschaftlichen Beziehungen im
+      <lb/>Berhälinis zum Ausland oder zwischen den Ländern
+      <lb/>und Landesteilen, zur Verhinderung der übermäßigen
+      <lb/>oder vertehrgerschwerenden Belastung der Benübung
+      <lb/>öffentlicher Berlehrswege und Einrichtungen mit e
+      <lb/>bühren und zur Verhinderung der Schädigung der
+      <lb/>Bundesfinanzen.
+      <lb/>8. Munitions- Schief- und Sprengmittelwesen,
+      <lb/>soweit es nicht dem Monopol unterliegt, sowie Waffen
+      <lb/>wesen.
+      <lb/>9. Glettrizitätswesen;
+      <lb/>10. Boltswohnungs- und Boltspflegestättenwesen;
+      <lb/>anngwn
+      <lb/>II. Verwaltungs- und Verwaltungsstrafverfahren
+      <lb/>einschliehlich der Zwangsvollstredung sowie allge¬
+      <lb/>meine Bestimmungen des Verwaltungsstrafrechtes in
+      <lb/>Ungelegenheiten, deren Vollziehung den Ländern zu
+      <lb/>2) Die Durchführungsverordnungen zu den nach
+      <lb/>dem Absas lergehenden Gesegen sind, soweit in
+      <lb/>diesen Geseten nichts anderes bestimmt ist, vom Bunde
+      <lb/>zu erlassen.
+      <lb/>Artitel 12.
+      <lb/>Bundessache ist die grundsätzliche Gesetzgebung,
+      <lb/>Landessache die Erlafsung von Ausführungsgesehen
+      <lb/>uns die Bollsichung in folgenden Ungelegenheiten.
+      <lb/>1. Organisation der verwaltung in den Ländern:
+      <lb/>2. Armenwesen: Bevöllerungspolinit. Mutter
+      <lb/>schafts, Säuglings- und Jugenöfursorge: Heil- und
+      <lb/>Pfegeanstaltenwesen einschliehlich der Umbulatorien.
+      <lb/>3 Einrichtungen zum Schube der Gesellschaft gegen
+      <lb/>verbrecherische, verwahrloste oder sonst gefährliche
+      <lb/>Personen, wie zwongsarbeits- und ähnliche unstalten.
+      <lb/>Abschiebung und Abschaffung aus einem in ein anderes
+      <lb/>Lans
+      <lb/>4. öffentliche Einrichtungen zur außergerichtlichen
+      <lb/>Vermittlung von Streitigleiten;
+      <lb/>5. Arbeuerrecht sowie Arbeiter- und Angestellten.
+      <lb/>schub, soweit es sich um lans- und forstwütschaftliche
+      <lb/>Arbeiter und Ungesteltte handent:
+      <lb/>6 Forstwesen einschliebuch des Triftwesens: Schut
+      <lb/>der Pflanzen gegen Krantheiten und Schadlinge;
+      <lb/>Wasserrecht.
+      <lb/>7. Regelung des Bauwesens;
+      <lb/>8. Dienfrecht der Organe der Länder, die behörs-
+      <lb/>liche Aufgaben zu besorgen haben.
+      <lb/>Artitel 13.
+      <lb/>(1) Wenn eine Angelegenheit nicht ausdrücklich
+      <lb/>durc die Bundesverfassung der Gesesgebung oder
+      <lb/>14. mititarische Angelegenheiten; Kriegsschaden-auch der Vollziehung des Bundes überträgen ist, ver-
+      <lb/>bleibt sie im Witungsbereiche der Länder.
+      <lb/>3) Insoweit der Bundesgesehgebung bloß die
+      <lb/>nähere Ausführung der Landesgeseygebung innerhals</p><p/><p>Leihel
+      <lb/>II</p><p>Antl0
+      <lb/>20.
+      <lb/>Lad. Mct.
+      <lb/>Scoweren
+      <lb/>605
+      <lb/>Bed. M.1.
+      <lb/>6b</p><p>Bauen
+      <lb/>Heklerb
+      <lb/>
+      <lb/>116</p><p>12a
+      <lb/>llen
+      <lb/>er126
+      <lb/>Sr. le L
+      <lb/>
+      <lb/>e
+      <lb/>1119
+      <lb/>iie1en
+      <lb/>
+      <lb/>lc</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>Abs 6
+      <lb/>Berche
+      <lb/>N Punk</p><p/><p>dr 1
+      <lb/>V4o
+      <lb/>U</p><p>ane eit net e o  e e
+      <lb/>monate und nicht langer als ein jahr sein dacf
+      <lb/>Buns über.
+      <lb/>(3) Soll ein Att der vollziehenden Gewalt für
+      <lb/>mehrere Lander Rechtswirtsamkeit außern und ist
+      <lb/>nicht ein anderer Borgang vongeschen, je hi ie uon den ollet auanten es dander aorenbi
+      <lb/>Zuständigkeit für diesen allt der Vollziehung auf
+      <lb/>den Bund über
+      <lb/>14 Sie auf Grund der Artitel 11 und 12 zu
+      <lb/>erlassenden Bündesgesehe haben vorzusehen, ob und
+      <lb/>inwiefern über Antrag einer der beteiligten Lanser
+      <lb/>regierungen der Vollzug auf den Buns übergeht,
+      <lb/>wenn ein allt der vollzichenden Gewalt eines Landes
+      <lb/>Rüdwirtungen auf ein anderes Land zu äußern
+      <lb/>geeignet ist, sofern sich die beteiligten Länder nicht
+      <lb/>einigen können.
+      <lb/>) zn Angelegenheiten, die nach Arüitel 11 und 12
+      <lb/>der Bundesgesehgebung vorbehalten sind, steht dem
+      <lb/>Bunde das Recht zu, die Einhaltung der von ihm
+      <lb/>erlassenen Vorschristen wahrzunehmen.
+      <lb/>Artitel 13a.
+      <lb/>(1) Wenn zur Durchführung von Staatsverträgen
+      <lb/>gesezliche Maßnahmen im Bülungstreise der Lander
+      <lb/>erforderlich snd, sind die Lander verpflichtet, die
+      <lb/>betreffenden Gesete zu erlassen kommt ein lans
+      <lb/>dieser Verpflichtung nicht rechtzeitig nach, so gett die
+      <lb/>Zuständigleit zur Erlassung des Gesehes auf den
+      <lb/>Buns über.
+      <lb/>(2) Ebenso hat der Bund in Durchführung von
+      <lb/>Vertagen uns übereinkommen mit fremden Staaten
+      <lb/>das Überwachungsrecht auch in solchen Ungelegen.
+      <lb/>heiten, die zum selbständigen Wirtungstreis der
+      <lb/>gleichen Rechte gegenüber den Landesverwaltungen
+      <lb/>zu, wie bei den Angelegenheiten der mittelbaren vorschriften zu
+      <lb/>Bundesverwaltung riel 33
+      <lb/>
+      <lb/>Artitel 14.
+      <lb/>Durch die Bestimmungen der Artikel 10.
+      <lb/>bis 13 über die Zuständigkeit in Gesebgebung und
+      <lb/>Vollziehung wis die Stellung des Bundes als
+      <lb/>Egger von Erunrehten Egentümer, Unternehmer,
+      <lb/>Bächter usw) in leiner Weise berührt.
+      <lb/>3) Der Bund kann in allen diesen Rechts-
+      <lb/>beziehungen durch die Landesgesehgebung niemals
+      <lb/>unguniger gestellt werden als das betreffende
+      <lb/>Lans selbst.
+      <lb/>Artifel 14 a.
+      <lb/>(1) Die Organisation der Gütererzeugung und der
+      <lb/>Güserverteilung ist Ausgabe des Gemeinwesens. Durc
+      <lb/>planmäsigen Aufbau dieser Siganisation ist die
+      <lb/>poliische Demotralie zur wirtschaftlichen Demotratie zu
+      <lb/>entwideln.
+      <lb/>13) Wirtschaftliche Selbstverwaltungskörper und
+      <lb/>Berussorganisationen sind zur vorbereitung der sbiete der Bundeshauptstadt wien und der Landes
+      <lb/>in rontschäftlichen und sopialen Angelegenheiten heran
+      <lb/>zuziehen.
+      <lb/>Artitel 14b.
+      <lb/>Bundes und der Länder sind Boltsbeaustragte betraut
+      <lb/>in den Ländern bestellt werden. Boltsbeauftragte sind stuben kann der Bund die zeitweilige Verwendung von
+      <lb/>der Bundespräsident, die Bundesminister, die Staats-Teilen der Bundespolizei außerhalb ihres ständigen
+      <lb/>setretäre und die Mitglieder der Landegregierungen.
+      <lb/>13) die gesamte Geschaftsführung der Bolts
+      <lb/>beauftragten unterliegt der Aussicht der Gottsvertretung,
+      <lb/>von der sie bestellt sind.
+      <lb/>3) Sie konnen wegen ihrer Handlungen und Unter-
+      <lb/>lasjungen nach Maygabe der Bundesverfassung oder
+      <lb/>der Landesversassungen vor dem Verfassungsgerichts-
+      <lb/>hose zur Verantwortung gezogen werden.
+      <lb/>Artitel 14 c.
+      <lb/>Unter der Leitung der Voltsbeauftragten üben teils
+      <lb/>auf zeit gewähste Segane teils ernannte beruts
+      <lb/>mäßige Sigane die Bundes- und die Landesverwal
+      <lb/>n ai den etimmnen e eheoie
+      <lb/>sins, soweit nicht durch die verfasfung des Bunoes
+      <lb/>oder der Lander anderes bestimmt wird, an die Bei
+      <lb/>jungen ihrer vorgesebten Bollsbeaustragten gebunden
+      <lb/>uns diesen für ihre amtliche Tätigkeit verandwortsich.
+      <lb/>Artitel 14 d.
+      <lb/>(1) Das Dienftrecht — einschließlich des Befoldunge-
+      <lb/>ppsems und des Lisjulinarehies — wird für jene(gejes.</p><p>gesetz kann für die Erlassung der Ausführungsgesetzef Organe des Bundes und der Länder, die behördliche
+      <lb/>Ausgaben zu besorgen haben, nach einheitlichen Gruns¬
+      <lb/>sagen durch Bundesgeseh geregelt. Hiebei wird ins¬
+      <lb/>Wis diese Frist von einer Landesgeseygebung nichtbesondere auch festgesegt, innieweit bei der Regelung
+      <lb/>eingehalten, so geht die zuständigkeit zur Erlaffung der rechte und gplichten dieser Digane, unbeschadet
+      <lb/>des Ausführungsgesezes für dieses lans auf den der Diensthoheit des Bundes und der Lander Per¬
+      <lb/>onalvertretungen teilzunehmen haben.
+      <lb/>2) Die Diensthoheit des Bundes gegenüber seinen
+      <lb/>in dem die angelegenheit regelnden Bundesgeset die Diensthoheit der Lander gegenüber ihren Biganen
+      <lb/>(3) Die Bestellung und das Dienstrecht der Sigane
+      <lb/>der Gebiets- und Sutsgemeinden, die behördliche Auf
+      <lb/>gaben zu vollsichen haben, werden durch die Gesen
+      <lb/>über die Oiganisation der Verwaltung geregelt.
+      <lb/>(4) Die Möglichkeit des Übertrittes aus dem Dienste
+      <lb/>des Bundes in den eines Landes oder einer Gemeinde
+      <lb/>uns umgelehrt, aus dem dienste eines landes in den Bundesgebietes berüsen.
+      <lb/>eines anderen landes oder einer Gemeinse und um¬
+      <lb/>gelehrt sowie aus dem Dienste einer Gemeinde in den
+      <lb/>einer anderen bleibt jederzeit gewahrt. Der Dienst-
+      <lb/>wechsel wird im Einvernehmen der zur Ansübung der
+      <lb/>Diensthoheit berusenen Stellen vollzogen. Durch
+      <lb/>Bundesgeses können besondere Einrichtungen zur Er
+      <lb/>leicierung des Dienstwechsels geschaften werden.
+      <lb/>5) Amtstitel für die im Absah 1 bezeichneten
+      <lb/>Oegane können duich Bundesgese einheillich sest
+      <lb/>gesezt werden. Solche Amtstitel sind gesezlich geschüht.
+      <lb/>Untitel 140.
+      <lb/>(1) Zur Unterstützung der mit der Aufrechterhaltung
+      <lb/>der öffentlichen Orönung und Sicherheit im Buntes
+      <lb/>gebiete betrauten Behörden dient die Gendarmerie.
+      <lb/>(3) Jedes Land bildet einen eigenen Gendarmerie
+      <lb/>bereich. Die Gendarmerie wirs jedoch für alle Länder
+      <lb/>nach einheitlichen Grundsagen vom Bunde engerichtet,
+      <lb/>ausgebildet, ausgerüstet und erhalten; dem Bunde
+      <lb/>Lander gehoren hiebei stehen dem Bunde die steht auch die Leitung des inneren Dienstes der
+      <lb/>(3) Zur Verfügung über die Gendarmerie für den
+      <lb/>öffentlichen Orönung und Sicherheit sind grund-
+      <lb/>säglich nur die zuständigen Landesregierungen und
+      <lb/>ihnen untersteltten Landesbehörden berusen.
+      <lb/>
+      <lb/>o o
+      <lb/>Farmerie außerhals des Landesbereiches anordnen.
+      <lb/>Die Gerichte und Staatsanwaltschaften sind be¬
+      <lb/>der Strafrechtspflege unmittelbar in Unspruc zu
+      <lb/>nehmen.
+      <lb/>t) Das Mähere über das Gendarmeriewesen, ins-
+      <lb/>besondere auch über die Dienst und Rechtsverhältnisse
+      <lb/>der Gendarmerie regelt ein besonderes Bundesgeseh.
+      <lb/>Artikel 14ee.
+      <lb/>Zur Unterstützung der mit der Aufrechterhaltung
+      <lb/>der öffentlichen Ordnung und Sicherheit im Se
+      <lb/>Gesebgebung und zur Leilnahme an der Berwaltung shaupistädte betrauten Behörden dient die Bundes¬
+      <lb/>bolier ihre Einrichtung, Ausbildung, Angrüstung
+      <lb/>und Erhaltung sowie die Leitung des inneren Dienstes
+      <lb/>uns die Erlaffung der dienstvorschriften steht dem
+      <lb/>(1) Mit der Leitung der vollziehenden Gewalt des Funde zu. zur Verfügung über die Bundespolizei für
+      <lb/>den anseren dienst uind grundsätlicu nur die zustan
+      <lb/>die von den Bertretungen des Boltes im Bunde und digen Bürdermeister berusen. Bei Nethand und un
+      <lb/>Diensibereiches anordnen.
+      <lb/>Artitel 14 f.
+      <lb/>Alle Behörden und Ämter im Bundesgebiele sind
+      <lb/>im Nahmen ihres gesezmäßigen Wirtungstreyes zur
+      <lb/>wechscheitigen Hitseleistung verpflichtet.
+      <lb/>Artitel 14 g.
+      <lb/>(1) Ulle mit der Ausübung der Bundes- Landes-
+      <lb/>oder Gemeinseverwaltung oder der Gerichtsbarkeit be
+      <lb/>trauten ungestellten und junttionate hns für jeden
+      <lb/>bei der Ausübung ihrer Tätigkeit durch vorsähliche
+      <lb/>oder grobsahrlässige Rechtsverlebung wein immer zu
+      <lb/>gefügten Schaden haftbar
+      <lb/>) der Bund, die Länder oder die Gemeinden haf-
+      <lb/>ten für die Rechtsverlebungen ihrer im Absate 1 be¬
+      <lb/>zeichneten angestellten und Junttionäre erst dann
+      <lb/>wenn und insoweit der Geschädigte bei der Verfolgung
+      <lb/>eines Anspruches nicht den ihm zugesprochenen
+      <lb/>Schadenersab erlangen kann.
+      <lb/>3 die naheren Besümmungen tifft ein Bundes- zu ihrer Einwohnerzahl gemäg den folgenden Be</p><p>utl0.15: A1470</p><p>Zweites Hauptstück
+      <lb/>Von der Gesetzgebung des Bundes.
+      <lb/>A. Der Nationalrat.
+      <lb/>Artitel 15.
+      <lb/>Die gesetzgebende Gewalt des Bundes übt der vom
+      <lb/>Oeganen wirs von den Bollsbeaustragten des Bundes gangen Bundeswoll gewählte Nationalrat gemeinsam
+      <lb/>mit dem von den Lanstagen gewählten Bundes¬
+      <lb/>rate aus.
+      </p></div>
+<div type="article">
+<head>Artikel 16.
+      </head>
+<p>(1) Der Sitz des Nationalrates ist die Bundes-
+      <lb/>Hauptstadt Wien.
+      <lb/>3) Für die Dauer außerordentlicher Verhältnisse
+      <lb/>kann der Bundespräfident auf Antrag der Bundes¬
+      <lb/>regierung den Nationalrat in einen anderen Oit des
+      <lb/>(Artikel 17 und 18 fallen aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 19.
+      </head>
+<p>(1) Der Nationalrat wird vom Bundesvolt auf
+      <lb/>Grund des gleichen, direlten, geheimen und persön-
+      <lb/>lichen Wahlrechtes der Männer und Frauen, die vor
+      <lb/>dem 1. Janner des Jahres der Wahl dag zwanzigste
+      <lb/>Lebensjahr überschriten haiten, nach den Grundsaten
+      <lb/>der Verhältniswahl gewählt.
+      <lb/>(2) Der Wahltag muß ein Sonntag oder ein
+      <lb/>anderer öffentlicher Ruhetag sein.
+      <lb/>(3) Wahlbar ist jeder Wahlberechtigte, der vor
+      <lb/>dem 1. Jänner des Jahres der Wahl das 24. Lebens-N.
+      <lb/>jahr überschritten hat.
+      <lb/>(4) DieAusschüeßung vom Wahlrecht und von
+      <lb/>der Wähbarkeit kann nur die Folge einer gericht-
+      <lb/>lichen Berurteilung oder Verfügung sein.
+      <lb/>Artitel 20.
+      <lb/>(1) Die Gesehgebungsperiode des Nationalrates
+      <lb/>gesamten Gendarmerie und die erlassung der dienst danert vier jahte ✳ vom tage seines ersten zusammen
+      <lb/>tütles an gerechnet. Die Neuwahl ist von der Bundes-
+      <lb/>regierung so anguoronen, das der neugewälte National¬
+      <lb/>auseren dienst zum zwede der Aufrechterhaltung der rat am tage nach der beendigung der ablaufenden
+      <lb/>Geschgebungsperiode zusammentreten kann.
+      <lb/>(3) Der neugewählte Mationalrat ist vom Bundes-
+      <lb/>präsidenten innerhalb 30 Tage nach der Bahl ein¬
+      <lb/>zuberusen.
+      <lb/>5 Der Rattonalrat kann nur durch seinen Be-
+      <lb/>schluß vertagt werden. Die Wiedereinberufung erfolgt
+      <lb/>durch seinen präfidenten Dieser ist verpflichtet, den
+      <lb/>rechtigt, die Dienstleistung der Gendarmerie für zweite Nationatrat sofort einzuberusen, wenn wenigstens ein
+      <lb/>Wiertel seiner Mitglieder oder die Bundesregierung
+      <lb/>es verlangt.
+      <lb/>(Urtikel 21 fällt aus.)
+      <lb/>Artifel 22.
+      <lb/>Vor Ablauf der Gesetzgebungsperiode kann der
+      <lb/>Nationalrät durch einfaches Geset seine Auflosung
+      <lb/>beschlieben. Auch in diesem Falle dauert die Geseh
+      <lb/>gebungsperiode bis zum zusammentritte des neu-
+      <lb/>gewäglten Nationalrates.
+      </p></div>
+<div type="article">
+<head>Artikel 23.
+      </head>
+<p>(1) Der Nationalrat wählt aus seiner Mitte einen
+      <lb/>Präsidenten und zwei Biepräsidenten.
+      <lb/>3) Die Geschäftsführung des Nationalrates erfolgt
+      <lb/>auf Grund eines besonderen Gesetes und einer im
+      <lb/>Nahmen dieses Geseges vom Nationaliate zu be¬
+      <lb/>schließenden autonomen Geschäftsordnung. Das Geseh
+      <lb/>über die Geschäftsführung kann nin bei Anwesenhei
+      <lb/>der Hälfte der Müglieder und mit einer Mehrheit
+      <lb/>von zwei Dritteln der abgegebenen Stimmen be¬
+      <lb/>schlossen werden.
+      <lb/>Artitel 24.
+      <lb/>(1) Die Sitzungen des Nationalrates sind öffentlich.
+      <lb/>3) dem Hause steht das necht zu ausnahms
+      <lb/>weise die öffentlichkeit auszuschließen, wenn es vom
+      <lb/>Vorsibenden oder einem Jünftel der anwesenden
+      <lb/>Mitglieder verlangt und vom Hause nach Entfernung
+      <lb/>der Zuhörer beschlossen wird
+      </p></div>
+<div type="article">
+<head>Artikel 25.
+      </head>
+<p>Wahrheitsgetreue Berichte über die Verhandlungen
+      <lb/>in den öffentlichen Sibungen des Natonatiares
+      <lb/>und seiner Ausschüfse bleiben von jeder Berantwor.
+      <lb/>tung frei.
+      <lb/>B. Der Bundesrat.
+      <lb/>Artitel 26.
+      <lb/>(1) Im Bundesrate sind die Länder im Verhältnis
+      <lb/>sümmungen vertreten.</p><p>148
+      <lb/>lgelg
+      <lb/>v1.
+      <lb/>20010
+      <lb/>00140
+      <lb/>Eelloit
+      <lb/>1604
+      <lb/>lr. 1134
+      <lb/>ind
+      <lb/>
+      <lb/>nle
+      <lb/>
+      <lb/>6 Sa.
+      <lb/>24 161
+      <lb/>ob
+      <lb/>ih.</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p/><p>
+      <lb/>27
+      <lb/>B
+      <lb/></p><p>(2) Das Land mit der größten Einwohnerzahl
+      <lb/>entsendet 12 Mitglieder, jedes andere Lans s
+      <lb/>viele Mitglieder, as dem Verhältnisse seiner Ein¬
+      <lb/>wohnerzahl zur erhtangeführten enwohnerjoht ent
+      <lb/>spricht, wobei Reste über die Hälfie der Berhaltnis
+      <lb/>Zahl als voll gelten. Jedem Lande gebühet
+      <lb/>jedoch eine Bertrerung von wenigstens drei Mü-
+      <lb/>gu. dern.
+      <lb/>(3) Für jedes Mitglied wird ein Gesatzmann
+      <lb/>bestellt.
+      <lb/>(4) Die Mitglieder des Bundesraies und deren
+      <lb/>Ersagmänner werden von den Londtogen für die
+      <lb/>Dauer ihrer Gesehgebungsperiode nach dem Gruns-
+      <lb/>sate der Berhällniswahl gewählt, jedoch mus
+      <lb/>wenigstens ein Mandat der Banei zufallen, welche
+      <lb/>die zweithochste Unzahl von Eiben im Landtage
+      <lb/>oder, wenn mehrere Parteien die gleiche Anzaht von
+      <lb/>Eiben haben, die zweilhöchste Zahl von Bahlersuimmen
+      <lb/>bei der legten Landtagewahl aufweist. Bei gleichen
+      <lb/>Ansprüchen mehrerer Parieien entscheibet das Los
+      <lb/>(5) In den Bandesrat kann nur gewählt werden,
+      <lb/>wer zum Lanstage wählbar ist.
+      <lb/>161 Nach blauf der Gesehgebungsperiode eines
+      <lb/>Landtages oder nach seiner Auflösung bleiben die von
+      <lb/>ihm delegierten Müglieder des Bundesratis solange
+      <lb/>in Junttion, bis der neue Landtag die Wahl in den
+      <lb/>Bundesrat vorgenommen hat.
+      <lb/>7) Sei der Ausübung dieses Mandates sind die Mit
+      <lb/>glieder an keinen Auftrag gebunden.
+      <lb/>abgeändert werden, wenn im Bundesrate abgesehen dung durch den bundespräsidenten einer abstimmung
+      <lb/>von der für seine Beschlußfafsung überhaup
+      <lb/>erforderlichen Stimmenmehrheit die Mehrheit der
+      <lb/>Bertreter von wenigstens vier Ländern die Änderung
+      <lb/>angenommen hat.
+      <lb/>Artilel 27.
+      <lb/>(1) Im Vorsitze des Bundesrates wechseln die
+      <lb/>Länder shälsjährlich in alphabetischer Reihenfolge.
+      <lb/>(2) Der Bundesrat wird durch seinen Vorsitzenden
+      <lb/>vertreten. Ale Ausjerüigungen des Bundesrates
+      <lb/>müssen die Unterschrift seines Vorsitzenden tragen.
+      <lb/>(3) Der Bundesrat wird von seinem Vorsitzenden
+      <lb/>an den Sit des Nationatrates einberüsen. Der Vor¬
+      <lb/>sbende ist verpflichtet, den Bundesrat sofort einzu¬
+      <lb/>berufen, wenn wenigstens ein Biertel seiner Mü¬
+      <lb/>glieder oder die Bundesregierung es verlangt.
+      <lb/>4 der Bundesrat gibt sich seine Geschäftsordnung
+      <lb/>durch einen Beschlus, der nur bei Anwesenheit der rolieabstimmung wird durch Bundesgeseh geregett.
+      <lb/>Hälfte der Mitglieder mit Zweidrittelmehrheit gefaht
+      <lb/>werden tann.
+      <lb/>Artilel 28.
+      <lb/>(1) Der Bundesrat faßt seine Beschlüsse mit mung an.
+      <lb/>Stimmenmehrheit der Anwesenden.
+      <lb/>3) Die Situngen des Bundeerates sind öffentlich.
+      <lb/>Die Öffentlichkeit kann jedoch gemäß den Bestimmungen
+      <lb/>der Geschaffsordnung durch Beschluß aufgehoben
+      <lb/>werden. Die Bestimmungen des Artilels 25 gelten
+      <lb/>auch für öffentliche Sigungen des Bundesrates und
+      <lb/>seiner Ausschüsse.
+      <lb/>(Artikel 29 fällt aus.)
+      <lb/>C. Die Bundesversammlung.
+      <lb/>Artikel 29 a.
+      <lb/>(1) Nationalrat und Bundesrat treten als Bundes.
+      <lb/>versammlungi gemeinsamer offentlicher Sizung binangen des Gesehesbeschlusses beim Bundesrat
+      <lb/>zur Bahl des Bundecpräsidenten und zu dessen schristlich mitgeteilt werden.
+      <lb/>ungelobung, dann zur Bbeschlusfassung über eine
+      <lb/>Kregserklärung am Eibe des Nationalrates zu
+      <lb/>sammen.
+      <lb/>Gegenstand der abstimmung wocher auch gesondert gesezten hrist tein mit begründung versehener ein
+      <lb/>beraten.
+      <lb/>(3) Die Einberufung der Bundesversammlung
+      <lb/>erfolgt durch den Bundespräsidenten. Der Vorsih
+      <lb/>wirs abwechselns vom Präsidenten des Nationatrates
+      <lb/>und vom Vorsibenden des Bundesrates, das erste Mal
+      <lb/>von jenem, geführt.
+      <lb/>4 der Bundesversammlung findet die Ge-
+      <lb/>wendung.
+      <lb/>(5) Die Bestimmungen des Artikels 25 gelten
+      <lb/>auch für die Sizungen der Bundesversammlung.
+      <lb/>Artilel 29b.
+      <lb/>(1) Die Beschlüsse der Bundesversammlung werden.
+      <lb/>von ihrem Borhibenden beurkündet und vom Bundes
+      <lb/>Länsler gegengereihner.
+      <lb/>5 Die amtliche Kundmachung liegt dem Bundes-
+      <lb/>tanzler ob.</p><p>D. Der Weg der Bundesgesetzgebung.
+      <lb/>Artitel 30.
+      <lb/>(1) Gesetzesvorschläge gelangen an den Nationalrat
+      <lb/>entweder als Anträge seiner Müglieder oder als
+      <lb/>Vorlagen der Bundesregierung. Der Bundestal
+      <lb/>kann im wege der Bundesregierung Gescheranttage
+      <lb/>im Nationatraie siedlen.
+      <lb/>13 Jeder von300000 Stimmberechtigten oder
+      <lb/>von je der halste der Stimmberechtigten dreier Nationalrotes, die Kundmachung eines Bunder
+      <lb/>Länder gestellie Antrag (Voltsbegehren) ist von der gesegee, das auf ener Volleabstimmung beruht, mit
+      <lb/>Bundesregierung dem Nanonalrat zur geschälts-Gerüfung auf das Ergebnis der Boltsabstimmung.
+      <lb/>orhnungsmäßigen Behandlung vorzulegen.das
+      <lb/>Bollsbegehren muß in Form eines Gesehentwurfes
+      <lb/>gestellt werden.
+      <lb/>Artitel 31.
+      <lb/>(1) Zu einem Beschlusse des Nationalrates ist die
+      <lb/>Anwesenheit von mindestens einem buttel su zu beranossen hre berbindende kraft beginnt
+      <lb/>Mithlieder und die unbedingte Mehrheit der ab-
+      <lb/>gegebenen Summen erförderlich.
+      <lb/>3) Ein Verfassungsgesetz kann jedoch nur in An-
+      <lb/>wesenheit von mindestens der halsie aller Mitglicher machung enthält, terausgegeben und versendet wüd
+      <lb/>und mit einer Mehrheit von zwei Dritteln aller
+      <lb/>abgegebenen Summen beschlossen werden.
+      <lb/>Urtitel 32.
+      <lb/>Jede Gesamtänderung der Bundesverfassung, eine
+      <lb/>teilweise ändering aber nur, wenn bich von einem
+      <lb/>Drittel der Mitglieder des Nationatiales oder dey
+      <lb/>Tungestates verlangt wird, ist nach Beendigung des
+      <lb/>(8) Die Bestimmungen dieses Artitels können nur Verfahrens gemäß Arnitel 38,jedoch vor der Beurtun-
+      <lb/>des eganen Bundesvolles zu unterziehen.
+      <lb/>Arlifel 33.
+      <lb/>Einer Roftsabstimmung ist ferner jeder Gesetzes
+      <lb/>geschlus, des Nationalrates vor seiner Beurkundung
+      <lb/>durch den Bundespräsidenten zu unterziehen, wenn der
+      <lb/>diationalrat es beschlieht oder die Mehrheit der Mit
+      <lb/>glieder des Nationalrates es verlangt.
+      <lb/>Artitel 34.
+      <lb/>(1) In der Volfsabstimmung entscheidet die unbe-
+      <lb/>dinate Mchrzeit der güllig abgegehenen Stimmen.
+      <lb/>1, das Ergebnis der Boltsabstimmung ist amtlich
+      <lb/>zu verlautharen.
+      <lb/>(Artitel 35 und 36 fallen aus.)
+      <lb/>Artitel 37.
+      <lb/>(1) Das Berfahren für das Voltsbegehren und die
+      <lb/>13) Cümmberechtigt ist jeder zum Nationalrat mahl
+      <lb/>berechtigte Bundesbürger.
+      <lb/>() Der Bundespräsident ordnet die Voltsabsim
+      <lb/>Artitel 38.
+      <lb/>unverzüglich durch dessen Präsidenten dem Bundes
+      <lb/>känzler zu übermitteln, der ihn sofort dem Bundesrate
+      <lb/>bekanntzugeben hat.
+      <lb/>12) Ein Gesehesbeschluß kann, soweit nicht in diesem
+      <lb/>Mrütel anderes bestimmt ist, nur dann beurtundet und
+      <lb/>lunsgemacht werden, wenn der Bundeerat gegen diesen äußerungen nur vom nationatrate verantworilich ge¬
+      <lb/>Beschlus keinen mit Gründen versehenen Einspruch er
+      <lb/>geben hat.
+      <lb/>(3; Dieter Einspruch muß im Wege des Bundes-
+      <lb/>tanglers dem Nationalrate innerhalb acht Bochen nad
+      <lb/>(4) Wiederhoft der Nationalrat seinen ursprüng-
+      <lb/>lichen Beschluß, so ist dieser zu beurkunden und tund-
+      <lb/>zumachen. Beschließt der Bundesrat, keinen Einsprud
+      <lb/>131 Jede der beiden Körperschaften kann den (zu erheben, oder wird innerhals der im übsag 2sest
+      <lb/>spruch erhoben, so ist der Gesezesbeschluß zu be¬
+      <lb/>urtünden und tundzumächen.
+      <lb/>15) Gegen Beschlüsse des Nationalrates, die ein
+      <lb/>Geseh über die Geschäftsführung des Nationalrates,
+      <lb/>ein Gesen über die Auflösung des Nationalrates,
+      <lb/>die Bewiltigung des Bundesvoranschlages und die
+      <lb/>Genehmigung des rechnungsabschlusses, die aufnahme geht, bleibt für die Bauer dieser juntiion bestehen.
+      <lb/>schättsordnung des nationaltates sinngemäs an und Konvertierung von Bundesanleihen und die
+      <lb/>Verfügung über Bundesvermögen betreffen, kann
+      <lb/>der Gundesrat leinen Einspruch erheben. Diese Gesehes-
+      <lb/>beschlüsse des Nationalrates sind ohneweiters zu
+      <lb/>beurlunden und kunszumachen.
+      <lb/>(Artitel 39 fällt aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 40.
+      </head>
+<p>(1) Das verfassungsmäßige Zustandekommen der dem Bundesrät angehören.
+      <lb/>Bundesgesehe wird durch die Unterschrift des Bundes
+      <lb/>präsidenten beurlundet.</p><p>(2) Die Vo lage zur Beurkundung erfolgt durch
+      <lb/>den Bundestan,ter.
+      <lb/>(3) Die Beikundung ist vom Bundestangler und
+      <lb/>von ten zuständigen Bundesministern gegenzuzeichnen.
+      <lb/>Artifel 41.
+      <lb/>Die Rundmochung der Bundeigesetze sowie
+      <lb/>der in Urüitel 43 a bezeicneten Siaatsverträge
+      <lb/>erfolgt mit Berüfung auf den Beichhing des
+      </p></div>
+<div type="article">
+<head>Artikel 42.
+      </head>
+<p>(1) Die Rundmachung der Bundesgesetze und
+      <lb/>der in Ärnitel 43a bezeichneten Staatsvertäge ist
+      <lb/>durch den Bundestangler im Bundesgesehbtale
+      <lb/>wenn nicht ausbrüglich eine andere Bestimmung
+      <lb/>getroffen ist nach Ablauf des Toges, an dem
+      <lb/>das Stuc des Bundeegesehblaues, das die Kuns-
+      <lb/>und erstredt sich, wenn nicht anderes ansdrüclich be¬
+      <lb/>stimmt ist, auf das gesamte Bundesgebiel.
+      <lb/>(2) über das Bundesgesetzblatt ergeht ein besonderes
+      <lb/>Bundesgeseh.
+      <lb/>E. Mitwirkung des Nationalrates und des Bundes-
+      <lb/>uateren der aronhung des Bundes.
+      <lb/>Artilel 42 a.
+      <lb/>(1) Alle politischen Staatsverträge, andere nur,
+      <lb/>hofern sie gesehändernden Inhalt haben, bedürsen
+      <lb/>zu ihrer Güligkeit der Genehmigung durch den
+      <lb/>Nationalrat.
+      <lb/>(2) Auf Beschlüsse des Nationalrates über die
+      <lb/>Genehmigung von Staateverwägen finden die Be¬
+      <lb/>stimmurgen des Artitels 38. Albsas 1 bis 4, und
+      <lb/>wenn durch den Stoatsverttag ein Verfassungsgeset
+      <lb/>geändert wird, die Bestimmungen des Artitels 31.
+      <lb/>Abjat 2, finngemäß Anwendung.
+      <lb/>Artikel 42b.
+      <lb/>Dem Nationalrat ist spätestens acht Wochen
+      <lb/>vor Üblauf des Zinanzjahres von der Bundes
+      <lb/>regierung ein voranschlog der Einnahmen und Aus
+      <lb/>gaben des Bundes für das folgende Finanzjahr
+      <lb/>vorzulegen.
+      <lb/>Artitel 42 c.
+      <lb/>Der Nationatrat  wirtt an der Festiehung
+      <lb/>von Eisenbahntarisen, Post, Telegraphen- und hern
+      <lb/>sprechgebühren und Preisen der Monopolgegen
+      <lb/>stande sowie von Bezügen der in staatlichen
+      <lb/>Betrieben ständig beschäftigten Personen mit
+      <lb/>Diese Mitwirtung wird durch Bundesverfassungs.
+      <lb/>gesetz geregelt.
+      <lb/>(1) Jeder Gesehesbeschluß des Nationalrates ist (F. Stellung der Mitglieder des Nationalrates und
+      <lb/>des Bundesrates.
+      <lb/>Artilel 43.
+      <lb/>(1) Die Mitglieder des Nationalrates können wegen.
+      <lb/>der in Ausübung dieses Beruses geschehenen Abstimmungen
+      <lb/>niemals, wegen der in diesem Beruse gemachten
+      <lb/>macht werden.
+      <lb/>(2) Rein Mitglied des Nationalrates darf während
+      <lb/>der Gesehgebungsperiode wegen einer srafbaren
+      <lb/>handlungden Fall der brgreisung auf Frischer Tat
+      <lb/>bei Berübung eines Verbrechens ausgenommen
+      <lb/>ohne zustimmung des nationalrates verhaftet oder
+      <lb/>behördlich verfolgt werden.
+      <lb/>(3) Im Falle der Ergreifung auf frischer Tat hat
+      <lb/>die Behörde dem Präsidenten des Nationalrates sogleich
+      <lb/>die geschehene Berhaftung bekanntzugeben.
+      <lb/>4) Wenn es der Nationalrat verlangt, muß
+      <lb/>der Berhaft aufgehoben oder die Verfolgung auf
+      <lb/>die Dauer der Gesehgebungsperiode ausgeschoben
+      <lb/>werden.
+      <lb/>(5) Die Immunität der Organe des Nationalrates,
+      <lb/>deren Junttion über die Gesehgebungsperiode hinaus
+      </p></div>
+<div type="article">
+<head>Artikel 44.
+      </head>
+<p>Die Mitglieder des Bundesrates genießen für diese
+      <lb/>Junttion während deren ganzen Dauer die Immunitat
+      <lb/>von Mitgliedern des Landtages, der sie entsendet hat.
+      <lb/>Artitel 45.
+      <lb/>(1) Niemand kann gleichzeitig dem Nationalrat und
+      <lb/>(2) öffentliche Ungestellte und Junttionäre ein-
+      <lb/>schließlich der Ungehörigen des Bundesheeres bedürsen</p><p/><p>Ammundtus
+      <lb/>&amp; Werdel</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p/><p>durch libschte</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>im Bundesrale seines Urlaubes.
+      <lb/>3) Wenn sich Sie i Absat 2 bezeichneten
+      <lb/>Personen um Mandate im Nationalrat bewerben, ist
+      <lb/>ihnen die dazu erforderliche freie Zeit zu gewähren.
+      <lb/>Das Nähere bestimmen die Dienstesvorschriten.
+      <lb/>G. Stellung der Bundesregierung im Nationalrat,
+      <lb/>ue Aand ac ode ed and ens dimonuns
+      <lb/>Artifel 46.
+      <lb/>ihnen enisendeten Bertreter sind berechtigt, an allen
+      <lb/>Beratungen des nationaltates, des Bundesrates und und schüeht die stoatsverwäge ab¬
+      <lb/>der Bundesversammlung sowie der Ausschüsse dieser
+      <lb/>Bertretungskorer teilzunehmen, an den Berolungen
+      <lb/>des Hauplaueschusses des Nationaliates jeroch nur auf
+      <lb/>besondere Einladung. Sie müssen auf ihr Verlängen jedes¬
+      <lb/>mal gehört werden, Der Nationoltat, der Bundestat und
+      <lb/>die Bundesversammlung sowie deren Ausschüsse können
+      <lb/>die Anwesenheit der Mitglieder der Bundesregierung
+      <lb/>verlängen.
+      <lb/>Artitel 47.
+      <lb/>Der Nationalrat und der Bundesrat sind befugt,
+      <lb/>die Geschäftsführung der Bundesregierung zu über
+      <lb/>prüsen, deren Mitglieder über alle Gegenstände der
+      <lb/>Bollzichung zu befrogen und alle einschlägigen Aus¬
+      <lb/>künfie zu verlangen sowie ihren Wünschen über
+      <lb/>die Angübung der Regierungs- und Vollzugsgewall
+      <lb/>in Entschliehungen Ausdruc zu geben.
+      </p></div>
+<div type="article">
+<head>Artikel 48.
+      </head>
+<p>(1) Der Nationalrat kann durch Beschluß Unter-
+      <lb/>suchungsausschüsse einsetzen.
+      <lb/>13) Die Gerichte und alle anderen Behörden sind
+      <lb/>verpflichtet, dem bsuchen dieser Ausschüsse um Se¬
+      <lb/>weiserhebungen solge zu leisten. alle öffentlichen
+      <lb/>Umter haben auf Verlangen ihre Atten vorzulegen.
+      <lb/>wird durch das Geschäftsordnungsgeseh geregelt.
+      <lb/>Drittes Hauptstück
+      <lb/>Von der Vollziehung des Bundes.
+      <lb/>A. Von der Regierungsgewalt des Bundes.
+      <lb/>1. Der Bundespräsident.
+      </p></div>
+<div type="article">
+<head>Artikel 49.
+      </head>
+<p>amun ema Aitel a in namentlicher
+      <lb/>Abstmmung mit Summzetteln gewählt.
+      <lb/>3) Sein Amt Souert vier Jahre. Einmalige
+      <lb/>Wiederwahl ist zulässig.
+      <lb/>(3) zum Bundespräsidenten kann nur gewählt
+      <lb/>werden, wer das ative Wahlrecht zum Nationaliot
+      <lb/>und vor dem 1. gänner des Jahres der Wahl das
+      <lb/>35. Lebensjahr überschritten hat.
+      <lb/>(4 ausgeschlossen von der Wählbarkeit sind Mit
+      <lb/>glieder regierender oder ehemals regierender Häuser
+      <lb/>5) Gewählt i, wer mehr als die Hälste aller
+      <lb/>abgegebenen Stimmen für sich hat kommt eine solche
+      <lb/>Mehrheit nicht zustande, werdin die Wahlgänge so
+      <lb/>lange wiederholt bis sich eine unbedingte meycheit inen undenander dn einamen uund die
+      <lb/>für eine Person ergibt.
+      <lb/>Artitel 50.
+      <lb/>Der Bundespräsident darf während seiner Amtz-
+      <lb/>tätigkeit keiner politischen Körperschaft angehören und
+      <lb/>keinen anderen Beruf ausüben.
+      </p></div>
+<div type="article">
+<head>Artikel 51.
+      </head>
+<p>Der Bundespräsident leistet bei Antritt seines Amtes auf Grund der undeverfassung und  der Bundes
+      <lb/>vor der Bundesversammlung das Gelöbnis:
+      <lb/>Ich gelobe, daß ich die Verfassung und alle
+      <lb/>Gesege der Republit getreulich beobachten und meine
+      <lb/>Pflicht nach bestem Wissen und Gewissen erfüllen
+      <lb/>ee.
+      </p></div>
+<div type="article">
+<head>Artikel 52.
+      </head>
+<p>(1) Eine behördliche Verfolgung des Bundes-
+      <lb/>präsidenten ist nur zulässig, wenn ihr die Bundes-
+      <lb/>versammlung zugestimmt hat
+      <lb/>2) Der Antrag auf Verfolgung des Bundes.
+      <lb/>präfidenten ist vonn der zuständigen Behorde beim
+      <lb/>Nationaltat zu stellen, welcher beschliegt, ob die
+      <lb/>Bundesversammlung damit zu befossen ist. Epricht
+      <lb/>sich der Mationatrat für die Befassung aus, hat der
+      <lb/>Bundehlander die Bundesversammlung innerhalb
+      <lb/>Freier Wochen einzuberusen.
+      </p></div>
+<div type="article">
+<head>Artikel 53.
+      </head>
+<p>(1) Wenn der Bundespräsident verhindert oder wenn die Bundesregierung bis zum Zusammentritte des
+      <lb/>seine Stelle dauerns erledigt ist, in lepierem Falle Nationalrates vom Hauptausschüsse bestelli.</p><p/><p>zur Auzübung eines Mandates im Nationalrat oder bis zu der Wahl seines Nachfolgers, gehen alle Junk-
+      <lb/>(2) Diejer hat im Falle der dauernden Erledigung
+      <lb/>der Stelle des Bundesprösidenten sofort die Neuwahi
+      <lb/>auszuschreiben und durchzuführen.
+      </p></div>
+<div type="article">
+<head>Artikel 54.
+      </head>
+<p>(1) Der Bundespräsident vertritt die Republik nach
+      <lb/>außen, empfangt und beglaubigt die Gesandten, ge¬
+      <lb/>Die Mitglieder der Bundesregierung sowie die von nehmigt die Bestellung der fremden konuln stellt
+      <lb/>12) Weiter stehen ihm außer den ihm nach
+      <lb/>anderen Bestimmungen dieser verfassung übertragenen
+      <lb/>Befugnissen
+      <lb/>ju
+      <lb/>a. die Ernennung der Bundesangestellten (einschließ-
+      <lb/>sich der Ofiziere und der sonstigen Bundessunt
+      <lb/>tionäre, die Verleihung von Amtsuieln an solche;
+      <lb/>die Schaffung von Umts und Berusstiteln, die
+      <lb/>Verleihung der Beruistitel;
+      <lb/>c. die Begnädigung der von den Gerichten rechts-
+      <lb/>träftig veruteilten, die Miderung und um¬
+      <lb/>wandlung der von den Gerichten ausgesprochenen
+      <lb/>Srafen, die Nachsicht von Rechtsfolgen und die
+      <lb/>Zilgung von Berurteilungen, serner die Abolition
+      <lb/>von safgerichtlichen Verfahren:
+      <lb/>d. die Erlärung unehelicher Kinder zu ehelichen
+      <lb/>auf Unjuchen der Olern.
+      <lb/>Verjorgungsgenüssen, 6nennungs oder Bestätigungs
+      <lb/>rechten und sonstigen Befugnissen in personalangelegen.
+      <lb/>heiten zustehen, bestimmen besondere Gesehe.
+      <lb/>Artitel 55.
+      <lb/>Der Bundespräsident kann das ihm zustehende Recht
+      <lb/>3) das verfahren der Untersuchungsausschüsse der Ernennung von Bundesangestellten bestimmter
+      <lb/>Sategorien den ressortmäyig zuständigen Mitgliedemn
+      <lb/>der Bundesregierung übertragen.
+      </p></div>
+<div type="article">
+<head>Artikel 56.
+      </head>
+<p>Alle Afte des Bundespräsidenten erfolgen,
+      <lb/>soweit nicht verfassungsmäßig anderes bestimmt ist,
+      <lb/>auf Vorschlag der Bundesregierung oder des von dieser
+      <lb/>hiezu ermächtigten zuständigen Bundesministers
+      <lb/>zuwiemeit die Bundesregierung oder der zuständige
+      <lb/>(1) Der Bundespräsident wird von der Bundes-Bündesminister hiebei selbst an Vorschiäge anderer
+      <lb/>uten Menen esm dn Borteg
+      <lb/>3) eue Ätte des Bundespräsidenten bedürfen zu ihrer
+      <lb/>Gültigkeit der Gegenzeichnung des Bundeskänzlers
+      <lb/>oder der reffortmäßig zuständigen Bundesminister.
+      <lb/>Artilel 57.
+      <lb/>Der Bundespräsident ist für die Ausübung der
+      <lb/>Regierungsgewalt der Bundesversammlung gemäß
+      <lb/>Artitel 152 veranwortlich.
+      <lb/>﻿2. Die Bundesregierung.
+      <lb/>Artitel 58.
+      <lb/>(1) Mit der Regierungsgewalt des Bundes sind,
+      <lb/>sowei diese nicht dem Bundespräfidenten überträgen
+      <lb/>übrigen Bundesminister betraut. Sie bilden in ihrer
+      <lb/>Gesamiheit die Bundesregierung unter dem Vorsige
+      <lb/>des Bundestanglers.
+      <lb/>(2) Der Vigekanzler ist zur Vertretung des Bundes-
+      <lb/>tanzlers in dessen gesamtem Wirtungstreis berusen.
+      <lb/>Artitel 59.
+      <lb/>(1) Die Regierungsgewalt des Bundes darf nur
+      <lb/>gesete ausgeübt werden.
+      <lb/>2) Jede Behörde kann im Nahmen der Gesehe
+      <lb/>innerhals ihres Bülungstreises Verordnungen erlassen.
+      </p></div>
+<div type="article">
+<head>Artikel 60.
+      </head>
+<p>(1) Die Bundesregierung wird vom Nationalrate
+      <lb/>gewägtt. In die Bunderregierung kann nur gewählt
+      <lb/>werden, wer zum Nationalrat wahlbar ist: die mit
+      <lb/>glieder der Bundesregierung müssen nicht dem National-
+      <lb/>rat angehören.
+      <lb/>(2) Zur Grstattung eines Vorschlages für die Wahl
+      <lb/>der Bundedrenierung ist der vom Natonattat aus
+      <lb/>seiner Mitte nach dem Verhältniswahlrechte gewähle
+      <lb/>Hauptausschuß berufen.
+      <lb/>3Der Mationaltät nimmt die Wahl der Bundes-
+      <lb/>regierung durch nammentliche Abstimmung über den
+      <lb/>Besamtorshlag des Hanplaus husseg von
+      <lb/>14 Ist der Nationaltat nicht versammelt, so wird der Republit ob.</p><p>(5) Auf die Bestellung einzelner Mitglieder der
+      <lb/>tionen des Bundespräsidenten auf den BundestanzlerBundesregierung finden die Bestimmungen der Ab¬
+      <lb/>sage 2 bis 4 sinngemähe Anwendung.
+      </p></div>
+<div type="article">
+<head>Artikel 61.
+      </head>
+<p>Ist die Bundesregierung zurückgetreten, so hat
+      <lb/>der Bundespräsident bis zur Bildung der neuen
+      <lb/>Bundesregierung Mitglieder der scheibenden Regie
+      <lb/>tung oder leitende Beamte der Bundesämmter mit
+      <lb/>der führung der Verwaltung und einen von ihnen
+      <lb/>mit dem Borsib in der einstweiligen Bundesregierung
+      <lb/>die konsularischen Bertreter der Republit im Ausland zu benrauen diese Bestimmung findet sinngemas
+      <lb/>Anwendung, wenn einzelne Mitglieder aus der
+      <lb/>Bundesregierung ausgeschieden sind.
+      <lb/>Artitel 61 a.
+      <lb/>(1) Die Mitglieder der Bundesregierung werden
+      <lb/>vor Antrit ihres Amies vom Bundespräsidenten
+      <lb/>angelobt.
+      <lb/>(2) Die Bestallungsurlunden des Bundeskanzlers,
+      <lb/>des Byetanzlers und der übrigen Bundesminister
+      <lb/>werden vom Bundesprandenten mit dem datum des
+      <lb/>Tages der Angelobung ausgefertigt und vom nen
+      <lb/>bestellten Bunöeslangler gegengezeichnet.
+      <lb/>(3) Diese Bestimmungen finsen auch auf die
+      <lb/>Zälle des Urtitels 6i sinngemas Anwenoung.
+      <lb/>Artikel 61 b.
+      <lb/>Im Jalle der zeitweiligen Verhinderung eines
+      <lb/>Bundesministers betraut der Bundecpräsident einen
+      <lb/>(3) Inwieweit dem Bundespräsidenten auferdem der Bundesminister oder einen leitenden Beamten
+      <lb/>noch Befügnisse hinsichilic Gewährung von Eyren- eines Bundesamtes mit der Bertreiung. Dieser Ver¬
+      <lb/>rechten, auferordenllichen zuwendungen, zulagen und treter tagt die gleiche verantwortung wie ein
+      <lb/>Bundesminister Cartisel 63.
+      <lb/>Artilel 62.
+      <lb/>(1) Versagt der Nationalrat der Bundesregierung
+      <lb/>oder einzelnen ihrer Mitglieder durch ausdrückliche
+      <lb/>Entschliehung das vertrauen, so ist die Bundesregierung
+      <lb/>oder der berreffende Bunöesminister des Amtes zu
+      <lb/>entheben.
+      <lb/>(2) Zu einem Beschlusse des Rasionalrates, mit dem
+      <lb/>das Vertrauen versagt wird, ist die Anwesenheit der
+      <lb/>Hälfte der Mitglieder des Nationalrates erforderlich.
+      <lb/>Doch ist, wenn es ein Zünstel der anwesenden Mit¬
+      <lb/>glieder verlangt, die Abstimmung auf den zweit¬
+      <lb/>nächsten Berttag zu vertagen. Eine neuerliche Ver-
+      <lb/>tagung der Abstimmung kann nur auf Beschluß des
+      <lb/>Nationaltates erfolgen.
+      <lb/>3) Die gesamte Bundesregierung und ihre einzelnen
+      <lb/>Mitglieder werden in den gesetzlich bestimmten hällen
+      <lb/>oder auf ihren Wunsch vom Bundespräsidenten ihres
+      <lb/>Amtes enthoben.
+      <lb/>Artitel 63.
+      <lb/>Die Mitglieder der Bundesregierung (Artikel 60
+      <lb/>und 61) sind gemäß Artitel 152 dem Nationalraie
+      <lb/>verantwortlich.
+      <lb/>Artitel 64.
+      <lb/>(1) Zur Besorgung der Geschäfte der Bundesver-
+      <lb/>waltung sind die Bundesministerien und die ihnen
+      <lb/>unterstellten Umter berüsen.
+      <lb/>12) Die Zahl der Bundesministerien, ihr Wirkungs-
+      <lb/>treis uns ihre Einrichtung werden durch Bundesgesetz
+      <lb/>bestimmt.
+      <lb/>(3) Der Bundestanzler und die Bundesminister
+      <lb/>sonnen ausnahmsweise auch mit der zührung eines
+      <lb/>zweiten Bundesministeriums beiraut werden.
+      <lb/>(Artikel 65 fällt aus.)
+      <lb/>Artitel 66.
+      <lb/>(1) In besonderen Fällen kann die Bestellung von
+      <lb/>Bundesministern auch ohne gleichzeitige Betranung
+      <lb/>mit der zührung eines Bundesministeriumser
+      <lb/>folgen.
+      <lb/>(2) Den Bundesministern können zur Unterstützung
+      <lb/>in der Geschäftsführung und zur parlamentarischen
+      <lb/>Vertretung Staatssetretäre beigegeben werden, die
+      <lb/>in gleicher Weise bestellt werden wie die Bundes-
+      <lb/>minister.
+      <lb/>(3) Der Staatsfekretär ist dem Bundesminister
+      <lb/>unterstellt und an seine Weisungen gebunden.
+      <lb/>(Artikel 67 fällt aus.)
+      <lb/>3. Das Bundesheer.
+      <lb/>(Artikel 68 fällt aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 69.
+      </head>
+<p>(1) Dem Bundesheer liegt der Schutz der Grenzen
+      <lb/>(2) Das Bundesheer ist, soweit die gesetzmäßige
+      <lb/>bürgerliche Gewalt seine Mitwirlung in Anspruch</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>nimmt, zum Schutz der verfassungsmäßigen Einrich-
+      <lb/>Sicherheit im Innern überhaupt und zur Hilfeleistung
+      <lb/>bei Slementorereignissen und unglücksfallen auger Amtes entseht oder wider ihren Willen an eine
+      <lb/>gewohnlichen Umfanges bestimmt.
+      <lb/>Artitel 70.
+      <lb/>(1) Über das Heer verfügt der Nationalrat.
+      <lb/>Insoweit diesem nicht durch das Wehrgeseh die
+      <lb/>unmittelbare verfügung vorbehalten ist, wnd mit
+      <lb/>der verfügung die Bundesregierung oder innerhält raumes nichter ohne die sonst vorgeschriebenen Form¬
+      <lb/>der von dieser erteilten Ermächtigung der zuständige
+      <lb/>Bundesminister betraut.
+      <lb/>3) Znwieweit auch die Behörden der Länder
+      <lb/>und Gemeinden die Mitwirtung des Bundesheeres
+      <lb/>zu den im Arüitel 69, Äbsab 2, erwahnten Zweden
+      <lb/>unmitterbar in Anspruch nehmen konnen bestimmt
+      <lb/>das Wehrgeseh.
+      <lb/>Artitel 71.
+      <lb/>Durch Bundesgesetz wird geregelt, inwieweit die
+      <lb/>Länder bei der begänzung, Verpflegung und Unter¬
+      <lb/>bringung des Heeres und der Beistellung seiner
+      <lb/>sonstigen brfordernisse mitwirten.
+      <lb/>B. Von der Gerichtsbarkeit des
+      <lb/>Bundes.
+      </p></div>
+<div type="article">
+<head>Artikel 72.
+      </head>
+<p>(1) Alle Gerichtsbarleit geht vom Bunde aus.
+      <lb/>3 Sie Urteile und Erteuntnisse werden im Namen
+      <lb/>der Republik verkündet und ausgesertigt.
+      <lb/>Artitel 73.
+      <lb/>(1) Die Verfassung und Zuständigkeit der Gerichte
+      <lb/>wird durch Bundesgeset festgestellt.
+      <lb/>(2) Niemand darf seinem ordentlichen Richter ent-
+      <lb/>zogen werden.
+      <lb/>(3) Ausnahmsgerichte sind nur in den im Gesetz-
+      <lb/>vorausbestimmten Fällen zulässig. Ob ein solcher Fall
+      <lb/>vorliegt und wann de Birlsamkeit des Ausnahms.
+      <lb/>gerichtes aufzuhören hat, wird, abgesehen von den
+      <lb/>in der Stofprogefordnung geregelten hällen, von der Geschworne über die Schuls des Angellagten.
+      <lb/>Bundesregierung festgesetzt. Die Bundesregierung ist
+      <lb/>verpflictet jeden solchen Beschluß ungesäumt dem
+      <lb/>Nationaltat uns dem Bundesrat vorzulegen und auf
+      <lb/>Beschluß einer der beiden Körperschaften sofort außer-
+      <lb/>Kraft zu seten.
+      <lb/>(4) Das Verfahren wegen Verletzungen des Völker-
+      <lb/>rechtes wird dem Verfassungsgerichtshof übertragen
+      </p></div>
+<div type="article">
+<head>Artikel 74.
+      </head>
+<p>Die Militärgerichtsbarkeit ist — außer für Kriegs-
+      <lb/>zeiten — aufgehoben.
+      <lb/>Artitel 75.
+      <lb/>Die Todesstrafe im ordentlichen Verfahren ist ab-
+      <lb/>geschafft.
+      <lb/>Artitel 76.
+      <lb/>(1) Die Richter werden — sofern nicht in der
+      <lb/>Verfassungoder in dem Gerichtsverfassungsgesetze
+      <lb/>anderes bestimmt ist auf Grund von Besehungs
+      <lb/>vorschlägen der durch die Gerichtsverfassung dazu be-
+      <lb/>stimmten Genate auf Antrag der Bundesregierung
+      <lb/>vom Bündespräsidenten oder auf Grund seiner Fr
+      <lb/>mächtigung vom zuständigen Bundesminister ernannt.
+      <lb/>(2) Der dem zuständigen Bundesminister vorzu-
+      <lb/>legende und von ihm an die Bundesregierung zu
+      <lb/>leitende Besetungsvorschlag hat, wenn genügend Be¬
+      <lb/>werber vorhanden sind, mindestens drei Personen,
+      <lb/>wenn aber mehr als eine Stelle zu besetzen ist,
+      <lb/>mindestens doppelt so viel personen zu umfassen, als
+      <lb/>Richter zu einennen sind.
+      <lb/>Artitel 77.
+      <lb/>(1) Die Richter find in Ausübung ihres richterlichen
+      <lb/>Amtes unabhängig.
+      <lb/>sich ein Richter bei Besorgung aller ihm nach dem Mationaltät der Fall ist.
+      <lb/>Geseye und der Geschäftsverteilung zustehenden ge-
+      <lb/>richtlchen Geschäfte mit Ausschluß der Justizver.
+      <lb/>waltungssachen, die nicht nach Vorschrift des Gesetes
+      <lb/>durch Senale oder Kommissionen zu erledigen sind.
+      <lb/>(3) Die Geschäfte sind unter die Richter eines
+      <lb/>Gerichtes für die in der Gerichtsverfassung bestimmte
+      <lb/>Zeit im vorhinein zu verteilen. Eine nach dieser
+      <lb/>Einteilung einem Richter zufallende Sache darf ihm
+      <lb/>durch Verfügung der Justizverwaltung nur im Jalle
+      <lb/>seiner Behinderung abgenommen werden.
+      <lb/>Artitel 78.
+      <lb/>(1) Im Gerichtsverfassungsgesetze wird eine Alters-
+      <lb/>grenge bestimmt, nach deren Brreichung die Richter (mächung durch die Landesregierung im Landesgesetz-
+      <lb/>in den dauernden Ruhestand zu versetzen sind.</p><p>5-</p><p>2. Im übrigen dürfen Richter nur in den vom
+      <lb/>tungen sowie zur uufrechterhaltung der erönung und Gesehe vorgeschriebenen zallen und formen und auf
+      <lb/>Grund eines förmlchen richterlichen Erlenninisses ihres
+      <lb/>andere Stelle oder in den Ruhestand versett werden. Zustimmung kann ein solches Landesgeses nicht tuns¬
+      <lb/>Diese Bestimmungen finden jedoch auf Übersetungen
+      <lb/>uns Versetungen in den Rühestand seine Anwendung.
+      <lb/>die durch Veränderungen in der Verfassung der
+      <lb/>Gerichte nötig werden. In einem solchen Falle wird
+      <lb/>durch das Geset festgestellt, innerhals welchen Zeit
+      <lb/>lichteiten übersetzt und in den Rühestand verjeht
+      <lb/>werden konnen.
+      <lb/>(3) Die zeitweise Enthebung der Richter vom Amte
+      <lb/>der höheren Gerichtsbehörde unter gleichseitiger Ber-
+      <lb/>weisung der Sache an das zuständige Gericht statt-
+      <lb/>finden.
+      </p></div>
+<div type="article">
+<head>Artikel 79.
+      </head>
+<p>(1) Die Prüfung der Gültigkeit gehörig kundge- (ihn der Landtag wiederholt
+      <lb/>machter Geseye steht den Gerichten nicht zu
+      <lb/>Verordnung aus dem Gründe der Gesetznibrigkeit
+      <lb/>Bedenten, so hat es das Verfahren zu unterbrechen.
+      <lb/>uns den Antrag auf Kassation dieser verordnung
+      <lb/>beim Verfassungsgerichtshof zu stellen.
+      </p></div>
+<div type="article">
+<head>Artikel 80.
+      </head>
+<p>(1) Die Verhandlungen in Zivil- und Strafrechts-
+      <lb/>sachen vor dem erkennenden bericht sind mündlich und wesenheit der halfte aler Mglieder des Landtages
+      <lb/>öffentlich. Ausnahmen bestimmt das Geseh.
+      <lb/>(2) Im Strafverfahren gilt der Anklageproges.
+      </p></div>
+<div type="article">
+<head>Artikel 81.
+      </head>
+<p>(1) Das Voll hat an der Rechtssprechung mitzu-
+      <lb/>wirten.
+      <lb/>2) Bei den mit schweren Strafen bedrohten Ver-
+      <lb/>allen politischen Verbrechen und Vergehen entscheiden
+      <lb/>(3) Im Strafverfahren wegen niederer Verbrechen
+      <lb/>und Vergehen nehmen Schöffen an der Rechts-
+      <lb/>prechung teil.
+      </p></div>
+<div type="article">
+<head>Artikel 82.
+      </head>
+<p>Als oberste Instanz in Zivil- und Strafrechts-
+      <lb/>sachen besteht der Oberste Gerichtshof in Wien.
+      <lb/>Artitel 83.
+      <lb/>Amnestien wegen gerichtlich strafbarer Handlungen (ausgeübt.
+      <lb/>werden durch Bundesgesetz erteilt.
+      <lb/>Artilel 84.
+      <lb/>(1) Die Juftiz ist von der Verwaltung in allen
+      <lb/>Instanzen getrennt.
+      <lb/>(2) Wenn eine Verwaltungsbehörde über Privatrechts-
+      <lb/>ansprüche zu entscheiben hat, steht es den durch diese und weiteren mitgliedern
+      <lb/>Entscheidung Benachteiligten frei, wenn nicht im Ge¬
+      <lb/>andere Bactei im Rechtswege zu suchen.
+      <lb/>Viertes Hauptstück.
+      <lb/>Von der Gesetzgebung und Vollziehung der
+      <lb/>Länder
+      </p></div>
+<div type="article">
+<head>Artikel 85.
+      </head>
+<p>durch die Landtage ausgeübt, deren Mitglieder auf
+      <lb/>Grund des gleichen, geheimen, persönlichen und
+      <lb/>unmittelbären Verhältniswahlrechtes aller nach den
+      <lb/>Landtagswahlordnungen wahlberechtigten männlichen
+      <lb/>und weiblichen Bundesangehörigen gewählt werden.
+      <lb/>12) Die Landtagswahlordnungen dürsen die Be-
+      <lb/>dingungen des atliven und passiven Wahlrechtes nicht
+      <lb/>13) In Ausübung seines richterlichen Amtes befindet (enger ziehen, als dies in der Wahlordnung zum
+      <lb/>rrte
+      </p></div>
+<div type="article">
+<head>Artikel 86.
+      </head>
+<p>(1) Die Mitglieder des Landtages genießen die
+      <lb/>gleiche Immunität wie die Mitglieder des National-
+      <lb/>tates, wobei die Bestimmungen des Artitels 43 finn.
+      <lb/>gemäß Anwendung finden.
+      <lb/>12) Die Bestimmungen der Artitel 24 und 25 gelten
+      <lb/>auch für die Situngen der Landtage und ihrer Aus-
+      <lb/>schüsse.
+      </p></div>
+<div type="article">
+<head>Artikel 87.
+      </head>
+<p>(1) Zu einem Landesgesetz ist der Beschluß des
+      <lb/>Lanstages, die Veurkündung und Gegenzeichnung nach
+      <lb/>den Bestimmungen der Landesverfassung und die Huns¬
+      <lb/>blatte erforderlich.</p><p>(2) Insoweit ein Landesgesetz bei der Vollziehung
+      <lb/>die Mitwütung von Bundesbehorden vorsieht, mus
+      <lb/>zu dieser Mitwirtung die Zustimmung der Bundes
+      <lb/>regierung eingeholt werden Vor Erteilung der
+      <lb/>gemacht werden.
+      </p></div>
+<div type="article">
+<head>Artikel 88.
+      </head>
+<p>(1) Alle Gesetzesbeschlüsse der Landtage sind unmittel-
+      <lb/>bar nach erfolgter Beschlußfassung des Landtages und
+      <lb/>vor ihrer Kundmachung vom Landeshauptmann der
+      <lb/>Bundesregierung oder dem zuständigen Bundesminister
+      <lb/>bekanntzugeben
+      <lb/>(2) Wegen Gefährdung von Bundesinteressen kann
+      <lb/>die Bundesregierung gegen den Gesehesbeschluß eines
+      <lb/>darf nur durch verfügung des Gerichtevorstandes er han enn men ier i aen dion age seines
+      <lb/>Einlangens bei der Bundesregierung oder dem
+      <lb/>zuständigen Bundesminister einen mit Begründung
+      <lb/>versehenen Einspruch erheben. In diesem halle sach
+      <lb/>der Gesehesbeschluß nur tundgemacht werden, wenn
+      <lb/>13) Vor Ablauf der Einspruchsfrift ist die Kund-
+      <lb/>(2) hat ein Gericht gegen die Anwendung einer machung nur zulässig, wenn die Bundesregierung
+      <lb/>ausdrücklich zustimmt.
+      <lb/>Artitel 89.
+      <lb/>(1) Die durch Landesgesetz zu erlassende Landes-
+      <lb/>verfäffung tann iner dadurch die Bundes
+      <lb/>verfassung nicht berührt wird urch Landesgeset
+      <lb/>abgeändert werden.
+      <lb/>2) Ein Landesverfassungsgesetz kann nur bei An-
+      <lb/>mit einer Mehrheit von zwei Dritteln aller ab¬
+      <lb/>gegebenen Stimmen beschlossen werden.
+      </p></div>
+<div type="article">
+<head>Artikel 90.
+      </head>
+<p>(1) Jeder Landtag kann auf Antrag der Bundes-
+      <lb/>regierung mit zustimmung des Bundesrates vom
+      <lb/>Bundespräsidenten aufgelöst werden. Sie zustimmung
+      <lb/>brechen, die das Gesey zu bezeichnen hat, sowie bei des Bundesrates mus bei Anwesenheit der Hälste
+      <lb/>aller Mitglieder mit einer Mehrheit von zwei Drittein
+      <lb/>der abgegebenen Stimmen beschlossen sein.
+      <lb/>2) Im Falle der Auflösung sind nach den Be-
+      <lb/>stimmungen der Landesverfassung binnen Frei Wochen
+      <lb/>Neuwahlen auszuschreiben; die Einberüfung des neu¬
+      <lb/>gewählten Lanstages hal binnen vier Wochen nach
+      <lb/>durchgeführter Wahl zu erfolgen.
+      </p></div>
+<div type="article">
+<head>Artikel 91.
+      </head>
+<p>(1) Die vollziehende Gewalt jedes Landes wird
+      <lb/>durch eine vom Landtag zu wählende Landesregierung
+      <lb/>(2) Die Mitglieder der Landesregierung müssen
+      <lb/>nicht dem Lanstag angehören. Jedoch kann in die
+      <lb/>Landesregierung nur gewählt werden, wer zum Lans¬
+      <lb/>tag wählbar ist.
+      <lb/>(3) Die Landesregierung besteht aus dem Landes-
+      <lb/>hauptmann, der erforderlichen Zahl von Stellvertretern
+      <lb/>(4) Der Landeshauptmann und seine Stellvertreter
+      <lb/>sete etwas anderes bestimmt ist, albhitse gegen die werden durch den Bundespräsidenten auf die Bundes¬
+      <lb/>verfassung angelobt.
+      <lb/>dunh Cobfel
+      </p></div>
+<div type="article">
+<head>Artikel 92.
+      </head>
+<p>(1) Im Bereiche der Länder wird die vollziehende
+      <lb/>Gewalt des Bundes entweder durch eigene Bundes-
+      <lb/>behörden (unmittelbare Bundesverwaltung oder durch
+      <lb/>die Landesregierungen und die ihnen unterstellten
+      <lb/>(1) Die gesetgebende Gewalt der Länder wird (Ländesbehörden miselbare Bundesverwaltung aus-
+      <lb/>geübt.
+      <lb/>(2) Eigene Bundesbehörden können bis auf weiteres
+      <lb/>für folgende Angelegenheiten errichtet werden:
+      <lb/>Anfzahlung folgt nach
+      <lb/>
+      <lb/>Dem Bunde bleibt es vorbehalten, auch in
+      <lb/>diesen Angelegenheiten die Landesregierungen mit der
+      <lb/>Ausübung der vollziehenden Gewalt des Bundes zu
+      <lb/>beauftragen.
+      <lb/>(3) Die Grrichtung von eigenen Bundesbehörden
+      <lb/>für andere als die im Absahe 2 bezeichneten Un-
+      <lb/>gelegenheiten kann nur mit Zustimmung der beteiligten
+      <lb/>Länder erfolgen.
+      <lb/>(4) In den Angelegenheiten der mittelbaren Bundes-
+      <lb/>verwaltung sind die Landesregierungen an die
+      <lb/>Weisungen der Bundesregierung sowie der einzelnen
+      <lb/>Bundesministerien gebunden; der administrative in¬
+      <lb/>stanzenzug acht in diesen Angelegenheiten — wenn nicht
+      <lb/>durc Bundesgeset ausdrücklich anderes bestimmt ist
+      <lb/>bis zu den zuständigen Bundesministerien.
+      </p></div>
+<div type="article">
+<head>Artikel 93.
+      </head>
+<p>(1) Der Landeshauptmann oder sein Stellvertreter
+      <lb/>vertritt das Land. Er trägt in den Angelegenheiten</p><p/><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>der mittelbaren Bundesverwaltung die Verantwortung
+      <lb/>gegenüber der Bundesregierung gemäg Artisel 152. Der
+      <lb/>Immunitat nicht im Gege.
+      <lb/>9 dem Landtage sind die Mitglieder der Landes-
+      <lb/>regierung gemäs Ariitel 153 verantwortlich.
+      </p></div>
+<div type="article">
+<head>Artikel 94.
+      </head>
+<p>Zur Leitung des gesamten inneren Dienstbetriebes
+      <lb/>der Landesregierung wird ein rechistündiger Ber¬
+      <lb/>waltungebeamter als Landesamisdiretior bestellt. Er
+      <lb/>i auch in den Angelegenheiten der mittelbaren
+      <lb/>Bundesverwaltung des Hisssorgan des Landeshaupt.
+      <lb/>mannes.
+      <lb/>(Artikel 95 und 96 fallen aus.)
+      <lb/>Artitel 97.
+      <lb/>Vereinbarungen der Länder untereinander können
+      <lb/>nur über Ungelegenheiten ihres selbständigen Wirtungs.
+      <lb/>treises getröffen werden uns sind der Bundesregierung
+      <lb/>unverzüglich anzuzeigen.
+      <lb/>Fünftes Hauptstück.
+      <lb/>Von den Gemeinden.
+      <lb/>Artitel 97 a.
+      <lb/>dem Grundsage der Selbstverwaltung eingerichtet.
+      <lb/>Artitel 97 b.
+      <lb/>(1) Verwaltungssprengel und Selbstverwaltungs-
+      <lb/>törper, in welche sich die Länder gliedern, sind die
+      <lb/>Gemeinden Ortsgemeinden, als Gebielsgemeinden
+      <lb/>die Bezile Beyutsgemeinden und in den größeren
+      <lb/>Ländern die Kreie CKreisgemeinden.
+      <lb/>Artitel 97 c.
+      <lb/>(1) Ortsgemeinden mit mehr als 15.000 Einwohnern
+      <lb/>sind aui ihren antrag zu Bezicten Beyitsstadt
+      <lb/>gemeinden) zu erklären. Bei ihnen fällt die Bezürts-
+      <lb/>verwaltung mit der Gemeindeverwaltung zusammen.
+      <lb/>(3) In Ländern, in denen Kreise gebildet werden,
+      <lb/>haben Stadte mit mehr als 15.000 Einwohnemn den
+      <lb/>Unspruch, als Kreise Kreisstadtgemeinden) ertlärt zu
+      <lb/>werden, sie fuhren gleichzeitig die Kreis, Beyits
+      <lb/>uns Gemeindeverwaltung.
+      <lb/>(3) Die bisherigen Städte mit eigenem Statut
+      <lb/>werden Bezirtsstahtgemeinden, in den ländern in
+      <lb/>denen Kreise gebildet werden, sind sie, wenn sie
+      <lb/>mehr als 15.000 Einwohner haben, auf ihren Antrag Nationalräte.
+      <lb/>zu Kreisstadtgemeinden ertlärt.
+      <lb/>Artitel 97 d.
+      <lb/>Die Gemeinden, Bezirte und Kreise sind auch
+      <lb/>selbständige Birtschaftskörper; sie haben das Rech,
+      <lb/>Vermögen aller Ait zu besiten und zu erwerben und
+      <lb/>innerhgls der Schranten der Bundes- und Landes
+      <lb/>gesege darüber zu verfügen, wirtschaftliche Unter¬
+      <lb/>nehmungen zu betreiben, ihren haushalt selbständig
+      <lb/>zu führen und Abgaben einzuheben.
+      <lb/>Artitel 97 e.
+      <lb/>(1) Die Organe der Gemeinde sind die Gemeinde-
+      <lb/>vertetung und das Gemeindeamt, die Ergane des
+      <lb/>Bezirtes die Beyutsvertretung und das Bezirtsamt,
+      <lb/>die Eigane des Kreises die Kreisvertretung und das abberusen werden.
+      <lb/>Streisamt
+      <lb/>(2) Die Wahlen in alle Vertretungen finden auf
+      <lb/>Grund des gleichen, geheimen, persönlichen und un¬
+      <lb/>mittelbaren Verhältniswahlrechtes aller Bundesange
+      <lb/>hörigen statt, die im Bereich der zu wählenden Ver¬
+      <lb/>tretung ihren ordentlichen Wohnsig haben. Die Er
+      <lb/>lassung der Bahlordnungen liegt der Landesgeseh
+      <lb/>gebung ob; in diesen Bahlordnungen dürsen die Be¬
+      <lb/>dingungen des attiven und passiven Bahlrechtes nicht
+      <lb/>enger gezogen sein, als dies in der Bahlordnung
+      <lb/>zum Lanstage der zall ist: doch kann für die Wahlen
+      <lb/>in die Vertretungen der Eitsgemeinden das Wahtrecht
+      <lb/>von der Dauer des Auenthaltes in der Gemeinde bis
+      <lb/>zu einem jahr abhängig gemacht werden.
+      <lb/>3) Die Landesgeschgebung kann vorschretben, daß
+      <lb/>bei der Wabf von Bertetungen der Gemeinden, die
+      <lb/>weniger als 500 Einwohner haben, an Stelle de
+      <lb/>Verhältniswahlrechtes das Mehrheitswahlrecht zu treten
+      <lb/>hat. In diesem Zalle können die Bäbler auch in
+      <lb/>andere als territoriale Wahllörper eingeteilt werden.
+      <lb/>Die Wahlordnung kann bestmmen, daß die Wähler</p><p/><p>ins auf die Bahlbezirte im Verhältnis der Zahl der
+      <lb/>Geltensmachung dieser verantwortung steht die bundesangehönigen, die in ihnen nach dem brgebnis
+      <lb/>der lepten Bollszählung ihren Wohnsis hatten, zu
+      <lb/>Wahltörer ist nicht zulässig.
+      <lb/>4) Die Bertretungen können nach dem Grundsabe
+      <lb/>der Berhäliniswahl aus ihrer Mitte für die einzelnen
+      <lb/>zweige der Verwaltung besondere Verwaltungsaus
+      <lb/>schüsse bestellen, die, soweit bestimmte Beruss- oder
+      <lb/>Interesentengruppen in Betracht kommen, auch noch Rechnungshoses erfolgen durch Bundesgesch.
+      <lb/>durc die Heranziehung von Bertretern dieser Beruss¬
+      <lb/>oder Ineressentengrüppen erweiter: weiden können.
+      <lb/>(5) Die Leiter der Bezirksämter und der Kreisämter
+      <lb/>müssen rechtskündige Verwaltungsbeämte sein.
+      <lb/>gebnl
+      <lb/>Artikel 97 f.
+      <lb/>Die Festschung der weileren Grundsäze für die Or-
+      <lb/>ganisation der allgemeinen staatlichen verwältung in
+      <lb/>den Ländern nach den Artiteln 9a bis o ist Sache
+      <lb/>der Ennteägesebgebung: ihre Ausführung liegt den
+      <lb/>Landecgeschgebungen ob. Welche Verwaltungsgeschäfte
+      <lb/>sachlich und instangenmäßig den Bertretungen und Ber¬
+      <lb/>waltungeausschüssen sorie den Uniern zukommen, be
+      <lb/>srimmen die Bundesgeschgebung und die Landesgeseh-
+      <lb/>gebungen innerhals ihrer verfassungsmäßigen zustan
+      <lb/>Die allgemeine staatliche Verwaltung in den Ländern sigte hiebei ist jedoch den Gemeinden ein Wütungs¬
+      <lb/>wird gemäh den nachfolgenden Bestimmungen nach treis in erster instang in folgenden angelegenheiten
+      <lb/>gewährleistet.
+      <lb/>g
+      <lb/>Uufzählung folgt nach.)...
+      <lb/>Sechstes Hauptstück.
+      <lb/>Von der Rechnungskontrolle des Bundes.
+      </p></div>
+<div type="article">
+<head>Artikel 98.
+      </head>
+<p>(1) Zur Überprüfung der Gebarung der gesamten
+      <lb/>die Gemeinden sind den Bezirten oder Kreisen Staatswirlschaft des Bundes, ferner der gebärung
+      <lb/>und diese den landern untergeordnet. zwischen be der von Organen des Bundes verwalteten Stiftungen
+      <lb/>giten und Kreisen findet ein zustangenzug nicht statt gonds und anstalten ist der nechnungshof berusen
+      <lb/>Ihm kann auch die überprüfung der Gebarung von
+      <lb/>Unternehmungen, an denen der Bund finanziell be¬
+      <lb/>teiligt ist, übertragen werden.
+      <lb/>3) Der Rechnungshof verfaßt den Bundesrechnungs-
+      <lb/>abschluß und legt ihn dem Nationaltat vor.
+      <lb/>3) aue Urkunden über Staatsschulden (Zinanz-
+      <lb/>und Verwaltungeschulden, insoweit sie eine Ver-
+      <lb/>pflichtung des Bundes beinhalten, sind vom Präsidenten
+      <lb/>des Rechnungshofes gegenzuzeichnen, durch diese
+      <lb/>Gegenzeichnung wird lediglich die Gesehmäßigkeit und
+      <lb/>rechnungsmäßige Nichtigkeit der Gebarung beträftigt.
+      <lb/>Artitel 99.
+      <lb/>(1) Der Rechnungshof untersteht unmittelbar dem
+      <lb/>2) Der Rechnungshof besteht aus einem Präsidenten angehört;
+      <lb/>und den erforderlichen Beamten und Hilsskräften.
+      <lb/>3) Der präsident des Rechnungshofes wird auf nach freiem Ermessen vorzugehen haben.
+      <lb/>Vorschlag des Hauptausschusses vom Nationaliat
+      <lb/>gewähs.
+      <lb/>(4) Der Präsident des Rechnungshofes darf keiner
+      <lb/>politischen Körperschaft angehören und in den lebten
+      <lb/>unf Jahren nicht Mitglies der Bundesregierung
+      <lb/>gewesen sein.
+      </p></div>
+<div type="article">
+<head>Artikel 100.
+      </head>
+<p>(1) Der Präsident des Rechnungshofes ist in Bezug
+      <lb/>auf Verantwörtlichteit den Mitgliedern der Bundes
+      <lb/>regierung gleichgestellt.
+      <lb/>3 Er kann durch Beschluß des Nationalrates
+      <lb/>Artitel 101.
+      <lb/>(1) Der Präsident wird von dem im Range nächsten
+      <lb/>Beamten des Rechnungshofes vertreten.
+      <lb/>(2) Im Zalle der Stellvertretung des Präsidenten anschäuung des Verwaltungsgerichtshofes gebunden.
+      <lb/>gelten für den Stellvertreter die Besimmungen des
+      <lb/>Artitels 100.
+      <lb/>Artitel 102.
+      <lb/>(1) Die Beamten des Rechnungshofes ernennt auf
+      <lb/>Vorschlag und unter Gegenzeichnung des Präfidenten der Bundeshaupistadt Bien.
+      <lb/>des Rechnungshöfes der Bundespräsident; das gleiche
+      <lb/>gilt für die verleihung von Amtstiteln. Doch kann präsidenten und der erforderlichen unjaht von Senals¬
+      <lb/>der Bundespräsident den Prasidenten des Rechnungs- präfidenten und Räten.
+      <lb/>hofes ermächtigen, Beamte bestimmter Kategorien zu
+      <lb/>ernennen.
+      <lb/>2) Die Hilfskräfte ernennt der Präsident des
+      <lb/>Rehnungehoses.
+      <lb/>Artitel 103.
+      <lb/>Rein Mitglied des Rechnungshofes darf an der
+      <lb/>Leitung und Verwaltung von Unternehmungen, die ernannt
+      <lb/>dem Bund oder den Ländern Rechnung zu legen bezüglich des Präsidenten und der hälfte der Mi-
+      <lb/>schaft ihr Bahlrecht in Wahlbezirten auszulben hal, haben oder zum Bund oder einem laud in einem glieder der zustimmung des hauplausschusses des</p><p>die geschlossene Territorien sein müssen. Die Mandate 1Subventions- oder Vertragsverhältnisse stehen, beteiligt
+      <lb/>sein. Ausgenommen sind Unternehmungen, die aus¬
+      <lb/>shliehlich die Forderung zumanilarer Bestrebungen
+      <lb/>oder der wirtschaftlichen Verhälnisse von öffentlichen
+      <lb/>verteilen. eine Gliederung der Wählerschaft in andere ungestellten oder deren ungehörigen zum Zwede
+      <lb/>haben.
+      <lb/>(Artikel 104. Artifel 105 und Artitel 106 fallen aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 107.
+      </head>
+<p>Die näheren Bestimmungen über die Tätigkeit des
+      <lb/>Siebentes Hauptftück.
+      <lb/>Von den Grund- und Freiheitsrechten.
+      <lb/>(Bleibt vorläufig offen.)
+      <lb/>Achtes Hauptstück
+      <lb/>Von den Garantien der Verfassung und Ver-
+      <lb/>waltung.
+      <lb/>A. Der Verwaltungsgerichtshof.
+      <lb/>ah Artitel 138.
+      <lb/>(1) Wegen Rechtsverletzung durch die Entscheidung
+      <lb/>oder Verfügung einer Verwaltungsbehörde des Bunöes
+      <lb/>oder eines landes entscheidet nach brschöpfung des
+      <lb/>administrativen Instanzenzuges der verwältungs¬
+      <lb/>Gerich1sh0f
+      <lb/>(2) Für Angelegenheiten, in denen die Beschwerde
+      <lb/>an den verwaltungsgerichtshof zulässig ist, tann der
+      <lb/>administrative Instangenzug durch Bundesgesey ab¬
+      <lb/>getürzt werden.
+      <lb/>Artitel 139.
+      <lb/>(1) Der Verwaltungsgerichtshof hat in der Regel.
+      <lb/>nur über Beschwerde der Parteien zu erkennen.
+      <lb/>(2) Doch kann, wenn die Entscheidung oder Ver-
+      <lb/>ügung einer Landesbehörde die Interessen des Bundes
+      <lb/>verlebt, auch die Bundesregierung, wenn die ont
+      <lb/>scheibung oder Verfügung einer Bundesbehörde oder
+      <lb/>einer Landesbehörde eines anderen Landes die Inter¬
+      <lb/>essen eines Landes verleht, auch die zuständige Landes¬
+      <lb/>regierung den Verwaltungsgerichtshof anrufen.
+      <lb/>Artitel 140.
+      <lb/>Von der Zuständigkeit des Verwaltungsgerichts-
+      <lb/>hofes sind ausgeschlossen die Angelegenheiten.
+      <lb/>1. die zur Kompetenz des Verfassungsgerichts-
+      <lb/>hofes gehören.
+      <lb/>2. über die den ordentlichen Gerichten die Ent-
+      <lb/>scheidung zusteht:
+      <lb/>3. über die eine Kollegiatbehörde zu entscheiden
+      <lb/>oder zu verfügen hat, der wenigstens ein Richter
+      <lb/>4. in denen und insoweit die Verwaltungsbehörden
+      <lb/>(Artifel 141 fällt aus.)
+      </p></div>
+<div type="article">
+<head>Artikel 142.
+      </head>
+<p>Jedem Senate des Verwaltungsgerichtshofes, der
+      <lb/>über die angefochtene Entscheidung oder Verfügung
+      <lb/>einer Landesverwaltungsbehörde zu erkennen hat, soll
+      <lb/>in der Negel ein Richter angehören, der aus dem
+      <lb/>Justiz oder Verwaltungsdienst in dem betreffenden
+      <lb/>Hande hervorgegangen ist.
+      <lb/>Artitel 143.
+      <lb/>(1) Das stattgebende Erkenntnis des Verwaltungs-
+      <lb/>gerichtshofes bewirtt die Aufhebung der rechts-
+      <lb/>wisrigen Entscheibung oder Verfügung.
+      <lb/>3) Die Verwaltungsbehorde ist bei der neu zu
+      <lb/>treffenden entscheibung oder Verfügung an die Rechts¬
+      <lb/>3) Der Verwaltungsgerichtehof kann in der Sache
+      <lb/>selbst entscheiden.
+      </p></div>
+<div type="article">
+<head>Artikel 144.
+      </head>
+<p>(1) Der Verwaltungsgerichtshof hat seinen Sitz in
+      <lb/>(2) Er besteht aus einem Präsidenten, einem Vize-
+      <lb/>(3) Wenigstens die Hälfte der Mitglieder muß die
+      <lb/>Eignung zum Richteramte haben.
+      <lb/>Artitel 145.
+      <lb/>Der Präsident, der Vizepräsident und die Mit-
+      <lb/>gleder des Verwaltungsgerichtshofes werden auf
+      <lb/>Vorschlag der Bundesregierung vom Bundespräsidenten
+      <lb/>Der Vorschlag der Bundesregierung bedarf</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>Bundesrates.
+      <lb/>Artifel 146.
+      <lb/>Die näheren Bestimmungen über die Verwaltungs-
+      <lb/>gerichtsbarkeit erfolgen durch Bundesgeseh.
       <lb/>B. Der Verfassungsgerichtshof.
-      </p></div>
-<div type="article">
-<head>Artikel 156.
-      </head>
-<p>a. des Bundespräsidenten
-      <lb/>(1) Der Präsident des Verfassungsgerichtshofes steht
-      </p></div>
-<div type="article">
-<head>Artikel 147.
-      </head>
-<p>b. der Mitglieder der Bundesregierung und der
-      <lb/>im Lange des Bundeskanzlers, der Vizepräsident im
-      <lb/>Der Verfassungsgerichtshof entscheidet alle Rechts, ihnen hinsichtlich der Verantwortlichkeit gleichgestellten
-      <lb/>Range eines Bundesministers
-      <lb/>Organe ;
-      <lb/>streitigkeiten zwischen den Ländern sowie z wischen einem
-      <lb/>(2) Das Amt der Mitglieder des Verfassungsgerichts¬
+      <lb/>Artitel 147.
+      <lb/>streitigleiten zwischen den Ländern sowie zwischen einem
       <lb/>Lande und dem Bunde.
-      <lb/>c. der Mitglieder der Landesregierungen und der
-      <lb/>hofes ist, soweit nicht Mitglieder als ständige Referenten
-      <lb/>ihnen hinsichtlich der Verantwortlichkeit gleichgestellten
       </p></div>
 <div type="article">
 <head>Artikel 148.
       </head>
-<p>fungieren, ein Ehrenamt. Die ständigen Referenten
-      <lb/>Organe, und zwar:
-      <lb/>werden in einer Plenarversammlung des Gerichts¬
-      <lb/>Der Verfassungsgerichtshof entscheidet ferner
-      <lb/>1. wegen vorsätzlicher oder grobfahrlässiger Verletzung
-      <lb/>hofes aus der Mitte seiner Mitglieder gewählt.
-      <lb/>Kompetenzkonflikte
-      <lb/>der Bundesverfassung durch den Bundespräsidenten
-      <lb/>a. zwischen Gerichten und Verwaltungsbehörder
-      </p></div>
-<div type="article">
-<head>Artikel 157
-      </head>
-<p>auf einen Antrag der Bundesversammlung;
-      <lb/>des Bundes oder der Länder;
-      <lb/>Die nähere Organisation und das Verfahren des
-      <lb/>2. wegen vorsätzlicher oder grobfahrlässiger Gesetzes¬
+<p>Der Verfassungsgerichtshof entscheidet ferner:
+      <lb/>Kompetenztonftitie
+      <lb/>a zwischen Gerichten und Verwaltungsbehörden
+      <lb/>des Bundes oder der Länder
       <lb/>b. zwischen dem Verwaltungsgerichtshof und den
-      <lb/>Verfassungsgerichtshofes wird durch Bundesgesetz geregelt.
-      <lb/>verletzung der unter b) genannten Personen durch ihre
-      <lb/>ordentlichen Gerichten;
-      <lb/>Amtstätigkeit auf einen Antrag des Nationalrates und
+      <lb/>ordentlichen Gerichten:
       <lb/>c. zwischen Landesregierungen untereinander sowie
-      <lb/>Aus den Übergangsbestimmungen.
-      <lb/>wegen vorsätzlicher oder grobsahrlässiger Gesetzesverletzung
-      <lb/>zwischen einer Landesregierung und der Bundes
-      <lb/>der unter c) genannten Personen durch ihre Amts¬
-      <lb/>regierung
-      </p></div>
-<div type="article">
-<head>Artikel x.
-      </head>
-<p>tätigkeit auf Antrag des zuständigen Landtages;
+      <lb/>zwischen einer Landesregierung und der Bundes.
+      <lb/>regierung.
       </p></div>
 <div type="article">
 <head>Artikel 149.
       </head>
-<p>(1) Bis zur Errichtung der allgemeinen staatlichen
-      <lb/>3. über die Verantwortlichkeit des Landeshaupt¬ Verwaltung in den Ländern nach den Bestimmungen
-      <lb/>(1) Der Verfassungsgerichtshof entscheidet über Gesetz¬
-      <lb/>mannes wegen vorsätzlicher oder grobsahrlässiger Ge¬
-      <lb/>der Artikel 97a bis 97e bleibt die dermalige Bezirksver¬
-      <lb/>widrigkeit von Verordnungen einer Bundes= oder
-      <lb/>setzesverletzung sowie wegen Nichtbesolgung der Ver
-      <lb/>waltung mit der Maßgabe bestehen, daß im Bereiche
-      <lb/>Landesbehörde auf Antrag eines Gerichtes:
-      <lb/>ordungen oder sonstigen Anordnungen der Bundes¬
-      <lb/>jeder Bezirkshauptmannschaft für jene Verwaltungs¬
-      <lb/>über Gesetzwidrigkeit von Verordnungen einer Landes= | regierung in Angelegenheiten der mittelbaren Bundes
-      <lb/>zweige, für die nicht besondere Einrichtungen der
-      <lb/>behörde auch auf Antrag der Bundesregierung
-      <lb/>verwaltung durch seine Amtstätigkeit auf Antrag der
-      <lb/>Selbstverwaltung bestehen, eine Bezirksvertretung ge¬
-      <lb/>über Gesetzwidrigkeit von Verordnungen der Bundes¬
-      <lb/>Bundesregierung
-      <lb/>wählt wird.
-      <lb/>behörden auch auf Antrag einer Landesregierung
-      <lb/>(2) Das verurteilende Erkenntnis des Verfassungs
-      <lb/>(2) In den Städten mit eigenem Statut übernimmt
-      <lb/>(2) Das stattgebende Erkenntnis des Verfassungs
-      <lb/>gerichtshofes hat auf Verlust des Amtes, unter beson¬ die Gemeindevertretung zugleich die Aufgaben der Be¬
-      <lb/>gerichtshofes bewirkt die Aufhebung der gesetzwidrigen
-      <lb/>ders erschwerenden Umständen auch auf Verlust der
-      <lb/>zirksvertretung. Diese Aufgaben können einem beson¬
-      <lb/>Verordnung und verpflichtet die erlassende Behörde
-      <lb/>politischen Rechte auf bestimmte Zeit zu lauten; bei deren Ausschusse der Gemeindeverteiung übertragen
-      <lb/>zur unverzüglichen Kundmachung der erfolgten Auf¬
-      <lb/>geringfügigeren Rechtsverletzungen in den unter 3.) er¬
-      <lb/>werden.
-      <lb/>hebung.
-      <lb/>wähnten Fällen kann sich der Verfassungsgerichtsho
-      <lb/>(3) In den Bereichen der Bezirkshauptmannschaften
-      </p></div>
-<div type="article">
-<head>Artikel 150.
-      </head>
-<p>darauf beschränken, festzustellen, daß eine Rechts
-      <lb/>wird die Wahl auf Grund des gleichen, geheimen, per¬
-      <lb/>verletzung vorliegt.
-      <lb/>sönlichen und unmittelbaren Wahlrechtes aller Bundes¬
+<p>(1) Der Verfassungsgerichtshof entscheidet über Gesetz-
+      <lb/>widrigleit von verordnungen einer Bundes oder
+      <lb/>Landesbehorde auf Antrag eines Gerichtes.
+      <lb/>behörde auch auf Antrag der Bundesregierung:
+      <lb/>über Geschmiörigkeit von Verordnungen der Bundes-
+      <lb/>behörden auch auf Antrag einer Landesregierung.
+      <lb/>3) Das stalgebende Erlenntnis des Verfassungs-
+      <lb/>gerichtshofes bewütt die Aufhebung der gesehwidrigen
+      <lb/>Verordnung und verpflichtet die erlassende Behorde
+      <lb/>zur unverzüglichen Hundmachung der erfolgten Auf¬
+      <lb/>Hebung.
+      <lb/>Artitel 150.
       <lb/>(1) Der Verfassungsgerichtshof entscheidet über
-      <lb/>angehörigen durchgeführt, die im Bereiche der Bezirks¬
-      </p></div>
-<div type="article">
-<head>Artikel 153.
-      </head>
-<p>Verfassungswidrigkeit von Landesgesetzen auf Antrag
-      <lb/>hauptmannschaft ihren ordentlichen Wohnsitz haben.
+      <lb/>Verfassungswidrigkeit von Landesgesetzen auf Antrag
       <lb/>der Bundesregierung, über Verfassungswidrigkeit von
-      <lb/>(1) Der Verfassungsgerichtshof entscheidet über Die Wahl ist im Bereiche jeder Bezireshauptmannschaft
-      <lb/>Bundesgesetzen auf Antrag einer Landesregierung
-      <lb/>Beschwerden wegen Verletzung der verfassungsmäßig
-      <lb/>gerichtsbezirksweise vorzunehmen; die Anzahl der Man¬
-      <lb/>(2) Der Antrag kann jederzeit gestellt werden; er
-      <lb/>gewährleisteten subjektiven Rechte durch eine Behörde
-      <lb/>date der Bezirksvertretungen wird auf die Gerichtsbezirke
+      <lb/>Bundesgesehen auf Antrag einer Landesregierung.
+      <lb/>Der Antrag kann jederzeit gestellt werden; er
       <lb/>ist sofort der zuständigen Landesregierung oder der
-      <lb/>nach Erschöpfung des administrativen Instanzenzuges. nach dem Verhältnis ihrer Einwohnerzahl aufgeteilt.
       <lb/>Bundesregierung bekanntzugeben.
-      <lb/>(2) Das stattgebende Erkenntnis des Verfassungs
-      <lb/>Die Bestimmungen des Artikels 97 c, Äbsatz 2, finden
-      <lb/>(3) Das stattgebende Erkenntnis des Verfassungs¬
-      <lb/>gerichtshofes bewirkt die Aufhebung der verfassungs
-      <lb/>sinngemäße Anwendung
-      <lb/>gerichtshofes bewirkt die Aufhebung des Gesetzes und
-      <lb/>widrigen Entscheidung oder Verfügung. Die Behörden
-      <lb/>(4) In die Bezirksvertretung sind nur Personen
-      <lb/>verpflichtet die zuständige Landesregierung oder die
-      <lb/>sind bei der neu zu treffenden Entscheidung oder
-      <lb/>wählbar, die im Bereiche der Bezireshauptmannschaft
-      <lb/>Bundesregierung zur Verlautbarung der erfolgten
-      <lb/>Verfügung an die Rechtsanschauung des Verfassungs
-      <lb/>ihren ordentlichen Wohnsitz haben und zum Landtage
-      <lb/>Aufhebung im Landesgesetzblatte oder im Bundes
-      <lb/>gerichtshofes gebunden.
-      <lb/>wählbar sind.
-      <lb/>gesetzblatte.
-      <lb/>(5) Die näheren Bestimmungen der Durchführung
+      <lb/>(3) Das stattgebende Ertenninis des Verfassungs-
+      <lb/>gerichtshofes bewirit die Aufhebung des Gesetes und
+      <lb/>verprlichtet die zuständige Landesregierung oder die
+      <lb/>Bundesregierung zur Verlautbärung der erfolgten
+      <lb/>Aufhebung im Landesgesehblatte oder im Bundes
+      <lb/>gesehblatte.
       <lb/>(4) Der Verfassungsgerichtshof ist bei der Prüfung
-      </p></div>
-<div type="article">
-<head>Artikel 154.
-      </head>
-<p>dieser Wahlen werden von der Landesgesetzgebung ge¬
-      <lb/>der Verfassungsmäßigkeit von Gesetzen an keinerlei
-      <lb/>Die Exekution der Erkenntnisse des Verfassungs¬ troffen.
-      <lb/>Schranken gebunden.
-      <lb/>Artikel y.
-      <lb/>gerichtshofes liegt dem Bundespräsidenten ob.
+      <lb/>der Verfassungsmäßigkeit von Gesetzen an Teinerlei
+      <lb/>Schranten gebunden.
       </p></div>
 <div type="article">
 <head>Artikel 151.
       </head>
-<p>Die Festsetzung der weiteren Grundsätze für die vor¬
+<p>Der Verfassungsgerichtshof entscheidet über An-
+      <lb/>rechtungen von Wählen zum Nationalrat, zu den
+      <lb/>Lanstagen und allen anderen allgemeinen Vertretungs-Wien.</p><p>il vr slten
+      <lb/>Fallfett</p><p/><p>Rationalrates, bezüglich des Vizepräsidenten und der 1körpern und über den Antrag eines dieser Ver-
+      <lb/>anderen hälfte der Müglieder der Zustimmung des tretungstörper auf Erklärung des Mandalsverlustes
+      <lb/>eines seiner Mitglieder.
       </p></div>
 <div type="article">
-<head>Artikel 155.
+<head>Artikel 152.
       </head>
-<p>läufige Ausgestaltung der dermaligen Bezirksverwal¬
-      <lb/>Der Verfassungsgerichtshof entscheidet über An¬
-      <lb/>(1) Der Verfassungsgerichtshof hat seinen Sitz in
-      <lb/>fechtungen von Wahlen zum Nationalrat, zu den
-      <lb/>tung nach Artikel x ist Sache der Bundesgesetzgebung;
-      <lb/>Landtagen und allen anderen allgemeinen Vertretungs= Wien.
-      <lb/>ihre Ausführung liegt den Landesgesetzen ob.
-      <lb/>Tilenr oder mich
-      <lb/>Hollfürst?</p></div>
+<p>(1) Der Verfassungsgerichtshof entscheidet über die
+      <lb/>Veranwortlichkeit.
+      <lb/>a. des Bundespräsidenten:
+      <lb/>b. der Mitglieder der Bundesregierung und der
+      <lb/>Der Verfassungsgerichtshof entscheidet alle Rechts.(ihnen hinsichilich der Verantwortlichkeit gleichgestellten
+      <lb/>Organe.
+      <lb/>c. der Mitglieder der Landesregierungen und der
+      <lb/>ihnen hinsichtlich der Verantwortlichkeit gleichgestellten
+      <lb/>Organe, und zwar:
+      <lb/>1. wegen vorsätzlicher oder grobfahrlässiger Verletzung
+      <lb/>der Bundesverfassung durch den Bundespräsidenten
+      <lb/>auf einen Antrag der Bundesversammlung;
+      <lb/>﻿2. wegen vorsätzlicher oder grobfahrlässiger Gesetzes-
+      <lb/>verletzung der unter b genannten Personen durch ihre
+      <lb/>Amistätigkeit auf einen Antrag des Mationalrates und
+      <lb/>wegen vorsäblicher oder grobsahrlässiger Gesehesverletung,
+      <lb/>der unter e genannten personen durch ihre Amts¬
+      <lb/>tätigkeit auf Antrag des zuständigen Landtages;
+      <lb/>mannes wegen vorsäglicher oder grobfahrlässiger  Ge-
+      <lb/>ebesverletung sowie wegen Nichtbefolgung der Ber¬
+      <lb/>ordungen oder sonstigen anorönungen der Bundes¬
+      <lb/>über Geseswisrigkeit von verordnungen einer landes-regierung in ungelegenheiten der mitelbaren Bundes
+      <lb/>verwaltung durch seine Amtstätigkeit auf Antrag der
+      <lb/>Bundesregierung.
+      <lb/>(2) Das verurteilende Erkenntnis des Verfassungs
+      <lb/>gerichtshofes hot auf Verlust des Amtes, unter beson-die Gemeinsevertretung zugleich die Ausgaben der Be
+      <lb/>ders erschwerenden Umständen auch auf Berlust der
+      <lb/>poluischen Rechte auf bestimmte Zeit zu lauten; bei deren Ausschütze der Gemeindereilieiung übertragen
+      <lb/>geringfügigeren Rechtsverletungen in den unter 3.) er.
+      <lb/>wähnten hällen kann sich der Verfassungsgerichtshof
+      <lb/>darauf beschränten, festzustellen, daß eine Rechts
+      <lb/>verletung vorliegt.
+      <lb/>Artitel 153.
+      <lb/>Beschwerden wegen Beriehung der verfasfungsmäßig
+      <lb/>gewährleisteten subjettiven Rechte durch eine Behörde
+      <lb/>da ueeduaen  a e ale den aeen s au ad oeen
+      <lb/>2) Das stattgebende Erlenntnis des Verfassungs-
+      <lb/>gerichtshofes bewirkt die Aufhebung der verfassungs-
+      <lb/>widrigen Entscheidung oder Verfügung. Die Behörden
+      <lb/>snd bei der neu zu treffenden Entscheidung oder
+      <lb/>Verfügung an die Rechtsanschauung des Verfassungs-
+      <lb/>gerichtshofes gebunden.
+      </p></div>
+<div type="article">
+<head>Artikel 154.
+      </head>
+<p>Die Gretution der Erkenntnisse des Verfassungs-(trofsen.
+      <lb/>gerichtshofes liegt dem Bundespräsidenten ob.
+      <lb/>Artitel 155.
+      <lb/>(1) Der Verfassungsgerichtshof hat seinen Sitz in</p><p>2) Er besteht aus einem Präsidenten, einem
+      <lb/>Vizepräsidenten, vierzehn Mitgliedern und acht Ersay-
+      <lb/>mitgliedern.
+      <lb/>(3) Der Präsident, der Vizepräsident, sieben Mit-
+      <lb/>glieder und dier Ersahmitglieder werden vom National¬
+      <lb/>tate, hieben Mitglieder und vier Orsasmitglieder vom
+      <lb/>Bundesrat auf Lebensbauer gewahlt.
+      <lb/>Artitel 156.
+      <lb/>(1) Der Präsident des Verfassungsgerichtshofes steht
+      <lb/>m Range des Bundestanglers, der Bizepräsident im
+      <lb/>Mange eines Bundesministers.
+      <lb/>3) Das Umt der Mitglieder des Verfafsungsgerichts-
+      <lb/>hofes ist, soweit nicht Mitglieder als ständige Referenten
+      <lb/>fungieren, ein ehrenammt. die ständigen Referenten
+      <lb/>werden in einer Blenarversammlung des Berichts-
+      <lb/>hofes aus der Mitte seiner Mitglieder gewählt.
+      </p></div>
+<div type="article">
+<head>Artikel 157.
+      </head>
+<p>Die nähere Organisation und das Verfahren des
+      <lb/>Verfassungsgerichtshofes wird durch Bundesgeseh geregelt.
+      <lb/>Aus den Übergangsbestimmungen.
+      <lb/>Artitel X.
+      <lb/>(1; Bis zur Grrichtung der allgemeinen staatlichen
+      <lb/>3. über die Verantwortlichkeit des Landeshaupt-(Verwallung in den Ländern nach den Bestimmungen
+      <lb/>der Artitel 97a bis 97o bleibt die dermalige Bezütsver-
+      <lb/>aluung mit der Masgabe bestehen, das im Bereiche
+      <lb/>jeder Bezireshauptmannschaft für jene Berwaltungs
+      <lb/>zweize, für die nicht besendere Eimichtungen der
+      <lb/>Selbswverwaltung bestehen, eine Bezieleveitietung ge¬
+      <lb/>wählt wird.
+      <lb/>(2) In den Städten mit eigenem Stalut übernimmt
+      <lb/>irtsverchina. Diese Ansgaben können einem beson
+      <lb/>werden.
+      <lb/>(3; In den Bereichen der Bezirtshauptmannschaften
+      <lb/>wir die Wahl auf Grund des gleichen, geheimen, per
+      <lb/>sonticen und unmittelbaren Wahlrechtes aller Bundes-
+      <lb/>neeherigen durchgeführt, die im Bereiche der Bezirts-
+      <lb/>Hausimannschaft ihren erdentlichen Gohnns haben
+      <lb/>(1) Der Verfassungsgerichtshof entscheidet über ie waht ist im Bereiche jeher eyutshauptmannschaft
+      <lb/>gerictsheintsweise vorzunehmen; die ungahl der man
+      <lb/>hate der Zeutsvertrelungen wird auf die Berichtsbeyirte
+      <lb/>Die Bestimmungen des Artitels 310 Absat 2, finden
+      <lb/>sinngemare Anwendung.
+      <lb/>(4) In die Begütsvertretung sind nur Personen
+      <lb/>wahlbar, die im Bereiche der Beulshauptmannschaft
+      <lb/>ihren ordentlichen Bohnsis haben uno zum Landtage
+      <lb/>wahlbar sino.
+      <lb/>(5) Die näheren Bestimmungen der Durchführung
+      <lb/>dieser Wählen werden von der Landesgesehgebung ge¬
+      <lb/>Artitel v.
+      <lb/>Die Festsctung der weileren Grundsätze für die vor-
+      <lb/>läufige Ausgestaltung der dermäligen Bezütsverwal
+      <lb/>tung naci Artitel &amp; ist Sache der Bundesgesehgebung;
+      <lb/>ihre Ausführung liegt den Tandchgeschen ob.</p></div>
 </div></body>
     </text>
 </TEI>
