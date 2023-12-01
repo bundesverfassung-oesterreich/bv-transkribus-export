@@ -391,7 +391,7 @@ class BaseRowTypeResolver:
 
 
     def get_doctype_from_row(self, row_number:str):
-        return self.manifestation_types_by_row[row_number]
+        return self.doc_types_by_row[row_number]
     
 
 baserow_type_resolver = BaseRowTypeResolver()
