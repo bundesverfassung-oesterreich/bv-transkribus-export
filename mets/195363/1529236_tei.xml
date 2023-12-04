@@ -1,112 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">VfÜG Sonderdruck</title><principal>carlfriedrich.haak@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Österreichische Bundesverfassung: Datenset A</title></seriesStmt><sourceDesc><p>TRP document creator: carlfriedrich.haak@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="3239" lry="5209" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="3239px" height="5209px"/><zone points="97,78 97,3889 1473,3889 1473,78" rendition="TextRegion" xml:id="facs_1_tr_1">
-        <zone points="260,127 325,152 444,143 475,120 509,138 714,138 740,157 830,132 855,152 919,138 919,63 795,35 559,32 529,50 434,30 352,70 260,47" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
-        <zone points="88,245 455,223 585,263 702,220 879,267 1026,207 1097,270 1311,230 1382,265 1424,250 1426,143 282,135 90,197" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
-        <zone points="103,364 238,318 347,355 427,317 477,359 970,318 1031,367 1117,327 1382,340 1371,263 1202,297 1009,240 795,247 622,293 555,252 465,297 359,247 103,258" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
-        <zone points="1021,437 1029,437 1037,425 1076,435 1099,417 1132,425 1152,417 1166,425 1186,417 1177,320 1139,335 1112,328 1076,352 1062,345 1039,372 1014,372" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
-        <zone points="330,617 800,630 1056,582 1187,629 1232,600 1432,617 1471,605 1471,517 1074,555 330,534" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
-        <zone points="347,685 1464,690 1442,612 1336,654 1274,619 1144,630 1079,587 1021,627 870,639 825,612 347,617" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
-        <zone points="494,780 604,759 632,784 790,794 927,767 1016,792 1077,765 1151,794 1329,789 1329,719 1177,684 965,714 865,685 494,699" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
-        <zone points="475,920 1311,922 1394,910 1394,845 475,847" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
-        <zone points="552,1036 650,1067 884,1037 969,1062 1017,1039 1136,1042 1247,1077 1247,995 1169,995 1096,960 832,964 790,992 732,957 622,999 552,984" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
-        <zone points="470,1227 857,1249 1464,1226 1464,1187 1392,1172 842,1187 780,1151 695,1184 470,1147" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
-        <zone points="340,1287 1042,1267 1326,1299 1457,1286 1457,1241 340,1244" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
-        <zone points="325,1334 1449,1352 1449,1284 1372,1277 325,1301" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
-        <zone points="330,1396 1464,1407 1426,1351 427,1366 330,1336" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
-        <zone points="340,1464 1457,1459 1457,1419 1382,1402 340,1407" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
-        <zone points="340,1521 1412,1529 1457,1524 1457,1459 1194,1491 1021,1449 797,1484 340,1464" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
-        <zone points="325,1574 1224,1556 1269,1594 1457,1582 1457,1527 325,1536" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
-        <zone points="340,1639 1457,1632 1457,1592 1401,1572 340,1579" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
-        <zone points="325,1674 707,1706 1457,1694 1457,1651 1392,1627 325,1644" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
-        <zone points="325,1753 1466,1756 1466,1699 547,1713 325,1674" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
-        <zone points="340,1809 1464,1806 1464,1771 1362,1746 824,1776 340,1751" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
-        <zone points="325,1864 1466,1863 1466,1826 1297,1796 1262,1829 325,1814" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
-        <zone points="335,1953 1017,1934 1146,1954 1221,1948 1221,1888 845,1858 792,1886 660,1863 400,1888 334,1864" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
-        <zone points="470,2154 572,2126 777,2164 1061,2126 1149,2156 1187,2131 1457,2149 1457,2093 1284,2074 995,2104 772,2061 665,2108 470,2068" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
-        <zone points="325,2203 1469,2211 1469,2158 1417,2146 325,2158" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
-        <zone points="335,2261 1469,2278 1469,2214 1429,2206 335,2211" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
-        <zone points="340,2326 580,2304 830,2338 887,2303 1146,2348 1206,2311 1457,2336 1434,2269 1154,2253 904,2289 340,2258" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
-        <zone points="330,2381 1159,2366 1379,2408 1464,2383 1464,2331 1397,2324 1196,2316 1087,2356 1024,2318 330,2328" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
-        <zone points="340,2436 414,2428 457,2465 570,2478 672,2431 777,2470 894,2446 1259,2468 1259,2403 1141,2378 900,2400 862,2376 557,2401 339,2381" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
-        <zone points="400,2656 1452,2666 1452,2590 1396,2568 1256,2610 400,2590" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
-        <zone points="330,2706 1454,2731 1454,2676 1352,2660 330,2660" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
-        <zone points="325,2788 584,2758 645,2785 1457,2783 1457,2733 1324,2720 325,2715" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
-        <zone points="330,2825 1464,2853 1462,2786 1399,2768 1144,2801 755,2768 328,2786" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
-        <zone points="330,2881 1454,2908 1454,2848 1417,2841 1269,2856 1162,2823 890,2858 330,2823" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
-        <zone points="330,2953 902,2966 1004,2936 1112,2968 1447,2966 1447,2908 1341,2893 330,2908" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
-        <zone points="325,3010 1287,3000 1457,3032 1457,2963 1312,2950 924,2980 824,2948 749,2976 325,2960" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
-        <zone points="335,3072 519,3055 544,3078 814,3080 909,3057 1112,3082 1156,3075 1156,3023 334,3015" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
-        <zone points="379,3115 1464,3135 1464,3082 1304,3063 930,3097 782,3067 379,3075" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
-        <zone points="330,3183 1454,3197 1454,3142 1372,3130 695,3157 627,3123 330,3120" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
-        <zone points="330,3232 1112,3273 1272,3233 1464,3245 1439,3190 328,3190" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
-        <zone points="332,3303 1464,3317 1462,3248 1109,3282 1042,3245 330,3250" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
-        <zone points="325,3353 1451,3373 1449,3315 1361,3302 1132,3333 967,3300 485,3328 325,3302" rendition="Line" xml:id="facs_1_tr_1_tl_41"/>
-        <zone points="330,3408 1456,3428 1454,3378 1387,3365 1127,3393 1029,3360 827,3387 330,3360" rendition="Line" xml:id="facs_1_tr_1_tl_42"/>
-        <zone points="335,3473 1469,3490 1469,3423 1221,3450 1177,3420 1134,3452 895,3415 335,3417" rendition="Line" xml:id="facs_1_tr_1_tl_43"/>
-        <zone points="330,3532 970,3520 1196,3557 1251,3525 1471,3528 1451,3483 330,3477" rendition="Line" xml:id="facs_1_tr_1_tl_44"/>
-        <zone points="332,3587 1457,3605 1456,3545 1382,3538 1301,3565 1109,3535 1036,3567 870,3528 330,3532" rendition="Line" xml:id="facs_1_tr_1_tl_45"/>
-        <zone points="330,3643 1464,3653 1464,3610 1386,3598 330,3590" rendition="Line" xml:id="facs_1_tr_1_tl_46"/>
-        <zone points="325,3704 1059,3702 1126,3734 1444,3717 1466,3668 323,3650" rendition="Line" xml:id="facs_1_tr_1_tl_47"/>
-        <zone points="325,3769 1459,3772 1457,3722 1364,3710 1324,3740 325,3704" rendition="Line" xml:id="facs_1_tr_1_tl_48"/>
-        <zone points="330,3820 1456,3852 1454,3787 1419,3774 330,3772" rendition="Line" xml:id="facs_1_tr_1_tl_49"/>
-        <zone points="330,3897 460,3887 532,3915 627,3889 969,3914 979,3835 879,3847 794,3822 725,3844 652,3807 610,3832 328,3820" rendition="Line" xml:id="facs_1_tr_1_tl_50"/>
-      </zone><zone points="1522,249 1522,3894 2671,3894 2671,249" rendition="TextRegion" xml:id="facs_1_tr_2">
-        <zone points="1604,293 1706,312 1776,290 1829,320 1914,285 1996,307 2073,285 2186,325 2273,283 2274,223 2256,218 2181,235 2129,217 2074,248 2031,223 1606,232" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
-        <zone points="1587,682 2086,659 2646,687 2646,630 2560,620 1587,617" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
-        <zone points="1524,729 2044,712 2466,745 2651,715 2481,670 1524,677" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
-        <zone points="1514,780 2651,797 2650,752 2563,730 1512,729" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
-        <zone points="1512,849 2653,859 2651,799 2558,789 1511,792" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
-        <zone points="1512,897 2203,905 2203,849 2184,842 1512,847" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
-        <zone points="1572,949 2648,980 2628,904 1572,914" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
-        <zone points="1529,1011 2641,1026 2640,974 2566,959 1893,952 1813,984 1529,957" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
-        <zone points="1524,1077 2656,1077 2638,1022 1524,1024" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
-        <zone points="1524,1139 2004,1157 2194,1114 2238,1149 2420,1126 2473,1159 2648,1156 2648,1084 2578,1072 1524,1079" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
-        <zone points="1517,1191 1539,1194 1557,1206 1574,1199 1621,1221 1634,1221 1644,1211 1651,1216 1659,1207 1701,1209 1699,1136 1684,1141 1668,1131 1654,1142 1636,1144 1606,1129 1584,1127 1567,1142 1516,1139" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
-        <zone points="1654,1392 2630,1394 2655,1322 1652,1322" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
-        <zone points="1512,1431 2653,1447 2636,1387 1512,1377" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
-        <zone points="1517,1497 2641,1499 2641,1459 2378,1427 2303,1459 1968,1436 1823,1462 1517,1432" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
-        <zone points="1514,1569 1531,1569 1547,1584 1581,1582 1602,1569 1634,1587 1681,1587 1703,1574 1729,1576 1754,1559 1763,1566 1789,1557 1788,1514 1753,1501 1704,1502 1673,1514 1642,1492 1606,1514 1587,1501 1554,1504 1512,1491" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
-        <zone points="1582,1748 1878,1776 1976,1733 2009,1763 2350,1774 2656,1749 2656,1704 2600,1684 2391,1659 2204,1714 2009,1664 1582,1678" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
-        <zone points="1534,1824 2591,1828 2658,1816 2658,1764 1534,1769" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
-        <zone points="1524,1866 2626,1881 2656,1821 1524,1828" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
-        <zone points="1519,1924 2663,1929 2661,1893 2608,1879 2471,1904 2058,1866 1517,1879" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
-        <zone points="1512,1973 1748,2003 2661,1991 2621,1931 2553,1959 2423,1929 1512,1949" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
-        <zone points="1512,2049 1833,2061 1904,2031 2284,2074 2345,2041 2656,2041 2656,2006 2506,1991 2338,2024 2291,1988 2061,2016 2004,1986 1901,2016 1512,1989" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
-        <zone points="1529,2106 2098,2119 2228,2089 2653,2126 2653,2039 2016,2081 1913,2044 1529,2048" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
-        <zone points="1529,2161 2653,2176 2653,2131 2543,2111 1813,2103 1768,2138 1529,2106" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
-        <zone points="1524,2226 2231,2219 2443,2254 2651,2229 2651,2176 1522,2164" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
-        <zone points="1529,2296 2176,2279 2218,2301 2328,2279 2328,2244 2284,2228 2188,2246 2088,2228 2054,2249 1993,2223 1919,2243 1798,2221 1666,2251 1629,2223 1529,2228" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
-        <zone points="1577,2340 2600,2350 2651,2306 2508,2273 1944,2309 1681,2273 1577,2313" rendition="Line" xml:id="facs_1_tr_2_tl_26"/>
-        <zone points="1512,2393 2646,2406 2661,2346 1512,2361" rendition="Line" xml:id="facs_1_tr_2_tl_27"/>
-        <zone points="1529,2461 2646,2448 2646,2406 2585,2401 1529,2396" rendition="Line" xml:id="facs_1_tr_2_tl_28"/>
-        <zone points="1512,2523 2646,2531 2646,2475 2525,2455 1512,2460" rendition="Line" xml:id="facs_1_tr_2_tl_29"/>
-        <zone points="1512,2578 2653,2573 2653,2531 2585,2515 1512,2528" rendition="Line" xml:id="facs_1_tr_2_tl_30"/>
-        <zone points="1529,2640 2656,2638 2635,2575 2068,2601 1958,2571 1843,2603 1529,2578" rendition="Line" xml:id="facs_1_tr_2_tl_31"/>
-        <zone points="1524,2695 2258,2691 2338,2720 2426,2695 2555,2725 2651,2686 2651,2643 2576,2631 1524,2638" rendition="Line" xml:id="facs_1_tr_2_tl_32"/>
-        <zone points="1517,2766 1674,2788 1884,2746 2099,2765 2161,2745 2308,2780 2308,2713 2256,2691 2149,2715 2033,2690 1883,2711 1517,2696" rendition="Line" xml:id="facs_1_tr_2_tl_33"/>
-        <zone points="1556,2941 2656,2961 2656,2881 1556,2910" rendition="Line" xml:id="facs_1_tr_2_tl_34"/>
-        <zone points="1524,3018 2656,3015 2656,2961 2616,2951 1524,2946" rendition="Line" xml:id="facs_1_tr_2_tl_35"/>
-        <zone points="1529,3077 2606,3075 2646,3067 2646,3012 1529,3023" rendition="Line" xml:id="facs_1_tr_2_tl_36"/>
-        <zone points="1517,3127 2591,3140 2658,3125 2658,3072 1517,3078" rendition="Line" xml:id="facs_1_tr_2_tl_37"/>
-        <zone points="1512,3192 2656,3190 2656,3137 2563,3123 1512,3127" rendition="Line" xml:id="facs_1_tr_2_tl_38"/>
-        <zone points="1517,3245 2658,3243 2658,3197 2580,3187 1517,3188" rendition="Line" xml:id="facs_1_tr_2_tl_39"/>
-        <zone points="1517,3305 1974,3320 2253,3288 2350,3323 2425,3288 2510,3322 2658,3295 2658,3243 2248,3272 2176,3240 1517,3245" rendition="Line" xml:id="facs_1_tr_2_tl_40"/>
-        <zone points="1512,3355 2636,3362 2661,3298 2356,3325 2074,3298 1986,3330 1512,3308" rendition="Line" xml:id="facs_1_tr_2_tl_41"/>
-        <zone points="1512,3430 2238,3408 2561,3438 2661,3428 2663,3368 1514,3372" rendition="Line" xml:id="facs_1_tr_2_tl_42"/>
-        <zone points="1524,3480 2420,3462 2513,3492 2546,3460 2661,3478 2661,3432 1524,3433" rendition="Line" xml:id="facs_1_tr_2_tl_43"/>
-        <zone points="1517,3533 2658,3542 2658,3490 2516,3475 1517,3485" rendition="Line" xml:id="facs_1_tr_2_tl_44"/>
-        <zone points="1512,3602 2580,3602 2661,3583 2663,3547 1514,3543" rendition="Line" xml:id="facs_1_tr_2_tl_45"/>
-        <zone points="1524,3660 2656,3648 2656,3602 2525,3585 2196,3617 2116,3590 1524,3602" rendition="Line" xml:id="facs_1_tr_2_tl_46"/>
-        <zone points="1524,3710 2651,3714 2666,3645 2350,3674 2211,3645 1524,3658" rendition="Line" xml:id="facs_1_tr_2_tl_47"/>
-        <zone points="1512,3789 1624,3760 2461,3775 2513,3725 2131,3705 1561,3730 1514,3707" rendition="Line" xml:id="facs_1_tr_2_tl_48"/>
-        <zone points="1587,3847 1654,3814 1879,3849 1991,3814 2108,3849 2163,3814 2626,3839 2661,3834 2661,3782 2620,3755 2293,3797 1714,3765 1587,3794" rendition="Line" xml:id="facs_1_tr_2_tl_49"/>
-        <zone points="1511,3905 1849,3887 1991,3922 2049,3885 2661,3880 2661,3834 2526,3819 2108,3849 1711,3820 1589,3850 1512,3804" rendition="Line" xml:id="facs_1_tr_2_tl_50"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3241" lry="5213" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="3241px" height="5213px"/><zone points="63,25 2395,25 2395,426 63,426" rendition="TextRegion" xml:id="facs_2_region_1700651979369_1377" subtype="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">VfÜG Sonderdruck</title><principal>carlfriedrich.haak@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Österreichische Bundesverfassung: Datenset A</title></seriesStmt><sourceDesc><p>TRP document creator: carlfriedrich.haak@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="3239" lry="5209" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="3239px" height="5209px"/></surface><surface ulx="0" uly="0" lrx="3241" lry="5213" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="3241px" height="5213px"/><zone points="63,25 2395,25 2395,426 63,426" rendition="TextRegion" xml:id="facs_2_region_1700651979369_1377" subtype="paragraph">
+        <zone points="299,100 920,100 920,85 299,85" rendition="Line" xml:id="facs_2_l"/>
+        <zone points="97,190 1428,183 1428,168 97,175" rendition="Line" xml:id="facs_2_l_1986"/>
+        <zone points="1602,257 2300,254 2300,239 1602,242" rendition="Line" xml:id="facs_2_l_2004"/>
+        <zone points="90,299 1370,306 1370,291 90,284" rendition="Line" xml:id="facs_2_l_1992"/>
+        <zone points="1007,370 1213,415 1216,400 1010,355" rendition="Line" xml:id="facs_2_l_1998"/>
+      </zone><zone points="2574,416 2651,416 2651,447 2574,447" rendition="TextRegion" xml:id="facs_2_r">
+        <zone points="2574,431 2648,447 2651,432 2577,416" rendition="Line" xml:id="facs_2_l_2010"/>
       </zone><zone points="97,524 97,3887 1480,3887 1480,524" rendition="TextRegion" xml:id="facs_2_tr_1">
         <zone points="349,617 1470,606 1468,521 1423,507 1070,569 784,522 586,549 347,522" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
         <zone points="347,691 552,666 622,698 938,673 1465,701 1465,621 1410,606 347,621" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
         <zone points="487,781 569,756 634,786 806,766 844,793 1330,784 1330,719 1175,681 1138,703 1030,679 985,713 864,684 487,691" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
         <zone points="482,916 1395,916 1395,839 482,854" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
         <zone points="557,1040 631,1061 893,1036 953,1056 1253,1048 1253,988 1170,960 996,991 908,966 791,978 749,950 644,991 557,981" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+        <zone points="844,1117 941,1124 942,1109 845,1102" rendition="Line" xml:id="facs_2_l_2024"/>
         <zone points="466,1213 719,1245 1458,1233 1445,1176 1006,1186 936,1146 861,1186 466,1180" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
         <zone points="335,1283 1465,1283 1465,1237 335,1248" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
         <zone points="325,1338 1467,1352 1467,1283 1278,1282 1235,1317 1015,1280 614,1315 325,1287" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
@@ -120,12 +26,14 @@
         <zone points="335,1811 1465,1801 1465,1756 1363,1747 691,1776 617,1744 335,1751" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
         <zone points="332,1864 1155,1866 1253,1896 1475,1867 1474,1806 476,1834 330,1809" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
         <zone points="330,1939 1222,1942 1222,1889 1150,1867 1068,1887 826,1864 726,1891 696,1867 459,1862 406,1887 330,1862" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+        <zone points="847,2040 945,2042 945,2027 847,2025" rendition="Line" xml:id="facs_2_l_2030"/>
         <zone points="466,2141 1465,2153 1465,2096 1315,2066 1196,2101 896,2081 561,2111 466,2059" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
         <zone points="325,2209 1467,2209 1467,2164 1408,2146 325,2154" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
         <zone points="335,2259 1460,2271 1460,2216 1395,2201 703,2204 657,2236 547,2201 335,2214" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
         <zone points="342,2325 482,2301 833,2336 878,2301 1095,2341 1200,2310 1458,2328 1433,2268 940,2291 340,2258" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
         <zone points="325,2363 1458,2390 1458,2338 1205,2311 1163,2350 1005,2318 324,2326" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
         <zone points="342,2465 1253,2460 1253,2401 1168,2375 1115,2400 919,2375 554,2400 474,2376 407,2403 342,2375" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+        <zone points="840,2556 952,2562 953,2547 841,2541" rendition="Line" xml:id="facs_2_l_2036"/>
         <zone points="390,2657 1453,2662 1452,2612 1330,2583 389,2600" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
         <zone points="325,2703 1467,2728 1467,2683 1357,2660 325,2660" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
         <zone points="327,2787 579,2760 651,2787 1460,2782 1458,2725 748,2742 325,2712" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
@@ -149,6 +57,7 @@
         <zone points="330,3820 1450,3848 1448,3786 1387,3771 330,3773" rendition="Line" xml:id="facs_2_tr_1_tl_49"/>
         <zone points="325,3913 446,3888 554,3908 718,3900 738,3917 793,3897 838,3918 975,3903 975,3845 936,3830 729,3841 656,3808 527,3838 382,3811 325,3826" rendition="Line" xml:id="facs_2_tr_1_tl_50"/>
       </zone><zone points="1522,474 1522,4107 2679,4107 2679,474" rendition="TextRegion" xml:id="facs_2_tr_2">
+        <zone points="2020,563 2140,572 2141,557 2021,548" rendition="Line" xml:id="facs_2_l_2044"/>
         <zone points="1584,678 2637,683 2620,624 2290,597 2156,626 1856,602 1584,627" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
         <zone points="1530,724 2648,738 2648,691 2603,674 1530,678" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
         <zone points="1514,783 2643,801 2642,736 1512,728" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
@@ -159,10 +68,12 @@
         <zone points="1525,1080 2011,1056 2086,1085 2149,1053 2653,1086 2653,1026 2618,1016 2557,1053 2440,1013 1525,1018" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
         <zone points="1514,1131 1832,1165 2086,1116 2648,1155 2647,1083 1512,1086" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
         <zone points="1519,1191 1534,1198 1554,1195 1579,1208 1587,1203 1612,1213 1619,1208 1640,1220 1672,1210 1694,1217 1690,1145 1670,1138 1624,1138 1597,1126 1562,1140 1517,1136" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+        <zone points="2037,1278 2127,1276 2127,1261 2037,1263" rendition="Line" xml:id="facs_2_l_2050"/>
         <zone points="1660,1390 2653,1388 2653,1315 2360,1342 1660,1313" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
         <zone points="1519,1432 2653,1445 2653,1395 2553,1377 1519,1380" rendition="Line" xml:id="facs_2_tr_2_tl_13"/>
         <zone points="1530,1492 2204,1520 2648,1495 2648,1460 2381,1430 1832,1467 1530,1438" rendition="Line" xml:id="facs_2_tr_2_tl_14"/>
         <zone points="1515,1555 1555,1547 1589,1552 1610,1564 1665,1569 1680,1584 1697,1574 1709,1582 1754,1560 1784,1562 1782,1507 1710,1500 1639,1515 1602,1512 1587,1497 1540,1509 1514,1504" rendition="Line" xml:id="facs_2_tr_2_tl_15"/>
+        <zone points="2026,1649 2176,1662 2177,1647 2027,1634" rendition="Line" xml:id="facs_2_l_2056"/>
         <zone points="1564,1754 2655,1756 2655,1680 2567,1662 2311,1665 2203,1715 1564,1675" rendition="Line" xml:id="facs_2_tr_2_tl_16"/>
         <zone points="1530,1824 2663,1809 2637,1757 2542,1751 1530,1772" rendition="Line" xml:id="facs_2_tr_2_tl_17"/>
         <zone points="1514,1872 2655,1887 2655,1837 2486,1811 1514,1822" rendition="Line" xml:id="facs_2_tr_2_tl_18"/>
@@ -181,6 +92,7 @@
         <zone points="1530,2643 1632,2617 1871,2648 2655,2642 2628,2575 2296,2573 2236,2610 1997,2572 1844,2602 1530,2580" rendition="Line" xml:id="facs_2_tr_2_tl_31"/>
         <zone points="1514,2688 2473,2712 2648,2687 2648,2648 2598,2635 1514,2637" rendition="Line" xml:id="facs_2_tr_2_tl_32"/>
         <zone points="1514,2773 1799,2780 1934,2748 2109,2778 2159,2742 2234,2780 2308,2778 2308,2707 2283,2693 2208,2712 2058,2688 1902,2710 1826,2690 1791,2712 1694,2693 1654,2715 1514,2693" rendition="Line" xml:id="facs_2_tr_2_tl_33"/>
+        <zone points="2042,2844 2133,2851 2134,2836 2043,2829" rendition="Line" xml:id="facs_2_l_2062"/>
         <zone points="1569,2947 2663,2960 2663,2895 2582,2880 2468,2910 2348,2877 1569,2904" rendition="Line" xml:id="facs_2_tr_2_tl_34"/>
         <zone points="1530,3007 2663,3024 2663,2959 2625,2950 1530,2957" rendition="Line" xml:id="facs_2_tr_2_tl_35"/>
         <zone points="1525,3076 2597,3077 2658,3019 2078,3004 1861,3035 1699,2999 1525,3027" rendition="Line" xml:id="facs_2_tr_2_tl_36"/>
@@ -198,13 +110,16 @@
         <zone points="1514,3776 1567,3798 1680,3765 2491,3773 2470,3701 2391,3726 1514,3708" rendition="Line" xml:id="facs_2_tr_2_tl_48"/>
         <zone points="1595,3836 2648,3831 2650,3738 2296,3795 2091,3766 1997,3798 1904,3766 1597,3786" rendition="Line" xml:id="facs_2_tr_2_tl_49"/>
         <zone points="1514,3885 2672,3913 2672,3836 2521,3815 1587,3853 1514,3805" rendition="Line" xml:id="facs_2_tr_2_tl_50"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3233" lry="5213" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="3233px" height="5213px"/><zone points="582,566 582,3921 1752,3921 1752,566" rendition="TextRegion" xml:id="facs_3_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3233" lry="5213" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="3233px" height="5213px"/><zone points="562,458 663,458 663,473 562,473" rendition="TextRegion" xml:id="facs_3_r">
+        <zone points="562,473 663,473 663,458 562,458" rendition="Line" xml:id="facs_3_l"/>
+      </zone><zone points="582,566 582,3921 1752,3921 1752,566" rendition="TextRegion" xml:id="facs_3_tr_1">
         <zone points="600,615 1669,618 1726,603 1726,561 600,573" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
         <zone points="605,685 1710,668 1702,608 606,622" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
         <zone points="600,727 1638,736 1715,726 1715,682 600,684" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
         <zone points="595,800 1723,789 1723,745 1657,726 1105,756 595,735" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
         <zone points="599,851 1732,838 1694,780 1638,809 600,796" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
         <zone points="600,909 896,895 978,926 1218,898 1283,928 1558,899 1560,856 602,863" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+        <zone points="1078,982 1205,990 1206,975 1079,967" rendition="Line" xml:id="facs_3_l_2009"/>
         <zone points="644,1071 756,1100 1380,1071 1427,1105 1498,1071 1710,1079 1710,1022 644,1052" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
         <zone points="584,1163 1732,1146 1732,1090 1595,1079 778,1105 584,1071" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
         <zone points="590,1210 1721,1189 1721,1154 1567,1135 1261,1173 590,1154" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
@@ -230,6 +145,7 @@
         <zone points="590,2366 1715,2368 1715,2326 1621,2303 1423,2341 1249,2300 1153,2339 1108,2306 590,2307" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
         <zone points="590,2430 1013,2409 1149,2460 1351,2459 1482,2415 1590,2459 1715,2438 1715,2376 1640,2366 1492,2403 1312,2363 590,2370" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
         <zone points="574,2484 688,2505 775,2482 872,2517 982,2481 1058,2488 1058,2463 997,2422 810,2440 692,2422 611,2434 574,2418" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+        <zone points="1082,2557 1194,2561 1195,2546 1083,2542" rendition="Line" xml:id="facs_3_l_2015"/>
         <zone points="656,2670 1217,2645 1536,2683 1704,2658 1704,2577 1146,2609 1030,2568 969,2597 802,2572 654,2600" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
         <zone points="579,2717 1026,2733 1169,2701 1382,2739 1715,2727 1715,2680 1214,2664 1146,2691 982,2657 904,2691 577,2644" rendition="Line" xml:id="facs_3_tr_1_tl_33"/>
         <zone points="574,2775 614,2793 708,2772 1208,2787 1262,2775 1262,2739 1178,2711 1147,2737 1080,2712 956,2739 933,2718 802,2733 780,2715 574,2740" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
@@ -265,6 +181,7 @@
         <zone points="1785,1246 2912,1243 2886,1178 1787,1191" rendition="Line" xml:id="facs_3_tr_2_tl_12"/>
         <zone points="1780,1395 2896,1396 2877,1332 2677,1344 2616,1313 2516,1348 1781,1338" rendition="Line" xml:id="facs_3_tr_2_tl_13"/>
         <zone points="2256,1459 2274,1462 2294,1455 2313,1468 2335,1447 2371,1463 2390,1452 2444,1450 2446,1396 2427,1402 2419,1396 2370,1401 2339,1392 2329,1401 2317,1390 2285,1404 2258,1398" rendition="Line" xml:id="facs_3_tr_2_tl_14"/>
+        <zone points="2268,1533 2414,1525 2413,1510 2267,1518" rendition="Line" xml:id="facs_3_l_2003"/>
         <zone points="2159,1637 2185,1648 2212,1634 2243,1648 2303,1624 2367,1625 2383,1640 2414,1624 2450,1640 2514,1632 2516,1577 2479,1570 2452,1581 2437,1570 2405,1586 2389,1571 2355,1570 2322,1586 2296,1570 2210,1567 2160,1581" rendition="Line" xml:id="facs_3_tr_2_tl_15"/>
         <zone points="1847,1713 2912,1711 2890,1628 2463,1631 2412,1662 2154,1632 2102,1666 1847,1634" rendition="Line" xml:id="facs_3_tr_2_tl_16"/>
         <zone points="1781,1775 2918,1769 2918,1724 2867,1710 2591,1730 2533,1702 2449,1734 2371,1702 2137,1727 2039,1698 1947,1730 1781,1704" rendition="Line" xml:id="facs_3_tr_2_tl_17"/>
@@ -301,7 +218,9 @@
         <zone points="1787,3808 2912,3807 2896,3756 1787,3741" rendition="Line" xml:id="facs_3_tr_2_tl_48"/>
         <zone points="1781,3854 2912,3867 2912,3823 2790,3804 2434,3839 2357,3804 1781,3798" rendition="Line" xml:id="facs_3_tr_2_tl_49"/>
         <zone points="1781,3922 2300,3954 2596,3913 2912,3928 2912,3880 2846,3868 1781,3868" rendition="Line" xml:id="facs_3_tr_2_tl_50"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3252" lry="5283" xml:id="facs_4"><graphic url="%2Ffiles.jpeg" width="3252px" height="5283px"/><zone points="314,645 314,3991 1484,3991 1484,645" rendition="TextRegion" xml:id="facs_4_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3252" lry="5283" xml:id="facs_4"><graphic url="%2Ffiles.jpeg" width="3252px" height="5283px"/><zone points="2537,520 2658,520 2658,542 2537,542" rendition="TextRegion" xml:id="facs_4_r">
+        <zone points="2537,535 2657,542 2658,527 2538,520" rendition="Line" xml:id="facs_4_l"/>
+      </zone><zone points="314,645 314,3991 1484,3991 1484,645" rendition="TextRegion" xml:id="facs_4_tr_1">
         <zone points="338,686 1471,706 1461,641 338,625" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
         <zone points="344,742 1476,754 1431,696 1265,722 898,681 833,713 344,689" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
         <zone points="349,803 879,827 980,796 1198,839 1265,807 1481,814 1470,746 1333,777 348,748" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
@@ -406,7 +325,9 @@
         <zone points="1660,3879 1818,3884 1854,3863 1884,3879 1906,3863 1951,3885 1994,3872 2047,3888 2106,3869 2153,3889 2153,3840 2102,3824 2008,3835 1888,3819 1836,3839 1660,3824" rendition="Line" xml:id="facs_4_tr_2_tl_50"/>
         <zone points="1668,3937 2056,3946 2150,3930 2177,3943 2193,3939 2192,3884 2127,3894 2080,3872 2043,3894 1992,3872 1864,3897 1838,3876 1666,3882" rendition="Line" xml:id="facs_4_tr_2_tl_51"/>
         <zone points="1670,4021 1841,4034 1916,3992 1969,3988 2109,4014 2135,3998 2228,4002 2228,3943 2151,3931 2130,3946 2075,3931 2057,3946 1745,3954 1670,3934" rendition="Line" xml:id="facs_4_tr_2_tl_52"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3257" lry="5265" xml:id="facs_5"><graphic url="%2Ffiles.jpeg" width="3257px" height="5265px"/><zone points="597,617 597,3986 1774,3986 1774,617" rendition="TextRegion" xml:id="facs_5_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3257" lry="5265" xml:id="facs_5"><graphic url="%2Ffiles.jpeg" width="3257px" height="5265px"/><zone points="587,509 647,509 647,544 587,544" rendition="TextRegion" xml:id="facs_5_r">
+        <zone points="587,523 641,544 647,530 593,509" rendition="Line" xml:id="facs_5_l"/>
+      </zone><zone points="597,617 597,3986 1774,3986 1774,617" rendition="TextRegion" xml:id="facs_5_tr_1">
         <zone points="654,681 1607,652 1666,678 1727,664 1728,600 655,641" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
         <zone points="594,749 1683,726 1722,717 1724,667 596,694" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
         <zone points="594,814 1721,795 1724,717 596,765" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
@@ -507,7 +428,9 @@
         <zone points="1951,3854 2810,3872 2955,3853 2956,3785 2793,3780 2680,3820 2544,3821 2443,3776 1952,3794" rendition="Line" xml:id="facs_5_tr_2_tl_45"/>
         <zone points="1811,3918 2383,3912 2485,3963 2629,3915 2874,3909 2945,3945 2955,3853 2376,3888 2295,3860 2239,3889 1811,3854" rendition="Line" xml:id="facs_5_tr_2_tl_46"/>
         <zone points="1811,3984 1895,3993 1986,3973 2100,4003 2174,3984 2282,4018 2350,3979 2418,4000 2417,3950 2379,3929 2185,3940 2130,3909 1954,3942 1912,3921 1876,3935 1811,3919" rendition="Line" xml:id="facs_5_tr_2_tl_47"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3274" lry="5276" xml:id="facs_6"><graphic url="%2Ffiles.jpeg" width="3274px" height="5276px"/><zone points="273,626 273,4028 1463,4028 1463,626" rendition="TextRegion" xml:id="facs_6_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3274" lry="5276" xml:id="facs_6"><graphic url="%2Ffiles.jpeg" width="3274px" height="5276px"/><zone points="2479,512 2630,512 2630,545 2479,545" rendition="TextRegion" xml:id="facs_6_r">
+        <zone points="2479,527 2629,545 2630,530 2481,512" rendition="Line" xml:id="facs_6_l"/>
+      </zone><zone points="273,626 273,4028 1463,4028 1463,626" rendition="TextRegion" xml:id="facs_6_tr_1">
         <zone points="774,683 794,689 815,680 832,689 872,670 885,679 899,679 918,661 940,658 940,607 918,598 907,607 889,604 878,610 872,604 842,603 832,597 806,605 787,588 774,591" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
         <zone points="652,765 677,760 699,778 766,756 788,765 822,755 907,766 936,784 958,772 994,780 1021,762 1040,769 1040,712 964,721 948,708 831,711 762,698 709,711 687,689 651,703" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
         <zone points="332,823 1410,848 1408,790 1360,777 329,756" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
@@ -616,7 +539,9 @@
         <zone points="1555,3892 2578,3886 2624,3881 2624,3817 1555,3841" rendition="Line" xml:id="facs_6_tr_2_tl_54"/>
         <zone points="1487,3943 2511,3949 2634,3927 2634,3883 2170,3905 1816,3871 1487,3911" rendition="Line" xml:id="facs_6_tr_2_tl_55"/>
         <zone points="1487,4004 2622,4001 2644,3931 2491,3968 2208,3933 1982,3962 1489,3941" rendition="Line" xml:id="facs_6_tr_2_tl_56"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3245" lry="5211" xml:id="facs_7"><graphic url="%2Ffiles.jpeg" width="3245px" height="5211px"/><zone points="616,594 616,3937 1773,3937 1773,594" rendition="TextRegion" xml:id="facs_7_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3245" lry="5211" xml:id="facs_7"><graphic url="%2Ffiles.jpeg" width="3245px" height="5211px"/><zone points="582,454 662,454 662,487 582,487" rendition="TextRegion" xml:id="facs_7_r">
+        <zone points="582,469 659,487 662,472 585,454" rendition="Line" xml:id="facs_7_l"/>
+      </zone><zone points="616,594 616,3937 1773,3937 1773,594" rendition="TextRegion" xml:id="facs_7_tr_1">
         <zone points="620,626 1753,650 1753,581 620,589" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
         <zone points="628,699 1753,703 1753,653 1693,644 628,647" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
         <zone points="620,745 827,796 1758,773 1757,712 1562,696 1482,724 620,708" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
@@ -718,7 +643,9 @@
         <zone points="2305,3802 2342,3809 2352,3802 2358,3808 2378,3788 2405,3808 2420,3799 2462,3799 2462,3746 2450,3743 2421,3752 2407,3739 2394,3743 2375,3727 2362,3733 2352,3729 2342,3739 2305,3740" rendition="Line" xml:id="facs_7_tr_2_tl_45"/>
         <zone points="1884,3886 2959,3881 2946,3829 2684,3841 2581,3798 2465,3831 2293,3801 2247,3832 2071,3798 1884,3821" rendition="Line" xml:id="facs_7_tr_2_tl_46"/>
         <zone points="1809,3953 1904,3982 1987,3936 2947,3975 2947,3891 1809,3886" rendition="Line" xml:id="facs_7_tr_2_tl_47"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3243" lry="5194" xml:id="facs_8"><graphic url="%2Ffiles.jpeg" width="3243px" height="5194px"/><zone points="302,552 302,2461 1470,2461 1470,552" rendition="TextRegion" xml:id="facs_8_tr_1">
+      </zone></surface><surface ulx="0" uly="0" lrx="3243" lry="5194" xml:id="facs_8"><graphic url="%2Ffiles.jpeg" width="3243px" height="5194px"/><zone points="2544,406 2633,406 2633,421 2544,421" rendition="TextRegion" xml:id="facs_8_r">
+        <zone points="2544,421 2633,421 2633,406 2544,406" rendition="Line" xml:id="facs_8_l"/>
+      </zone><zone points="302,552 302,2461 1470,2461 1470,552" rendition="TextRegion" xml:id="facs_8_tr_1">
         <zone points="294,618 1439,594 1439,544 294,555" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
         <zone points="294,667 1418,672 1435,608 294,620" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
         <zone points="294,737 481,708 1439,714 1439,671 294,681" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
@@ -734,7 +661,6 @@
         <zone points="440,1325 615,1296 662,1325 986,1319 1109,1286 1385,1310 1437,1298 1439,1260 1056,1231 992,1270 757,1233 441,1262" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
         <zone points="305,1378 1429,1369 1429,1320 1348,1299 794,1338 624,1303 305,1319" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
         <zone points="294,1432 1378,1430 1429,1412 1430,1370 294,1382" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
-        <zone points="300,1510 444,1509 481,1492 537,1512 575,1497 702,1509 741,1492 742,1426 661,1443 610,1428 584,1442 507,1428 467,1443 440,1426 383,1442 357,1426 301,1435" rendition="Line" xml:id="facs_8_tr_1_tl_16"/>
         <zone points="364,1572 1445,1566 1445,1516 931,1493 804,1525 728,1493 364,1522" rendition="Line" xml:id="facs_8_tr_1_tl_17"/>
         <zone points="375,1636 1313,1617 1428,1643 1429,1569 377,1599" rendition="Line" xml:id="facs_8_tr_1_tl_18"/>
         <zone points="435,1702 1413,1693 1429,1646 1289,1622 1065,1654 844,1653 812,1627 435,1650" rendition="Line" xml:id="facs_8_tr_1_tl_19"/>
@@ -784,253 +710,182 @@
         <zone points="1575,2377 1853,2400 2127,2368 2245,2402 2317,2373 2652,2410 2671,2324 2387,2337 2238,2295 2094,2340 1576,2328" rendition="Line" xml:id="facs_8_tr_2_tl_30"/>
         <zone points="1493,2450 1536,2454 1565,2440 1577,2448 1617,2441 1640,2455 1663,2445 1692,2452 1694,2400 1667,2402 1639,2392 1605,2400 1572,2391 1547,2398 1529,2381 1496,2371" rendition="Line" xml:id="facs_8_tr_2_tl_31"/>
       </zone><zone points="1475,2484 3094,2484 3094,4108 1475,4108" rendition="TextRegion" xml:id="facs_8_region_1700652034017_1448" subtype="paragraph">
-      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_tr_1" type="">
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Z. Z. 5522/20
-      <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Den Beurkundungsunterschrift durch den Herrn
-      <lb facs="#facs_1_tr_1_tl_3" n="N003"/>Präsidenten wurde im kurzen Wege eingeholt.
-      <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Witsen
-      <lb facs="#facs_1_tr_1_tl_5" n="N005"/>Verfassungsgesetz vom 1. Oktober
-      <lb facs="#facs_1_tr_1_tl_6" n="N006"/>1920, betreffend den Übergang zur
-      <lb facs="#facs_1_tr_1_tl_7" n="N007"/>bundesstaatlichen Verfassung.
-      <lb facs="#facs_1_tr_1_tl_8" n="N008"/>Die Nationalversammlung hat beschlossen:
-      <lb facs="#facs_1_tr_1_tl_9" n="N009"/>I. Allgemeine Bestimmungen.
-      <lb facs="#facs_1_tr_1_tl_10" n="N010"/>Alle Gesetze und Vollzugsanweisungen (Ver¬
-      <lb facs="#facs_1_tr_1_tl_11" n="N011"/>ordnungen) des Staates — einschließlich der
-      <lb facs="#facs_1_tr_1_tl_12" n="N012"/>Reichsgesetze des ehemaligen Staates Österreich
-      <lb facs="#facs_1_tr_1_tl_13" n="N013"/>die gemäß § 16 des Beschlusses über die grund¬
-      <lb facs="#facs_1_tr_1_tl_14" n="N014"/>legenden Einrichtungen der Staatsgewalt vom
-      <lb facs="#facs_1_tr_1_tl_15" n="N015"/>30. Oktober 1918, St. G. Bl. Nr. 1, für die
-      <lb facs="#facs_1_tr_1_tl_16" n="N016"/>Republik in Geltung gesetzt wurden — sowie alle
-      <lb facs="#facs_1_tr_1_tl_17" n="N017"/>Gesetze und Vollzugsanweisungen (Verordnungen) der
-      <lb facs="#facs_1_tr_1_tl_18" n="N018"/>Länder gelten weiter, insoweit sie nicht mit den
-      <lb facs="#facs_1_tr_1_tl_19" n="N019"/>Bestimmungen des Gesetzes vom 1. Oktober 1920,
-      <lb facs="#facs_1_tr_1_tl_20" n="N020"/>St. G. Bl. Nr. 450, womit die Republik Öster¬
-      <lb facs="#facs_1_tr_1_tl_21" n="N021"/>reich als Bundesstaat eingerichtet wird (Bundes¬
-      <lb facs="#facs_1_tr_1_tl_22" n="N022"/>Verfassungsgesetz), in Widerspruch stehen.
-      <lb facs="#facs_1_tr_1_tl_23" n="N023"/>In den Angelegenheiten der Artikel 10
-      <lb facs="#facs_1_tr_1_tl_24" n="N024"/>und 11 des Bundes=Verfassungsgesetzes werden die
-      <lb facs="#facs_1_tr_1_tl_25" n="N025"/>Staatsgesetze, einschließlich früherer Reichsgesete,
-      <lb facs="#facs_1_tr_1_tl_26" n="N026"/>sowie die Landesgesetze — diese für das Land,
-      <lb facs="#facs_1_tr_1_tl_27" n="N027"/>in dem sie erlassen worden sind, — Bundesgesetze
-      <lb facs="#facs_1_tr_1_tl_28" n="N028"/>im Sinne des Bundes=Verfassungsgesetzes.
-      <lb facs="#facs_1_tr_1_tl_29" n="N029"/>(1) Die Landesgesetze, die die im Artikel 12
-      <lb facs="#facs_1_tr_1_tl_30" n="N030"/>des Bundes=Verfassungsgesetzes aufgezählten Ange¬
-      <lb facs="#facs_1_tr_1_tl_31" n="N031"/>legenheiten regeln, bleiben weiter Landesgesetze im
-      <lb facs="#facs_1_tr_1_tl_32" n="N032"/>Sinne des Bundes=Verfassungsgesetzes. Sobald jedoch
-      <lb facs="#facs_1_tr_1_tl_33" n="N033"/>in diesen Angelegenheiten Grundsätze durch Bundes¬
-      <lb facs="#facs_1_tr_1_tl_34" n="N034"/>gesetz festgesetzt werden, sind solche Landesgesetze
-      <lb facs="#facs_1_tr_1_tl_35" n="N035"/>gemäß Artikel 15, Absatz 2, binnen der bundes¬
-      <lb facs="#facs_1_tr_1_tl_36" n="N036"/>gesetzlich festgelegten Frist abzuändern.
-      <lb facs="#facs_1_tr_1_tl_37" n="N037"/>(2) Sind aber die im Artikel 12 bezeichneten
-      <lb facs="#facs_1_tr_1_tl_38" n="N038"/>Angelegenheiten zur Gänze durch Staatsgesetze,
-      <lb facs="#facs_1_tr_1_tl_39" n="N039"/>einschließlich früherer Reichsgesetze, geregelt, so bleibt
-      <lb facs="#facs_1_tr_1_tl_40" n="N040"/>ein solches Gesetz als Bundesgesetz noch durch drei
-      <lb facs="#facs_1_tr_1_tl_41" n="N041"/>Jahre, von dem im § 42, Absatz 1, dieses Gesetzes
-      <lb facs="#facs_1_tr_1_tl_42" n="N042"/>bezeichneten Zeitpunkt an gerechnet, in Gültigkeit,
-      <lb facs="#facs_1_tr_1_tl_43" n="N043"/>soweit es nicht schon vorher durch ein die gleiche
-      <lb facs="#facs_1_tr_1_tl_44" n="N044"/>Angelegenheit im Sinne des Artikels 12 regelndes
-      <lb facs="#facs_1_tr_1_tl_45" n="N045"/>Bundesgesetz außer Kraft gesetzt wird. Mit Ablauf
-      <lb facs="#facs_1_tr_1_tl_46" n="N046"/>dieser drei Jahre erlischt die Wirksamkeit derartiger
-      <lb facs="#facs_1_tr_1_tl_47" n="N047"/>Gesetze; die Landesgesetzgebungen können sodann die
-      <lb facs="#facs_1_tr_1_tl_48" n="N048"/>Angelegenheit frei regeln, solange nicht der Bund
-      <lb facs="#facs_1_tr_1_tl_49" n="N049"/>von dem ihm nach Artikel 12 zustehenden Gesetz¬
-      <lb facs="#facs_1_tr_1_tl_50" n="N050"/>gebungsrecht Gebrauch macht.</ab><ab facs="#facs_1_tr_2" type="">
-      <lb facs="#facs_1_tr_2_tl_1" n="N001"/>102/99-St. K. - 1920
-      <lb facs="#facs_1_tr_2_tl_2" n="N002"/>(1) Die Landesgesetze in den Angelegenheiten,
-      <lb facs="#facs_1_tr_2_tl_3" n="N003"/>die nach Artikel 15, Absatz 1, des Bundes¬
-      <lb facs="#facs_1_tr_2_tl_4" n="N004"/>Verfassungsgesetzes ausschließlich in die Gesetzgebung
-      <lb facs="#facs_1_tr_2_tl_5" n="N005"/>der Länder fallen, bleiben Landesgesetze im Sinne
-      <lb facs="#facs_1_tr_2_tl_6" n="N006"/>des Bundes=Verfassungsgesetzes.
-      <lb facs="#facs_1_tr_2_tl_7" n="N007"/>(2) Soweit solche Angelegenheiten bisher durch
-      <lb facs="#facs_1_tr_2_tl_8" n="N008"/>Staatsgesete, einschließlich früherer Reichsgesetze,
-      <lb facs="#facs_1_tr_2_tl_9" n="N009"/>geregelt sind, gelten diese in jedem Land als
-      <lb facs="#facs_1_tr_2_tl_10" n="N010"/>Landesgesetze im Sinne des Bundes=Verfassungs¬
-      <lb facs="#facs_1_tr_2_tl_11" n="N011"/>gesetzes.
-      <lb facs="#facs_1_tr_2_tl_12" n="N012"/>Die Bestimmungen der §§ 2 bis 4 über
-      <lb facs="#facs_1_tr_2_tl_13" n="N013"/>Gesetze gelten sinngemäß auch für die auf Grund
-      <lb facs="#facs_1_tr_2_tl_14" n="N014"/>dieser Gesetze ergangenen Vollzugsanweisungen (Ver¬
-      <lb facs="#facs_1_tr_2_tl_15" n="N015"/>ordnungen).
-      <lb facs="#facs_1_tr_2_tl_16" n="N016"/>(1) Die im § 1 bezeichneten Gesetze und Voll¬
-      <lb facs="#facs_1_tr_2_tl_17" n="N017"/>zugsanweisungen (Verordnungen) gelten, insoweit sie
-      <lb facs="#facs_1_tr_2_tl_18" n="N018"/>mit den organisatorischen Bestimmungen des Bundes¬
-      <lb facs="#facs_1_tr_2_tl_19" n="N019"/>Verfassungsgesetzes in Widerspruch stehen - nament¬
-      <lb facs="#facs_1_tr_2_tl_20" n="N020"/>lich was Zuständigkeit und Zusammensetzung der
-      <lb facs="#facs_1_tr_2_tl_21" n="N021"/>Behörden sowie deren Eigenschaft als Bundes¬
-      <lb facs="#facs_1_tr_2_tl_22" n="N022"/>oder Landesbehörden anlangt —, als sinngemäß
-      <lb facs="#facs_1_tr_2_tl_23" n="N023"/>abgeändert. Insbesondere endet in den Angelegen¬
-      <lb facs="#facs_1_tr_2_tl_24" n="N024"/>heiten, die nunmehr in der Vollziehung der Länder
-      <lb facs="#facs_1_tr_2_tl_25" n="N025"/>stehen, der Instanzenzug beim Land.
-      <lb facs="#facs_1_tr_2_tl_26" n="N026"/>(2) Sofern sich auf Grund dieser Auslegungs¬
-      <lb facs="#facs_1_tr_2_tl_27" n="N027"/>regel Zweifel ergeben können, hat je nach den die
-      <lb facs="#facs_1_tr_2_tl_28" n="N028"/>Zuständigkeiten regelnden Bestimmungen des Bundes¬
-      <lb facs="#facs_1_tr_2_tl_29" n="N029"/>Verfassungsgesetzes entweder die Bundesregierung
-      <lb facs="#facs_1_tr_2_tl_30" n="N030"/>oder die berufene Landesregierung diese Angelegen¬
-      <lb facs="#facs_1_tr_2_tl_31" n="N031"/>heit bis zur Erlassung einer gesetzlichen Bestim¬
-      <lb facs="#facs_1_tr_2_tl_32" n="N032"/>mung im Sinne des Bundes=Verfassungsgesetzes vor¬
-      <lb facs="#facs_1_tr_2_tl_33" n="N033"/>läufig durch Verordnung zu regeln.
-      <lb facs="#facs_1_tr_2_tl_34" n="N034"/>(1) Die gesetzlich den bisherigen Organen des
-      <lb facs="#facs_1_tr_2_tl_35" n="N035"/>Staates und der Länder übertragenen Befugnisse
-      <lb facs="#facs_1_tr_2_tl_36" n="N036"/>gehen auf die mit einem gleichartigen Wirkungs¬
-      <lb facs="#facs_1_tr_2_tl_37" n="N037"/>bereich betrauten Organe des Bundes und der Länder
-      <lb facs="#facs_1_tr_2_tl_38" n="N038"/>über, soweit nicht die Zuständigkeiten dieser Organe
-      <lb facs="#facs_1_tr_2_tl_39" n="N039"/>durch das Bundes=Verfassungsgesetz anders geregelt
-      <lb facs="#facs_1_tr_2_tl_40" n="N040"/>sind. Demnach treten namentlich an die Stelle der
-      <lb facs="#facs_1_tr_2_tl_41" n="N041"/>Nationalversammlung der Nationalrat, an die Stelle
-      <lb facs="#facs_1_tr_2_tl_42" n="N042"/>des Präsidenten der Nationalversammlung, soweit
-      <lb facs="#facs_1_tr_2_tl_43" n="N043"/>er mit Regierungsgeschäften betraut war, der
-      <lb facs="#facs_1_tr_2_tl_44" n="N044"/>Bundespräsident, an die Stelle der Staatsregierung
-      <lb facs="#facs_1_tr_2_tl_45" n="N045"/>die Bundesregierung, an die Stelle der Staats¬
-      <lb facs="#facs_1_tr_2_tl_46" n="N046"/>sekretäre die Bundesminister, an die Stelle der
-      <lb facs="#facs_1_tr_2_tl_47" n="N047"/>Unterstaatssekretäre die Staatsseckretäte, an die Stelle
-      <lb facs="#facs_1_tr_2_tl_48" n="N048"/>des Staatsrechnungshofes der Rechnungschof.
-      <lb facs="#facs_1_tr_2_tl_49" n="N049"/>(2) Die nach dem Gesetz vom 24. Juli 1917,
-      <lb facs="#facs_1_tr_2_tl_50" n="N050"/>R. G. Bl. Nr. 307, mit welchem die Regierung</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><p facs="#facs_2_region_1700651979369_1377"/><ab facs="#facs_2_tr_1" type="">
-      <lb facs="#facs_2_tr_1_tl_5" n="N001"/>Verfassungsgesetz vom l. Oktober
-      <lb facs="#facs_2_tr_1_tl_6" n="N002"/>1920. betreffend den Übergang zur
+        <zone points="2348,2602 2461,2605 2461,2590 2348,2587" rendition="Line" xml:id="facs_8_l_1287"/>
+        <zone points="2358,2832 2983,2852 2983,2837 2358,2817" rendition="Line" xml:id="facs_8_l_1330"/>
+        <zone points="1613,2845 2066,2852 2066,2837 1613,2830" rendition="Line" xml:id="facs_8_l_1293"/>
+        <zone points="1593,3041 2227,3058 2227,3043 1593,3026" rendition="Line" xml:id="facs_8_l_1302"/>
+        <zone points="2485,3068 2550,3103 2550,3103 2667,3099 2666,3084 2550,3088 2554,3088 2492,3055" rendition="Line" xml:id="facs_8_l_1345"/>
+        <zone points="2945,3085 2485,3068 2484,3083 2944,3100" rendition="Line" xml:id="facs_8_l_1339"/>
+        <zone points="1599,3223 2145,3257 2146,3242 1600,3208" rendition="Line" xml:id="facs_8_l_1308"/>
+        <zone points="2389,3243 3010,3261 3010,3246 2389,3228" rendition="Line" xml:id="facs_8_l_1355"/>
+        <zone points="2416,3436 2938,3453 2938,3438 2416,3421" rendition="Line" xml:id="facs_8_l_1361"/>
+        <zone points="1613,3466 2097,3473 2097,3458 1613,3451" rendition="Line" xml:id="facs_8_l_1314"/>
+        <zone points="2468,3652 2835,3672 2836,3657 2469,3637" rendition="Line" xml:id="facs_8_l_1367"/>
+        <zone points="2433,3865 3017,3871 3017,3856 2433,3850" rendition="Line" xml:id="facs_8_l_1373"/>
+        <zone points="1548,3878 2104,3875 2104,3875 1953,3895 1955,3910 2128,3873 2104,3860 1548,3863" rendition="Line" xml:id="facs_8_l_1320"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><p facs="#facs_2_region_1700651979369_1377">
+      <lb facs="#facs_2_l" n="N001"/>
+      <lb facs="#facs_2_l_1986" n="N002"/>
+      <lb facs="#facs_2_l_2004" n="N003"/>102/99-St.K.-1920
+      <lb facs="#facs_2_l_1992" n="N004"/>
+      <lb facs="#facs_2_l_1998" n="N005"/></p><ab facs="#facs_2_r" type="">
+      <lb facs="#facs_2_l_2010" n="N001"/>1</ab><ab facs="#facs_2_tr_1" type="">
+      <lb facs="#facs_2_tr_1_tl_5" n="N001"/>Verfassungsgesetz vom 1. Oktober
+      <lb facs="#facs_2_tr_1_tl_6" n="N002"/>1920, betreffend den Übergang zur
       <lb facs="#facs_2_tr_1_tl_7" n="N003"/>bundesstaatlichen Verfassung.
       <lb facs="#facs_2_tr_1_tl_8" n="N004"/>Die Nationalversammlung hat beichlossen:
       <lb facs="#facs_2_tr_1_tl_9" n="N005"/>I. Allgemeine Bestimmungen.
-      <lb facs="#facs_2_tr_1_tl_10" n="N006"/>Alle Gesetze und Vollzugsanweisungen (Ver-
-      <lb facs="#facs_2_tr_1_tl_11" n="N007"/>ordnungen) des Staates — einschlicßlich der
-      <lb facs="#facs_2_tr_1_tl_12" n="N008"/>Reichsgesetze des ehemaligen Staates Osterreich,
-      <lb facs="#facs_2_tr_1_tl_13" n="N009"/>die gemäß § 16 des Beschlusses über die grund-
-      <lb facs="#facs_2_tr_1_tl_14" n="N010"/>legenden Einrichtungen der Staatsgewalt vom
-      <lb facs="#facs_2_tr_1_tl_15" n="N011"/>30. Oktober 1518, St. G. BI. Nr. 1, für die
-      <lb facs="#facs_2_tr_1_tl_16" n="N012"/>Republik in Geltung gejett wurden — sowie alle
-      <lb facs="#facs_2_tr_1_tl_17" n="N013"/>Gesrtze und Vollzugsanweisungen (Verordnungen) der
-      <lb facs="#facs_2_tr_1_tl_18" n="N014"/>Länder gelten weiter, insoweit sie nicht mit den
-      <lb facs="#facs_2_tr_1_tl_19" n="N015"/>Bestimmungen des Gesetzes vom 1. Oktober 1920,
-      <lb facs="#facs_2_tr_1_tl_20" n="N016"/>St. (. BI. Nr. 450, womit die Republik Oster-
-      <lb facs="#facs_2_tr_1_tl_21" n="N017"/>reich als Bundesstaat eingerichtet wird (Bundcs-
-      <lb facs="#facs_2_tr_1_tl_22" n="N018"/>Verfassungsgejetz), in Widerspruch stehen.
-      <lb facs="#facs_2_tr_1_tl_23" n="N019"/>In den Angelegenheiten der Artikel 10.
-      <lb facs="#facs_2_tr_1_tl_24" n="N020"/>und 11 des Bundes-Verfassungsgesetzes werden die
-      <lb facs="#facs_2_tr_1_tl_25" n="N021"/>Staatsgesetze, einschließlich früherer Reichsgesetze,
-      <lb facs="#facs_2_tr_1_tl_26" n="N022"/>sowie die Landesgesetze - diese für das Land,
-      <lb facs="#facs_2_tr_1_tl_27" n="N023"/>in dem sie erlassen worden sind, — Bundesgesetze
-      <lb facs="#facs_2_tr_1_tl_28" n="N024"/>im Sinne des Bundes-Verfassungsgesches.
-      <lb facs="#facs_2_tr_1_tl_29" n="N025"/>(1) Die Landesgesetze, die die im Artikel 12
-      <lb facs="#facs_2_tr_1_tl_30" n="N026"/>des Bundes-Verfassungsgesetzes aufgezählten Ange-
-      <lb facs="#facs_2_tr_1_tl_31" n="N027"/>legenheiten regeln, bleiben weiter Landesgesetze im
-      <lb facs="#facs_2_tr_1_tl_32" n="N028"/>Sinnc des Bundes-Verfassungsgesetzes. Sobald jedoch
-      <lb facs="#facs_2_tr_1_tl_33" n="N029"/>in diesen Angelegenheiten Grundsätze durch Bundes
-      <lb facs="#facs_2_tr_1_tl_34" n="N030"/>gesetz festgesetzt werden, sind solche Landesgesetzt
-      <lb facs="#facs_2_tr_1_tl_35" n="N031"/>gemäß Artikel 15, Absatz 2, binnen der bundes-
-      <lb facs="#facs_2_tr_1_tl_36" n="N032"/>gesetzlich festgelegten Frist abzuändern.
-      <lb facs="#facs_2_tr_1_tl_37" n="N033"/>(2) Sind aber die im Artikel 12 bezeichneten.
-      <lb facs="#facs_2_tr_1_tl_38" n="N034"/>Angelegenheiten zur Gänze durch Staatsgesetzt
-      <lb facs="#facs_2_tr_1_tl_39" n="N035"/>einschließlich früherer Reichsgesetze, geregelt, so bleibt
-      <lb facs="#facs_2_tr_1_tl_40" n="N036"/>ein solches Geset als Bundesgesetz noch durch drei
-      <lb facs="#facs_2_tr_1_tl_41" n="N037"/>Jahre, von dem im § 42, Absatz I, dieses Gesetzes
-      <lb facs="#facs_2_tr_1_tl_42" n="N038"/>bezeichneten Zeitpunkt an gerechnet, in Gültigkeit,
-      <lb facs="#facs_2_tr_1_tl_43" n="N039"/>soweit es nicht schon vorher durch ein die gleiche
-      <lb facs="#facs_2_tr_1_tl_44" n="N040"/>Angelegenheit im Sinne des Artikels 12 regelndes
-      <lb facs="#facs_2_tr_1_tl_45" n="N041"/>Bundesgesetz auter kraft gesetzt wird. Mit Ablauf
-      <lb facs="#facs_2_tr_1_tl_46" n="N042"/>dieser drei Jahre erlischt die Wirksamkeit derartigen
-      <lb facs="#facs_2_tr_1_tl_47" n="N043"/>Gesetzc; die Landesgesetzgebungen können sodann die
-      <lb facs="#facs_2_tr_1_tl_48" n="N044"/>Angelegenheit frei regeln, solange nicht der Bund-
-      <lb facs="#facs_2_tr_1_tl_49" n="N045"/>von dem ihm nach Artikel 12 zustehenden Gesetz-
-      <lb facs="#facs_2_tr_1_tl_50" n="N046"/>gebungsrecht Gebrauch macht.</ab><ab facs="#facs_2_tr_2" type="">
-      <lb facs="#facs_2_tr_2_tl_2" n="N001"/>() Die Landesgesete in den Angelegenheiten,
-      <lb facs="#facs_2_tr_2_tl_3" n="N002"/>die nach Artitel 15, Absatz 1, des Bundez-
-      <lb facs="#facs_2_tr_2_tl_4" n="N003"/>Verfassungsgesetzes ausschlicßlich in die Geietzgebung
-      <lb facs="#facs_2_tr_2_tl_5" n="N004"/>der Länder fallen, bleiben Landesgeiete im Sinne
-      <lb facs="#facs_2_tr_2_tl_6" n="N005"/>des Bundes-Verfassungsgesetzes.
-      <lb facs="#facs_2_tr_2_tl_7" n="N006"/>(2) Soweit solche Angelegenheiten bisher durch
-      <lb facs="#facs_2_tr_2_tl_8" n="N007"/>Staatsgesetze, einschlicßlich früherer Reichsgesehe,
-      <lb facs="#facs_2_tr_2_tl_9" n="N008"/>geregelt sind, gelten diese in jedem Land als
-      <lb facs="#facs_2_tr_2_tl_10" n="N009"/>Landesgesche im Sinne des Bundes-Verfassungs-
-      <lb facs="#facs_2_tr_2_tl_11" n="N010"/>gesetzes.
-      <lb facs="#facs_2_tr_2_tl_12" n="N011"/>Die Bestimmungen der §§ 2 bis 4 über-
-      <lb facs="#facs_2_tr_2_tl_13" n="N012"/>Gesetze gelten sinngemäß auch für die auf Grund-
-      <lb facs="#facs_2_tr_2_tl_14" n="N013"/>dieser Gesetze Ergangenen Vollzugsanweisungen (Ver-
-      <lb facs="#facs_2_tr_2_tl_15" n="N014"/>ordnungen).
-      <lb facs="#facs_2_tr_2_tl_16" n="N015"/>() Die im § 1 bezeichneten Gesetze und Voll-
-      <lb facs="#facs_2_tr_2_tl_17" n="N016"/>zugsanweisungen (Verordnungen) gelten, insoweit sie
-      <lb facs="#facs_2_tr_2_tl_18" n="N017"/>mit den organisatorischen Bestimmungen des Bundes-
-      <lb facs="#facs_2_tr_2_tl_19" n="N018"/>Verfassungsgesetzes in Widerspruch stchen — nament-
-      <lb facs="#facs_2_tr_2_tl_20" n="N019"/>lich was Zuständigkeit und Zusammensetung der
-      <lb facs="#facs_2_tr_2_tl_21" n="N020"/>Behörden sowie deren Eigenschaft als Bundes-
-      <lb facs="#facs_2_tr_2_tl_22" n="N021"/>oder Landesbehörden anlangt — als sinngemät
-      <lb facs="#facs_2_tr_2_tl_23" n="N022"/>abgeändert. Insbefondere endet in den Ungelegen-
-      <lb facs="#facs_2_tr_2_tl_24" n="N023"/>heiten, die nunmehr in der Vollziehung der Länder
-      <lb facs="#facs_2_tr_2_tl_25" n="N024"/>stehen, der Instanzenzug beim Land.
-      <lb facs="#facs_2_tr_2_tl_26" n="N025"/>(2) Sofern sich auf Grund dieser Auslegungs-
-      <lb facs="#facs_2_tr_2_tl_27" n="N026"/>reael &amp;weirel ergeben können, hat je nach den die
-      <lb facs="#facs_2_tr_2_tl_28" n="N027"/>Zuständigkeiten regelnden Bestimmungen des Bundes-
-      <lb facs="#facs_2_tr_2_tl_29" n="N028"/>Verfassungsgesetzes entweder die Bundesregierung
-      <lb facs="#facs_2_tr_2_tl_30" n="N029"/>oder die berufene Landesregierung diese Angelegen-
-      <lb facs="#facs_2_tr_2_tl_31" n="N030"/>heit bis zur Erlassung einer gesetzlichen Bestim-
-      <lb facs="#facs_2_tr_2_tl_32" n="N031"/>mung im Sinne des Bundes-Verfassungsgesetzes vor-
-      <lb facs="#facs_2_tr_2_tl_33" n="N032"/>läufig durch Verordnung zu regeln.
-      <lb facs="#facs_2_tr_2_tl_34" n="N033"/>(1) Die gesetzlich den bisherigen Organen des
-      <lb facs="#facs_2_tr_2_tl_35" n="N034"/>Staates und der Länder übertragenen Befugnisse
-      <lb facs="#facs_2_tr_2_tl_36" n="N035"/>gehen auf die mit einem gleichartigen Wirkungs-
-      <lb facs="#facs_2_tr_2_tl_37" n="N036"/>bereich betrauten Organe des Bundes und der Länder
-      <lb facs="#facs_2_tr_2_tl_38" n="N037"/>über, soweit nicht die Zuständigkeiten dieser Organe
-      <lb facs="#facs_2_tr_2_tl_39" n="N038"/>durch das Bundes-Verfassungsgesetz anders geregelt
-      <lb facs="#facs_2_tr_2_tl_40" n="N039"/>sind. Demnach treten namentlich an die Stelle der
-      <lb facs="#facs_2_tr_2_tl_41" n="N040"/>Nationalversammlung der Nationalrat, an die Stelle
-      <lb facs="#facs_2_tr_2_tl_42" n="N041"/>des Präsidenten der Nationalversammlung, soweit
-      <lb facs="#facs_2_tr_2_tl_43" n="N042"/>er mit Regierungsgeschäften betraut war, der
-      <lb facs="#facs_2_tr_2_tl_44" n="N043"/>Bundespräsident, an die Stelle der Staatsregierung
-      <lb facs="#facs_2_tr_2_tl_45" n="N044"/>die Bundesregierung, an die Stelle der Staats-
-      <lb facs="#facs_2_tr_2_tl_46" n="N045"/>sekretäre die Bundesminister, an die Stelle der
-      <lb facs="#facs_2_tr_2_tl_47" n="N046"/>Unterftaatsfetreläre die Staatsjefretäre, an die Stelle
-      <lb facs="#facs_2_tr_2_tl_48" n="N047"/>des Staatsrechnungshofes der Rechnungshof
-      <lb facs="#facs_2_tr_2_tl_49" n="N048"/>(2) Die nach dem Gesetz vom 24. Juli 1917,
-      <lb facs="#facs_2_tr_2_tl_50" n="N049"/>R. G. Bl. Nr. 307, mit welchem die Regierung</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_tr_1" type="">
+      <lb facs="#facs_2_l_2024" n="N006"/>§ 1.
+      <lb facs="#facs_2_tr_1_tl_10" n="N007"/>Alle Gesetze und Vollzugsanweisungen (Ver-
+      <lb facs="#facs_2_tr_1_tl_11" n="N008"/>ordnungen) des Staates — einschließlich der
+      <lb facs="#facs_2_tr_1_tl_12" n="N009"/>Reichsgesetze des ehemaligen Staates Osterreich,
+      <lb facs="#facs_2_tr_1_tl_13" n="N010"/>die gemäß § 16 des Beschlusses über die grund-
+      <lb facs="#facs_2_tr_1_tl_14" n="N011"/>legenden Einrichtungen der Staatsgewalt vom
+      <lb facs="#facs_2_tr_1_tl_15" n="N012"/>30. Oktober 1518, St. G. BI. Nr. 1, für die
+      <lb facs="#facs_2_tr_1_tl_16" n="N013"/>Republik in Geltung gesetzt wurden — sowie alle
+      <lb facs="#facs_2_tr_1_tl_17" n="N014"/>Gesetze und Vollzugsanweisungen (Verordnungen) der
+      <lb facs="#facs_2_tr_1_tl_18" n="N015"/>Länder gelten weiter, insoweit sie nicht mit den
+      <lb facs="#facs_2_tr_1_tl_19" n="N016"/>Bestimmungen des Gesetzes vom 1. Oktober 1920,
+      <lb facs="#facs_2_tr_1_tl_20" n="N017"/>St. B. BI. Nr. 450, womit die Republik Oster-
+      <lb facs="#facs_2_tr_1_tl_21" n="N018"/>reich als Bundesstaat eingerichtet wird (Bundes-
+      <lb facs="#facs_2_tr_1_tl_22" n="N019"/>Verfassungsgesetz), in Widerspruch stehen.
+      <lb facs="#facs_2_l_2030" n="N020"/>§ 2
+      <lb facs="#facs_2_tr_1_tl_23" n="N021"/>In den Angelegenheiten der Artikel 10
+      <lb facs="#facs_2_tr_1_tl_24" n="N022"/>und 11 des Bundes-Verfassungsgesetzes werden die
+      <lb facs="#facs_2_tr_1_tl_25" n="N023"/>Staatsgesetze, einschließlich früherer Reichsgesetze,
+      <lb facs="#facs_2_tr_1_tl_26" n="N024"/>sowie die Landesgesetze - diese für das Land,
+      <lb facs="#facs_2_tr_1_tl_27" n="N025"/>in dem sie erlassen worden sind, — Bundesgesetze
+      <lb facs="#facs_2_tr_1_tl_28" n="N026"/>im Sinne des Bundes-Verfassungsgesches.
+      <lb facs="#facs_2_l_2036" n="N027"/>§ 3
+      <lb facs="#facs_2_tr_1_tl_29" n="N028"/>(1) Die Landesgesetze, die die im Artikel 12
+      <lb facs="#facs_2_tr_1_tl_30" n="N029"/>des Bundes-Verfassungsgesetzes aufgezählten Ange-
+      <lb facs="#facs_2_tr_1_tl_31" n="N030"/>legenheiten regeln, bleiben weiter Landesgesetze im
+      <lb facs="#facs_2_tr_1_tl_32" n="N031"/>Sinne des Bundes-Verfassungsgesetzes. Sobald jedoch
+      <lb facs="#facs_2_tr_1_tl_33" n="N032"/>in diesen Angelegenheiten Grundsätze durch Bundes-
+      <lb facs="#facs_2_tr_1_tl_34" n="N033"/>gesetz festgesetzt werden, sind solche Landesgesetze
+      <lb facs="#facs_2_tr_1_tl_35" n="N034"/>gemäß Artikel 15, Absatz 2, binnen der bundes-
+      <lb facs="#facs_2_tr_1_tl_36" n="N035"/>gesetzlich festgelegten Frist abzuändern.
+      <lb facs="#facs_2_tr_1_tl_37" n="N036"/>(2) Sind aber die im Artikel 12 bezeichneten
+      <lb facs="#facs_2_tr_1_tl_38" n="N037"/>Angelegenheiten zur Gänze durch Staatsgesetze
+      <lb facs="#facs_2_tr_1_tl_39" n="N038"/>einschließlich früherer Reichsgesetze, geregelt, so bleibt
+      <lb facs="#facs_2_tr_1_tl_40" n="N039"/>ein solches Gesetz als Bundesgesetz noch durch drei
+      <lb facs="#facs_2_tr_1_tl_41" n="N040"/>Jahre, von dem im § 42, Absatz I, dieses Gesetzes
+      <lb facs="#facs_2_tr_1_tl_42" n="N041"/>bezeichneten Zeitpunkt an gerechnet, in Gültigkeit,
+      <lb facs="#facs_2_tr_1_tl_43" n="N042"/>soweit es nicht schon vorher durch ein die gleiche
+      <lb facs="#facs_2_tr_1_tl_44" n="N043"/>Angelegenheit im Sinne des Artikels 12 regelndes
+      <lb facs="#facs_2_tr_1_tl_45" n="N044"/>Bundesgesetz außer Kraft gesetzt wird. Mit Ablauf
+      <lb facs="#facs_2_tr_1_tl_46" n="N045"/>dieser drei Jahre erlischt die Wirksamkeit derartigen
+      <lb facs="#facs_2_tr_1_tl_47" n="N046"/>Gesetze; die Landesgesetzgebungen können sodann die
+      <lb facs="#facs_2_tr_1_tl_48" n="N047"/>Angelegenheit frei regeln, solange nicht der Bund-
+      <lb facs="#facs_2_tr_1_tl_49" n="N048"/>von dem ihm nach Artikel 12 zustehenden Gesetz-
+      <lb facs="#facs_2_tr_1_tl_50" n="N049"/>gebungsrecht Gebrauch macht.</ab><ab facs="#facs_2_tr_2" type="">
+      <lb facs="#facs_2_l_2044" n="N001"/>§ 4
+      <lb facs="#facs_2_tr_2_tl_2" n="N002"/>(1) Die Landesgesete in den Angelegenheiten,
+      <lb facs="#facs_2_tr_2_tl_3" n="N003"/>die nach Artitel 15, Absatz 1, des Bundes-
+      <lb facs="#facs_2_tr_2_tl_4" n="N004"/>Verfassungsgesetzes ausschließlich in die Gesetzgebung
+      <lb facs="#facs_2_tr_2_tl_5" n="N005"/>der Länder fallen, bleiben Landesgebiete im Sinne
+      <lb facs="#facs_2_tr_2_tl_6" n="N006"/>des Bundes-Verfassungsgesetzes.
+      <lb facs="#facs_2_tr_2_tl_7" n="N007"/>(2) Soweit solche Angelegenheiten bisher durch
+      <lb facs="#facs_2_tr_2_tl_8" n="N008"/>Staatsgesetze, einschließlich früherer Reichsgesetze,
+      <lb facs="#facs_2_tr_2_tl_9" n="N009"/>geregelt sind, gelten diese in jedem Land als
+      <lb facs="#facs_2_tr_2_tl_10" n="N010"/>Landesgesetze im Sinne des Bundes-Verfassungs-
+      <lb facs="#facs_2_tr_2_tl_11" n="N011"/>gesetzes.
+      <lb facs="#facs_2_l_2050" n="N012"/>§ 5
+      <lb facs="#facs_2_tr_2_tl_12" n="N013"/>Die Bestimmungen der §§ 2 bis 4 über-
+      <lb facs="#facs_2_tr_2_tl_13" n="N014"/>Gesetze gelten sinngemäß auch für die auf Grund-
+      <lb facs="#facs_2_tr_2_tl_14" n="N015"/>dieser Gesetze ergangenen Vollzugsanweisungen (Ver-
+      <lb facs="#facs_2_tr_2_tl_15" n="N016"/>ordnungen).
+      <lb facs="#facs_2_l_2056" n="N017"/>§ 6
+      <lb facs="#facs_2_tr_2_tl_16" n="N018"/>(1) Die im § 1 bezeichneten Gesetze und Voll-
+      <lb facs="#facs_2_tr_2_tl_17" n="N019"/>zugsanweisungen (Verordnungen) gelten, insoweit sie
+      <lb facs="#facs_2_tr_2_tl_18" n="N020"/>mit den organisatorischen Bestimmungen des Bundes-
+      <lb facs="#facs_2_tr_2_tl_19" n="N021"/>Verfassungsgesetzes in Widerspruch stehen — nament-
+      <lb facs="#facs_2_tr_2_tl_20" n="N022"/>lich was Zuständigkeit und Zusammensetzung der
+      <lb facs="#facs_2_tr_2_tl_21" n="N023"/>Behörden sowie deren Eigenschaft als Bundes-
+      <lb facs="#facs_2_tr_2_tl_22" n="N024"/>oder Landesbehörden anlangt — als sinngemäß
+      <lb facs="#facs_2_tr_2_tl_23" n="N025"/>abgeändert. Insbesondere endet in den Angelegen-
+      <lb facs="#facs_2_tr_2_tl_24" n="N026"/>heiten, die nunmehr in der Vollziehung der Länder
+      <lb facs="#facs_2_tr_2_tl_25" n="N027"/>stehen, der Instanzenzug beim Land.
+      <lb facs="#facs_2_tr_2_tl_26" n="N028"/>(2) Sofern sich auf Grund dieser Auslegungs-
+      <lb facs="#facs_2_tr_2_tl_27" n="N029"/>regel Zweifel ergeben können, hat je nach den die
+      <lb facs="#facs_2_tr_2_tl_28" n="N030"/>Zuständigkeiten regelnden Bestimmungen des Bundes-
+      <lb facs="#facs_2_tr_2_tl_29" n="N031"/>Verfassungsgesetzes entweder die Bundesregierung
+      <lb facs="#facs_2_tr_2_tl_30" n="N032"/>oder die berufene Landesregierung diese Angelegen-
+      <lb facs="#facs_2_tr_2_tl_31" n="N033"/>heit bis zur Erlassung einer gesetzlichen Bestim-
+      <lb facs="#facs_2_tr_2_tl_32" n="N034"/>mung im Sinne des Bundes-Verfassungsgesetzes vor-
+      <lb facs="#facs_2_tr_2_tl_33" n="N035"/>läufig durch Verordnung zu regeln.
+      <lb facs="#facs_2_l_2062" n="N036"/>§ 7
+      <lb facs="#facs_2_tr_2_tl_34" n="N037"/>(1) Die gesetzlich den bisherigen Organen des
+      <lb facs="#facs_2_tr_2_tl_35" n="N038"/>Staates und der Länder übertragenen Befugnisse
+      <lb facs="#facs_2_tr_2_tl_36" n="N039"/>gehen auf die mit einem gleichartigen Wirkungs-
+      <lb facs="#facs_2_tr_2_tl_37" n="N040"/>bereich betrauten Organe des Bundes und der Länder
+      <lb facs="#facs_2_tr_2_tl_38" n="N041"/>über, soweit nicht die Zuständigkeiten dieser Organe
+      <lb facs="#facs_2_tr_2_tl_39" n="N042"/>durch das Bundes-Verfassungsgesetz anders geregelt
+      <lb facs="#facs_2_tr_2_tl_40" n="N043"/>sind. Demnach treten namentlich an die Stelle der
+      <lb facs="#facs_2_tr_2_tl_41" n="N044"/>Nationalversammlung der Nationalrat, an die Stelle
+      <lb facs="#facs_2_tr_2_tl_42" n="N045"/>des Präsidenten der Nationalversammlung, soweit
+      <lb facs="#facs_2_tr_2_tl_43" n="N046"/>er mit Regierungsgeschäften betraut war, der
+      <lb facs="#facs_2_tr_2_tl_44" n="N047"/>Bundespräsident, an die Stelle der Staatsregierung
+      <lb facs="#facs_2_tr_2_tl_45" n="N048"/>die Bundesregierung, an die Stelle der Staats-
+      <lb facs="#facs_2_tr_2_tl_46" n="N049"/>sekretäre die Bundesminister, an die Stelle der
+      <lb facs="#facs_2_tr_2_tl_47" n="N050"/>Unterstaatssekretäre die Staatssekretäre, an die Stelle
+      <lb facs="#facs_2_tr_2_tl_48" n="N051"/>des Staatsrechnungshofes der Rechnungshof
+      <lb facs="#facs_2_tr_2_tl_49" n="N052"/>(2) Die nach dem Gesetz vom 24. Juli 1917,
+      <lb facs="#facs_2_tr_2_tl_50" n="N053"/>R. G. Bl. Nr. 307, mit welchem die Regierung</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_r" type="">
+      <lb facs="#facs_3_l" n="N001"/>2</ab><ab facs="#facs_3_tr_1" type="">
       <lb facs="#facs_3_tr_1_tl_1" n="N001"/>ermächtigt wird, aus Anlaß der durch den Kriegs¬
       <lb facs="#facs_3_tr_1_tl_2" n="N002"/>zustand verursachten außerordentlichen Verhältnisse
       <lb facs="#facs_3_tr_1_tl_3" n="N003"/>die notwendigen Verfügungen auf wirtschaftlichem
       <lb facs="#facs_3_tr_1_tl_4" n="N004"/>Gebiete zu treffen, der Regierung zustehenden Be¬
       <lb facs="#facs_3_tr_1_tl_5" n="N005"/>fugnisse gehen sowohl auf die Bundesregierung als
       <lb facs="#facs_3_tr_1_tl_6" n="N006"/>auch auf die einzelnen Bundesminister über.
-      <lb facs="#facs_3_tr_1_tl_7" n="N007"/>(1) Die staatlichen Behörden — mit Ausnahme
-      <lb facs="#facs_3_tr_1_tl_8" n="N008"/>jener der allgemeinen politischen Verwaltung in den
-      <lb facs="#facs_3_tr_1_tl_9" n="N009"/>Ländern (Landesregierungen, Bezirkshauptmann=,
-      <lb facs="#facs_3_tr_1_tl_10" n="N010"/>schaften) einschließlich der bei diesen Behörden ver¬
-      <lb facs="#facs_3_tr_1_tl_11" n="N011"/>einigten besonderen Dienstzweige (bau= und forst¬
-      <lb facs="#facs_3_tr_1_tl_12" n="N012"/>technischer Dienst, Gesundheitsdienst. Veterinärdienste,
-      <lb facs="#facs_3_tr_1_tl_13" n="N013"/>(Archiv= und Bibliotheksdienst, Rechnungsdienst) und
-      <lb facs="#facs_3_tr_1_tl_14" n="N014"/>der Agrarbehörden erster und zweiter Instanz (Agrar¬
-      <lb facs="#facs_3_tr_1_tl_15" n="N015"/>bezirksbehörden und Agrarlandesbehörden) — werden
-      <lb facs="#facs_3_tr_1_tl_16" n="N016"/>Behörden des Bundes
-      <lb facs="#facs_3_tr_1_tl_17" n="N017"/>(2) Die Stellung der im Absatz 1 ausgenommenen
-      <lb facs="#facs_3_tr_1_tl_18" n="N018"/>staatlichen Behörden wird durch das Verfassungs¬
-      <lb facs="#facs_3_tr_1_tl_19" n="N019"/>gesetz des Bundes über die Organisation der Ver¬
-      <lb facs="#facs_3_tr_1_tl_20" n="N020"/>waltung in den Ländern (Artikel 12, Z. 1 und
-      <lb facs="#facs_3_tr_1_tl_21" n="N021"/>Artikel 120, Absatz 1 des Bundes=Verfassungsgesetzes)
-      <lb facs="#facs_3_tr_1_tl_22" n="N022"/>geregelt.
-      <lb facs="#facs_3_tr_1_tl_23" n="N023"/>(3) Die Behörden und Ämter der bisherigen
-      <lb facs="#facs_3_tr_1_tl_24" n="N024"/>autonomen Verwaltung der Länder werden Behörden
-      <lb facs="#facs_3_tr_1_tl_25" n="N025"/>(Ämter) des Landes im Sinne des Bundes=Ver¬
-      <lb facs="#facs_3_tr_1_tl_26" n="N026"/>fassungsgesetzes.
-      <lb facs="#facs_3_tr_1_tl_27" n="N027"/>(4) Die staatlichen Anstalten gehen an den Bund
-      <lb facs="#facs_3_tr_1_tl_28" n="N028"/>über, die Landesanstalten sind Anstalten der Länder;
-      <lb facs="#facs_3_tr_1_tl_29" n="N029"/>die Anstalten der Bezirke, Gemeinden und sonstigen
-      <lb facs="#facs_3_tr_1_tl_30" n="N030"/>öffentlich=rechtlichen Körperschaften sind Anstalten
-      <lb facs="#facs_3_tr_1_tl_31" n="N031"/>dieser Körperschaften.
-      <lb facs="#facs_3_tr_1_tl_32" n="N032"/>(1) Die Angestellten der staatlichen Behörden
-      <lb facs="#facs_3_tr_1_tl_33" n="N033"/>die nach § 8, Absatz 1, Bundesbehörden werden,
-      <lb facs="#facs_3_tr_1_tl_34" n="N034"/>werden Angestellte des Bundes.
-      <lb facs="#facs_3_tr_1_tl_35" n="N035"/>(2) Die Stellung der Angestellten der im § 8,
-      <lb facs="#facs_3_tr_1_tl_36" n="N036"/>Absatz 1, ausgenommenen staatlichen Behörden wird
-      <lb facs="#facs_3_tr_1_tl_37" n="N037"/>im Zusammenhang mit dem Verfassungsgesetz des
-      <lb facs="#facs_3_tr_1_tl_38" n="N038"/>Bundes über die Organisation der Verwaltung in
-      <lb facs="#facs_3_tr_1_tl_39" n="N039"/>den Ländern geregelt.
-      <lb facs="#facs_3_tr_1_tl_40" n="N040"/>§ 10.
-      <lb facs="#facs_3_tr_1_tl_41" n="N041"/>(1) Die bestehenden staatlichen Polizeibehörden
-      <lb facs="#facs_3_tr_1_tl_42" n="N042"/>werden Bundesbehörden und führen ihre bisherigen
-      <lb facs="#facs_3_tr_1_tl_43" n="N043"/>Geschäfte als Bundesgeschätte fort.
-      <lb facs="#facs_3_tr_1_tl_44" n="N044"/>(2) Die bisherige Gendarmerie wird Bundes¬
-      <lb facs="#facs_3_tr_1_tl_45" n="N045"/>gendarmerie.
-      <lb facs="#facs_3_tr_1_tl_46" n="N046"/>§ 11.
-      <lb facs="#facs_3_tr_1_tl_47" n="N047"/>(1) Die den Ländern als ehemals autonomen
-      <lb facs="#facs_3_tr_1_tl_48" n="N048"/>Körperschaften gehörenden oder von ihnen ver¬
-      <lb facs="#facs_3_tr_1_tl_49" n="N049"/>walteten Vermögenschaften, einschließlich der Fonds
-      <lb facs="#facs_3_tr_1_tl_50" n="N050"/>und Anstalten, gehen in das Vermögen oder in
-      <lb facs="#facs_3_tr_1_tl_51" n="N051"/>die Verwaltung der Länder im Sinne des Bundes¬</ab><ab facs="#facs_3_tr_2" type="">
+      <lb facs="#facs_3_l_2009" n="N007"/>§ 8
+      <lb facs="#facs_3_tr_1_tl_7" n="N008"/>(1) Die staatlichen Behörden — mit Ausnahme
+      <lb facs="#facs_3_tr_1_tl_8" n="N009"/>jener der allgemeinen politischen Verwaltung in den
+      <lb facs="#facs_3_tr_1_tl_9" n="N010"/>Ländern (Landesregierungen, Bezirkshauptmann=,
+      <lb facs="#facs_3_tr_1_tl_10" n="N011"/>schaften) einschließlich der bei diesen Behörden ver¬
+      <lb facs="#facs_3_tr_1_tl_11" n="N012"/>einigten besonderen Dienstzweige (bau= und forst¬
+      <lb facs="#facs_3_tr_1_tl_12" n="N013"/>technischer Dienst, Gesundheitsdienst. Veterinärdienste,
+      <lb facs="#facs_3_tr_1_tl_13" n="N014"/>(Archiv= und Bibliotheksdienst, Rechnungsdienst) und
+      <lb facs="#facs_3_tr_1_tl_14" n="N015"/>der Agrarbehörden erster und zweiter Instanz (Agrar¬
+      <lb facs="#facs_3_tr_1_tl_15" n="N016"/>bezirksbehörden und Agrarlandesbehörden) — werden
+      <lb facs="#facs_3_tr_1_tl_16" n="N017"/>Behörden des Bundes
+      <lb facs="#facs_3_tr_1_tl_17" n="N018"/>(2) Die Stellung der im Absatz 1 ausgenommenen
+      <lb facs="#facs_3_tr_1_tl_18" n="N019"/>staatlichen Behörden wird durch das Verfassungs¬
+      <lb facs="#facs_3_tr_1_tl_19" n="N020"/>gesetz des Bundes über die Organisation der Ver¬
+      <lb facs="#facs_3_tr_1_tl_20" n="N021"/>waltung in den Ländern (Artikel 12, Z. 1 und
+      <lb facs="#facs_3_tr_1_tl_21" n="N022"/>Artikel 120, Absatz 1 des Bundes=Verfassungsgesetzes)
+      <lb facs="#facs_3_tr_1_tl_22" n="N023"/>geregelt.
+      <lb facs="#facs_3_tr_1_tl_23" n="N024"/>(3) Die Behörden und Ämter der bisherigen
+      <lb facs="#facs_3_tr_1_tl_24" n="N025"/>autonomen Verwaltung der Länder werden Behörden
+      <lb facs="#facs_3_tr_1_tl_25" n="N026"/>(Ämter) des Landes im Sinne des Bundes=Ver¬
+      <lb facs="#facs_3_tr_1_tl_26" n="N027"/>fassungsgesetzes.
+      <lb facs="#facs_3_tr_1_tl_27" n="N028"/>(4) Die staatlichen Anstalten gehen an den Bund
+      <lb facs="#facs_3_tr_1_tl_28" n="N029"/>über, die Landesanstalten sind Anstalten der Länder;
+      <lb facs="#facs_3_tr_1_tl_29" n="N030"/>die Anstalten der Bezirke, Gemeinden und sonstigen
+      <lb facs="#facs_3_tr_1_tl_30" n="N031"/>öffentlich=rechtlichen Körperschaften sind Anstalten
+      <lb facs="#facs_3_tr_1_tl_31" n="N032"/>dieser Körperschaften.
+      <lb facs="#facs_3_l_2015" n="N033"/>§ 9
+      <lb facs="#facs_3_tr_1_tl_32" n="N034"/>(1) Die Angestellten der staatlichen Behörden
+      <lb facs="#facs_3_tr_1_tl_33" n="N035"/>die nach § 8, Absatz 1, Bundesbehörden werden,
+      <lb facs="#facs_3_tr_1_tl_34" n="N036"/>werden Angestellte des Bundes.
+      <lb facs="#facs_3_tr_1_tl_35" n="N037"/>(2) Die Stellung der Angestellten der im § 8,
+      <lb facs="#facs_3_tr_1_tl_36" n="N038"/>Absatz 1, ausgenommenen staatlichen Behörden wird
+      <lb facs="#facs_3_tr_1_tl_37" n="N039"/>im Zusammenhang mit dem Verfassungsgesetz des
+      <lb facs="#facs_3_tr_1_tl_38" n="N040"/>Bundes über die Organisation der Verwaltung in
+      <lb facs="#facs_3_tr_1_tl_39" n="N041"/>den Ländern geregelt.
+      <lb facs="#facs_3_tr_1_tl_40" n="N042"/>§ 10.
+      <lb facs="#facs_3_tr_1_tl_41" n="N043"/>(1) Die bestehenden staatlichen Polizeibehörden
+      <lb facs="#facs_3_tr_1_tl_42" n="N044"/>werden Bundesbehörden und führen ihre bisherigen
+      <lb facs="#facs_3_tr_1_tl_43" n="N045"/>Geschäfte als Bundesgeschäfte fort.
+      <lb facs="#facs_3_tr_1_tl_44" n="N046"/>(2) Die bisherige Gendarmerie wird Bundes¬
+      <lb facs="#facs_3_tr_1_tl_45" n="N047"/>gendarmerie.
+      <lb facs="#facs_3_tr_1_tl_46" n="N048"/>§ 11.
+      <lb facs="#facs_3_tr_1_tl_47" n="N049"/>(1) Die den Ländern als ehemals autonomen
+      <lb facs="#facs_3_tr_1_tl_48" n="N050"/>Körperschaften gehörenden oder von ihnen ver¬
+      <lb facs="#facs_3_tr_1_tl_49" n="N051"/>walteten Vermögenschaften, einschließlich der Fonds
+      <lb facs="#facs_3_tr_1_tl_50" n="N052"/>und Anstalten, gehen in das Vermögen oder in
+      <lb facs="#facs_3_tr_1_tl_51" n="N053"/>die Verwaltung der Länder im Sinne des Bundes¬</ab><ab facs="#facs_3_tr_2" type="">
       <lb facs="#facs_3_tr_2_tl_1" n="N001"/>Verfassungsgesetzes über; hinsichtlich der von
       <lb facs="#facs_3_tr_2_tl_2" n="N002"/>den Ländern verwalteten Schulfonds verbleibt
       <lb facs="#facs_3_tr_2_tl_3" n="N003"/>es jedoch bis zur Erlassung des Verfassungsgesetzes
@@ -1045,57 +900,59 @@
       <lb facs="#facs_3_tr_2_tl_12" n="N012"/>einandersetzung zwischen Bund und Ländern geregelt.
       <lb facs="#facs_3_tr_2_tl_13" n="N013"/>II. Zu einzelnen Artikeln des Bundes=Verfassungs
       <lb facs="#facs_3_tr_2_tl_14" n="N014"/>gesetzes.
-      <lb facs="#facs_3_tr_2_tl_15" n="N015"/>Zu Artikel 2.
-      <lb facs="#facs_3_tr_2_tl_16" n="N016"/>(1) Das Burgenland wird als selbständiges und
-      <lb facs="#facs_3_tr_2_tl_17" n="N017"/>gleichberechtigtes Land in den Bund aufgenommen,
-      <lb facs="#facs_3_tr_2_tl_18" n="N018"/>sobald es seinen Willen zum Ausdruck gebracht hat.
-      <lb facs="#facs_3_tr_2_tl_19" n="N019"/>(2) Die näheren Bestimmungen über die Stellung
-      <lb facs="#facs_3_tr_2_tl_20" n="N020"/>des Burgenlandes als selbständiges und gleichberech¬
-      <lb facs="#facs_3_tr_2_tl_21" n="N021"/>tigtes Land im Bund werden durch ein besonderes
-      <lb facs="#facs_3_tr_2_tl_22" n="N022"/>Verfassungsgesetz des Bundes festgesetzt.
-      <lb facs="#facs_3_tr_2_tl_23" n="N023"/>§ 13.
-      <lb facs="#facs_3_tr_2_tl_24" n="N024"/>Zu Artikel 4.
-      <lb facs="#facs_3_tr_2_tl_25" n="N025"/>(1) Beschränkungen oder Erschwerungen des Ver¬
-      <lb facs="#facs_3_tr_2_tl_26" n="N026"/>kehrs von Personen oder Waren zwischen den
-      <lb facs="#facs_3_tr_2_tl_27" n="N027"/>Ländern und innerhalb der Länder sind nur zu¬
-      <lb facs="#facs_3_tr_2_tl_28" n="N028"/>lässig, insolange die im Artikel 10, Z. 15, erwähnten
-      <lb facs="#facs_3_tr_2_tl_29" n="N029"/>außerordentlichen Verhältnisse fortdauern (§ 17 dieses
-      <lb facs="#facs_3_tr_2_tl_30" n="N030"/>Gesetzes) und können nur von Bundes wegen verfügt
-      <lb facs="#facs_3_tr_2_tl_31" n="N031"/>werden.
-      <lb facs="#facs_3_tr_2_tl_32" n="N032"/>(2) Bestehende Verkehrsbeschränkungen, die nicht
-      <lb facs="#facs_3_tr_2_tl_33" n="N033"/>vom Staat ausgegangen sind, treten, soferne
-      <lb facs="#facs_3_tr_2_tl_34" n="N034"/>sie nicht vom Staat genehmigt wurden oder vom
-      <lb facs="#facs_3_tr_2_tl_35" n="N035"/>Bund nachträglich genehmigt werden, spätestens
-      <lb facs="#facs_3_tr_2_tl_36" n="N036"/>mit 30. Juni 1921 außer Kraft.
-      <lb facs="#facs_3_tr_2_tl_37" n="N037"/>§ 14.
-      <lb facs="#facs_3_tr_2_tl_38" n="N038"/>Zu Artikel 6.
-      <lb facs="#facs_3_tr_2_tl_39" n="N039"/>(1) Jeder Staatsbürger der Republik ist Landes¬
-      <lb facs="#facs_3_tr_2_tl_40" n="N040"/>bürger des Landes, zu dem seine Heimatgemeinde
-      <lb facs="#facs_3_tr_2_tl_41" n="N041"/>gehört, und zugleich Bundesbürger.
-      <lb facs="#facs_3_tr_2_tl_42" n="N042"/>(2) Personen, die österreichische Staatsbürger sind,
-      <lb facs="#facs_3_tr_2_tl_43" n="N043"/>ohne in einer Gemeinde der Republik heimat¬
-      <lb facs="#facs_3_tr_2_tl_44" n="N044"/>berechtigt zu sein, werden Bundesbürger. In welcher
-      <lb facs="#facs_3_tr_2_tl_45" n="N045"/>Gemeinde sie das Heimatrecht und damit die Vor¬
-      <lb facs="#facs_3_tr_2_tl_46" n="N046"/>aussetzung für eine Landesbürgerschaft erlangen,
-      <lb facs="#facs_3_tr_2_tl_47" n="N047"/>wird durch Bundesgesetz geregelt; bezüglich der
-      <lb facs="#facs_3_tr_2_tl_48" n="N048"/>Personen, die auf Grund des Staatsvertrages von
-      <lb facs="#facs_3_tr_2_tl_49" n="N049"/>Saint=Germain durch Option oder auf Grund einer
-      <lb facs="#facs_3_tr_2_tl_50" n="N050"/>bloßen Erklärung gemäß § 2 des Gesetzes vom</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_tr_1" type="">
+      <lb facs="#facs_3_l_2003" n="N015"/>§ 12
+      <lb facs="#facs_3_tr_2_tl_15" n="N016"/>Zu Artikel 2.
+      <lb facs="#facs_3_tr_2_tl_16" n="N017"/>(1) Das Burgenland wird als selbständiges und
+      <lb facs="#facs_3_tr_2_tl_17" n="N018"/>gleichberechtigtes Land in den Bund aufgenommen,
+      <lb facs="#facs_3_tr_2_tl_18" n="N019"/>sobald es seinen Willen zum Ausdruck gebracht hat.
+      <lb facs="#facs_3_tr_2_tl_19" n="N020"/>(2) Die näheren Bestimmungen über die Stellung
+      <lb facs="#facs_3_tr_2_tl_20" n="N021"/>des Burgenlandes als selbständiges und gleichberech¬
+      <lb facs="#facs_3_tr_2_tl_21" n="N022"/>tigtes Land im Bund werden durch ein besonderes
+      <lb facs="#facs_3_tr_2_tl_22" n="N023"/>Verfassungsgesetz des Bundes festgesetzt.
+      <lb facs="#facs_3_tr_2_tl_23" n="N024"/>§ 13.
+      <lb facs="#facs_3_tr_2_tl_24" n="N025"/>Zu Artikel 4.
+      <lb facs="#facs_3_tr_2_tl_25" n="N026"/>(1) Beschränkungen oder Erschwerungen des Ver¬
+      <lb facs="#facs_3_tr_2_tl_26" n="N027"/>kehrs von Personen oder Waren zwischen den
+      <lb facs="#facs_3_tr_2_tl_27" n="N028"/>Ländern und innerhalb der Länder sind nur zu¬
+      <lb facs="#facs_3_tr_2_tl_28" n="N029"/>lässig, insolange die im Artikel 10, Z. 15, erwähnten
+      <lb facs="#facs_3_tr_2_tl_29" n="N030"/>außerordentlichen Verhältnisse fortdauern (§ 17 dieses
+      <lb facs="#facs_3_tr_2_tl_30" n="N031"/>Gesetzes) und können nur von Bundes wegen verfügt
+      <lb facs="#facs_3_tr_2_tl_31" n="N032"/>werden.
+      <lb facs="#facs_3_tr_2_tl_32" n="N033"/>(2) Bestehende Verkehrsbeschränkungen, die nicht
+      <lb facs="#facs_3_tr_2_tl_33" n="N034"/>vom Staat ausgegangen sind, treten, soferne
+      <lb facs="#facs_3_tr_2_tl_34" n="N035"/>sie nicht vom Staat genehmigt wurden oder vom
+      <lb facs="#facs_3_tr_2_tl_35" n="N036"/>Bund nachträglich genehmigt werden, spätestens
+      <lb facs="#facs_3_tr_2_tl_36" n="N037"/>mit 30. Juni 1921 außer Kraft.
+      <lb facs="#facs_3_tr_2_tl_37" n="N038"/>§ 14.
+      <lb facs="#facs_3_tr_2_tl_38" n="N039"/>Zu Artikel 6.
+      <lb facs="#facs_3_tr_2_tl_39" n="N040"/>(1) Jeder Staatsbürger der Republik ist Landes¬
+      <lb facs="#facs_3_tr_2_tl_40" n="N041"/>bürger des Landes, zu dem seine Heimatgemeinde
+      <lb facs="#facs_3_tr_2_tl_41" n="N042"/>gehört, und zugleich Bundesbürger.
+      <lb facs="#facs_3_tr_2_tl_42" n="N043"/>(2) Personen, die österreichische Staatsbürger sind,
+      <lb facs="#facs_3_tr_2_tl_43" n="N044"/>ohne in einer Gemeinde der Republik heimat¬
+      <lb facs="#facs_3_tr_2_tl_44" n="N045"/>berechtigt zu sein, werden Bundesbürger. In welcher
+      <lb facs="#facs_3_tr_2_tl_45" n="N046"/>Gemeinde sie das Heimatrecht und damit die Vor¬
+      <lb facs="#facs_3_tr_2_tl_46" n="N047"/>aussetzung für eine Landesbürgerschaft erlangen,
+      <lb facs="#facs_3_tr_2_tl_47" n="N048"/>wird durch Bundesgesetz geregelt; bezüglich der
+      <lb facs="#facs_3_tr_2_tl_48" n="N049"/>Personen, die auf Grund des Staatsvertrages von
+      <lb facs="#facs_3_tr_2_tl_49" n="N050"/>Saint=Germain durch Option oder auf Grund einer
+      <lb facs="#facs_3_tr_2_tl_50" n="N051"/>bloßen Erklärung gemäß § 2 des Gesetzes vom</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_r" type="">
+      <lb facs="#facs_4_l" n="N001"/>3</ab><ab facs="#facs_4_tr_1" type="">
       <lb facs="#facs_4_tr_1_tl_1" n="N001"/>5. Dezember 1918, St. G. Bl. Nr. 91, über das
-      <lb facs="#facs_4_tr_1_tl_2" n="N002"/>Staats Bürgerrecht, die Staatsbürgerschaft ohne Er¬
+      <lb facs="#facs_4_tr_1_tl_2" n="N002"/>Staatsbürgerrecht, die Staatsbürgerschaft ohne Er¬
       <lb facs="#facs_4_tr_1_tl_3" n="N003"/>langung eines Heimatrechtes erworben haben, steht
       <lb facs="#facs_4_tr_1_tl_4" n="N004"/>auch die Vollziehung dem Bund zu.
       <lb facs="#facs_4_tr_1_tl_5" n="N005"/>§ 15.
-      <lb facs="#facs_4_tr_1_tl_6" n="N006"/>Zu Artikel 10, 3. 9.
+      <lb facs="#facs_4_tr_1_tl_6" n="N006"/>Zu Artikel 10, 3, 9.
       <lb facs="#facs_4_tr_1_tl_7" n="N007"/>Die Verwaltung der Staatsstraßen (ehe¬
       <lb facs="#facs_4_tr_1_tl_8" n="N008"/>maligen Reichsstraßen) ist bis zur Erlassung des
-      <lb facs="#facs_4_tr_1_tl_9" n="N009"/>im Artikel 10, Z. 9, vorgesehenen Bundesgesetzes
+      <lb facs="#facs_4_tr_1_tl_9" n="N009"/>im Artikel 10, 3. 9, vorgesehenen Bundesgesetzes
       <lb facs="#facs_4_tr_1_tl_10" n="N010"/>über die Erklärung von Straßenzügen als Bundes¬
       <lb facs="#facs_4_tr_1_tl_11" n="N011"/>straßen nach den bestehenden Vorschriften durch die
       <lb facs="#facs_4_tr_1_tl_12" n="N012"/>bisher mit dieser Verwaltung betrauten Organe aus
       <lb facs="#facs_4_tr_1_tl_13" n="N013"/>Bundesmitteln zu besorgen.
       <lb facs="#facs_4_tr_1_tl_14" n="N014"/>§ 16.
-      <lb facs="#facs_4_tr_1_tl_15" n="N015"/>Zu Artikel 10, Z. 10.
+      <lb facs="#facs_4_tr_1_tl_15" n="N015"/>Zu Artikel 10, 3. 10.
       <lb facs="#facs_4_tr_1_tl_16" n="N016"/>Die Feststellung jener Gewässer, deren Regu¬
       <lb facs="#facs_4_tr_1_tl_17" n="N017"/>lierung und Instandhaltung nach Artikel 10, Z. 10,
       <lb facs="#facs_4_tr_1_tl_18" n="N018"/>Aufgabe des Bundes ist, erfolgt im Einvernehmen
@@ -1107,7 +964,7 @@
       <lb facs="#facs_4_tr_1_tl_24" n="N024"/>weiterzuführen.
       <lb facs="#facs_4_tr_1_tl_25" n="N025"/>§ 17.
       <lb facs="#facs_4_tr_1_tl_26" n="N026"/>Zu Artikel 10, 3. 15.
-      <lb facs="#facs_4_tr_1_tl_27" n="N027"/>(1) Gemäß Artikel 10, Z. 15, steht für die
+      <lb facs="#facs_4_tr_1_tl_27" n="N027"/>(1) Gemäß Artikel 10, 3. 15, steht für die
       <lb facs="#facs_4_tr_1_tl_28" n="N028"/>Fortdauer der durch die kriegerischen Ereignisse der
       <lb facs="#facs_4_tr_1_tl_29" n="N029"/>Jahre 1914 bis 1918 hervorgerufenen außerordent¬
       <lb facs="#facs_4_tr_1_tl_30" n="N030"/>lichen Verhältnisse bezüglich der zur Sicherung der
@@ -1183,7 +1040,8 @@
       <lb facs="#facs_4_tr_2_tl_49" n="N049"/>Tirol 3 Mitglieder,
       <lb facs="#facs_4_tr_2_tl_50" n="N050"/>Kärnten 3 Mitglieder,
       <lb facs="#facs_4_tr_2_tl_51" n="N051"/>Salzburg 3 Mitglieder,
-      <lb facs="#facs_4_tr_2_tl_52" n="N052"/>Vorarlberg 3 Mitglieder.</ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_tr_1" type="">
+      <lb facs="#facs_4_tr_2_tl_52" n="N052"/>Vorarlberg 3 Mitglieder.</ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_r" type="">
+      <lb facs="#facs_5_l" n="N001"/>4</ab><ab facs="#facs_5_tr_1" type="">
       <lb facs="#facs_5_tr_1_tl_1" n="N001"/>(2) Sobald das Burgenland einen Landtag gewählt
       <lb facs="#facs_5_tr_1_tl_2" n="N002"/>hat, wird die Anzahl der vom Burgenland zu
       <lb facs="#facs_5_tr_1_tl_3" n="N003"/>entsendenden Mitglieder vom Bundespräsidenten nach
@@ -1282,7 +1140,8 @@
       <lb facs="#facs_5_tr_2_tl_44" n="N044"/>Zu Artikel 95.
       <lb facs="#facs_5_tr_2_tl_45" n="N045"/>Die bestehenden Volksvertretungen in den
       <lb facs="#facs_5_tr_2_tl_46" n="N046"/>Ländern sind die ersten Landtage im Sinne des
-      <lb facs="#facs_5_tr_2_tl_47" n="N047"/>Bundes=Verfassungsgesetzes.</ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_tr_1" type="">
+      <lb facs="#facs_5_tr_2_tl_47" n="N047"/>Bundes=Verfassungsgesetzes.</ab><pb facs="#facs_6" n="6" xml:id="img_0006"/><ab facs="#facs_6_r" type="">
+      <lb facs="#facs_6_l" n="N001"/>5</ab><ab facs="#facs_6_tr_1" type="">
       <lb facs="#facs_6_tr_1_tl_1" n="N001"/>§ 30.
       <lb facs="#facs_6_tr_1_tl_2" n="N002"/>Zu Artikel 98.
       <lb facs="#facs_6_tr_1_tl_3" n="N003"/>(1) Der Artikel 99 wird auch auf Landesgesetze
@@ -1350,7 +1209,7 @@
       <lb facs="#facs_6_tr_2_tl_14" n="N014"/>die Funktionen der Landesregierung und der
       <lb facs="#facs_6_tr_2_tl_15" n="N015"/>Bürgermeister auch die Funktionen des Landeshaupt¬
       <lb facs="#facs_6_tr_2_tl_16" n="N016"/>mannes.
-      <lb facs="#facs_6_tr_2_tl_17" n="N017"/>(*) Für Niederösterreich=Land führen bis zur Wahl
+      <lb facs="#facs_6_tr_2_tl_17" n="N017"/>(4) Für Niederösterreich=Land führen bis zur Wahl
       <lb facs="#facs_6_tr_2_tl_18" n="N018"/>der neuen Landesregierung vorläufig die nicht aus
       <lb facs="#facs_6_tr_2_tl_19" n="N019"/>einem Wiener Wahlkreis gewählten Mitglieder der
       <lb facs="#facs_6_tr_2_tl_20" n="N020"/>jetzigen Laudesregierung und des derzeitigen Landes¬
@@ -1389,7 +1248,8 @@
       <lb facs="#facs_6_tr_2_tl_53" n="N053"/>fassungsmäßigen Zuständigkeit.
       <lb facs="#facs_6_tr_2_tl_54" n="N054"/>(2) In den Städten mit eigenem Statut über¬
       <lb facs="#facs_6_tr_2_tl_55" n="N055"/>nimmt die Gemeindevertretung zugleich die Aufgaben
-      <lb facs="#facs_6_tr_2_tl_56" n="N056"/>der Bezirksvertretung. Diese Aufgaben können einem</ab><pb facs="#facs_7" n="7" xml:id="img_0007"/><ab facs="#facs_7_tr_1" type="">
+      <lb facs="#facs_6_tr_2_tl_56" n="N056"/>der Bezirksvertretung. Diese Aufgaben können einem</ab><pb facs="#facs_7" n="7" xml:id="img_0007"/><ab facs="#facs_7_r" type="">
+      <lb facs="#facs_7_l" n="N001"/>6</ab><ab facs="#facs_7_tr_1" type="">
       <lb facs="#facs_7_tr_1_tl_1" n="N001"/>besonderen Ausschuß der Gemeindevertretung, in
       <lb facs="#facs_7_tr_1_tl_2" n="N002"/>Wien den dort bestehenden Bezirksvertretungen oder
       <lb facs="#facs_7_tr_1_tl_3" n="N003"/>Ausschüssen dieser Bezirksvertretungen, übertragen
@@ -1428,11 +1288,11 @@
       <lb facs="#facs_7_tr_1_tl_36" n="N036"/>rechnungshofes dessen Funktionen.
       <lb facs="#facs_7_tr_1_tl_37" n="N037"/>§ 36.
       <lb facs="#facs_7_tr_1_tl_38" n="N038"/>Zu Artikel 131.
-      <lb facs="#facs_7_tr_1_tl_39" n="N039"/>(n) In Verwaltungsstrafsachen wird der Ver¬
+      <lb facs="#facs_7_tr_1_tl_39" n="N039"/>(1) In Verwaltungsstrafsachen wird der Ver¬
       <lb facs="#facs_7_tr_1_tl_40" n="N040"/>waltungsgerichtshof erst zuständig, sobald die all¬
       <lb facs="#facs_7_tr_1_tl_41" n="N041"/>gemeinen Bestimmungen des Verwaltungsstrafrechtes
       <lb facs="#facs_7_tr_1_tl_42" n="N042"/>und das Verwaltungsstrafverfahren neu geregelt sind.
-      <lb facs="#facs_7_tr_1_tl_43" n="N043"/>Diese Regelung hat bis 1. Juli 1921 zu erfolgen
+      <lb facs="#facs_7_tr_1_tl_43" n="N043"/>Diese Regelung hat bis 1. Juli 1921 zu erfolgen.
       <lb facs="#facs_7_tr_1_tl_44" n="N044"/>(2) Die in einzelnen Verwaltungsgesetzen ent¬
       <lb facs="#facs_7_tr_1_tl_45" n="N045"/>haltenen Bestimmungen, die die Zuständigkeit des
       <lb facs="#facs_7_tr_1_tl_46" n="N046"/>Verwaltungsgerichtshofes für bestimmte Fälle aus¬
@@ -1468,7 +1328,7 @@
       <lb facs="#facs_7_tr_2_tl_23" n="N023"/>(1) Der dermalige Verfassungsgerichtshof wird
       <lb facs="#facs_7_tr_2_tl_24" n="N024"/>zum Verfassungsgerichtshof im Sinne des Bundes¬
       <lb facs="#facs_7_tr_2_tl_25" n="N025"/>Verfassungsgesetzes
-      <lb facs="#facs_7_tr_2_tl_26" n="N026"/>(2) Sein Präsident, sein Vizepräsideut, die Mit¬
+      <lb facs="#facs_7_tr_2_tl_26" n="N026"/>(2) Sein Präsident, sein Vizepräsident, die Mit¬
       <lb facs="#facs_7_tr_2_tl_27" n="N027"/>glieder und Ersatzmänner bleiben bis zu der gemäß
       <lb facs="#facs_7_tr_2_tl_28" n="N028"/>Artikel 147 erfolgenden Neubesetzung im Amt.
       <lb facs="#facs_7_tr_2_tl_29" n="N029"/>§ 40.
@@ -1489,7 +1349,8 @@
       <lb facs="#facs_7_tr_2_tl_44" n="N044"/>III. Schlußbestimmungen.
       <lb facs="#facs_7_tr_2_tl_45" n="N045"/>§ 42.
       <lb facs="#facs_7_tr_2_tl_46" n="N046"/>(1) Die Artikel 10 bis einschließlich 13 und der
-      <lb facs="#facs_7_tr_2_tl_47" n="N047"/>Artikel 15 des Bundes=Verfassungsgesetzes werden,</ab><pb facs="#facs_8" n="8" xml:id="img_0008"/><ab facs="#facs_8_tr_1" type="">
+      <lb facs="#facs_7_tr_2_tl_47" n="N047"/>Artikel 15 des Bundes=Verfassungsgesetzes werden,</ab><pb facs="#facs_8" n="8" xml:id="img_0008"/><ab facs="#facs_8_r" type="">
+      <lb facs="#facs_8_l" n="N001"/>7</ab><ab facs="#facs_8_tr_1" type="">
       <lb facs="#facs_8_tr_1_tl_1" n="N001"/>soweit es sich nicht um Angelegenheiten der ehe-
       <lb facs="#facs_8_tr_1_tl_2" n="N002"/>mals autonomen Verwaltung der Länder handelt
       <lb facs="#facs_8_tr_1_tl_3" n="N003"/>erst an dem Tag wirksam, an dem die folgenden
@@ -1505,33 +1366,32 @@
       <lb facs="#facs_8_tr_1_tl_13" n="N013"/>3. das Verfassungsgesetz des Bundes über
       <lb facs="#facs_8_tr_1_tl_14" n="N014"/>die Organisation der Augemeinen staatlichen Ver-
       <lb facs="#facs_8_tr_1_tl_15" n="N015"/>waltung in den Ländern (Artifel 120 des Bundes-
-      <lb facs="#facs_8_tr_1_tl_16" n="N016"/>Verfassungsgesetzt2).
-      <lb facs="#facs_8_tr_1_tl_17" n="N017"/>(2) Bis dahin gelten nachstehende Bestimmungen:
-      <lb facs="#facs_8_tr_1_tl_18" n="N018"/>a) Auf dem Gebiet der Gefehacbung und Voll-
-      <lb facs="#facs_8_tr_1_tl_19" n="N019"/>ziehung wird die Verteilung der Zuständig-
-      <lb facs="#facs_8_tr_1_tl_20" n="N020"/>keiten zwischen Bund und Ländern gegenüber
-      <lb facs="#facs_8_tr_1_tl_21" n="N021"/>der bestehenden zwischen Staat und Ländern
-      <lb facs="#facs_8_tr_1_tl_22" n="N022"/>nicht geändert.
-      <lb facs="#facs_8_tr_1_tl_23" n="N023"/>b) Alle Angelegenheiten der ehemafs autonomen.
-      <lb facs="#facs_8_tr_1_tl_24" n="N024"/>Verwaltung werden von den Ländern im
-      <lb facs="#facs_8_tr_1_tl_25" n="N025"/>selbständigen Wirkungsbereich vollzogen.
-      <lb facs="#facs_8_tr_1_tl_26" n="N026"/>Alle übrigen Angelegenheiten der Vollziehung
-      <lb facs="#facs_8_tr_1_tl_27" n="N027"/>werden von den Ländern als Angelegenheiten.
-      <lb facs="#facs_8_tr_1_tl_28" n="N028"/>der mittelbaren Bundesverwaltung im Sinne
-      <lb facs="#facs_8_tr_1_tl_29" n="N029"/>des Bundes-Verfassungsgesetzes geführt, soweit
-      <lb facs="#facs_8_tr_1_tl_30" n="N030"/>sie nicht in den Wirkungäbereich der eigenen
-      <lb facs="#facs_8_tr_1_tl_31" n="N031"/>Bundesbehörden (Artikel 102 des Bundes-
-      <lb facs="#facs_8_tr_1_tl_32" n="N032"/>Verfassungsgesetzes) fallen; für die Führung</ab><ab facs="#facs_8_tr_2" type="">
+      <lb facs="#facs_8_tr_1_tl_17" n="N016"/>Verfassungsgesetztes).
+      <lb facs="#facs_8_tr_1_tl_18" n="N017"/>a) Auf dem Gebiet der Gesetzgebung und Voll-
+      <lb facs="#facs_8_tr_1_tl_19" n="N018"/>ziehung wird die Verteilung der Zuständig-
+      <lb facs="#facs_8_tr_1_tl_20" n="N019"/>keiten zwischen Bund und Ländern gegenüber
+      <lb facs="#facs_8_tr_1_tl_21" n="N020"/>der bestehenden zwischen Staat und Ländern
+      <lb facs="#facs_8_tr_1_tl_22" n="N021"/>nicht geändert.
+      <lb facs="#facs_8_tr_1_tl_23" n="N022"/>b) Alle Angelegenheiten der ehemals autonomen.
+      <lb facs="#facs_8_tr_1_tl_24" n="N023"/>Verwaltung werden von den Ländern im
+      <lb facs="#facs_8_tr_1_tl_25" n="N024"/>selbständigen Wirkungsbereich vollzogen.
+      <lb facs="#facs_8_tr_1_tl_26" n="N025"/>Alle übrigen Angelegenheiten der Vollziehung
+      <lb facs="#facs_8_tr_1_tl_27" n="N026"/>werden von den Ländern als Angelegenheiten.
+      <lb facs="#facs_8_tr_1_tl_28" n="N027"/>der mittelbaren Bundesverwaltung im Sinne
+      <lb facs="#facs_8_tr_1_tl_29" n="N028"/>des Bundes-Verfassungsgesetzes geführt, soweit
+      <lb facs="#facs_8_tr_1_tl_30" n="N029"/>sie nicht in den Wirkungsbereich der eigenen
+      <lb facs="#facs_8_tr_1_tl_31" n="N030"/>Bundesbehörden (Artikel 102 des Bundes-
+      <lb facs="#facs_8_tr_1_tl_32" n="N031"/>Verfassungsgesetzes) fallen; für die Führung</ab><ab facs="#facs_8_tr_2" type="">
       <lb facs="#facs_8_tr_2_tl_1" n="N001"/>dieser mittelbaren Bundesverwaltung in Wien
-      <lb facs="#facs_8_tr_2_tl_2" n="N002"/>gilt § 33. Absatz 5.
-      <lb facs="#facs_8_tr_2_tl_3" n="N003"/>d) Die im § 8, Abjatz 1, ausgenommenen Be-
-      <lb facs="#facs_8_tr_2_tl_4" n="N004"/>hörden sind vorläufig Bundesbchörden, die
+      <lb facs="#facs_8_tr_2_tl_2" n="N002"/>gilt § 33 Absatz 5.
+      <lb facs="#facs_8_tr_2_tl_3" n="N003"/>d) Die im § 8, Absatz 1, ausgenommenen Be-
+      <lb facs="#facs_8_tr_2_tl_4" n="N004"/>hörden sind vorläufig Bundesbehörden, die
       <lb facs="#facs_8_tr_2_tl_5" n="N005"/>im § 9, Absatz 1, bezeichneten Angestellten
       <lb facs="#facs_8_tr_2_tl_6" n="N006"/>vorläufig Bundesangestellte. Die nach den
       <lb facs="#facs_8_tr_2_tl_7" n="N007"/>bisherigen Vorschriften den Landeshaupt-
       <lb facs="#facs_8_tr_2_tl_8" n="N008"/>maniern und den Landesregierungen zu-
       <lb facs="#facs_8_tr_2_tl_9" n="N009"/>stehenden Befugnisse in den Personalangelegen-
-      <lb facs="#facs_8_tr_2_tl_10" n="N010"/>heiten der im § 9. Absatz 1, bezeichncten
+      <lb facs="#facs_8_tr_2_tl_10" n="N010"/>heiten der im § 9. Absatz 1, bezeichneten
       <lb facs="#facs_8_tr_2_tl_11" n="N011"/>Angestellten bleiben bestehen.
       <lb facs="#facs_8_tr_2_tl_12" n="N012"/>e) Die Bestimmungen des § 6, Absatz 1, werden
       <lb facs="#facs_8_tr_2_tl_13" n="N013"/>nur insoweit angewendet, als sie nicht im
@@ -1540,16 +1400,29 @@
       <lb facs="#facs_8_tr_2_tl_16" n="N016"/>f) Auf dem Gebiet des Schul- und Erziehungs-
       <lb facs="#facs_8_tr_2_tl_17" n="N017"/>wejens können die Staatsgesetze, einschließlich
       <lb facs="#facs_8_tr_2_tl_18" n="N018"/>der früheren Reichsgesetze, nur durch über-
-      <lb facs="#facs_8_tr_2_tl_19" n="N019"/>einstimmende Geictze des Bundes und der
-      <lb facs="#facs_8_tr_2_tl_20" n="N020"/>beteiligten Länder abgeändert werden; hicvon
+      <lb facs="#facs_8_tr_2_tl_19" n="N019"/>einstimmende Gerichte des Bundes und der
+      <lb facs="#facs_8_tr_2_tl_20" n="N020"/>beteiligten Länder abgeändert werden; hievon
       <lb facs="#facs_8_tr_2_tl_21" n="N021"/>sind jene gesetzlichen Bestimmungen aus-
       <lb facs="#facs_8_tr_2_tl_22" n="N022"/>genommen, die das Hochschulwesen oder das
       <lb facs="#facs_8_tr_2_tl_23" n="N023"/>Ausmaß der Bezüge der Lehrpersonen
       <lb facs="#facs_8_tr_2_tl_24" n="N024"/>betreffen. Änderungen der bestehenden Landes-
-      <lb facs="#facs_8_tr_2_tl_25" n="N025"/>gesehe können nur durch übereinstimmende
-      <lb facs="#facs_8_tr_2_tl_26" n="N026"/>Gejetze des Landes und des Bundes erfolgen.
+      <lb facs="#facs_8_tr_2_tl_25" n="N025"/>gesetze können nur durch übereinstimmende
+      <lb facs="#facs_8_tr_2_tl_26" n="N026"/>Gesetze des Landes und des Bundes erfolgen.
       <lb facs="#facs_8_tr_2_tl_27" n="N027"/>§ 43.
-      <lb facs="#facs_8_tr_2_tl_28" n="N028"/>(1) Diejes Gesetz tritt zugleich mit dem Bundes-
+      <lb facs="#facs_8_tr_2_tl_28" n="N028"/>(1) Dieses Gesetz tritt zugleich mit dem Bundes-
       <lb facs="#facs_8_tr_2_tl_29" n="N029"/>Verfassungsgesetz in Kraft.
       <lb facs="#facs_8_tr_2_tl_30" n="N030"/>(2) Mit seinem Vollzug ist die Staatsregierung
-      <lb facs="#facs_8_tr_2_tl_31" n="N031"/>betraut.</ab><p facs="#facs_8_region_1700652034017_1448"/></div></body></text></TEI>
+      <lb facs="#facs_8_tr_2_tl_31" n="N031"/>betraut.</ab><p facs="#facs_8_region_1700652034017_1448">
+      <lb facs="#facs_8_l_1287" n="N001"/>Unleserlich
+      <lb facs="#facs_8_l_1330" n="N002"/>Unleserlich
+      <lb facs="#facs_8_l_1293" n="N003"/>Unleserlich
+      <lb facs="#facs_8_l_1302" n="N004"/>Unleserlich
+      <lb facs="#facs_8_l_1345" n="N005"/>Unleserlich
+      <lb facs="#facs_8_l_1339" n="N006"/>Unleserlich
+      <lb facs="#facs_8_l_1308" n="N007"/>Unleserlich
+      <lb facs="#facs_8_l_1355" n="N008"/>Unleserlich
+      <lb facs="#facs_8_l_1361" n="N009"/>Unleserlich
+      <lb facs="#facs_8_l_1314" n="N010"/>Unleserlich
+      <lb facs="#facs_8_l_1367" n="N011"/>Unleserlich
+      <lb facs="#facs_8_l_1373" n="N012"/>Unleserlich
+      <lb facs="#facs_8_l_1320" n="N013"/>Unleserlich</p></div></body></text></TEI>
