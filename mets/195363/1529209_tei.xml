@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B-VG Sonderdruck</title><principal>carlfriedrich.haak@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Österreichische Bundesverfassung: Datenset A</title></seriesStmt><sourceDesc><p>TRP document creator: carlfriedrich.haak@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="3083" lry="4934" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="3083px" height="4934px"/><zone points="284,277 2662,277 2662,500 284,500" rendition="TextRegion" xml:id="facs_1_region_1700651444375_1107" subtype="paragraph">
-        <zone points="349,366 2631,350 2631,400 349,416" rendition="Line" xml:id="facs_1_region_1700651444375_1107_tl_1"/>
-      </zone><zone points="273,848 2695,848 2695,1247 273,1247" rendition="TextRegion" xml:id="facs_1_region_1700651447998_1110" subtype="paragraph">
-        <zone points="848,972 2148,967 2148,1017 848,1022" rendition="Line" xml:id="facs_1_region_1700651447998_1110_tl_1"/>
-        <zone points="334,1106 2631,1101 2631,1151 334,1156" rendition="Line" xml:id="facs_1_region_1700651447998_1110_tl_2"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="3105" lry="4967" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="3105px" height="4967px"/><zone points="271,292 2754,292 2754,537 271,537" rendition="TextRegion" xml:id="facs_2_region_1700651465587_1119" subtype="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B-VG Sonderdruck</title><principal>carlfriedrich.haak@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Österreichische Bundesverfassung: Datenset A</title></seriesStmt><sourceDesc><p>TRP document creator: carlfriedrich.haak@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="3083" lry="4934" xml:id="facs_1"><graphic url="%2Ffiles.jpeg" width="3083px" height="4934px"/></surface><surface ulx="0" uly="0" lrx="3105" lry="4967" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="3105px" height="4967px"/><zone points="271,292 2754,292 2754,537 271,537" rendition="TextRegion" xml:id="facs_2_region_1700651465587_1119" subtype="paragraph">
         <zone points="367,379 2654,368 2654,418 367,429" rendition="Line" xml:id="facs_2_region_1700651465587_1119_tl_1"/>
       </zone><zone points="262,880 2749,880 2749,1214 262,1214" rendition="TextRegion" xml:id="facs_2_region_1700651467767_1122" subtype="paragraph">
         <zone points="874,989 2162,989 2162,1039 874,1039" rendition="Line" xml:id="facs_2_region_1700651467767_1122_tl_1"/>
@@ -22,6 +17,7 @@
         <zone points="367,2081 1479,2076 1479,2126 367,2131" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_11"/>
         <zone points="367,2138 1231,2138 1231,2188 367,2188" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_12"/>
         <zone points="817,2221 895,2216 1019,2221 1019,2271 895,2266 817,2271" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_13"/>
+        <zone points="402,2307 1472,2315 1472,2300 402,2292" rendition="Line" xml:id="facs_2_l"/>
         <zone points="351,2340 657,2345 657,2395 351,2390" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_14"/>
         <zone points="424,2402 1484,2391 1484,2441 1407,2452 424,2452" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_15"/>
         <zone points="372,2459 1495,2454 1495,2504 372,2509" rendition="Line" xml:id="facs_2_region_1700651475394_1125_tl_16"/>
@@ -72,7 +68,6 @@
         <zone points="1572,2117 2649,2122 2649,2172 1572,2167" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_12"/>
         <zone points="1521,2184 2323,2169 2323,2219 1521,2234" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_13"/>
         <zone points="1578,2236 2649,2221 2649,2271 2571,2276 1578,2286" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_14"/>
-        <zone points="424,2288 2654,2278 2654,2328 2576,2333 424,2338" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_15"/>
         <zone points="1526,2340 2462,2340 2462,2390 1526,2390" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_16"/>
         <zone points="1578,2402 2643,2391 2643,2441 1578,2452" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_17"/>
         <zone points="1547,2459 2659,2448 2659,2498 1547,2509" rendition="Line" xml:id="facs_2_region_1700651481184_1128_tl_18"/>
@@ -2478,61 +2473,59 @@
         <zone points="1542,4247 1860,4252 1860,4302 1542,4297" rendition="Line" xml:id="facs_20_region_1700651827371_1341_tl_69"/>
         <zone points="2042,4298 2553,4293 2553,4343 2042,4348" rendition="Line" xml:id="facs_20_region_1700651827371_1341_tl_70"/>
         <zone points="1547,4313 1628,4303 1855,4303 1855,4353 1628,4353 1547,4363" rendition="Line" xml:id="facs_20_region_1700651827371_1341_tl_71"/>
-      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><p facs="#facs_1_region_1700651444375_1107">
-      <lb facs="#facs_1_region_1700651444375_1107_tl_1" n="N001"/>Sonderabdruck aus der „Wiener Zeitung“ Nr. 228 vom Dienstag, den 5. Oktober 1920.</p><p facs="#facs_1_region_1700651447998_1110">
-      <lb facs="#facs_1_region_1700651447998_1110_tl_1" n="N001"/>VIEx Lum I. OKL 1320.
-      <lb facs="#facs_1_region_1700651447998_1110_tl_2" n="N002"/>womit die Republik Ulterreim als Bundesltaat eingerichtet wird (Bundesverfallungsgesetz).-)</p><pb facs="#facs_2" n="2" xml:id="img_0002"/><p facs="#facs_2_region_1700651465587_1119">
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><p facs="#facs_2_region_1700651465587_1119">
       <lb facs="#facs_2_region_1700651465587_1119_tl_1" n="N001"/>Sonderabdruck aus der „Wiener Zeitung“ Nr. 228 vom Dienstag, den 5. Oktober 1920.</p><p facs="#facs_2_region_1700651467767_1122">
-      <lb facs="#facs_2_region_1700651467767_1122_tl_1" n="N001"/>vorik dum 1. VKLI 172.
-      <lb facs="#facs_2_region_1700651467767_1122_tl_2" n="N002"/>womit die Republik Olterreic als Bundesltaat eingerichtet wird (Bundesverfalsungsaelch).7)</p><p facs="#facs_2_region_1700651475394_1125">
+      <lb facs="#facs_2_region_1700651467767_1122_tl_1" n="N001"/>Gesetz vom 1. Oktober 1920,
+      <lb facs="#facs_2_region_1700651467767_1122_tl_2" n="N002"/>womit die Republik Österreich als Bundesstaat eingerichtet wird (Bundesverfassungsgesetz).*)</p><p facs="#facs_2_region_1700651475394_1125">
       <lb facs="#facs_2_region_1700651475394_1125_tl_1" n="N001"/>Die Nationalversammlung hat beschlossen:
       <lb facs="#facs_2_region_1700651475394_1125_tl_2" n="N002"/>Erstes Hauptstück.
       <lb facs="#facs_2_region_1700651475394_1125_tl_3" n="N003"/>Allgemeine Bestimmungen.
       <lb facs="#facs_2_region_1700651475394_1125_tl_4" n="N004"/>Artikel 1.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_5" n="N005"/>Osterreich ist eine demokratische Republik. Ihr Recht
+      <lb facs="#facs_2_region_1700651475394_1125_tl_5" n="N005"/>Österreich ist eine demokratische Republik. Ihr Recht
       <lb facs="#facs_2_region_1700651475394_1125_tl_6" n="N006"/>geht vom Volk aus.
       <lb facs="#facs_2_region_1700651475394_1125_tl_7" n="N007"/>Artikel 2.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_8" n="N008"/>(1) Ofterreich ist ein Bundesstaat.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_8" n="N008"/>(1) Österreich ist ein Bundesstaat.
       <lb facs="#facs_2_region_1700651475394_1125_tl_9" n="N009"/>(2) Der Bundesstaat wird gebildet aus den selb-
       <lb facs="#facs_2_region_1700651475394_1125_tl_10" n="N010"/>ständigen Ländern: Burgenland. Kärnten, Niederöster-
       <lb facs="#facs_2_region_1700651475394_1125_tl_11" n="N011"/>reich (Niederösterreich-Land und Wien), Oberösterreich,
       <lb facs="#facs_2_region_1700651475394_1125_tl_12" n="N012"/>Salzburg, Steiermark, Tirol, Vorarlberg.
       <lb facs="#facs_2_region_1700651475394_1125_tl_13" n="N013"/>Artikel 3.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_14" n="N014"/>Bundesländer.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_15" n="N015"/>(2) Eine Änderung des Bundesgebietes, die zu-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_16" n="N016"/>gleich Änderung eines Landesaebietes ist, ebenso
-      <lb facs="#facs_2_region_1700651475394_1125_tl_17" n="N017"/>die Änderung einer Landesarenze innerhalb des
-      <lb facs="#facs_2_region_1700651475394_1125_tl_18" n="N018"/>Bundesgebietes kann — abgesehen von Friedensver-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_19" n="N019"/>trägen — nur durch übereinstimmende Verfassungs-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_20" n="N020"/>gesetze des Bundes und jenes Landes erfolgen, dessen
-      <lb facs="#facs_2_region_1700651475394_1125_tl_21" n="N021"/>Gebiet eine Änderung erfährt.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_22" n="N022"/>(3) Die für Niederösterreich-Land und Wien gelten-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_23" n="N023"/>den Sonderbestimmungen enthält das vierte Haupt-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_24" n="N024"/>Artikel 4.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_25" n="N025"/>(1) Das Bundesgebiet bildet ein einheitliches
-      <lb facs="#facs_2_region_1700651475394_1125_tl_26" n="N026"/>Währungs- Wirtschafts- und Zollgebiet.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_27" n="N027"/>(2) Innerhalb des Bundes dürfen Zwischenzollinien
-      <lb facs="#facs_2_region_1700651475394_1125_tl_28" n="N028"/>oder sonstige Verkehrsbeschränkungen nicht errichtet) und Gewichts- Normen- und Punzierungswesen:
-      <lb facs="#facs_2_region_1700651475394_1125_tl_29" n="N029"/>werden.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_30" n="N030"/>Artikel 5.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_31" n="N031"/>Bundeshaubtstadt und Sitz der obersten Organe
-      <lb facs="#facs_2_region_1700651475394_1125_tl_32" n="N032"/>des Bundes ist Wien.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_33" n="N033"/>Artikel 6.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_34" n="N034"/>(1) Für jedes Land besteht eine Landesbürgerschaft.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_35" n="N035"/>Voraussehung der Landesbürgerschaft ist das Heimat-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_36" n="N036"/>recht in einer Gemeinde des Landes. Die Bedingungen
-      <lb facs="#facs_2_region_1700651475394_1125_tl_37" n="N037"/>für Erwerb und Verlust der Landesbürgerschaft sind
-      <lb facs="#facs_2_region_1700651475394_1125_tl_38" n="N038"/>in jedem Lande gleich.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_39" n="N039"/>(2) Mit der Landesbürgerschaft wird die Bundes-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_40" n="N040"/>bürgerschaft erworben.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_41" n="N041"/>(3) Jeder Bundesbüraer hat in jedem Land die
-      <lb facs="#facs_2_region_1700651475394_1125_tl_42" n="N042"/>gleichen Rechte und Pflichten wie die Bürger des
-      <lb facs="#facs_2_region_1700651475394_1125_tl_43" n="N043"/>Landes selbst.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_44" n="N044"/>Artikel 7.
-      <lb facs="#facs_2_region_1700651475394_1125_tl_45" n="N045"/>(1) Alle Bundesbürger sind vor dem Gesetze
-      <lb facs="#facs_2_region_1700651475394_1125_tl_46" n="N046"/>gleich. Vorrechte der Geburt, des Geschlechtes, des
-      <lb facs="#facs_2_region_1700651475394_1125_tl_47" n="N047"/>Standes. der Klasse und des Bekenntnisses sind aus-
-      <lb facs="#facs_2_region_1700651475394_1125_tl_48" n="N048"/>geschlossen.</p><p facs="#facs_2_region_1700651481184_1128">
+      <lb facs="#facs_2_l" n="N014"/>(1) Das Bundesgebiet umfaßt die Gebiete der
+      <lb facs="#facs_2_region_1700651475394_1125_tl_14" n="N015"/>Bundesländer.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_15" n="N016"/>(2) Eine Änderung des Bundesgebietes, die zu-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_16" n="N017"/>gleich Änderung eines Landesgebietes ist, ebenso
+      <lb facs="#facs_2_region_1700651475394_1125_tl_17" n="N018"/>die Änderung einer Landesgrenze innerhalb des
+      <lb facs="#facs_2_region_1700651475394_1125_tl_18" n="N019"/>Bundesgebietes kann — abgesehen von Friedensver-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_19" n="N020"/>trägen — nur durch übereinstimmende Verfassungs-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_20" n="N021"/>gesetze des Bundes und jenes Landes erfolgen, dessen
+      <lb facs="#facs_2_region_1700651475394_1125_tl_21" n="N022"/>Gebiet eine Änderung erfährt.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_22" n="N023"/>(3) Die für Niederösterreich-Land und Wien gelten-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_23" n="N024"/>den Sonderbestimmungen enthält das vierte Haupt-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_24" n="N025"/>Artikel 4.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_25" n="N026"/>(1) Das Bundesgebiet bildet ein einheitliches
+      <lb facs="#facs_2_region_1700651475394_1125_tl_26" n="N027"/>Währungs- Wirtschafts- und Zollgebiet.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_27" n="N028"/>(2) Innerhalb des Bundes dürfen Zwischenzollinien
+      <lb facs="#facs_2_region_1700651475394_1125_tl_28" n="N029"/>oder sonstige Verkehrsbeschränkungen nicht errichtet) und Gewichts- Normen- und Punzierungswesen:
+      <lb facs="#facs_2_region_1700651475394_1125_tl_29" n="N030"/>werden.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_30" n="N031"/>Artikel 5.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_31" n="N032"/>Bundeshaubtstadt und Sitz der obersten Organe
+      <lb facs="#facs_2_region_1700651475394_1125_tl_32" n="N033"/>des Bundes ist Wien.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_33" n="N034"/>Artikel 6.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_34" n="N035"/>(1) Für jedes Land besteht eine Landesbürgerschaft.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_35" n="N036"/>Voraussehung der Landesbürgerschaft ist das Heimat-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_36" n="N037"/>recht in einer Gemeinde des Landes. Die Bedingungen
+      <lb facs="#facs_2_region_1700651475394_1125_tl_37" n="N038"/>für Erwerb und Verlust der Landesbürgerschaft sind
+      <lb facs="#facs_2_region_1700651475394_1125_tl_38" n="N039"/>in jedem Lande gleich.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_39" n="N040"/>(2) Mit der Landesbürgerschaft wird die Bundes-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_40" n="N041"/>bürgerschaft erworben.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_41" n="N042"/>(3) Jeder Bundesbüraer hat in jedem Land die
+      <lb facs="#facs_2_region_1700651475394_1125_tl_42" n="N043"/>gleichen Rechte und Pflichten wie die Bürger des
+      <lb facs="#facs_2_region_1700651475394_1125_tl_43" n="N044"/>Landes selbst.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_44" n="N045"/>Artikel 7.
+      <lb facs="#facs_2_region_1700651475394_1125_tl_45" n="N046"/>(1) Alle Bundesbürger sind vor dem Gesetze
+      <lb facs="#facs_2_region_1700651475394_1125_tl_46" n="N047"/>gleich. Vorrechte der Geburt, des Geschlechtes, des
+      <lb facs="#facs_2_region_1700651475394_1125_tl_47" n="N048"/>Standes. der Klasse und des Bekenntnisses sind aus-
+      <lb facs="#facs_2_region_1700651475394_1125_tl_48" n="N049"/>geschlossen.</p><p facs="#facs_2_region_1700651481184_1128">
       <lb facs="#facs_2_region_1700651481184_1128_tl_1" n="N001"/>(2) Den öffentlichen Angestellten, einschließlich der
       <lb facs="#facs_2_region_1700651481184_1128_tl_2" n="N002"/>Angehörigen des Bundesheeres, ist die ungeschmälerte
       <lb facs="#facs_2_region_1700651481184_1128_tl_3" n="N003"/>Ausübung ihrer politischen Rechte gewährleistet.
@@ -2547,43 +2540,42 @@
       <lb facs="#facs_2_region_1700651481184_1128_tl_12" n="N012"/>Bundessache ist die Gesetzgebung und die Voll-
       <lb facs="#facs_2_region_1700651481184_1128_tl_13" n="N013"/>ziehung in folgenden Angelegenheiten:
       <lb facs="#facs_2_region_1700651481184_1128_tl_14" n="N014"/>1. Bundesverfassung, insbesondere Wahlen zum
-      <lb facs="#facs_2_region_1700651481184_1128_tl_15" n="N015"/>(1) Das Bundesgebiet umfaßt die Gebiete der Nationalrat. Volksabstimmungen auf Grund der
-      <lb facs="#facs_2_region_1700651481184_1128_tl_16" n="N016"/>Bundesverfassung: Verfassungsgerichtsbarkeit;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_17" n="N017"/>﻿2. äußere Angelegenheiten mit Einschluß der
-      <lb facs="#facs_2_region_1700651481184_1128_tl_18" n="N018"/>olitischen und wirtschaftlichen Vertretung gegenüber
-      <lb facs="#facs_2_region_1700651481184_1128_tl_19" n="N019"/>dem Ausland, insbesondere Abschluß aller Staatz-
-      <lb facs="#facs_2_region_1700651481184_1128_tl_20" n="N020"/>verträge: Grenzbermarkung; Waren- und Viehverkehr
-      <lb facs="#facs_2_region_1700651481184_1128_tl_21" n="N021"/>mit dem Nusland; Zollwesen;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_22" n="N022"/>3. Regelung und Überwachung des Eintrittes in
-      <lb facs="#facs_2_region_1700651481184_1128_tl_23" n="N023"/>das Bundesgebiet und des Austrittes aus ihm: Ein-
-      <lb facs="#facs_2_region_1700651481184_1128_tl_24" n="N024"/>und Auswanderungzwesen; Vakwesen: Abschiebung,
-      <lb facs="#facs_2_region_1700651481184_1128_tl_25" n="N025"/>Abschaffung. Ausweisung und Auslieferung aus dem
-      <lb facs="#facs_2_region_1700651481184_1128_tl_26" n="N026"/>Bundesgebiet sowie Durchlieferung:
-      <lb facs="#facs_2_region_1700651481184_1128_tl_27" n="N027"/>4. Bundesfinanzen. insbesondere öffentliche Abgaben,
-      <lb facs="#facs_2_region_1700651481184_1128_tl_28" n="N028"/>die ausschließlich oder teilweise für den Bund einzuheben
-      <lb facs="#facs_2_region_1700651481184_1128_tl_29" n="N029"/>sind: Monopolwesen:
-      <lb facs="#facs_2_region_1700651481184_1128_tl_30" n="N030"/>5. Geld- Kredit-, Börfe- und Bankwesen; Maß-
-      <lb facs="#facs_2_region_1700651481184_1128_tl_31" n="N031"/>6. Zivilrechtswesen einschließlich des wirtschaftlichen
-      <lb facs="#facs_2_region_1700651481184_1128_tl_32" n="N032"/>Assoziationswesens: Strafrechtswesen mit Ausschluß
-      <lb facs="#facs_2_region_1700651481184_1128_tl_33" n="N033"/>des Verwaltungsstrafrechtes und Verwaltungsstraf-
-      <lb facs="#facs_2_region_1700651481184_1128_tl_34" n="N034"/>verfahrens in Angelegenheiten, die in den selbständigen
-      <lb facs="#facs_2_region_1700651481184_1128_tl_35" n="N035"/>Wirkungsbereich der Tänder fallen; Justizpflege;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_36" n="N036"/>Verwaltungsgerichtsbarkeit: Urheberrecht: Bressewesen;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_37" n="N037"/>Enteignung, soweit sie nicht Angelegenheiten betrifft,
-      <lb facs="#facs_2_region_1700651481184_1128_tl_38" n="N038"/>die in den selbständigen Wirkungäbereich der Länder
-      <lb facs="#facs_2_region_1700651481184_1128_tl_39" n="N039"/>allen: Angelegenheiten der Notare, der Rechtsanwälte
-      <lb facs="#facs_2_region_1700651481184_1128_tl_40" n="N040"/>und verwandter Veruse;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_41" n="N041"/>7. Vereins- und Versammlungsrecht:
-      <lb facs="#facs_2_region_1700651481184_1128_tl_42" n="N042"/>8. Angelegenheiten des Gewerbes und der Industrie:
-      <lb facs="#facs_2_region_1700651481184_1128_tl_43" n="N043"/>Bekämpfung des unlauteren Wettbewerbes; Patent-
-      <lb facs="#facs_2_region_1700651481184_1128_tl_44" n="N044"/>wesen sowie Schutz von Mustern. Marken und
-      <lb facs="#facs_2_region_1700651481184_1128_tl_45" n="N045"/>anderen Warenbezeichnungen: Angelegenheiten der
-      <lb facs="#facs_2_region_1700651481184_1128_tl_46" n="N046"/>Patentanwälte; Ingenieur- und Zibiltechnikerwesen;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_47" n="N047"/>Kammern für Handel, Gewerbe und Industrie;
-      <lb facs="#facs_2_region_1700651481184_1128_tl_48" n="N048"/>9. Verkehrswesen bezüglich der Eisenbahnen. der
-      <lb facs="#facs_2_region_1700651481184_1128_tl_49" n="N049"/>Schiffahrt und der Luftfahrt: Angelegenheiten der
-      <lb facs="#facs_2_region_1700651481184_1128_tl_50" n="N050"/>wegen ihrer Bedeutung für den Durchzugsberkehr durch
-      <lb facs="#facs_2_region_1700651481184_1128_tl_51" n="N051"/>Bundesgesetz als Bundesstraßen erklärten Straßenzüge;</p><p facs="#facs_2_region_1700651489385_1132">
+      <lb facs="#facs_2_region_1700651481184_1128_tl_16" n="N015"/>Bundesverfassung: Verfassungsgerichtsbarkeit;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_17" n="N016"/>﻿2. äußere Angelegenheiten mit Einschluß der
+      <lb facs="#facs_2_region_1700651481184_1128_tl_18" n="N017"/>olitischen und wirtschaftlichen Vertretung gegenüber
+      <lb facs="#facs_2_region_1700651481184_1128_tl_19" n="N018"/>dem Ausland, insbesondere Abschluß aller Staatz-
+      <lb facs="#facs_2_region_1700651481184_1128_tl_20" n="N019"/>verträge: Grenzbermarkung; Waren- und Viehverkehr
+      <lb facs="#facs_2_region_1700651481184_1128_tl_21" n="N020"/>mit dem Nusland; Zollwesen;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_22" n="N021"/>3. Regelung und Überwachung des Eintrittes in
+      <lb facs="#facs_2_region_1700651481184_1128_tl_23" n="N022"/>das Bundesgebiet und des Austrittes aus ihm: Ein-
+      <lb facs="#facs_2_region_1700651481184_1128_tl_24" n="N023"/>und Auswanderungzwesen; Vakwesen: Abschiebung,
+      <lb facs="#facs_2_region_1700651481184_1128_tl_25" n="N024"/>Abschaffung. Ausweisung und Auslieferung aus dem
+      <lb facs="#facs_2_region_1700651481184_1128_tl_26" n="N025"/>Bundesgebiet sowie Durchlieferung:
+      <lb facs="#facs_2_region_1700651481184_1128_tl_27" n="N026"/>4. Bundesfinanzen. insbesondere öffentliche Abgaben,
+      <lb facs="#facs_2_region_1700651481184_1128_tl_28" n="N027"/>die ausschließlich oder teilweise für den Bund einzuheben
+      <lb facs="#facs_2_region_1700651481184_1128_tl_29" n="N028"/>sind: Monopolwesen:
+      <lb facs="#facs_2_region_1700651481184_1128_tl_30" n="N029"/>5. Geld- Kredit-, Börfe- und Bankwesen; Maß-
+      <lb facs="#facs_2_region_1700651481184_1128_tl_31" n="N030"/>6. Zivilrechtswesen einschließlich des wirtschaftlichen
+      <lb facs="#facs_2_region_1700651481184_1128_tl_32" n="N031"/>Assoziationswesens: Strafrechtswesen mit Ausschluß
+      <lb facs="#facs_2_region_1700651481184_1128_tl_33" n="N032"/>des Verwaltungsstrafrechtes und Verwaltungsstraf-
+      <lb facs="#facs_2_region_1700651481184_1128_tl_34" n="N033"/>verfahrens in Angelegenheiten, die in den selbständigen
+      <lb facs="#facs_2_region_1700651481184_1128_tl_35" n="N034"/>Wirkungsbereich der Tänder fallen; Justizpflege;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_36" n="N035"/>Verwaltungsgerichtsbarkeit: Urheberrecht: Bressewesen;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_37" n="N036"/>Enteignung, soweit sie nicht Angelegenheiten betrifft,
+      <lb facs="#facs_2_region_1700651481184_1128_tl_38" n="N037"/>die in den selbständigen Wirkungäbereich der Länder
+      <lb facs="#facs_2_region_1700651481184_1128_tl_39" n="N038"/>allen: Angelegenheiten der Notare, der Rechtsanwälte
+      <lb facs="#facs_2_region_1700651481184_1128_tl_40" n="N039"/>und verwandter Veruse;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_41" n="N040"/>7. Vereins- und Versammlungsrecht:
+      <lb facs="#facs_2_region_1700651481184_1128_tl_42" n="N041"/>8. Angelegenheiten des Gewerbes und der Industrie:
+      <lb facs="#facs_2_region_1700651481184_1128_tl_43" n="N042"/>Bekämpfung des unlauteren Wettbewerbes; Patent-
+      <lb facs="#facs_2_region_1700651481184_1128_tl_44" n="N043"/>wesen sowie Schutz von Mustern. Marken und
+      <lb facs="#facs_2_region_1700651481184_1128_tl_45" n="N044"/>anderen Warenbezeichnungen: Angelegenheiten der
+      <lb facs="#facs_2_region_1700651481184_1128_tl_46" n="N045"/>Patentanwälte; Ingenieur- und Zibiltechnikerwesen;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_47" n="N046"/>Kammern für Handel, Gewerbe und Industrie;
+      <lb facs="#facs_2_region_1700651481184_1128_tl_48" n="N047"/>9. Verkehrswesen bezüglich der Eisenbahnen. der
+      <lb facs="#facs_2_region_1700651481184_1128_tl_49" n="N048"/>Schiffahrt und der Luftfahrt: Angelegenheiten der
+      <lb facs="#facs_2_region_1700651481184_1128_tl_50" n="N049"/>wegen ihrer Bedeutung für den Durchzugsberkehr durch
+      <lb facs="#facs_2_region_1700651481184_1128_tl_51" n="N050"/>Bundesgesetz als Bundesstraßen erklärten Straßenzüge;</p><p facs="#facs_2_region_1700651489385_1132">
       <lb facs="#facs_2_region_1700651489385_1132_tl_1" n="N001"/>4) Enthalten in dem heute, den 5. Oktober 1920, aufgegebenen 140. Stüde des Staatsgesetzblattes unter Nr. 450.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p facs="#facs_3_region_1700651580275_1141">
       <lb facs="#facs_3_region_1700651580275_1141_tl_1" n="N001"/>Strom- und Schiffahrtspolizei: Post- Telegraphen-
       <lb facs="#facs_3_region_1700651580275_1141_tl_2" n="N002"/>und Fernsprechwesen:
