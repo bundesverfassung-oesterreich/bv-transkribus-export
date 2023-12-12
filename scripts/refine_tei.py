@@ -201,12 +201,14 @@ def remove_useless_atributes(doc: TeiReader):
     for element in elements:
         element.attrib.clear()
 
+
 def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
     if prev_element is not None:
         prev_element.tail = new_text
     else:
         parent_element.text = new_text
     parent_element.remove(lb)
+
 
 def type_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
@@ -222,7 +224,7 @@ def type_lb_elements(doc: TeiReader):
                         #seems to break in word
                         lb.attrib["break"] = "no"
                         if prev_text.endswith("¬"):
-                            prev_element.tail = re.sub("¬", "-", prev_element.tail)
+                            prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
                     else:
                         # hyphen but probably not in a word
                         pass
@@ -245,8 +247,6 @@ def remove_lb_elements(doc: TeiReader):
         test_tail:str = lb.tail.strip() if lb.tail else ""
         lstrip_tail = lb.tail.lstrip() if lb.tail else test_tail
         prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
-        # print(f"\nlstripped lb tail is '{test_tail}'")
-        # print(f"rstripped preceding textnode is '{prev_text}'")
         if prev_text:
             if prev_text.endswith("-"):
                 if test_tail:
