@@ -207,7 +207,32 @@ def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
     else:
         parent_element.text = new_text
     parent_element.remove(lb)
-    # input(f"new text is '{new_text}'")
+
+def type_lb_elements(doc: TeiReader):
+    lb_elements = doc.any_xpath("//tei:lb")
+    for lb in lb_elements:
+        prev_element = lb.getprevious()
+        parent_element = lb.getparent()
+        test_tail:str = lb.tail.strip() if lb.tail else ""
+        prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
+        if prev_text:
+            if prev_text.endswith("-") or prev_text.endswith("¬"):
+                if test_tail:
+                    if test_tail[0].islower() and not test_tail.startswith("und") and not test_tail.startswith("oder"):
+                        #seems to break in word
+                        lb.attrib["break"] = "no"
+                    else:
+                        # hyphen but probably not in a word
+                        pass
+                else:
+                    # has no tail …
+                    pass
+            else:
+                # seems like there is text before but it doenst end with pyhen
+                pass
+        else:
+            # no prev text, seems useless but could be in eg hi parent …
+            pass
 
 
 def remove_lb_elements(doc: TeiReader):
@@ -290,7 +315,7 @@ def create_new_xml_data(
     remove_useless_atributes(doc)
     remove_useless_elements(doc)
     create_main_div(doc)
-    # # remove_lb_elements(doc)
+    type_lb_elements(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
