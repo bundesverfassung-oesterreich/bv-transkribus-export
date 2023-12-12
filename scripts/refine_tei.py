@@ -224,19 +224,22 @@ def type_lb_elements(doc: TeiReader):
                         #seems to break in word
                         lb.attrib["break"] = "no"
                         if prev_text.endswith("¬"):
-                            prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
+                            if prev_element is not None:
+                                prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
+                            else:
+                                parent_element.tail = re.sub("¬ *$|- *$", "", parent_element.tail)
                     else:
                         # hyphen but probably not in a word
-                        pass
+                        lb.attrib["break"] = "yes"
                 else:
                     # has no tail …
-                    pass
+                    lb.attrib["break"] = "yes"
             else:
                 # seems like there is text before but it doenst end with pyhen
-                pass
+                lb.attrib["break"] = "yes"
         else:
             # no prev text, seems useless but could be in eg hi parent …
-            pass
+            lb.attrib["break"] = "yes"
 
 
 def remove_lb_elements(doc: TeiReader):
