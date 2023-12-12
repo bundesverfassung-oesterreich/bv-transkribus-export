@@ -223,7 +223,7 @@ def type_lb_elements(doc: TeiReader):
                     if test_tail[0].islower() and not test_tail.startswith("und") and not test_tail.startswith("oder"):
                         #seems to break in word
                         lb.attrib["break"] = "no"
-                        if prev_text.endswith("¬"):
+                        if prev_text.endswith("-") or prev_text.endswith("¬"):
                             if prev_element is not None:
                                 prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
                             else:
