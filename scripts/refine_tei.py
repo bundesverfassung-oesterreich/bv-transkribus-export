@@ -227,7 +227,7 @@ def type_lb_elements(doc: TeiReader):
                             if prev_element is not None:
                                 prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
                             else:
-                                parent_element.tail = re.sub("¬ *$|- *$", "", parent_element.tail)
+                                parent_element.text = re.sub("¬ *$|- *$", "", parent_element.text)
                     else:
                         # hyphen but probably not in a word
                         lb.attrib["break"] = "yes"
