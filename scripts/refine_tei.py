@@ -248,8 +248,16 @@ def type_lb_elements(doc: TeiReader):
                 textnode = parent_element.text
                 parent_element.text = re.sub(pattern, "\n", textnode)
             lb.attrib["break"] = "no"
+        elif lb_sibling_text_node_implies_no_wordbreak:
+            pattern = r"\¬"
+            if prev_element is not None:
+                prev_element.tail = re.sub(pattern, "-", prev_element.tail)
+            else:
+                parent_element.text = re.sub(pattern, "-", parent_element.text)
+            lb.attrib["break"] = "yes"
         else:
             lb.attrib["break"] = "yes"
+
 
 
 def remove_lb_elements(doc: TeiReader):
