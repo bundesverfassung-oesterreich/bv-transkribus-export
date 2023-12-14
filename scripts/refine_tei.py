@@ -210,8 +210,24 @@ def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
     parent_element.remove(lb)
 
 
-lb_encoders = ["-", "¬"]
 
+
+def replace_hi(doc: TeiReader):
+    for span in doc.any_xpath("//tei:hi"):
+        if span.xpath("@rend='strikethrough:true;'"):
+            span.tag = "del"
+            _ = span.attrib.pop("rend")
+        elif span.xpath("@rend='underlined:true;'"):
+            span.tag = "ul"
+            _ = span.attrib.pop("rend")
+        elif span.xpath("@rend='italic:true;'"):
+            span.attrib["rend"] = "italic"
+        elif span.xpath("@rend='bold:true;'"):
+            span.attrib["rend"] = "bold"
+        else:
+            span.attrib["rend"] = ""
+
+lb_encoders = ["-", "¬"]
 def type_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
@@ -315,6 +331,7 @@ def create_new_xml_data(
     remove_useless_elements(doc)
     create_main_div(doc)
     type_lb_elements(doc)
+    replace_hi(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
