@@ -210,6 +210,8 @@ def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
     parent_element.remove(lb)
 
 
+lb_encoders = ["-", "¬"]
+
 def type_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
@@ -217,28 +219,20 @@ def type_lb_elements(doc: TeiReader):
         parent_element = lb.getparent()
         test_tail:str = lb.tail.strip() if lb.tail else ""
         prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
-        if prev_text:
-            if prev_text.endswith("-") or prev_text.endswith("¬"):
-                if test_tail:
-                    if test_tail[0].islower() and not test_tail.startswith("und") and not test_tail.startswith("oder"):
-                        #seems to break in word
-                        lb.attrib["break"] = "no"
-                        if prev_text.endswith("-") or prev_text.endswith("¬"):
-                            if prev_element is not None:
-                                prev_element.tail = re.sub("¬ *$|- *$", "", prev_element.tail)
-                            else:
-                                parent_element.text = re.sub("¬ *$|- *$", "", parent_element.text)
-                    else:
-                        # hyphen but probably not in a word
-                        lb.attrib["break"] = "yes"
-                else:
-                    # has no tail …
-                    lb.attrib["break"] = "yes"
+        previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders
+        lb_sibling_text_node_implies_no_wordbreak = bool(test_tail) and (test_tail.startswith("und") or test_tail.startswith("oder"))
+        if previous_text_node_implies_wordbreak and not lb_sibling_text_node_implies_no_wordbreak:
+            #seems to break in word
+            pattern = r"[\¬\-](\s*)$"
+            if prev_element is not None:
+                textnode = prev_element.tail
+                new_textnode = re.sub(pattern, "\n", textnode)
+                prev_element.tail = new_textnode
             else:
-                # seems like there is text before but it doenst end with pyhen
-                lb.attrib["break"] = "yes"
+                textnode = parent_element.text
+                parent_element.text = re.sub(pattern, "\n", textnode)
+            lb.attrib["break"] = "no"
         else:
-            # no prev text, seems useless but could be in eg hi parent …
             lb.attrib["break"] = "yes"
 
 
