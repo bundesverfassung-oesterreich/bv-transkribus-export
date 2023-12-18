@@ -235,7 +235,7 @@ def type_lb_elements(doc: TeiReader):
         parent_element = lb.getparent()
         test_tail:str = lb.tail.strip() if lb.tail else ""
         prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
-        previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders and not prev_text[-2].isnumeric()
+        previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders and (not prev_text[-2].isnumeric() if len(prev_text)>1 else True)
         lb_sibling_text_node_implies_no_wordbreak = bool(test_tail) and (test_tail.startswith("und") or test_tail.startswith("oder"))
         if previous_text_node_implies_wordbreak and not lb_sibling_text_node_implies_no_wordbreak:
             #seems to break in word
