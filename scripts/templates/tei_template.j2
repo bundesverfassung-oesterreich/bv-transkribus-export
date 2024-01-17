@@ -18,34 +18,38 @@
                         </placeName>
                     </address>
                 </funder>
-{% for person in doc_metadata.has_digitizing_agent %}
+                {% for person in doc_metadata.has_digitizing_agent %}
                 <respStmt>
                     <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
                     <persName role="acdh:hasDigitisingAgent">{{ person.value }}</persName>
                 </respStmt>
-{% endfor %}
+                {% endfor %}
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                                    applies to this text.</p>
+                            applies to this text.</p>
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
@@ -62,11 +66,11 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                        {% for author in doc_metadata.has_author %}
+                            {% for author in doc_metadata.has_author %}
                             <author role="acdh:hasAuthor">{{ author.value }}</author>
-                        {% endfor %}
-                        <title>{{ doc_metadata.doc_title }}</title>
-                        <note type="editor">{{ doc_metadata.has_description or "" }}</note>
+                            {% endfor %}
+                            <title>{{ doc_metadata.doc_title }}</title>
+                            <note type="editor">{{ doc_metadata.has_description or "" }}</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -76,21 +80,25 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin from="{{ doc_metadata.not_before }}" to="{{ doc_metadata.not_after }}">{{ doc_metadata.written_date }}</origin>
+                        <origin from="{{ doc_metadata.not_before }}" to="{{ doc_metadata.not_after }}">{{
+                            doc_metadata.written_date }}</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-         <abstract>
-            <p/>
-         </abstract>
-         <creation>
-            <date notBefore-iso="{{ doc_metadata.not_before }}" notAfter-iso="{{ doc_metadata.not_after }}">
-                {{ doc_metadata.written_date }}
-            </date>
-         </creation>
-      </profileDesc>
+            <abstract>
+                <p />
+            </abstract>
+            <creation>
+                <date notBefore-iso="{{ doc_metadata.not_before }}" notAfter-iso="{{ doc_metadata.not_after }}">
+                    {{ doc_metadata.written_date }}
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="{{ current_date }}" who="#cfh">document automatically created</change>
+        </revisionDesc>
     </teiHeader>
     {{faksimile|safe}}
     <text type="{{ doc_metadata.type_of_document }}">

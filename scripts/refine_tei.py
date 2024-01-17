@@ -1,4 +1,5 @@
 import os
+import datetime
 import glob
 import shutil
 import re
@@ -350,6 +351,7 @@ def create_new_xml_data(
         "doc_metadata": doc_metadata,
         "body": body_string,
         "faksimile": faksimile,
+        "current_date": datetime.date.today().strftime('%Y-%m-%d')
     }
     xml_data = template.render(context)
     doc = get_xml_doc(xml_data)
