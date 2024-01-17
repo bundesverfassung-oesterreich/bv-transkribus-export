@@ -29,26 +29,30 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                                    applies to this text.</p>
+                            applies to this text.</p>
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
@@ -66,8 +70,8 @@
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Rehrl, Franz</author>
-                        <title>Rehrl</title>
-                        <note type="editor">Rehrl (Titel des Dokuments: "Die Bundesverfassung Österreichs"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno, keine formale Artikelzählung</note>
+                            <title>Rehrl</title>
+                            <note type="editor">Rehrl (Titel des Dokuments: "Die Bundesverfassung Österreichs"), Zustand: mäßig, zahlreiche Unterstreichungen, Anmerkungen in Steno, keine formale Artikelzählung</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -83,15 +87,18 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-         <abstract>
-            <p/>
-         </abstract>
-         <creation>
-            <date notBefore-iso="1919-12-01" notAfter-iso="1919-12-31">
-                Im Dezember 1919
-            </date>
-         </creation>
-      </profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1919-12-01" notAfter-iso="1919-12-31">
+                    Im Dezember 1919
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-01-17" who="#cfh">document automatically created</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3067" lry="4087" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0002/full/full/0/default.jpg" width="3067px" height="4087px"/></surface><surface ulx="0" uly="0" lrx="3000" lry="4090" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0003/full/full/0/default.jpg" width="3000px" height="4090px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4095" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0004/full/full/0/default.jpg" width="3018px" height="4095px"/></surface><surface ulx="0" uly="0" lrx="2986" lry="4107" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0005/full/full/0/default.jpg" width="2986px" height="4107px"/></surface><surface ulx="0" uly="0" lrx="2946" lry="4076" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0006/full/full/0/default.jpg" width="2946px" height="4076px"/></surface><surface ulx="0" uly="0" lrx="3065" lry="4120" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__10/files/images/IMG_0007/full/full/0/default.jpg" width="3065px" height="4120px"/></surface></facsimile>
     <text type="Verfassungsentwurf">

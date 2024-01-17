@@ -29,26 +29,30 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                                    applies to this text.</p>
+                            applies to this text.</p>
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
@@ -66,8 +70,8 @@
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Konstituierende Nationalversammlung</author>
-                        <title>B-VG Sonderdruck</title>
-                        <note type="editor">B-VG (Titel des Dokuments: "Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz") Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel</note>
+                            <title>B-VG Sonderdruck</title>
+                            <note type="editor">B-VG (Titel des Dokuments: "Gesetz vom 1. Oktober 1920, Bundesverfassungsgesetz") Sonderdruck aus der Wiener Zeitung, Zustand gut, keine Anmerkungen, 152 Artikel</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -83,15 +87,18 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-         <abstract>
-            <p/>
-         </abstract>
-         <creation>
-            <date notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">
-                1. Oktober 1920
-            </date>
-         </creation>
-      </profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">
+                    1. Oktober 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-01-17" who="#cfh">document automatically created</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3105" lry="4967" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0032/full/full/0/default.jpg" width="3105px" height="4967px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4979" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0033/full/full/0/default.jpg" width="3022px" height="4979px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4961" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0034/full/full/0/default.jpg" width="2976px" height="4961px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4961" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0035/full/full/0/default.jpg" width="2976px" height="4961px"/></surface><surface ulx="0" uly="0" lrx="3057" lry="4971" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0036/full/full/0/default.jpg" width="3057px" height="4971px"/></surface><surface ulx="0" uly="0" lrx="3017" lry="4967" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0037/full/full/0/default.jpg" width="3017px" height="4967px"/></surface><surface ulx="0" uly="0" lrx="3032" lry="4957" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0038/full/full/0/default.jpg" width="3032px" height="4957px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4954" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0039/full/full/0/default.jpg" width="3029px" height="4954px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4960" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0040/full/full/0/default.jpg" width="3038px" height="4960px"/></surface><surface ulx="0" uly="0" lrx="3031" lry="4968" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0041/full/full/0/default.jpg" width="3031px" height="4968px"/></surface><surface ulx="0" uly="0" lrx="3026" lry="4947" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0042/full/full/0/default.jpg" width="3026px" height="4947px"/></surface><surface ulx="0" uly="0" lrx="3045" lry="4954" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0043/full/full/0/default.jpg" width="3045px" height="4954px"/></surface><surface ulx="0" uly="0" lrx="3032" lry="4952" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0044/full/full/0/default.jpg" width="3032px" height="4952px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4966" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0046/full/full/0/default.jpg" width="3053px" height="4966px"/></surface><surface ulx="0" uly="0" lrx="3031" lry="4955" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0048/full/full/0/default.jpg" width="3031px" height="4955px"/></surface><surface ulx="0" uly="0" lrx="3054" lry="4957" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0049/full/full/0/default.jpg" width="3054px" height="4957px"/></surface><surface ulx="0" uly="0" lrx="3025" lry="4949" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0050/full/full/0/default.jpg" width="3025px" height="4949px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4955" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0051/full/full/0/default.jpg" width="3043px" height="4955px"/></surface><surface ulx="0" uly="0" lrx="3034" lry="4955" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__11/files/images/IMG_0052/full/full/0/default.jpg" width="3034px" height="4955px"/></surface></facsimile>
     <text type="Verfassungstext">

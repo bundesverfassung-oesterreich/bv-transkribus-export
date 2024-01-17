@@ -29,26 +29,30 @@
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
                 </respStmt>
                 <respStmt>
                     <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
-                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak</persName>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und Verfassungsgeschichte</orgName>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
-                                    applies to this text.</p>
+                            applies to this text.</p>
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
@@ -66,8 +70,8 @@
                     <msContents>
                         <msItem>
                             <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
-                        <title>UA 26. August 1920 Textvariante</title>
-                        <note type="editor">UA-Entwurf 26. August Textvariante (Titel des Dokuments: "Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit "Seipel II", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift, 157 Artikel</note>
+                            <title>UA 26. August 1920 Textvariante</title>
+                            <note type="editor">UA-Entwurf 26. August Textvariante (Titel des Dokuments: "Entwurf eines Gesetzes, betreffend die Verfassung der Republik Österreich"), unklar welchen Stand der Bearbeitung im UA das Dokument wiedergibt. Handschriftlich gekennzeichnet mit "Seipel II", einliegend ein Blatt in Maschinschrift mit Textvarianten zu den Artikeln 92 und 92a, Zustand gut, zahlreiche handschriftliche Ergänzungen in Bleistift, 157 Artikel</note>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -83,15 +87,18 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-         <abstract>
-            <p/>
-         </abstract>
-         <creation>
-            <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">
-                26. August 1920
-            </date>
-         </creation>
-      </profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-08-26" notAfter-iso="1920-08-26">
+                    26. August 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-01-17" who="#cfh">document automatically created</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3101" lry="4439" xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0001/full/full/0/default.jpg" width="3101px" height="4439px"/></surface><surface ulx="0" uly="0" lrx="3125" lry="4405" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0002/full/full/0/default.jpg" width="3125px" height="4405px"/></surface><surface ulx="0" uly="0" lrx="3052" lry="4375" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0003/full/full/0/default.jpg" width="3052px" height="4375px"/></surface><surface ulx="0" uly="0" lrx="3119" lry="4430" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0004/full/full/0/default.jpg" width="3119px" height="4430px"/></surface><surface ulx="0" uly="0" lrx="3046" lry="4441" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0005/full/full/0/default.jpg" width="3046px" height="4441px"/></surface><surface ulx="0" uly="0" lrx="3040" lry="4382" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0006/full/full/0/default.jpg" width="3040px" height="4382px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4438" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0007/full/full/0/default.jpg" width="3018px" height="4438px"/></surface><surface ulx="0" uly="0" lrx="3050" lry="4377" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0008/full/full/0/default.jpg" width="3050px" height="4377px"/></surface><surface ulx="0" uly="0" lrx="3018" lry="4389" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__24/files/images/IMG_0009/full/full/0/default.jpg" width="3018px" height="4389px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
