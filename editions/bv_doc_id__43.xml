@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__43">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529250</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="goobi">14592</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920</title>
+                            <note type="editor">Protokoll der 8. Sitzung des Subkomitees des Verfassungsausschusses vom 21. August 1920, Lithographie auf dünnem Papier, Zustand gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-08-21" to="1920-08-21">21. August 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-08-21" notAfter-iso="1920-08-21">
+                    21. August 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-02-12" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg" width="3068px" height="4835px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg" width="3072px" height="4867px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg" width="3055px" height="4836px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg" width="3058px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg" width="3048px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg" width="3053px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg" width="3058px" height="4825px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg" width="3043px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0001_1/full/full/0/default.jpg" width="3066px" height="4898px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg" width="3066px" height="4924px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg" width="3041px" height="4830px"/></surface><surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg" width="3042px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg" width="3038px" height="4850px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg" width="3014px" height="4851px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg" width="2958px" height="4789px"/></surface><surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg" width="2972px" height="4773px"/></surface></facsimile>
+    <text type="Sitzungsprotokoll">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+      <lb break="yes"/>der 8. Sitzung des Unterausschusses des Verfassungs
+<lb break="no"/>ausschusses von 21.1111.1520.
+      <lb break="yes"/>Beginn 10 Uhr 30 Vormittag.
+      <lb break="yes"/>Anresend:
+      <lb break="yes"/>Dr. Odtt Bauer als Vorsitzender
+      <lb break="yes"/>Dr. Jesef Aigner
+      <lb break="yes"/>Heinrich Clessin
+      <lb break="yes"/>Jedck Fink
+      <lb break="yes"/>Karl Leuthner
+      <lb break="yes"/>Dr. Ienaz Seipel
+      <lb break="yes"/>Staatssekretär Dr. Michsel Keyr
+      <lb break="yes"/>vom der Stastskenzler:
+      <lb break="yes"/>Sekticasret Dr. Auge Jàchl
+      <lb break="yes"/>Sektionsrat Dr. Eebert Menalicher
+      <lb break="yes"/>Ministeriolvizesekretär Dr. Kurt Frieberger
+      <lb break="yes"/>als Schriftfuhrer
+      <lb break="yes"/>Prof. Dr. Haas Kels en als Experte des Verfassuags
+<lb break="no"/>ausschüsses.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2.
+      <lb break="yes"/>der Versitzende leitet die Berstung über den 4.Abschaitt
+      <lb break="yes"/>des Linzer Entwirfes eVon der Gesetzgebung und Vollziehung
+      <lb break="yes"/>der Länder ein und bemerkt zu einer Frage, ob der Hchnsitz
+      <lb break="yes"/>im Lande nicht als Voraussetzung für das Landtagswahlrecht
+      <lb break="yes"/>angeführt werden sollte, daß dies nicht nötig sei, weil ja laut
+      <lb break="yes"/>Art. 85, Abs.2 die Bedingungen des Mahlrechtes nicht enger
+      <lb break="yes"/>gezogen werden dürfen als in der Nehlerdnung zum Astional
+<lb break="no"/>rat, es wurden daraufhin folgende Formulierungen beschlossen:
+      <lb break="yes"/>"Nrt. 83.
+      <lb break="yes"/>(1) Die gesetzgebende Gewalt der Länder wird durch die
+      <lb break="yes"/>Landtage ausgeubt, deren Mntglieder auf Grund des gleichen,
+      <lb break="yes"/>geheinen, personlichen und unmittelberen Verhältnisuchlrech
+<lb break="no"/>tes aller nach den Landtagswahlordnungen wahlberechtigten
+      <lb break="yes"/>männlichen und neiblichen Bundesangehörigen gewählt werden.
+      <lb break="yes"/>(2) Die Landtagsnahlerdnungen dürfen die Bedingungen des
+      <lb break="yes"/>aktiven und passiven Nehlrechtes nicht enger ziehen eis dies
+      <lb break="yes"/>in der Wahlerdnung zum Naticnalrat der Fall ist.
+      <lb break="yes"/>"Art. 26.
+      <lb break="yes"/>(1) Die Uitglieder des Landtages genießen die gleiche
+      <lb break="yes"/>Immunität wie die Untglieder des Neticaslrates, wabei die
+      <lb break="yes"/>Bestimmungen des Art. 43 sinngemäß Anwendung findet.
+      <lb break="yes"/>(2) Die Bestimdungen der Art. 24 und 25 gelten auch für
+      <lb break="yes"/>die Sitzungen der Landtage und ihrer Ausschüsse.
+      <lb break="yes"/>Bei Berstung des Art. 87 verweist der Versitzende auf die
+      <lb break="yes"/>leinungsverschiedenheiten bezüglich der Trennung der Funk
+<lb break="no"/>tionen des Versitzenden im Lendtage und des Chefs der Landes
+<lb break="no"/>regierung. Atg. Dr. Se ipel spricht sich für möglichste
+      <lb break="yes"/>Freihert der Landesgesetzgebung aus; nauentlich Oberoster
+<lb break="no"/>reich sei gegen eine Trenaung der Punktichen. Abg. Leuth
+<lb break="no"/>ner möchte die lösung dieser Frage dech nicht chneneiters
+      <lb break="yes"/>in das Belieben der Länder stellen und Prof.Dr. Kelsen
+      <lb break="yes"/>erklärt, daß der Gedanke der Trennung in allen Entwürfen
+      <lb break="yes"/>der Staatskanzlei bis zur Linzer Konferenz streng durchge
+<lb break="no"/>fuhrt worden sei, da man den Hauptgrund der Unbetmässigkeit</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3-
+      <lb break="yes"/>der Landeshauptmänner in ihrem Gefühl der Unabhängigkert er
+<lb break="no"/>blickt habe. Auf dem Gebiete der Vollziehung von Bundesange
+<lb break="no"/>legenherten müsse der Grundsatz abscluter Unterordnung herr
+<lb break="no"/>sclea.
+      <lb break="yes"/>Stastssekretir Dr. Ue Ir teilt nit, das die Lddstuaff
+      <lb break="yes"/>LxxLEXXAd nicht der sozialdemckratischen Partei angehören
+<lb break="no"/>den Ländervertreter in Salzburg noch nicht für die Treanung
+      <lb break="yes"/>waren oder die Regelung den Ländern überlessen wellten, in
+      <lb break="yes"/>linz sprachen sich dagegen alle für die ungeteilte Punktion
+      <lb break="yes"/>aus, bescoders da sich die Teilung in Kärnten nicht bewährt
+      <lb break="yes"/>haben soll. Der Varsitzende meint, da die Länder den Präsi
+<lb break="no"/>denten des Landtages als Oberhaupt des Gliedstaates auffas
+<lb break="no"/>sen, müßte man analog dem Ergument der Christlichsczielen
+      <lb break="yes"/>zur Stellung des Bundespräsidenten vermeiden, den Landes
+<lb break="no"/>hauptmann zum Landtagspräsidenten zu machen. Auch könne das
+      <lb break="yes"/>Oberhaupt eines Stastes doch nicht von der kundesregierung
+      <lb break="yes"/>Weisungen entgegennehmen, wie dies der Chef der Landesregie
+      <lb break="yes"/>rung muß. Auch die Länder durften das Bedurfnis nach einer
+      <lb break="yes"/>Trennung der Punktica haben, die allein der Wurde entspricht
+      <lb break="yes"/>und die einzig richtige und zweckmässige Konstruktion ist.
+      <lb break="yes"/>Dr. Ai Eer erinnert deran, daß in Linz auch die
+      <lb break="yes"/>sozialdenokratischen Vertreter eine Abänderung, wie sie hier
+      <lb break="yes"/>vorgeschlagen wird, als refermetio in peius, nur unter drin
+<lb break="no"/>gendsten Umständen zugeben wellten. Jetzt haben die Landes
+<lb break="no"/>hauptmänner jederzeit die Möglichkeit auf einheitliche Ge
+<lb break="no"/>setzgebuag hinzuwirten wie eben jetzt in Linz bei der Ge
+<lb break="no"/>treidebewirtschaftung. Abg. L eu t hn er meint, daß dies
+      <lb break="yes"/>in Oberosterreich auf personliche Eigenschaften des Landes
+<lb break="no"/>hauptmannes zurückzufuhren sei. Alg. Cl es s in behauptet,
+      <lb break="yes"/>daß es sehr schwierig sei den Landeshauptmann verantwortlich
+      <lb break="yes"/>zu machen, weil er in den meisten Fällen der fachmännischen
+      <lb break="yes"/>Bildung ermangle; eine solche fachtechnische Verbildung müsse,
+      <lb break="yes"/>alfer gewahrt bleiben.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4
+      <lb break="yes"/>Abs. Clessia verneist auf Art. 120 (Antrag kenner
+      <lb break="yes"/>Mayr)nach dem in Städten und Märkten dem Bürgermeister ein
+      <lb break="yes"/>Amtsleiter bergegeben ist und erblickt hierin den Gedanken.
+      <lb break="yes"/>deß nur ein fachtschnisch geschulter Feeuter verantwortlich
+      <lb break="yes"/>gemacht werden könne. Er stellt daher den Antrog, daß dem
+      <lb break="yes"/>Landeshauptmann ein fachtechaisch geschulter Beanter als
+      <lb break="yes"/>Lendesamtsdirekter beigegeben werden soll. Prof. Dr. Kel
+      <lb break="yes"/>senn bezeichnet die Treanung der Funktion als eine der
+      <lb break="yes"/>wichtigsten Forderungen im Interesse der Kundesverwaltung.
+      <lb break="yes"/>Man hat nur deshalb einen vem Präsidenten des Nationalrates
+      <lb break="yes"/>verschiedenen Bundespräsidenten vergesehen, un die Ferallele
+      <lb break="yes"/>in den Ländern durchführen zu können. Dann sei es möglich.
+      <lb break="yes"/>sich dem alten Zustand wieder zu nähern, da ler Steat
+      <lb break="yes"/>im Interesge der Zentralregierung hanielte. Der Widerstand
+      <lb break="yes"/>der Linder gegen den Lenlesentshretter sei dareuf zurück
+<lb break="no"/>zuführen, da sie in ihm ein Bundesorgen erblichen.
+      <lb break="yes"/>Dr. Seipel lehnt den Antrag Clessin durchaus
+      <lb break="yes"/>ab. Der erste Beante eines Fliedstastes kand nur diesem
+      <lb break="yes"/>Gliedstaste verantwortlich sein. Im ähnlichen Sran verweist
+      <lb break="yes"/>such Dr. Aigner auf den hunsch der Bevolkerung nach
+      <lb break="yes"/>Vereinfachung der Verwaltung, durch die Trennung der Punktion
+      <lb break="yes"/>schäffe man ein neues kestspieliges Organ. Die herrschende
+      <lb break="yes"/>Keinung bemäggle neftig die übergrode Zahl ver Handststrä
+<lb break="no"/>gern in der Nationalversammlung, im Lande und in der Gemein
+<lb break="no"/>de; anstatt abzubsuen, schette naa deren nehr.
+      <lb break="yes"/>16g. 6less in stellt fest, daß auch er den lendee
+<lb break="no"/>entsdirekter als Reenten gedacht habe, der der Lendesregie
+<lb break="no"/>rung verantwortlich sei.
+      <lb break="yes"/>bezuglich der Frage der Starsankeit benerkt Abg. Leuth.
+      <lb break="yes"/>ne r, daß sich Gelegenhert zu deren Frörterung bei Bespre
+<lb break="no"/>chung der Anzahl der Landeshauptmannstellvertreter ergeben
+      <lb break="yes"/>werde.
+      <lb break="yes"/>Fr. Ai Gaer zählt hingegen eine Reihe von Verteilen
+      <lb break="yes"/>auf, wenn der Chef der Londesregierung zugleich such Vereit</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5-
+      <lb break="yes"/>zender des landtages sei, die Kinberufung des Landtages, die
+      <lb break="yes"/>Festsetzung der Tagesordnung, die Verbereitung der Geschäfte
+      <lb break="yes"/>mit dem Apparat der Landesregierung. Dazu bedarf es keiner
+      <lb break="yes"/>weiteren Uerstellung des Einvernehmens aoch auch eigener
+      <lb break="yes"/>Verhandlungen.
+      <lb break="yes"/>Bei der folgenden Aestimmung wurde abgelehnt in der Ver
+<lb break="no"/>fassung auszusprechen, daß der Prasident des Landteges
+      <lb break="yes"/>Hingegen wurde der Antrag Cless in angencumen, daß
+      <lb break="yes"/>der Landesamtsdirekter vorzuschreiben sei als ein Orgen.
+      <lb break="yes"/>das des Land haben muß und das fur die Vollziehung der Bun
+<lb break="no"/>desgesetze in einer durch Gesetz besonders zu regelnden Kei
+<lb break="no"/>se der Bundesregierung verantwortlich ist. Der Vorsitzende
+      <lb break="yes"/>erklärt daraufhin, daß man an geeigneter Stelle einen Landes
+<lb break="no"/>amtsdirekter vorsehen müsse, der für die Vollziehung der Bun
+<lb break="no"/>desgesetze der Bundesregierung verantwortlich ist.
+      <lb break="yes"/>Bei Erörterung des Art. 87. Abs.1 Linzer Fassung wird Ab
+<lb break="no"/>setz auf Grund eines Antrages Dr. Seipel s festge
+<lb break="no"/>setzt, daß bei Landesgesetz die Beurkundung und die Gegen
+<lb break="no"/>zeichnung nach den Bestimmungen der Landesverfassung und die
+      <lb break="yes"/>Kundmachung durch die Landesregierung im Landesgesetzblatte
+      <lb break="yes"/>zu erfolgen hat. Der zweite Absatz wird ohne Aenderung ange
+<lb break="no"/>acamen.
+      <lb break="yes"/>"Art. 87.
+      <lb break="yes"/>(1) Zu einem Landesgesetz ist der Beschluß des Landtages.
+      <lb break="yes"/>die Beurkundung und Gegenzeichnung nach den Bestimmungen der
+      <lb break="yes"/>Landesverfassung und die Kundmachung durch die Landesregie
+<lb break="no"/>rung in Landesgesetztlatt erforderlich.
+      <lb break="yes"/>(2) Ioseweit ein Lendesgesetz bei der Vollziehung die Mit
+<lb break="no"/>wirkung von Bundesbehorden versieht, muß zu dieser Uitwir
+<lb break="no"/>kung die Zustimmung der Bundesbehorden eingehelt werden. Ver
+<lb break="no"/>Erteilung der Zustimmung kann ein solches Landesgegetz nicht
+      <lb break="yes"/>kundgemacht werden.
+      <lb break="yes"/>Bei Besprechung des Art. 88 verweist der Vereitzehde, als</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6
+      <lb break="yes"/>von christlichsozialer Seite eine Verkürzung der Frist ge
+<lb break="no"/>wünscht wird, auf die Fassung des Art. 84 (904 d.B.): hier
+      <lb break="yes"/>sei ein besonderer Fall vorgesehen, in dem die Zustimmung
+      <lb break="yes"/>des Bundeerstes als des geneinsanen Organes der Länder er
+<lb break="no"/>forderlich ist. Dr. Seipel spracht sich im Interesse
+      <lb break="yes"/>der Selbständigkert der Länder dagegen aus, daß ihre eigene
+      <lb break="yes"/>Gesetzgebung durch die mit Beschlußfasgung der anderen Län
+<lb break="no"/>der eingeschränkt werde, eher ließe sich eine Remedur durch
+      <lb break="yes"/>Volksabstinnung denken. Mg. Cless in sieht eine gros
+<lb break="no"/>sere Einschränkung der Länderselbständigkeit darin, daß bei
+      <lb break="yes"/>möglicher Befähriung der Bundesinteressen die Bundesbevölke
+<lb break="no"/>rung zu entscheiden hätte. Nichtiger erscheint ihm, daß je
+      <lb break="yes"/>der Gesetzesbeschluß der Fundesregierung vorgelegt werde.
+      <lb break="yes"/>damit diese noch ver Inkrafttreten in der Lage ist eine
+      <lb break="yes"/>Klage beim Verfossungsgerichtshof einzubringen und stellt
+      <lb break="yes"/>den Antrag, den 2. Absatz in diesem Sinne abzuändern.
+      <lb break="yes"/>Abg. Leuthner findet es dagegen unerträglich, daß
+      <lb break="yes"/>die Länder wohl ein aufschiebendes Veto gegenüber Beschlus
+<lb break="no"/>sen des Aatienalretes haben, die Bundesregierung sich ster
+      <lb break="yes"/>erst an den Verfassungsgerichtshof wenden müsse.
+      <lb break="yes"/>Prof. Dr. Kelsen meint, daß man einen eklatanten.
+      <lb break="yes"/>Verfessungskenflikt doch verher zu vermeiden trachten soll.
+      <lb break="yes"/>ene man den Verfassungsgerichtstrf anruft. Daher sollte das
+      <lb break="yes"/>Land nach dem Katwurf erst gewarnt werden.
+      <lb break="yes"/>AbB. Fi n k hält es für zwecknässiger, wenn der Neg gut
+      <lb break="yes"/>liche Vereinberung vergesehen, munscht aber statt »Bekannt
+<lb break="no"/>mächung- »Eintreffen des Beschlusses beim betreffenden
+      <lb break="yes"/>Staatsant-, von weschen Tag an die Frist mit vier Wechen zu
+      <lb break="yes"/>geeseir
+      <lb break="yes"/>bemessen wäre. Sekt. Rat Dr. Mannlicher regtan.
+      <lb break="yes"/>oo nicht znechs raschen Vollzuges die Bundesregierung auch
+      <lb break="yes"/>erklären könne, dass sie keinen Einspruch erhebt, wrrauthin
+      <lb break="yes"/>das Gesetz sefort kundgemacht werden könnte. Prof. Dr.
+      <lb break="yes"/>kel sen fintet den Verzug gegen den gegenwirtigen Zu-</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>-7-
+      <lb break="yes"/>stand darin, dass jetzt eine Klage erst nach Kundmachung nög
+<lb break="no"/>lich ist, während die künftig im fateresse der formalen Selb
+<lb break="no"/>ständigkeit schen vorher geltend gemacht werden kann.
+      <lb break="yes"/>Der Antrag Dr. Seipel s. dass der Einspruch
+      <lb break="yes"/>mit Begründung versehen sein müsse, und dass die Frist mit
+      <lb break="yes"/>vier kochen festzusetzen ser, wird angenommen, während die
+      <lb break="yes"/>Bestimmung des Linzer Eatwurfes (6 Wochen) und ein Antrag
+      <lb break="yes"/>des Abg. Leuthner auf 8 Wochen abgelehnt werden.
+      <lb break="yes"/>Angenommen wird ferner ein Antrag des Abg. Fi a k.
+      <lb break="yes"/>"vom Tage des Einlangens des Gesetzesbeschlusges bei der
+      <lb break="yes"/>Steatsregierungr. Die Staststanzler wird um Feraulierung des
+      <lb break="yes"/>Gedankens ersucht, da analeg den Einspruchsverfahren beim
+      <lb break="yes"/>Buadesrat im Sinne der Anregung Dr. Kenalicher is
+      <lb break="yes"/>gesegt wird, dass der Gesetzesbeschluss kundgemacht werden
+      <lb break="yes"/>kann, wenn die Staatsregierung vor Ablauf der Frist erklärt.
+      <lb break="yes"/>dass sie keinen Einspruch erhebt.
+      <lb break="yes"/>Abgelehnt wird der Antrag des Abg. Cless in
+      <lb break="yes"/>vom Einspruch abzusehen und nur die Anfechtung derm Verfas
+<lb break="no"/>Suagsgerichtshof zu belessen. Beschlessen wird, dass der Ge
+<lb break="no"/>setzesbeschluss, gegen den ein Einspruch erhoben wurde, nur
+      <lb break="yes"/>dann kund gemacht werden kann, wean der Landtag den Gesetzes
+<lb break="no"/>beschluss wiederhelt. Der sozieldemokratische Antrag, dass
+      <lb break="yes"/>hiezu zwer Drittel Mehrhert erforderlich sei, wird abgelehnt.
+      <lb break="yes"/>Auf Antrag des Abg. Dr. Seipel wiri der
+      <lb break="yes"/>Art. 8d des Linzer Entwurkes gestrichen, da der erste Teil
+      <lb break="yes"/>bereits im Ark. 87 enthalten ist, der zweite Teil aber der
+      <lb break="yes"/>Lendesgesetzgebung überlassen werden könnte oder auch den
+      <lb break="yes"/>§ 87 anzugliedern wäre.
+      <lb break="yes"/>An Stelle des gestrichenen Artikels wird irt.85
+      <lb break="yes"/>des srzialdenckratischen Entwurfes (S0t d. B.) als Art.89
+      <lb break="yes"/>eingeschädtet:</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>"Art. 83.
+      <lb break="yes"/>(1) die durch landessssetz zu erlassende Lantesverfes
+<lb break="no"/>sung ken -insenert dadurch die Fundesverfassung nicht be
+<lb break="no"/>rührt wird - durch landesgesetz abgeändert werden.
+      <lb break="yes"/>(2) Ein Landesverfassungsgesetz kann nur bei Anresenheit
+      <lb break="yes"/>der Hälfte aller Untglieder des Lanstages mit einer dehrheit
+      <lb break="yes"/>von zwei Dritteln aller abgegebenen Stimnen beschlossen ver
+<lb break="no"/>den."
+      <lb break="yes"/>Bei ArtikelGed wird trotz Widerspruches des Abg. Leuth
+<lb break="no"/>ner auf Antrag der Christlichsozialen beschlessen, dass die
+      <lb break="yes"/>Hälfte der Uitzlieder snwesend sein und der Beschluss mit
+      <lb break="yes"/>einer Uehchert von zner Pritteln der abgegebenen Stinnem ge
+<lb break="no"/>fosst werden auss. Die Frist für die neue Ausschreibung wird
+      <lb break="yes"/>mit 3 Wochen festgesetzt. In Sinne einer Anregung des Seht.
+      <lb break="yes"/>Rates dr. Mannlicher sind, um der laidesgesetzge
+<lb break="no"/>bung nicht durch die fassung »der Landeshauptmenn het auszu
+<lb break="no"/>scheidene verzugreifen, zu leuten: »Gemäss den Bestimmungen
+      <lb break="yes"/>der Landesverfassunge binnen 3 Rechen die Neurahlen auszu
+<lb break="no"/>schreiben.
+      <lb break="yes"/>Bei Frorterung is Art. S1 fordert Abg. Leuth
+<lb break="no"/>ner, dass in der Verfassung die Zahl der larteensurtmann
+<lb break="no"/>Stellvertreter auf einen beschränkt mrd. Es geht nicht an.
+      <lb break="yes"/>dass Verarlberg mit weniger Einrehnemals der Bezirk Otta
+<lb break="no"/>kring drei Landeshauptmaanstellvertreter habe. Abs. Fi n k
+      <lb break="yes"/>stellt fest, dass diese Zahl nur erreicht worden sei, um
+      <lb break="yes"/>nach dem Proporz auch der sozialdenekretischen Partei die
+      <lb break="yes"/>stelle eines Stellvertreters zu geben. Abz. Leuthner
+      <lb break="yes"/>ist der Anscharung, dass eine grössere Zehl nur während der
+      <lb break="yes"/>Uetergangszeit als eine Art gemeinsauer Urtwirkung an einer
+      <lb break="yes"/>Aetstensektion aller Parteien notig gewesen ser. Schliesslich
+      <lb break="yes"/>wird ein Atrag des Abg. Dr. Seipe l, der gegen einen
+      <lb break="yes"/>Erngriff in die Rechte der Länder ist. folgender Vertlaut be
+<lb break="no"/>stimnt: naus dem landegnauptmam und der erforderlichen Zabt
+      <lb break="yes"/>von Stellvertretern und werteren Mitgliedern-. Auch im drit-</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>ten Absatz hat es zu leuten: nseine Stellvertrtter..
+      <lb break="yes"/>Ferner wird beschlosses, in den Art. 91 als B.Absatz
+      <lb break="yes"/>den Abs: 3 des Art.88 (504 d.B.) einzuschalten: eDie Mit
+<lb break="no"/>glieder der Landesregierung müssen nicht dem Lanttag angehe
+<lb break="no"/>ren, Jedach kann in die Landesregierung nur gewählt werden,
+      <lb break="yes"/>ver zum Laaitag wählber ist."
+      <lb break="yes"/>Ueber Antrag des Abg. Dr. Seipel stellt der
+      <lb break="yes"/>Versitzende den frt. 36 des christlichsozialen Entnurfes (688
+      <lb break="yes"/>d. B.) zur Diskussion. Staatssekretar tr. MaIr erklärt.
+      <lb break="yes"/>dass die Aufzählung der Bundestehörden im zweiten Abs. auf
+      <lb break="yes"/>Artrag Fr. Enders eingeschaltet werden ser, de dieser
+      <lb break="yes"/>die Agenden genau umgrenzt wünschte, für die selbständige
+      <lb break="yes"/>Orgene des Hundes aufgestellt werden sollen. Allerdings wären
+      <lb break="yes"/>nach den zahlreichen Aenderungen in den Art. 10 und ll notig.
+      <lb break="yes"/>zur klaren Stilisierung wurde es sich vielleicht empfehlen.
+      <lb break="yes"/>aus dem Antwurf Dr. keaners die Ausdrucke amittelbare und
+      <lb break="yes"/>unmittelbare Bundesverwältunge herüberzunehmen. Prof. Dr. kel
+      <lb break="yes"/>s ea findet, dass lie Fassung im Auftrage nicht alle
+      <lb break="yes"/>wöglichkeiten erschäpft; auch die ferte rauf Grund von Geset
+<lb break="no"/>zehr wüssten eingeschältet werden.
+      <lb break="yes"/>Der Vorsitzende stellt fest, dass Abs.1 des Art.26
+      <lb break="yes"/>(888 d. B.) unter Streichung der Werte eim Kundesauftrage en
+<lb break="no"/>genomnen ist. Gegen den zwerten Absetz wendet er ein, dass
+      <lb break="yes"/>in Zukunkt jede Schaffung neuer Bundesbehorden eine Verfas
+<lb break="no"/>sungsänderung erfordert. Nach längerer Debatte, an der sich
+      <lb break="yes"/>Staatssehretür Dr. May r. die Abg. Dr. Seipel.
+      <lb break="yes"/>Leuthnerund Ciessia beteiligen, und von
+      <lb break="yes"/>christlichsorialer Serte auf den Viderstand der Schweizerkan
+<lb break="no"/>tene gegen die stete Vermehrung der Hundesbehorden im ganzen
+      <lb break="yes"/>Gebiete der Kiigenesgenschaft hingewiesen wird, ergibt die
+      <lb break="yes"/>Abstinmung die Annanne eines Artrages Clessio's.</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10-
+      <lb break="yes"/>»(20 Eigene Bundesbehörden können bis auf weiteres
+      <lb break="yes"/>fur folgende Angelegenheiten errichtet werden: »hin ken
+<lb break="no"/>kreter Verschleg ist von der Staatskanzlei nach Verhandlungen
+      <lb break="yes"/>mit den Stastsantern vorzulegen-. Dem Sunde bleibt es vehbe
+<lb break="no"/>halten, auch in diesen Angelegenheiten die landesregierungen
+      <lb break="yes"/>mit der Ausübung der vellziehenden Genalt des Fundes zu be
+<lb break="no"/>auftragen."
+      <lb break="yes"/>Der Versitzende nacht hieber aufnerksam, dass die
+      <lb break="yes"/>Aufnahme der „Sicherheitspolizeinin den Landeshauptstädten
+<lb break="no"/>in die taxative Aufzählung auf grösstem Widerstand der sczi
+<lb break="no"/>aldenckratischen Pertei stossen werde. Schin wird geschles
+<lb break="no"/>den, dass Abs. 3 des Art. 2 (888d.P.) zum nächsten Artikel
+      <lb break="yes"/>gezogen wird und der Abs. 4 folgendernassen zu leuten hat:
+      <lb break="yes"/>"(Artikel 52)
+      <lb break="yes"/>(4) In den Angelgenheiten der mittelbaren Bundes ver
+<lb break="no"/>waltung sind die Landesregierungen an die Heisungen der
+      <lb break="yes"/>Bundesregierung sowie der einzelnen Bundesänter gebunden:
+      <lb break="yes"/>Der aininistrative Instanzenzug geht in diesen Aagelegen
+<lb break="no"/>herten - wenn nicht durch Bundesgesetz ausdrucklich anderes
+      <lb break="yes"/>bestimnt ist - bis zu den zuständigen Bundesantero«.
+      <lb break="yes"/>Die Sitzung wird um 1/2 1 Uhr nachmittags unterbre
+      <lb break="yes"/>chen und um 3 Uhr fortgesetzt. Lei Besprechung des Art. 93
+      <lb break="yes"/>erklärt Mg. Gl e s s in, daß seinen Früheren Antrag ge
+<lb break="no"/>muß dem Landesantsdirekter, welcher Eitel in allen ländern
+      <lb break="yes"/>gleichnässig einzuführen wäre, der die Vellziehung über nabe.
+      <lb break="yes"/>die Verentwortlichkeit anzulasten wäre. Der Versitzende ist
+      <lb break="yes"/>der Meinung, daß dadurch eine Art Sitzredakteur geschaffen
+      <lb break="yes"/>werde. Prof.Dr. Kelsen meint, daß die Stellung des
+      <lb break="yes"/>Landeshauptmannes zum Landesamtsdirekter gewissermassen ana
+<lb break="no"/>log der des unverentwertlichen Uenarchen zum verantwortlichen
+      <lb break="yes"/>Winister wäre. Dr. Seip el ist jedoch der Anschauung.
+      <lb break="yes"/>daß der Landeshauptmann, selange keine Trennung der Punktion
+      <lb break="yes"/>vom Landesregierungschef und Vorsitzenden des Landtages ein
+<lb break="no"/>tritt, ebenso wie früher der Statthalter der Bundesregierung
+      <lb break="yes"/>gegenpber verantwortlich sein musse.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>4
+      <lb break="yes"/>die länder wurden derin keine Erhöhung derrselb
+<lb break="no"/>ständigreit des leodeshauptnames sondern ein hedereuf
+<lb break="no"/>leben der Statthalter sehen.
+      <lb break="yes"/>Artiket ss wird sodann mit gringfigige sende
+<lb break="no"/>rungen augenomen und leutet:
+      <lb break="yes"/>"Artikel 85.
+      <lb break="yes"/>(1) Der landeshauptmann oder sein Stellvertreter
+      <lb break="yes"/>vertreten das Lend. Nr trärt ia den Angelegenherten der
+      <lb break="yes"/>mittelberen Kundesverwaltung die Verantwortung gegenüber
+      <lb break="yes"/>der Bundeeregierung. Gendss Artikel 1sz der geltenden Be
+<lb break="no"/>stimnung dieser Veranturrtung stent die Iauvartit nicht ia
+      <lb break="yes"/>Bert. 1
+      <lb break="yes"/>lege.
+      <lb break="yes"/>(21 der hradser sinl die Uitglieder der Lerdesre
+<lb break="no"/>gierung genass Artikel 152 verartwertlich.
+      <lb break="yes"/>zu ertikel St wurscht Rog. Clessin, dass der
+      <lb break="yes"/>Leidesantsdierter in silen Ländern den gleichen Irtel
+      <lb break="yes"/>fünre. Auch beantragt er die Streichung des 2. Absatzes.
+      <lb break="yes"/>un den Münschen der lechnik entgegeazukonnen, ferdert aber
+      <lb break="yes"/>
+      <lb break="yes"/>ausdruchlich, dass der landesantslirekter ein rechtskundi
+<lb break="no"/>ger Besnter sein müsse. Dei Besprechung des folgenden er
+<lb break="no"/>tikels neint der Verartzende, dass der Uebergang der Auts
+<lb break="no"/>geschäfte des Landeshauptnomes auf den landesantsdirchter
+      <lb break="yes"/>der Ealesverfastung zu üb rlassea ware. Icht aber könnte
+      <lb break="yes"/>mon dea Artikel 9s in der verliegenden Faggung streichen.
+      <lb break="yes"/>Ueter Antrag des Ag. Seipel wird nur die Bestimnung
+      <lb break="yes"/>über die Tätigkeit des Leadessutedirekers in der mittel
+<lb break="no"/>deren Kundeeverwaltung in vortrrgefende Frtikel übernommen.
+      <lb break="yes"/>der nächte Irtikel erhält also folgenden Vortlaut:
+      <lb break="yes"/>ertikel 54.
+      <lb break="yes"/>zur lertung des gesanten inrren Retricbes der
+      <lb break="yes"/>
+      <lb break="yes"/>Landesregierung wird ein rechtskündiger Verwaltungskeanten
+      <lb break="yes"/>els londesantsdirexter bestellt. Ur ist in den Angelegen
+<lb break="no"/>neiten der mittelberen Fundesverwaltung das hilfsorgen des
+      <lb break="yes"/>Landeshauptnames.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>-12-
+      <lb break="yes"/>Der besprechung des Artikels Ss nebt der Verertzen
+<lb break="no"/>de die Moglichkeit ausserordentlicher Kongequenzen hervor
+<lb break="no"/>mit Uetergehung des Landtsges und des Astienalrates we
+      <lb break="yes"/>ein Ausnchnszustend verhängt der in keiner leise geregelt
+      <lb break="yes"/>ser. Professer Kelser erläutert diese Bestinmung.
+      <lb break="yes"/>dass ursprunglich bestsichtigt war für den Fall der Ob
+<lb break="no"/>struktion eides lundes einen Bundeskeumisser zu ernennen.
+      <lb break="yes"/>an den alle Feanten gewesen wären. Der Versrtrende findet
+      <lb break="yes"/>die Bestinnungen des Artikels 48 der deutschen Verfassung,
+      <lb break="yes"/>über die Rundesezekutjod zneckentsprechender, doch verfugt
+      <lb break="yes"/>der Pasident in Oesterreich nicht in gleacher Weise über
+      <lb break="yes"/>die benöffnete Nacht. Ds 168. Serpi pel befürchtet, dass
+      <lb break="yes"/>die Schrierigkeiten, die Diesk Bestinnung hervorrufen dürf
+<lb break="no"/>te, grasser seid werde als ihr praktischer Vert, wird über
+      <lb break="yes"/>seinen und des Stätssektetars tr. lsyer entres trei
+<lb break="no"/>ande
+      <lb break="yes"/>elset gestrichen.
+      <lb break="yes"/>Dei ertiket St erinnert der Varsstraade an die
+      <lb break="yes"/>nisterische kedeltung des Probleus. Die Matsburger hätten
+      <lb break="yes"/>sich beniht Bündnisse der Stände verschiedener länder zu
+      <lb break="yes"/>verhindern und noch der Schlacht an weissen Berg einen vot
+      <lb break="yes"/>len Erfolg erzicht. Er wurde die Fassung des Art. 53 in
+      <lb break="yes"/>sczialdenckratischen Entrurf (904 d.B.) enpfenten aberein
+<lb break="no"/>berungen der Lander untereinsnder können nur über Angelegen
+<lb break="no"/>herten ihres selbständigen Wirzungskreises und nur durch
+      <lb break="yes"/>Vermittlung der Kundesregierung getroffen werden. Dieser
+      <lb break="yes"/>Antrag wirdjedech abgelehnt und Art. 57 in der Fassung des
+      <lb break="yes"/>linzer Entwurfes angedonmen.
+      <lb break="yes"/>ue groer
+      <lb break="yes"/>hixe
+      <lb break="yes"/>nicht.
+      </p><div type="article">
+<head>Artikel 57.
+      </head>
+<p>Vereinlarungen der Finder- untereinander können nur
+      <lb break="yes"/>uver Angelegenheiten des selbständigen Wirkungstreises ge
+<lb break="no"/>troffen werden und sind der Bundesregierung unverzüglich</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>-15-
+      <lb break="yes"/>anzuzeigen.
+      <lb break="yes"/>von sczialdenskralischer Serte wrd aunnehr be
+<lb break="no"/>antragt in die Verfassung den Artikel ihres Ertnurfes
+      <lb break="yes"/>(Sat d. B.) aufzunehnen, dass es grosseren Gebietsteilen
+      <lb break="yes"/>unter bestinnten Verausetzungen auf Grund von Volksobstin
+<lb break="no"/>mungen ernoglicht sei, sich einen anderen lande anzuglie
+<lb break="no"/>dern oder ein eigenes land zu bilden.
+      <lb break="yes"/>1bg. beutnner begrundet die als ein
+      <lb break="yes"/>Erferdernis des Selostbestimnungsrechtes und verneist auf
+      <lb break="yes"/>das bessfiel thüriog'schen Steaten in Deutschen Reiche.
+      <lb break="yes"/>Arg. Tr. Seipel bekauptt die Anschauung des Verred
+<lb break="no"/>ners und nauentlich die leichtigkert mit der durch diesen
+      <lb break="yes"/>Artikel aus rein agitatorischen Grunden vor jeder Mehl
+      <lb break="yes"/>ausserordentliche Unwalzungen nervorgerufen werden konnen.
+      <lb break="yes"/>Un solene Munsche sinzelner Gebietsterle zu erfullen gebe.
+      <lb break="yes"/>es andere Uoglichkerten durch den Astzonalrst, dessen Be
+<lb break="no"/>handlung der Frage sio uversturtztes Vergehen weniger be
+<lb break="no"/>fürchten lässt. Durch den vergeschlogenen Artrkel wurde
+      <lb break="yes"/>eine solche Rechtsunsichernert erzeugt, dass auch eine
+      <lb break="yes"/>Verwaltungsreferm unmöglich wird. Die osterreichischen
+      <lb break="yes"/>läyder seinen abgerundete Gebilde und lassen sich mit den
+      <lb break="yes"/>zersplitterten deutschen Kleinstasten nicht vergleichen.
+      <lb break="yes"/>der Durchfuhrung der Kreiseinterlung wird es am besten ge
+<lb break="no"/>lingen wirtschaftlich gleichertigen Gebieten eine Sonder
+<lb break="no"/>stellung und Zusannenfassung in Fern von Kreisgeweinden
+      <lb break="yes"/>zu ermöglichen.
+      <lb break="yes"/>e
+      <lb break="yes"/>der Vorsitzende fuhrt aus, dass in Oesterreich
+      <lb break="yes"/>wohl eine geographische Tersplitterung nicht verliege wie
+      <lb break="yes"/>in Deutschland, wohl aber seien gewaltige scziele, kultu
+<lb break="no"/>relle und wirtschaftliche Unterschiede zwischen den Bench
+<lb break="no"/>neru verschiedener landstriche eines einzelnen landes. Der</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>14</p><p>Benomner des Valdviertels und der einer Suttshageneinde
+      <lb break="yes"/>werden kaum miteinander verglichen werden konnen. Gewisse
+      <lb break="yes"/>Gebiete mussten aus verwaltungstechnischen Grunden von ei
+<lb break="no"/>nem Lande einem anderen überwiesen werden wie namentlich
+      <lb break="yes"/>das Untergustertal. Staatssekretar Dr. UaIr erwähnt
+      <lb break="yes"/>zu diesen Beispiel, dass die Bevolkerung gerade dieses Ge
+<lb break="no"/>bietes keineswegs den Wunsch habst aa Käraten angegliedert
+      <lb break="yes"/>zu werden, und daß schon zur innernänrenden Detonung der
+      <lb break="yes"/>Erwartung, daß das deutsche Sudtirel wieder von der Frema
+<lb break="no"/>herrschaft befreit werde die Zugehörigkert des Gebietes zum
+      <lb break="yes"/>Staumlande aufrecht erhalten werden musse. Ds diese Frage
+      <lb break="yes"/>im Zusammenhang mit Art. 3 des Linzer Entmirfes steht, stellt
+      <lb break="yes"/>Abg. F i n k den Antrag auch diesen Artikel in Verhandlung
+      <lb break="yes"/>zu ziehen und durch felgende 4 Absätze zu ergänzen:
+      <lb break="yes"/>(5) Inverhalb der ersten 10 Mahre des Bestendes die
+<lb break="no"/>der Verfossung kann ein land durch Kelksabstimmng beschlies
+<lb break="no"/>sen, sich einem anderen Staatsnesen anzuschlieben oder einen
+      <lb break="yes"/>selbständigen Stast zu bilden.
+      <lb break="yes"/>(4) Entscheidet die Volksabstiuming mit suscluter
+      <lb break="yes"/>Meurnert der gultig abgegebenen Stinmen für die Dinverlei
+<lb break="no"/>bung in ein anderes augrenzendes Staatsnesen, dann vollzie
+<lb break="no"/>hen die Gebietsänderung überernstimmende Beschlüsse dieses
+      <lb break="yes"/>Stagtes und des betreffenden Laddes.
+      <lb break="yes"/>(3) Entscheidet die Veltsabstinnung für die Bildung
+      <lb break="yes"/>eines selbständigen Stastes, so ist dieser Polschend der
+      <lb break="yes"/>Bundesversammlung vorzulegen. Verweifert die Bundesversomm
+<lb break="no"/>lung die Genehnigung, so steht die endgiltige Entscheidung
+      <lb break="yes"/>bein Volkerbunde.
+      <lb break="yes"/>(6) aus einer Gebietsänderung erwachsende finanz
+<lb break="no"/>rechtliche Streitigkerten entscherdet ebebfalls der Volker
+<lb break="no"/>sund.
+      <lb break="yes"/>der Vorsitzende necht suf die Schnierietert sufnert-</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>15.
+      <lb break="yes"/>seu, die derda liegt. das noch diesen Verschlag unsere ver
+<lb break="no"/>fassung ausländischen Stostea den Auftrog gibt, Beschlüsse
+      <lb break="yes"/>zu fassen und den Volkertund eine Aufgabe stellt, mit deren
+      <lb break="yes"/>Ueberoshue sich dieser erst einverstanden erklären nuste.
+      <lb break="yes"/>Stactsschretär lr. UsIr Eibt zun Aetres rak
+      <lb break="yes"/>folgende Erklärung sb: Neon er auch glaube, das in diesen
+      <lb break="yes"/>Artrag nur die Asicht zu erblichen sei, den fändern die
+      <lb break="yes"/>schliedliche Aanohne der Verfassung von foderalistischen
+      <lb break="yes"/>Standunkt aus zu erleichtern, so müsse er doch als gegen
+<lb break="no"/>wärtiger Vertreter der Stostsregierung erkloren, das diesel
+<lb break="no"/>den diesen Antrag nicht zustinnen konnen. Derauf wird
+      <lb break="yes"/>Art. 5 in folgender Passung angenonnen:
+      <lb break="yes"/>ert. 3.
+      <lb break="yes"/>des Ridesrebiet urfseht die Geoiete der An
+<lb break="no"/>deslander. Is stent unter den Schutze des fundes.
+      <lb break="yes"/>(2) eine fonderung des fundesgebietes. die zugleich
+      <lb break="yes"/>eine fenderung eines londesgebietes ist, eenen die Aende
+<lb break="no"/>rung einer Landesgreuze anderhalb des Fundesgebietes kenn
+      <lb break="yes"/>-obgedenen von Friedersvertrag - dur durch übereinstimmende
+      <lb break="yes"/>Verlassungsgesetze des Bundes und jenes lanses erfolgen. des
+      <lb break="yes"/>sen Geviet eine senderung erfahrt.
+      <lb break="yes"/>ABg. Fi uk weldet seinen Antrag vorbehaltlich
+      <lb break="yes"/>strlisticher ferderungen als Uineritatsvetum an, da such
+      <lb break="yes"/>Tr. Auch dr. Aigner, wenn anwesend, dafur stimmen würde.
+      <lb break="yes"/>Es wrd hierauf über die leuer der Gesetzesbungs
+      <lb break="yes"/>periode des Malionalrates verhandelt. Der Vereitzende be
+<lb break="no"/>merkt, dass seine Parter kurze leeislsturgerieden für ein
+      <lb break="yes"/>unbedingtes Erfordernis der Deuckretie hält, denn ein Ferla
+<lb break="no"/>nent, das ver 5 Jauren geuählt worden sei konne nicht mehr
+      <lb break="yes"/>ein Siegelbild der politischen Arschsuungen der Bevolke
+      <lb break="yes"/>rung genannt werden. Neunchlen in kurzen Zeitstständen ge
+<lb break="no"/>ben den Voltsmllen deutlicher Ausdruck als Velksabstimungen</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>-16-
+      <lb break="yes"/>und sind greignst den Gedanken der Deuckratie zu sterken.
+      <lb break="yes"/>dessen Gegner das Sonjelsystem verteidigen, demzufelge
+      <lb break="yes"/>jederzertige Abberufung des Velisvertreters durch seine Näh
+<lb break="no"/>ler möglich ist. Die häufige Wiederholung der Fehl sei
+      <lb break="yes"/>auch geeignet, die Leidenschaftlichkeit des Mahlkaupfes
+      <lb break="yes"/>vorteilhaft zu verringern. Ef stellt in Ausgleichung des
+      <lb break="yes"/>Antrages leuthner auf eide Zjährige und des Antre
+<lb break="no"/>ges fi ck auf eine 5jährige legialsturgeriade einen Ver
+<lb break="no"/>mittlungsantrag auf 3 Jahre. Der Unteransschuss eingt sich
+      <lb break="yes"/>schliesslich den Antrage Clsssin -5 Jehre - beizu
+<lb break="no"/>stimmen. Der Antrag des Karsitzenden mit jeder Neuwahl ies
+      <lb break="yes"/>lationälrates auch eine Neuwehl des Präsidenten stattfinden
+      <lb break="yes"/>bekimpft und der
+      <lb break="yes"/>zu lassen wird vom Abg. Dr. Seipe1
+      <lb break="yes"/>Unterausschuss beschliesst, auch die funktzensdauer des frä
+<lb break="no"/>eidenten mit 4 Jehren Festzusetzen. Noch Aberaunung der
+      <lb break="yes"/>nächsten Sitzung auf Kontag den 25. August 10 Uhr vermit
+<lb break="no"/>tags wird iie Sitzung um 6 Uhr nachmittags geschlessen.</p></div>
+</div></body>
+    </text>
+</TEI>

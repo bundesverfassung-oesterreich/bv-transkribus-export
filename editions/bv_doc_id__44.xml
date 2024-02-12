@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__44">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529251</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="goobi">14593</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920</title>
+                            <note type="editor">Protokoll der 9. Sitzung des Subkomitees des Verfassungsausschusses vom 23. August 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-08-23" to="1920-08-23">23. August 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-08-23" notAfter-iso="1920-08-23">
+                    23. August 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-02-12" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3083" lry="4928" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg" width="3083px" height="4928px"/></surface><surface ulx="0" uly="0" lrx="2927" lry="4787" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg" width="2927px" height="4787px"/></surface><surface ulx="0" uly="0" lrx="2901" lry="4837" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg" width="2901px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2955" lry="4811" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg" width="2955px" height="4811px"/></surface><surface ulx="0" uly="0" lrx="2940" lry="4833" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg" width="2940px" height="4833px"/></surface><surface ulx="0" uly="0" lrx="2937" lry="4788" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg" width="2937px" height="4788px"/></surface><surface ulx="0" uly="0" lrx="2863" lry="4849" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg" width="2863px" height="4849px"/></surface><surface ulx="0" uly="0" lrx="2736" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="2795" lry="4826" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg" width="2795px" height="4826px"/></surface><surface ulx="0" uly="0" lrx="2839" lry="4821" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg" width="2839px" height="4821px"/></surface><surface ulx="0" uly="0" lrx="2758" lry="4816" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg" width="2758px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="2751" lry="4791" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg" width="2751px" height="4791px"/></surface><surface ulx="0" uly="0" lrx="2910" lry="4790" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg" width="2910px" height="4790px"/></surface></facsimile>
+    <text type="Sitzungsprotokoll">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll</p><p>dup S. Sitzung des Unterautscaueees des Verfausungsausscaussis
+      <lb break="yes"/>von 23. August 1520.
+      <lb break="yes"/>Joeine 20 iar 30 voraittog.
+      <lb break="yes"/>
+      <lb break="yes"/>pr. otto fauér alsvoreitzender
+      <lb break="yes"/>neinricn elesein
+      <lb break="yes"/>nr. Botort dannabere
+      <lb break="yes"/>Todok Fink
+      <lb break="yes"/>pari Featunsr
+      <lb break="yes"/>pr. Ienaz geipe1
+      <lb break="yes"/>2
+      <lb break="yes"/>stastsestrotar Nr. 1io
+      <lb break="yes"/>
+      <lb break="yes"/>von der erastermelel:
+      <lb break="yes"/>sektionerat dr. Auro Jäckl
+      <lb break="yes"/>sottionerat rr. Eebert rannliche
+      <lb break="yes"/>vinistoriatrizoeserotar nr. Furt erLe
+      <lb break="yes"/>80
+      <lb break="yes"/>schriftführer.
+      <lb break="yes"/>profossor hr. Nans fo) een als ergerte des Verfarsuneeaue
+<lb break="no"/>schugess.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>aemannen. Mestaf des frulkelel wird un
+<lb break="no"/>verandert angenomen. ale 2. Meaft bsantragt lbg. Dr. Denn
+      <lb break="yes"/>bergeie rasgene aur 84 def Sotlaren
+      <lb break="yes"/>rvoreitzende leitst die
+      <lb break="yes"/>aurch veratung des Einzer Entrarfne von infane an ein und be
+<lb break="no"/>eoricht die Einleitung der Verfaeeung über die sich der fue
+<lb break="no"/>schuee nis abgeordneter nr. gelpel meint nur echrer
+      <lb break="yes"/>wird sinieen können. Ioder der sosialdenoxraticens Entwurf
+      <lb break="yes"/>1s04 der neilags) noch der christlicheosials (das der Beilagsl
+      <lb break="yes"/>enthalts sin derartiese Provenium. Hinraren hebt Abgeordnster
+      <lb break="yes"/>1« se in hervor, dase auch der grosedeutech- Antwurf
+      <lb break="yes"/>ein derartipse Proventum entaält und zunecht, dase bri Reratung
+      <lb break="yes"/>im verfaseungeaueschwese der Bericht sretatter die gelarliche
+      <lb break="yes"/>Erklarung ale Einleitung des Intwurfee seiner Dartel ernähne.
+      <lb break="yes"/>Dioser Hunsch wird zur Kanntnie genonnen und protokollier:
+      <lb break="yes"/>Vit der Derrundung, dass die grund- und Freiwiterachts auf
+      <lb break="yes"/>geschieden werden und dahar keine vollständige Verfassung
+      <lb break="yes"/>gegeben werde, beschlisgst der Unteraugschues die feierliche
+      <lb break="yes"/>Einleitung zu streichen. Die Ueberschrift des 1. Abechnittes
+      <lb break="yes"/>"allgemeine Bestinnungen“ wird über Antrag des Abgeordnsten
+      <lb break="yes"/>nr. seipai angenommen. Abeatz l dee Artikele 1 wird un
+<lb break="no"/>verändert angenommen. Als 2. Meatz beantragt Abg. Dr. Nann
+      <lb break="yes"/>3 ag die wasrung aus 842 dar zeilagen alle gewalt im Staate
+      <lb break="yes"/>geht von Volke auer die auch in Antrurfe Nr. R-AN«Fe auf
+      <lb break="yes"/>genomnen ssi. Abg. Dr. De Ips1 macht aber darauf aufmerk
+<lb break="no"/>sam, dass se sich hier un eine theologiseue Grundfrage handle
+      <lb break="yes"/>und schlägt die Reibshaltung der Einaar fassung vor. Der
+      <lb break="yes"/>Voreitzande hält se nicht für nötig, die Verfassung mit strei
+<lb break="no"/>tragen aus verschiedenen Weitanschauungen zu belasten und schläg
+      <lb break="yes"/>vor, folgende fassung zu nehmen:
+      <lb break="yes"/>artisel i (2) ralle öfgentlichen Gwalten werden von
+      <lb break="yes"/>volke eingesetzt und in sedden Nanen ausgubt:. Dieser Antrag
+      <lb break="yes"/>aira angenommmn. Abg. e lo s s in verveiet auf den grosedeut
+      <lb break="yes"/>schen Antrag, der durch die Torte -jeder staateburser hat Antet
+      <lb break="yes"/>an der wirtschaftlichen und politischen Nacht der gesantheith</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>sicherung und Förderung der seeankhelt und dee Einzelnen iet
+      <lb break="yes"/>der Zreck des staatser zur wirtschaftlichen Denokratie zu
+      <lb break="yes"/>gelangen eucht, stallt aber selbet seinen Antrag, so dass die
+      <lb break="yes"/>Aufnahne dieser Worts nach seiner gesenerklärung der Voreitzen
+<lb break="no"/>den unterbleibt. Jetzterar ernahnt aich, dass in grosedeutechen
+      <lb break="yes"/>Intrurfe über den einzelnen Artlkeln Vatsrechriften steken.
+      <lb break="yes"/>Abgeordnster eleseln beantragt jedoch mit Rücksicht
+      <lb break="yes"/>aut die austerordentliche schwierigkeit fur die einzelnen De
+<lb break="no"/>stimnungen keine Ueberschriften aufzunehren. Disser datraf
+      <lb break="yes"/>wird sangenoamen:
+      <lb break="yes"/>na das proveniun reggefallen ist, müeste nach Anschauung
+      <lb break="yes"/>dse Abg. Dr. S« 1pel nunnehr festgstellt werden, dars
+      <lb break="yes"/>oesterreick ein sundeestaat sel. Auf Antrag die Abg. l+se Im
+      <lb break="yes"/>leut Mbeatz 1 dee wrelkele 2 roasterreich iet ein Bundsesteate
+      <lb break="yes"/>in Anlehnang an den grosedeutschen Entrurg,folgt nun die Auf
+<lb break="no"/>zühlung der fänder in alphaberiecher Rethenfolee (Antrag cleseinl
+      <lb break="yes"/>Asatz 2: »yar pundgestant wird gebildet aus den selbständigen
+      <lb break="yes"/>fändern: Färkten, Niederösterreich, Oberösterreich, calzburg.
+      <lb break="yes"/>gtelsmark, Firol, Vorarlterg und rien.
+      <lb break="yes"/>auf Antrag der Starteeetretere Dr. Wayr wird in
+      <lb break="yes"/>einne dee Annezlonsseretzsetwurfse das geltetbestinmungsrecht
+      <lb break="yes"/>dee purgenlandee hervererichen und auch die Vahl der gezeichnung
+      <lb break="yes"/>wurds
+      <lb break="yes"/>Heinzenland oder Heidebauernland(auf widerspruch inse Tei
+<lb break="no"/>le der Bevölkerung storsen- erhält der 3. Aheatz folgende
+      <lb break="yes"/>passung:
+      <lb break="yes"/>(3) sobald das Purgenland seinen Tillen dazu ausgedrückt
+      <lb break="yes"/>hat, wird se ale selbständiges und gleichterechtigtee fand in
+      <lb break="yes"/>den sund aufgenommen. Ner voreitzende bemerktchiezu, dass das
+      <lb break="yes"/>purgenland bie zur Fahl nur ein Territorium sel, das von
+      <lb break="yes"/>Oueterreich verwaltet wird, eret wenn se einen Landise hat,
+      <lb break="yes"/>kann se sin sigense rand werden.
+      <lb break="yes"/>pls frage ob dien als selbständiger Bundesland zu bahet</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4</p><p>dein sei und imnieferne seine Joslösung von Niederöeterreich
+      <lb break="yes"/>in der Verfaszung zu srwähnen sel, wird ein Antrag dee Voreltzen
+<lb break="no"/>den angenommen, danzufolge die staatekanzlei sreucht wird.
+      <lb break="yes"/>in Einvernehmen mit dem zande Fiederösterralch und mit der
+      <lb break="yes"/>grmeinde mien eine entepreckende Hebargan et eldenung zu lormu.
+      <lb break="yes"/>Leran; doch wird beschlossen se in Artikel 2, fsatz zmit
+      <lb break="yes"/>aufzuzählen. Für die Durchfünrung musstep, wie der Vorzitzende
+      <lb break="yes"/>annint,identiache Beschlüees die Landtagee und des semeinderatse
+      <lb break="yes"/>gefaset werden. Dr. Danneborg ermähnt, dase der
+      <lb break="yes"/>Junsch allgenein ist, den Woloes Dien und Viedsrösterreich zu
+      <lb break="yes"/>trennen.
+      <lb break="yes"/>ner Voreitzande erwähnt nun die runsche, die von einer
+      <lb break="yes"/>Deputation der Induetrisorganisation über die verzehrefreinett
+      <lb break="yes"/>innerialt des Bundeegebietse vorgebracht wurde,dde sei eber
+      <lb break="yes"/>richt möglich,dass an Tage des Inkrafttretens der Verfassung
+      <lb break="yes"/>mit einem schlage säntliche Verkehrebeschränkungen äusser kraft
+      <lb break="yes"/>treten. Ee wären afdo Üebergangebestimmungen für den allgemeinen
+      <lb break="yes"/>1bbau notwendig wärend sonst die zestimmungen aur dem soziale-
+<lb break="no"/>nokratischen und den Panner-Wayrischen Antwurf zu verwenden.
+      <lb break="yes"/>wären. Abgeordneter gelpel spricht sich zwar gigen Zui
+<lb break="no"/>schenzollinien jedoch nicht gegen senstige verkehrebeschrän
+<lb break="no"/>kungen aus. Der Voreitzends verweist auf die Vörlichkeit niee
+<lb break="no"/>bräuchlicher Ansendung des Transportecheinneeens. Abg. Nr.
+      <lb break="yes"/>seip«1 beantragt demnach die Aufnahme des Artikale 5 Abe.
+      <lb break="yes"/>2 des sozleldenokratischen Entwurfee (504 der Zeilerel unter
+      <lb break="yes"/>Weglarsung der Worte "oder sonstige Verkehrebeschränkungen?.
+      <lb break="yes"/>trtikel 3a
+      <lb break="yes"/>(nie zeisetzung von Buctsteben bis zur endeiltigen wau
+<lb break="no"/>numerierung der Artikel wird Auf Frund einer Anregung das
+      <lb break="yes"/>sokt. natee pr. Wannlichar beschlossen).
+      <lb break="yes"/>12) par kundserabist bildet ein einschlägiger Währunge
+<lb break="no"/>Eirtschafte- und zollgebiet.
+      <lb break="yes"/>(2) Innsraalt der granten des Funder dürfen kerne Zwischen
+      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>zollinten vrrichtst werden.
+      <lb break="yes"/>4ierauf wird folgender frelkel angenommen:
+      <lb break="yes"/>Artieel 36.
+      <lb break="yes"/>Hunderhauptstadt und sitz der Staateobororgand der Fundse
+      <lb break="yes"/>ist wien.
+      <lb break="yes"/>sei Besprechung des Artikale 1 wird die rrags das Heimatrechtes
+      <lb break="yes"/>und der Rundesbürgerschaft drörtert. Der sodanke des Feinatrochtss
+      <lb break="yes"/>sel, wie der vorsitzende hervorhebt, bareite durchbrochen, de
+      <lb break="yes"/>das dennächst srechelnande geestz über die Optionerecats auf
+      <lb break="yes"/>grund das priedensvertragus vielen tauten den Fruerh der Stante
+<lb break="no"/>bürgerschaft ermöglicht onne dass ein in einer Geneinde zustän
+<lb break="no"/>eig sind. Der Entwurf Penner-Wayr erklärt in irtieel lis sogur,
+      <lb break="yes"/>dass mit dem seinstracht Unteretützungs- und Verzorgungeansprü
+<lb break="no"/>che nicht verbunden sind. Auf Antrag die Voreitzenden wären
+      <lb break="yes"/>abratz l, 3 und 1 dee grogedeutechen Antrürfee aufzunehmen und
+      <lb break="yes"/>die Weitsrragelung den Bundssgsestze zu überlassen, nur müerta
+      <lb break="yes"/>wan trachten für die künftige Aufnahme des deutschen Syetans
+      <lb break="yes"/>nicht durch eins Verfassungehsetimung auszuschliesssn. Abg.
+      <lb break="yes"/>I"&amp; s in ist der anschauung, dass due grestz über die
+      <lb break="yes"/>eptionsrecht sins lax spschalis von kurzer Dauer est, die
+      <lb break="yes"/>sins sinmaligs Aufnahms von Staatsbürgern regeln. Beschlossen
+      <lb break="yes"/>vira:
+      <lb break="yes"/>Artikst 4.
+      <lb break="yes"/>(2) Jadse Land hat eins Landsebürgerechaft. Die voraus
+<lb break="no"/>sotzungin für Erverb und verlust der Fandsebürgerschaft sind
+      <lb break="yes"/>in jeden fande gleich und durch zundsegcestz guregelt.
+      <lb break="yes"/>12) grundlegende Voraussetzung der Fandseburgerschaft iet
+      <lb break="yes"/>das Feinatrecht in sinsr sensinde die Land-s.
+      <lb break="yes"/>13) wir den ernerb der Zandosbürgerschaft wird die zunasd
+      <lb break="yes"/>bürgerschaft srrorhen.
+      <lb break="yes"/>14) Jeder kundsshürzer hat in jeden fande die gleienen
+      <lb break="yes"/>Rechte und Priienten wie die Bürger dee fandee selbet.
+      <lb break="yes"/>artikel s fällt aus.</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6.
+      <lb break="yes"/>Artikel s die Einser enwarfee wird unter Petonung der
+      <lb break="yes"/>der grossen prattlech-polltiechen gedautung, die eine Brrännung
+      <lb break="yes"/>der wandermeitsrechte bezüsliel des Burgenlandss und färntene
+      <lb break="yes"/>hat, unverändert angenommen.
+      <lb break="yes"/>ger voreltgande zicht nun jfttiel lit des sontaldenskra
+<lb break="no"/>lischen Intrurkes (S04 der natlasa) über die Vorrachts der
+      <lb break="yes"/>rationalität u. e.4. in Beratung, die eigentlich nur eine Aus
+<lb break="no"/>führung des Wortes danokratiech in frticel l fbe. l gelen.
+      <lb break="yes"/>geren die Worte vfür innerr spricht sich aög. Fr. s.Ip?
+      <lb break="yes"/>aus, die nach seinen Antrase gestrichen werden. In übrigen
+      <lb break="yes"/>wird der Artikel angenommen und lautst:
+      <lb break="yes"/>artivel sa.
+      <lb break="yes"/>Alle Bundesbürger sind vor den deestzo gleich. Vorrechte
+      <lb break="yes"/>der gaburt, das Geschlechtss, des Standse, der vlases und des
+      <lb break="yes"/>gekenntnisess elld ausgeschlossen.
+      <lb break="yes"/>areisel 7 und wreikel o. des Einzer Entaurfes worden ge
+<lb break="no"/>etrichen. Angmonnen hingagen wird frti el s das sorialdenskratt
+      <lb break="yes"/>schen Entrürfes (301 der seilagel und eingefügt als
+      <lb break="yes"/>artiiels.
+      <lb break="yes"/>Mls gehörden und Aenter in sundesgebiete sind in fahnen
+      <lb break="yes"/>iares gusotznässigen Wirkungskreiese zur sachsslseidigen
+      <lb break="yes"/>rilfeleistung verpflichtet.
+      <lb break="yes"/>Der Vorsitzende meint, dass iruitl lo der ort esi un
+      <lb break="yes"/>der eensinde Erwähnung zu tun und wenn auch dr. se1 p«1
+      <lb break="yes"/>Rachte
+      <lb break="yes"/>der Aschauung iet, dass die jewsinden allefdurch die fänder
+      <lb break="yes"/>arhalten sollten, sei doch dss rensindefiranzproblen von nicht
+      <lb break="yes"/>ainder groeser Bedeutung als das Zendsefinanzproblen. van
+      <lb break="yes"/>müsse der Gemeinde, wie der enplieche Fachtiedruck lautet, ein
+      <lb break="yes"/>gediesse enstioneles Vinieun in der Verfarzung aberenzen.
+      <lb break="yes"/>nas wehlen derartiger gestierungen führ? din zu sueserordent
+      <lb break="yes"/>Nenen gemderseleiten. so sel da rerotz über die Vermögeneabe
+      <lb break="yes"/>eebe die stelle enthalten: weie Veraögensnbgabe wird nicht vor.
+      <lb break="yes"/>geschrieben zur zroche der Sintebung von Mnlagen auf eide aesee
+      <lb break="yes"/>1.</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>7</p><p>gtinung schlärtndie versrehet die Stantriekss für Fineniee
+      <lb break="yes"/>danit, dase diess die sinder zöglichtesi eei ohne Vierterricn
+      <lb break="yes"/>tät der Verfossung die Zuschlagefreiaeit auezudrücken. Dr vet
+<lb break="no"/>weise auf die Regelung in Zngland (grante in diel
+      <lb break="yes"/>Der Antrag, Gestimmungen über die censindmnin freikel 1o
+      <lb break="yes"/>aufzunchuen, wird abgelehnt.
+      <lb break="yes"/>treikel 18 bie 15 sind durchberaten und
+      <lb break="yes"/>siag-fügt wird ein rartikell2 a
+      <lb break="yes"/>die allgam-in anerkannten Regeln des Völkerrechten gelten als
+      <lb break="yes"/>Bestandteile des Fundgerechtser.
+      <lb break="yes"/>act artdesl d4 sären nach fnsthanung die Voreitzenden
+      <lb break="yes"/>Bestinmungen über Reante und Volkst-auftracts aufzunehnen. Hiezle
+      <lb break="yes"/>sind, wie gekt. Eat Br. annlicher mitteilt, verhandlungen mit
+      <lb break="yes"/>dem staateente für Finanzen notwendig. Die stantekenzlet wird
+      <lb break="yes"/>eingeladen, in Einvernehnen mit diesem Stastsants und den Fran
+<lb break="no"/>tonorernicationen eine Formulierune vorzulagen.
+      <lb break="yes"/>Die sitzung wird von f 1 thr die 2 Ihr 50 win. Nachmittag
+      <lb break="yes"/>unterdrochen.
+      <lb break="yes"/>Abratz 1 und 2 des Artikele 17 wird auf antrag des Vor
+<lb break="no"/>eitzanden gestrichen und die beiden übrigen Absätze diesss Ar
+<lb break="no"/>tikele als Artikel, 13 a eingeschlatet:
+      <lb break="yes"/>artikel 13 a.
+      <lb break="yes"/>(2) wenn zur nurchführung nhi stauteverträgen gesetzliche
+      <lb break="yes"/>wassnahmen im Wirkungekreiee der fänder erforderlich sind, eind
+      <lb break="yes"/>die zänder verpflichtet, die betreffenden Gesetze zu erlassen;
+      <lb break="yes"/>kommt ein zändern dieser verpflichtung nicht rechtzeitig nach,
+      <lb break="yes"/>so geht die Zuständigkeit zur Erlassung des gesetz-e auf den Bund
+      <lb break="yes"/>übsr.
+      <lb break="yes"/>12) Werse hat der zund in nurchführung von verträren und
+      <lb break="yes"/>nebereinkonnen mit frenden staaten das Hebernachungeracht auch
+      <lb break="yes"/>in solchen angelegenheiten, die zun selbständigen Wirkungekreies
+      <lb break="yes"/>der fänder gehören. Flebel stchen den Funde die gleichen Rachle
+      <lb break="yes"/>gegeniber den fandsefsgierungen zu, wie bei den angeleganherten de
+      <lb break="yes"/>der mittelbaren Bundesverwaltung.</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>zigrauf bsepricht abgeordneter dr. se ipel Nreikel 14
+      <lb break="yes"/>des vorialdenskratisclen znwuries (Sat der Zellugs) er be
+<lb break="no"/>zurrortst die Aufnahne derartiger Fretimungen, wie eie ähnlich au
+      <lb break="yes"/>auch in zroeedeutschen Antwurfe anthalten selen. Ficher hat men
+      <lb break="yes"/>sich ausschlieselich mit den aufbau einer polltischen Verfassung
+      <lb break="yes"/>beschäftigt, ss wärs aber von vorteil auch eine wirtschaftlieen
+      <lb break="yes"/>wenigstens in grundzügen anzudeuten.
+      <lb break="yes"/>Abg. EIssein entrickelt die Meicht seiner Partel
+      <lb break="yes"/>eine Ari arbeitsfrisden durch Aufstallung von Kannern herbei
+<lb break="no"/>zuführen in denen Arbeiter und Arbeitgeber paritätiech vertre
+<lb break="no"/>ten sind. Abg. Daus r. unterscheldet den Artikel 13 (304 der
+      <lb break="yes"/>neilage) ale plan einer organication dee Wirtschaftelebense und
+      <lb break="yes"/>die Testinmung des grosedeutschen Entrürfee ale Organication der
+      <lb break="yes"/>wirtschaftlichen vergaltung des stautse.Nach denchauung seiner
+      <lb break="yes"/>Partst sei, die dise, auch raumann in reutschland betonts, in
+      <lb break="yes"/>der Verfaszung angsgeben worden, sohin der Stast das Wirt
+<lb break="no"/>schafteleten zu führen hat. per sozlaldenskretische antrurf, der
+      <lb break="yes"/>den Gedanken ausspricht, dass die politische zur wirtschaftli
+<lb break="no"/>chen Demokratie ausgebaut werden müsse, sprecht nur aus, was be
+<lb break="no"/>reite in verschiedenen bssetzen vorhanden oder wenigstene ange
+<lb break="no"/>deutst iet. Auch die Anragungen in Entwurf Dinghofer enthält
+      <lb break="yes"/>nichtige Vorschlägt wären aber sehr vorsichtig zu verwirklichen.
+      <lb break="yes"/>Dr das Prinzip der rein paritätiechen Vertretung nichtererten.t
+      <lb break="yes"/>est, wäre se nicat zrecknäeele, diese Bestinnung in die Ver
+<lb break="no"/>fassung aufzunolmen. Hingegen vicke Artikel is (504 der geilagen)
+      <lb break="yes"/>sehr erziehsrisch, wail er den ssdanken verwirklichen sohl,
+      <lb break="yes"/>dase se dis polltische nenokratie seltet ist, die sich zur
+      <lb break="yes"/>wirtschaftlichen auebaut, wenn auch die Annahne die trtikele
+      <lb break="yes"/>zunächet kann eins Wirkung aurlösen wird. Nbg. Nr. e«1+
+<lb break="no"/>bespricht die berstende feilnehne der rerufsorgenieation bai
+      <lb break="yes"/>der wirtechftlicher und sorialen sgestzretung.
+      <lb break="yes"/>Unter genutzung des 1bs. l das trr. 15 (304 der zeilegen)
+      <lb break="yes"/>der übrlee reil dee frtltele, über den fr. dannebere Abstien</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>enne nunacht, wire abgleunes- eird singeschoden.
+      <lb break="yes"/>artikel leer.
+      <lb break="yes"/>11) Die organlention der gutererzeugung und der guber
+<lb break="no"/>perreitene det netgabr dee constereron. Deron slanangetern
+      <lb break="yes"/>Aufbau dieser oreanleation ist die politische neusktatie zur
+      <lb break="yes"/>wirtschaftlichen Danokratie zu entricksla.
+      <lb break="yes"/>(2) Virtschaftliche selbetvervaltungskörger und Berufs
+<lb break="no"/>organieationen sind zur Vorbereitung der Geestzgebung und zur
+      <lb break="yes"/>Teilnahne an der Vermaltung in wirtschaftlichen und erialen
+      <lb break="yes"/>Angelegenhelten heranzuzichen?.
+      <lb break="yes"/>trtikel 1s wirdartixrieten, da ihn frtikel 38 behandelt.
+      <lb break="yes"/>Auch dae Vorhandensein einer negativen Bestiamung, dass Voll
+<lb break="no"/>zugeanreieungen nur auf Grund der Zundsssoestze erlassen werden.
+      <lb break="yes"/>durten, konstatlart der voreitzende in Artikel 55.
+      <lb break="yes"/>nei peratung des Artikale 1d wird ein intrag Dr. Nant
+      <lb break="yes"/>Be F &amp; 2, dase die Vandats auf die fänder entsprechend der zahl
+      <lb break="yes"/>der dort rohnheften zundsebürger nach jeder Volkezählung neu
+      <lb break="yes"/>aufzuteilen sei, wird zan? einen Händerungsvorschlag dee Abge
+      <lb break="yes"/>7 i n k abgelehnt. Vom selten trtikel werden Meatz 4 und 5
+      <lb break="yes"/>der Einzer raesung abgelehnt, die drei ereten thraätze angenomnen
+      <lb break="yes"/>und durch frtikel 22 fbe. 1 des sozialdenokratiechen Entsurfee
+      <lb break="yes"/>1O0t der neilagen) ergänzt. Die Alteregreme für die paseire
+      <lb break="yes"/>rahlrecht wird mit 24 Jahre fretgesstzt:
+      <lb break="yes"/>areiEel 15.
+      <lb break="yes"/>12) ner vationalrnt wird von Zundsevolk auf grund des
+      <lb break="yes"/>glsichen, direkten, geheinen und perrönlichen Wahlrechtes der
+      <lb break="yes"/>über 20 Jahre alten Känner und sreuen nach den Crundeätzen der
+      <lb break="yes"/>Verhültnierahl gegeben.
+      <lb break="yes"/>12) ner rahltar muse ein sonntar oder ein anderer öefent
+<lb break="no"/>liener Ruhstag ssin.
+      <lb break="yes"/>13) rahlbar iet jeder Patütorecktigte der das 24. Eebene
+<lb break="no"/>Jaur übsrechritten hat.
+      <lb break="yes"/>1.</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10.
+      <lb break="yes"/>1a) nie Autscallesenne von Dahlrocat und der Mählbarkelt
+      <lb break="yes"/>kann nur infolge einer gerichtlichen verurteilung oder Verfügung
+      <lb break="yes"/>esin.
+      <lb break="yes"/>pei Besprecung dee Artikele 20 meint der Voreitzende,
+      <lb break="yes"/>daee die Einbsrufung des Nationuiratse durch den Fundsspräel
+<lb break="no"/>denten eins Reuiniezanz an das Recht des Konafeuen selne
+      <lb break="yes"/>stände inzuberufen und heinzuechicken, eui. Alerainge beruft
+      <lb break="yes"/>auch in Frankreich auf antrag der Rsgierung der Präeident das
+      <lb break="yes"/>parlament ein. Die Einführung von seesionen sei nicht unbedingt
+      <lb break="yes"/>nötig aber richtig.sel, die Profsesor nr. volsen betont,
+      <lb break="yes"/>dare keine parlamentlose Zaltabssheitte vorkomnen, foraudiert
+      <lb break="yes"/>wird:
+      <lb break="yes"/>artikst 20.
+      <lb break="yes"/>(1) Die Gesetzgebungspzriode der Nationalrates dauert.
+      <lb break="yes"/>vier Jahre von Tage seines sreten Zusamnentrittes an gerechnet,
+      <lb break="yes"/>Die Heurahl ist von der Bundeeregierung so anzuordnen, dass
+      <lb break="yes"/>der neugewählte Nationalrat an Tage nach der Beendigung der
+      <lb break="yes"/>ablaufenden Oeretzgebungsgeriode zusammentraten kann.
+      <lb break="yes"/>(2) Der Vationalrat ist zum sretanmal von Fundsegräst
+<lb break="no"/>denten Innerhalb 30 tage nach der Fahl einzuberuinn.
+      <lb break="yes"/>(3) Der Nationalrat kann nur durch seinen Beschluss
+      <lb break="yes"/>vertagt werden. Die Nied-reinberufung erfolgt durch seinen Prü
+<lb break="no"/>eidenten. Dieesr iet verpflichtst, den Fationalrat sofort sin
+<lb break="no"/>zuberuten, wenn ein Viertel der Witglieder oder wenn die Dun
+<lb break="no"/>desregiorung ee verlangt.
+      <lb break="yes"/>Art. 21 entfällt, da sr abgeändert als Absel3) in vorher
+<lb break="no"/>gehenden Artikel angegliedert wurde.
+      <lb break="yes"/>pri Beratung des Art.22 vendet sich Dr.Dannberg
+      <lb break="yes"/>gegen die voglichteit einer Auflösung, die an aonarchische
+      <lb break="yes"/>Ospflogenheiten erinners. Auck geht se vie abgeslorein
+      <lb break="yes"/>meint, nicht an, dass die von Nationalrat genähtte Regierung
+      <lb break="yes"/>aissen auflder. Der Vereitzande iet der freicht, dase state,
+      <lb break="yes"/>anm er sich zeigt, dase eine Fahl ein anderes Ergebate hätte,
+      <lb break="yes"/>1.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11-
+      <lb break="yes"/>dor vertrotungekörper autzuldnen und eine Neuzahl einentelten
+      <lb break="yes"/>erto We. Leuthner zelet an englischen delepiolen wie
+      <lb break="yes"/>gefänrlich ss sat, wenn die Ragierung darüber zu beetinnen ver
+<lb break="no"/>aag, den ihr gunstigen zeitgungt zur Vounahl einee Perlanentie
+      <lb break="yes"/>durch rechtzeitige Auflösung des Jausss auszunützen. Dadurch der
+<lb break="no"/>de die Volkeabetinnung gefälecht. Der Voreitzende meint, dase
+      <lb break="yes"/>man bei Aufnahme des Grundentzes bestinnen müege, dase die Auf
+<lb break="no"/>lözung dures einfachse soeatz erfolge, sonst würde man sin
+      <lb break="yes"/>verfaseungegreetz für nötfe halten. Auf antrag die Aög
+<lb break="no"/>so ipel erhäit der drtikel folgenden Vortlaut:
+      </p><div type="article">
+<head>Art. 22.
+      </head>
+<p>ver ablauf der grestzgebungsgeriode kann der Nationalrat
+      <lb break="yes"/>durch einfachee Soestz seine Auflörung beschliessen. Auch in
+      <lb break="yes"/>dissen falis dauert die Gesetzgebungsperlode des Nationalratue
+      <lb break="yes"/>bie zum Zusammentritt des neugefählten Nationalratee.“
+      <lb break="yes"/>Ferner wird zu Art. 38 folgender Abeatz 5 beschloesen:
+      </p></div>
+<div type="article">
+<head>Art. 38.
+      </head>
+<p>15) Die ruflösung des rationalratee, die Dewilligung des
+      <lb break="yes"/>Fundssrorenschlages und die Genehnigung der Rechnungsabschlüese,
+      <lb break="yes"/>die Aufnahme und Konvertierung von Bundeeanlsihen und die Ver
+<lb break="no"/>fügung über dae sundervermögen sind ausschliestltahrsehhedese
+      <lb break="yes"/>Dationalratze."
+      <lb break="yes"/>ert. 23, Nzel wird mit renderungen angenommen; Abe.2
+      <lb break="yes"/>entfällt; abe. 3 gibt der geschäfteordnung den Charakter eines
+      <lb break="yes"/>Verfassungegbestzes.
+      <lb break="yes"/>Nrr. 23.
+      <lb break="yes"/>(2) Dir Nationalrat rählt aus seiner Mitte einen Präsi
+<lb break="no"/>dentea und zusi Vizspräeldenten.
+      <lb break="yes"/>12) Die geschäfteführung des Nationalratse erfolgt auf
+      <lb break="yes"/>grund sinne Seestzaebsschluress und einer im Rahaen dieses ge
+<lb break="no"/>estzes von Nationalrat zu beschliessenden autenonen besspgthe
+      <lb break="yes"/>ordnung.
+      <lb break="yes"/>15) par asostz über die Berchäftworenune kann aur
+      <lb break="yes"/>aursernasrt der fälfte der Vitglieder und ait einer Kaarheie
+      <lb break="yes"/>von mei prittele der abgegebiner stinmen beschloseen werden.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>12.
+      <lb break="yes"/>Nrr. 28 und 25 werden ia verblabte der Einzer tatrüffee
+      <lb break="yes"/>angenennen.
+      <lb break="yes"/>Der früher beschlosgen- Artikel über die Bundeevet
+<lb break="no"/>sanrlung ist zeiechen Art. 25 und 30 einzuschalten.
+      <lb break="yes"/>ledet unregung des Abg. r ink erklärt der Voreitzende.
+      <lb break="yes"/>aese in den Üebergangsbeetimmungen fertzusstzen wäre, dass die
+      <lb break="yes"/>jetzt gewählte Fationalversammlung den Eitel sinse Nationalre
+<lb break="no"/>des erhält; auch wärs die Wahl einer Bundserater anzuorenen.
+      <lb break="yes"/>Art. 26 iat baraite angenommen, doch hat der erste Satz
+      <lb break="yes"/>ese 1bs.4 nach Heusinechaltung einiger Worts zu lauten:
+      <lb break="yes"/>" Die Mitglieder des Bundserater und deren Kreatenännet
+      <lb break="yes"/>werden " von den Landtagen für die Bauer ihrer Grertzgbungege
+      <lb break="yes"/>rioder nach denSfundesatze der Verhältniunahl genählt, u.e.r.
+      <lb break="yes"/>Ferner wird aus dem zweiten Absatz des Art.29 ein neuer Ab
+<lb break="no"/>ratz Zormullart und ale 6: in den Krtlksl 26 singsechaltet:
+      <lb break="yes"/>" nach Ablauf der Gesetzgebunssperlode eines Landtages oder
+      <lb break="yes"/>nach seiner Auf lösung bleibenddseroenitun delegierten Eitglis
+<lb break="no"/>der des Bundssrates solange in Funktion, bie die neuen Zandtage,
+      <lb break="yes"/>die Wahl in den Bundserat vorginonen haben.“
+      <lb break="yes"/>In Art. 27 werden in l.1be. die Worts " in joder sitzungsge
+<lb break="no"/>rioes " gestrichen, gestrichen wird ferner der ganze Abeatz 2.
+      <lb break="yes"/>Auf Antrag der Voreitzenden Wird der dritte doetz (früher 4.)
+      <lb break="yes"/>so ergänzt, dide für die Beschliesgung der Geschäftsordnung der
+      <lb break="yes"/>Sundesratse diesclten Vorechriften galten, die in dationalraet;
+      <lb break="yes"/>der ganze Artikei wryd in folgender Lussung beschlossen:
+      </p></div>
+<div type="article">
+<head>Art. 27.
+      </head>
+<p>11) Der Voraitz in Bundserat fällt ahrschselnd auf ein en
+<lb break="no"/>deres Land nach alphabstischer Reihenfolge.
+      <lb break="yes"/>12) der Bundserat wird durch seinen Voreitzandan vertreten.
+      <lb break="yes"/>Alle Auefertigungen des Jundseratse müssen die Unterschrift eu
+<lb break="no"/>nee voreitzendn tragen.
+      <lb break="yes"/>13) der Bundesrat gitt sich meine geschäftsordnung durch
+      <lb break="yes"/>t.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13
+      <lb break="yes"/>Beschluss, der nur bei Anrenheit der fülfts der Uitelieter und
+      <lb break="yes"/>ait Zusierittslachrheit gefaert worden kann.
+      <lb break="yes"/>Bsschloesen vire ferner:
+      </p></div>
+<div type="article">
+<head>Art.28
+      </head>
+<p>(2) Der Eunesorat taest estne Beschldese mit Stinsenedherheit
+      <lb break="yes"/>der denessenden.
+      <lb break="yes"/>12) Die Sitzungen den Bund-erater eind öffentlich. Die Oefe
+      <lb break="yes"/>tentsichkeit kann jedoch gemüse den Bestimungen der Geschäfte
+<lb break="no"/>ordnung durch Beschluss aufgehoben werden. Die Destlarungen des
+      <lb break="yes"/>Art.283 golten auch für öffentliche sitzungen des Zundeeratee und
+      <lb break="yes"/>seiner Auzschliess.
+      <lb break="yes"/>Artikel 29 wird in der beraite brachblossenen Passung
+      <lb break="yes"/>singereikt, doch wird in 3.Abeutz das Wart" eretgenannten"
+      <lb break="yes"/>das das Vort" joden creetzt.
+      <lb break="yes"/>Die nächste sitzung wird für Manstig den 24.Auguet, 1o Var
+      <lb break="yes"/>vormittage anfetanst.
+      <lb break="yes"/>schluse der Sitzung s Unr 15 nachnittagr.</p></div>
+</div></body>
+    </text>
+</TEI>

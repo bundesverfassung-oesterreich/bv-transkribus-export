@@ -1,0 +1,811 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529256</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="goobi">14588</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 14. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920</title>
+                            <note type="editor">Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920, beiliegend ein Communique betreffend die im UA geführte Diskussion der Artikel 10-12 des Linzer Entwurfes, Lithographie, Zustand: gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-07-22" to="1920-07-22">22. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-22" notAfter-iso="1920-07-22">
+                    22. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-02-12" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2998" lry="4846" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0002/full/full/0/default.jpg" width="2998px" height="4846px"/></surface><surface ulx="0" uly="0" lrx="2996" lry="4841" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg" width="2996px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4814" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg" width="2990px" height="4814px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4808" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg" width="2990px" height="4808px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4837" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg" width="3022px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2973" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg" width="2973px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3039" lry="4881" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg" width="3039px" height="4881px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4841" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg" width="3007px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="3004" lry="4883" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg" width="3004px" height="4883px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4824" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg" width="3007px" height="4824px"/></surface><surface ulx="0" uly="0" lrx="3037" lry="4899" xml:id="facs_12"><graphic url="%2Ffiles.jpeg" width="3037px" height="4899px"/></surface><surface ulx="0" uly="0" lrx="3005" lry="4853" xml:id="facs_13"><graphic url="%2Ffiles.jpeg" width="3005px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3015" lry="4861" xml:id="facs_14"><graphic url="%2Ffiles.jpeg" width="3015px" height="4861px"/></surface><surface ulx="0" uly="0" lrx="2991" lry="4838" xml:id="facs_15"><graphic url="%2Ffiles.jpeg" width="2991px" height="4838px"/></surface><surface ulx="0" uly="0" lrx="3000" lry="4794" xml:id="facs_16"><graphic url="%2Ffiles.jpeg" width="3000px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="3009" lry="4816" xml:id="facs_17"><graphic url="%2Ffiles.jpeg" width="3009px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4807" xml:id="facs_18"><graphic url="%2Ffiles.jpeg" width="3023px" height="4807px"/></surface><surface ulx="0" uly="0" lrx="3017" lry="4803" xml:id="facs_19"><graphic url="%2Ffiles.jpeg" width="3017px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4860" xml:id="facs_20"><graphic url="%2Ffiles.jpeg" width="3029px" height="4860px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4853" xml:id="facs_21"><graphic url="%2Ffiles.jpeg" width="3035px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3013" lry="4810" xml:id="facs_22"><graphic url="%2Ffiles.jpeg" width="3013px" height="4810px"/></surface></facsimile>
+    <text type="Sitzungsprotokoll">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+      <lb break="yes"/>der 14, sitzung des Unterausschüsses des Verfassungs
+<lb break="no"/>ausschusses von 13.I. 1520.
+      <lb break="yes"/>Beginn 10 Uhr Vormittag.
+      <lb break="yes"/>Anwesend:
+      <lb break="yes"/>Dr. Otto Bauer als Vorsitzender
+      <lb break="yes"/>Einem Teile der Sitzung wohnte Präsident Karl seitz
+      <lb break="yes"/>bei.
+      <lb break="yes"/>Dr. Josef Aigner
+      <lb break="yes"/>Heinrich Clessin
+      <lb break="yes"/>Dr. Aebert Danneberg
+      <lb break="yes"/>Kerl Leuthner
+      <lb break="yes"/>Dr. Ignaz Seipel
+      <lb break="yes"/>Dr. Richard Reiskirchner
+      <lb break="yes"/>Staatssekretär Prof. Fr. Michael Mayr
+      <lb break="yes"/>Von der Staatskanzlei:
+      <lb break="yes"/>Ministerialrat Dr. Geerg Froehlich
+      <lb break="yes"/>Sehtiensrat Dr. Egbert Mannlicher
+      <lb break="yes"/>Ministerialvizesekretär Dr. Kurt Frieberger
+      <lb break="yes"/>als Schriftführer
+      <lb break="yes"/>Prof. Dr. Hans Kel sen als Experte des Verfassunge
+      <lb break="yes"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2-
+      <lb break="yes"/>Zu Beginn der Verhandlungen entscheidet sich der Un
+<lb break="no"/>terausschuß für eine artikelweise Durchberatung des Verfas
+<lb break="no"/>sungsentwurfes unter Berücksichtigung der in den letzten Ta
+<lb break="no"/>gen gefaßten Parteibeschlüsse, der Hinpritätsvoten und der
+      <lb break="yes"/>von der Staatshanzlei ausgearbeiteten Uebergangsbestimmungen.
+      <lb break="yes"/>Der Vorzitzende stellt fest, daß zu Artikell keine
+      <lb break="yes"/>weiteren Anträge vorliegen, zum Artikel 2 wünschen zwar Ver
+<lb break="no"/>treter des Burgenlandes gehört zu werden, doch stimmt der
+      <lb break="yes"/>Ausschuß bei, daß hiezu keine sachliche Notwendigkeit vor
+<lb break="no"/>liegt. Hingegen entwickelt sich eine längere Rechselrede über
+      <lb break="yes"/>den Vorgang bei der Teilung Niederösterreichs. Ein Vorschlag
+      <lb break="yes"/>Dr. D an ne ber gs Rjeg und das Burgenland gemeinsam
+      <lb break="yes"/>in einem Absatz zu behandeln wird abgelehnt.
+      <lb break="yes"/>Nach längerer Wechselrede, an der sich außer dem Vor
+<lb break="no"/>sitzenden u. dem Präsidenten S ei t2 auch die Abgeordneten
+      <lb break="yes"/>Clessin, Dr. Danneberg und Dr. Seipel
+      <lb break="yes"/>beteiligen, wird in Absatz 2 des Artikels 2 das mund Hien
+<lb break="no"/>gestrichen, so daß er mit den Horten »firel und Vararlberg
+<lb break="no"/>schließt; dem Artikel 3 wird als letzter Absatz folgendes
+      <lb break="yes"/>gemäß eines Verschlages Hrof.Dr. kel s ens hinzugefügt:
+      <lb break="yes"/>»(3) Ein selbständiges Land Wien kann gebildet werden.
+      <lb break="yes"/>durch Beschluß des Wiener Gemeindezglgs und ein mil ihm über
+<lb break="no"/>einstimmendes Gegetz des Landes Niederöaterreich.«
+      <lb break="yes"/>Die systematische Eingliederung in den Artikel 3 er
+<lb break="no"/>folgte, da es sich um eine Ausnahme von der allgemeinen Regel
+      <lb break="yes"/>für die Bildung neuer Länder handelt, Präsident seitz
+      <lb break="yes"/>bemerkt jedoch, daß eine bindende Erklärung vor Rücksprache
+      <lb break="yes"/>mit dem Bürgermeister von Hien nicht abgegeben werden kann.
+      <lb break="yes"/>Auch wird. »ie Dr. Da n ne ber g mitteilt, der Hiener Ge
+<lb break="no"/>meinderat über die Angelegenheit am kommenden Freitag eine
+      <lb break="yes"/>Plenarsitzung abhalten.
+      <lb break="yes"/>Auf Antrag des Letzteren erhält Absatz 2 des Artikels
+      <lb break="yes"/>3 à folgende Fassung; »(2) Innerhalb der Granzen des Bundes</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>dürfen keinerlei Zwischenzellinien oder senstige Verkehrs
+<lb break="no"/>beschränkungen errichtet werden.«
+      <lb break="yes"/>Zu diesem Beschluß verliest Hin.Rat Dr. Froeh
+<lb break="no"/>i ch die in Auseicht genemmene Uebergangsbestimmung?
+      <lb break="yes"/>§ 12. Alle Maßnahmen insbesondere Beschränkungen oder Er
+<lb break="no"/>schwerungen des Verkehrs von Personen oder Haren innerhalb
+      <lb break="yes"/>des Bundesgebietes, welche mit den in den Verfassungsgesetzen
+      <lb break="yes"/>enthaltenen Grundsätzen in Widerspruch stehen, treten, so
+<lb break="no"/>ferne solche Vorschriften nicht schon früher ausdrücklich
+      <lb break="yes"/>aufgehrben werden, spätestens mit l. März 1920 außer Kraft.«
+      <lb break="yes"/>Staatssekretär Prof. Dr. Mayr behält sich vor
+<lb break="no"/>daß auch der Minderheitsantrag Pink vor dem Ausschuß zur Ab
+<lb break="no"/>stimmung gebracht wird.
+      <lb break="yes"/>Dr. Ba üer stellt sodann fest, daß bis einschließ
+      <lb break="yes"/>lich Artikel 6 a keine Einwendung erheben wird, erst über
+      <lb break="yes"/>den ersten Satz des Artikels 1d wird der Ausschuß abzustim
+<lb break="no"/>men haben.
+      <lb break="yes"/>Die ersten drei Puakte erfahren keine Aenderung.
+      <lb break="yes"/>Nach dem Hart »Länder, des 4. Pinktes münscht Dr.Danne
+      <lb break="yes"/>ber&amp; die Korte und Gemrinden- eingefügt. Auf Antrag des
+      <lb break="yes"/>Varsitzenden wird jedoch Rynkt 3 nach dem Wort »Menopolweser
+<lb break="no"/>geschlossen und der Anschluß eines eigenen Artikels beschlos
+<lb break="no"/>sen. Ueber die Fassung bestehen Meinungsverschiedenheiten.
+      <lb break="yes"/>da dis Mehrzahl sich gegen eine Aufnahme allzu ausführlicher
+      <lb break="yes"/>Tinzelheiten ausspricht. Würdchdie finanziellenBestimmungen
+      <lb break="yes"/>in das Verfassungsgesetz aufgenommen werden, so müßte es aus
+<lb break="no"/>serordentlich mit Detarls belastet werden. Bei den Beratungen
+      <lb break="yes"/>behälft man sich mit kurzen Ausdrücken; im Gesetz müßtel der
+      <lb break="yes"/>Ausdruck,Nettvertrag ebense mie, Konsumgunte definiert ver
+<lb break="no"/>den, Schließlich wird im Sinne eines Antrages des Versitzen
+<lb break="no"/>den ein neuer Artzkel 12 a eisgeschaltet:
+      <lb break="yes"/>Artilel 12 2.
+      <lb break="yes"/>die
+      <lb break="yes"/>(2) Bindsssscne isi die Grostzgebung und Gritzienung
+      <lb break="yes"/>Miseichtlich der Begelung, welche Aignden den Bunde den
+      <lb break="yes"/>34</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4-
+      <lb break="yes"/>ländern und den Gensinden zustehen; der Regelung der Arteils
+      <lb break="yes"/>der Länder und Gemeinden an den Kinnahmen des Bundes und der
+      <lb break="yes"/>Regelung der Beiträge und zuschüsse aus Bundesmittelt zu ern
+      <lb break="yes"/>Ausgaben der Länder und Gemeinden.
+      <lb break="yes"/>(2) Landessache ist die Gesetzgebung undlishtziehung
+      <lb break="yes"/>hinsichtlich der Regelung, welche Abgeben der Länder den Ge
+<lb break="no"/>meinden übertragen werden, der Regelung der Anteilnahme der
+      <lb break="yes"/>Gemeinden an den Einnahmen der Länder und der Regalung der
+      <lb break="yes"/>Beiträge und Zuschüsse aus Landesmitteln zu den Ausgaben der
+      <lb break="yes"/>Genfinden.
+      <lb break="yes"/>Mit entsprechenden Streichungen im folgenden Artikel
+      <lb break="yes"/>wird als Punkt 2 a eingefügt:
+      <lb break="yes"/>r2 a. Staatsbürgerschaft und Heinatrecht; Personen.
+      <lb break="yes"/>standsangelegenheiten einschließlich das Matrikenwegens und
+      <lb break="yes"/>der Namensänderung; Passwesen», ferner als Punkt Ba: eVer
+      <lb break="yes"/>einz- und Versammlungsrecht-. Ebensa gehört nach Anschauung
+      <lb break="yes"/>Prof.Dr. Kelsens das Passwesen hieher, das in Punkt b
+      <lb break="yes"/>des Artikelsll gestrichen wird. Die weiteren Punkte worden
+      <lb break="yes"/>bis einschließlich Punkt &amp; ohne Aenderung angenemmen.
+      <lb break="yes"/>Der Versitzande findet es unhaltbar, daß die Angele
+<lb break="no"/>genheiten der Industrie in Pnktlo, die Elektrizität in
+      <lb break="yes"/>Punkt 11 und das Wasserrecht in Artikel 12 behandelt, alse
+      <lb break="yes"/>gleichzeitig drei verschiedene Kompetenzen mit einer Sache
+      <lb break="yes"/>befaßt werden. Dr. Seipel aimmt den Verschlag einer
+      <lb break="yes"/>Zusammenziehung und Einreihung in Artikel 19 zur Kenntnis,
+      <lb break="yes"/>jedoch könnte das Kasserrecht im allgemeinen in Artikel 12
+      <lb break="yes"/>belassen werden.
+      <lb break="yes"/>Dr. Dannsberg ersucht um Feststellung des
+      <lb break="yes"/>Ergebnisses der Parteiberatungen hinsichtlich Artikel ll
+<lb break="no"/>Punkt 8 »Munitions-, Schief und Sprengmittelwesen, soweit
+      <lb break="yes"/>es nicht dem Monopol unterliegt sowie Haffenwesenn. Seines
+      <lb break="yes"/>Erinnerns hat Hofrat Fal s er gefragt, wie es sich in
+      <lb break="yes"/>diesen Belangen mit den Tirsler Spezialgesetzen verhält und</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5-
+      <lb break="yes"/>der Vorsitzende festgestellt, daß diese durch die Kompstenz
+<lb break="no"/>bestimmung der Verfassung nicht berührt werden. Auch auf der
+      <lb break="yes"/>Friedensvertrag sei hingeriesen worden, doch sei kein endgil
+<lb break="no"/>tiger Beschluß gefaßt worden.
+      <lb break="yes"/>Der Vorsztrende hält die übrigen Angelegenheiten, wie
+      <lb break="yes"/>sie Verredner erwähnte, für minder wichtig; das Waffenwesen
+      <lb break="yes"/>müsse jedoch nach dem Friedensvertrag geregelt werden.
+      <lb break="yes"/>Deutschland het einen eigenen Diktator für die Ablieferung
+      <lb break="yes"/>der Waffen aufgestellt, bei uns könnte der Bund nach der vor
+<lb break="no"/>liegenden Verfassung die Durchführung nicht regeln.
+      <lb break="yes"/>Dr. Seipel meint, daß seine Partei diese Frage
+      <lb break="yes"/>als Gegenstand von Ausnahmsbestimmungen angesehen hat, so daß
+      <lb break="yes"/>keine Uebereinstimmung erzielt werden konnte. Dem Ausschuß
+      <lb break="yes"/>sei auch die Entscheidung über die Kompetenz in Sachen der
+      <lb break="yes"/>Bosenreforn scherm gegeben worden.
+      <lb break="yes"/>Der Vorsitzende wäre für Einreihung der Bodenentschul
+<lb break="no"/>in Artikel 1o, da sie eine privatrechtliche Fraze ist, Für
+      <lb break="yes"/>die ograrischen Operolionmwünscht Dr. Seipel bei Reg
+<lb break="no"/>fall des nermalen Instanzenzuges gemiochte Kommission:ndie
+      <lb break="yes"/>dann die oberste Ratscheidung zu treffen hätte. Im übrigen
+      <lb break="yes"/>beantragt er die Streichung der Bedenentschuldung. Der Vor
+<lb break="no"/>sitzende nimmt den Streichuungsantrof zur Kenntnis, findet
+      <lb break="yes"/>aber sonst nichts zu ändern.
+      <lb break="yes"/>Zu Punkt Il erwähnt br. Danneberg ein so
+<lb break="no"/>zialdemekratisches Minoritatsvotum "Gesantes Arbeilerrecht
+      <lb break="yes"/>sowie Arbeiter- und Angestelltenschutz; Sozial- und Vertrags
+<lb break="no"/>versicherungswegen. Bei den Parteiberatungen wurde eine Ei
+<lb break="no"/>Blgung erzielt, daß die Jozielversicherung an der Stelle wie
+      <lb break="yes"/>in Entwurf zu belassen so-. In übrigen hätte die Abstimmung
+      <lb break="yes"/>zu entscheiden.
+      <lb break="yes"/>Dr. 5s1pei sringt zur Esantais, dab das christ
+<lb break="no"/>lichsaziele Wingritätsvotun bezüglich des Sazielversicherungs
+<lb break="no"/>esdes zurückgezogen ser, wenn die AnEhahme bezüglich des Er
+<lb break="no"/>beiter- und Ingestelltegschulzes in erster Teile gesegelt wird,
+      <lb break="yes"/>305</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6</p><p>Dr. Dahneberg spricht sich im weiteren
+      <lb break="yes"/>Verlauf der Beratungen für die Einfügung des Ernährungsre
+<lb break="no"/>sens aus Die Staatskanzlei hat. wie Min- Rat Dr. Frechlich
+      <lb break="yes"/>mitteilt, die Regelung dieser Frage in § 14 der dem Aus
+<lb break="no"/>schuß vorgelegten Uebergangsbestimmungen versucht?
+      <lb break="yes"/>„(3) Gemäß frtikel l0. Zehl l4 steht für die Fort
+<lb break="no"/>dauer der durch die kriegerischen Freignisse der Jahre
+      <lb break="yes"/>1914 bis 1Siß hervorgerufenen außsrerdentlichen Verhält
+      <lb break="yes"/>nisse bezüglich der zur Sicherung der einheitlichen Füh
+<lb break="no"/>rung der Wirtschaft notwendig erscheinenden Maßnahmen,
+      <lb break="yes"/>insbesondere in Angelegenheiten der Versorgung der Bevälke
+<lb break="no"/>rung mit Bedarfsgegenständen die Gesetzgebung und die Vell
+<lb break="no"/>ziehung dem Bunde zu.
+      <lb break="yes"/>(4) Der zeitpunkt, van dem an die erwähnten aus
+<lb break="no"/>serordentlichen Verhältnisse als behaben anzusehen sind.
+      <lb break="yes"/>wird durch Bundesgesetz festgestellt. In der Zischenzeit
+      <lb break="yes"/>hat jedoch die Bundesregierung nach Maßgabe der jeweili
+<lb break="no"/>gen Verhältargee Verfügungen für den möglichsten Abbau
+      <lb break="yes"/>der auf diesem Gebrete bestehenden Maknahmen zu troffen.
+      <lb break="yes"/>Vargitzendg hält es jedoch für unmöglich,
+      <lb break="yes"/>Der
+      <lb break="yes"/>dass Entscheidungen über die künftige Wirtschaftspolitik
+      <lb break="yes"/>in die Uebergangsbestimmungen aufgenommen werden. Die blaße
+      <lb break="yes"/>Anführung des Ernährungswesens greife der meritorischen
+      <lb break="yes"/>Entscheidung nicht var. Ist das Ernährungswesen in Funkt 19
+      <lb break="yes"/>erwähnt, so ist es Bundessache, wenn nicht, so kann jedes
+      <lb break="yes"/>Land auf ernährungswirtschaftlichem Gebiete zum Schaden
+      <lb break="yes"/>der Allgemeinheit nach Belieben verfügen.
+      <lb break="yes"/>Dr. Seipel erklärt, daß hier ebensswenig
+      <lb break="yes"/>wie beim Flektrizitätswesen eine momentane Entscheidung
+      <lb break="yes"/>möglich sei.
+      <lb break="yes"/>Zu Punkt 14 und 25 liegt, wie der 1
+      <lb break="yes"/>rsitzende
+      <lb break="yes"/>feststellt, kein Antrag var; Artikel ll muß entsprechend
+      <lb break="yes"/>den varstehend erwähnten Einschaltungen in Artikel 10 gs
+      <lb break="yes"/>ändert werden. Es entfallen die bisherigen Punkte l. 2 und</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>4, von Punkt s bleibt nur die Frendenkolizei. Bei den
+      <lb break="yes"/>öffentlichen Agestieen gibt Dr. Bauer zu bedenken,
+      <lb break="yes"/>daß die bloße Erwähnung den Ländern die Fiederbelebung
+      <lb break="yes"/>dieser Institutionen ermögliche. Die Anführung der Be
+<lb break="no"/>stimmungen über die Besteuerung der Bundesunternehmungen
+      <lb break="yes"/>bleibt der Abstimmung überlassen.
+      <lb break="yes"/>Zu Artikel 11, Punkt 10 liegt ein christlich-so
+<lb break="no"/>zi aler Minderheitsantrag vor, über den Vereinbarungen mit
+      <lb break="yes"/>dem Unterstaatssekretär Prof. Dr. Tandler getroffen wurden,
+      <lb break="yes"/>Der Vorsitzende stellt fost, daß die sozial-demokratischen
+      <lb break="yes"/>Abgeordneten als Partei bei diesen Vereinbarungen nicht
+      <lb break="yes"/>vertreten waren und daß schwere Bedenken bestehen. Dr.
+      <lb break="yes"/>8 « i p «l gibt als Ergebnis der Vereinbarungen bekannt,
+      <lb break="yes"/>daß seine Fartei aus dem Hinderheitsantrag die Worte:
+      <lb break="yes"/>«Ausbildung, Fortbildung und Berufsausbildung der Heil
+<lb break="no"/>persenen mit Aisnahme der Aerzte; Heilmittelwesen zu
+      <lb break="yes"/>streichen beabsichtigt. Hingegen wird das Gesundheitswesen
+      <lb break="yes"/>in den Artikel ll aufgenoamen, igee die Heil
+<lb break="no"/>zu verbleiben
+      <lb break="yes"/>und Pflegeenstalten(in Artikel 12/ Das Stastsamt für sozie
+<lb break="no"/>le Verwaltung würde zustimmen, wenn die Anstalten in Arti
+<lb break="no"/>kel ll aufgenommen werden, was die Zustimmung seiner Par
+<lb break="no"/>tei finden könnte. Jedoch wäre »leichen- und Bestattungs
+<lb break="no"/>wesen, Gemeindesanitätsdienst und Rettungswesen, Volkswoh
+<lb break="no"/>nungs- und Volkspflegestättenwesen; Veterinärwesenn in die
+      <lb break="yes"/>Rahmengesetzgebung zu verweisen.
+      <lb break="yes"/>Der Vorsitzende fragt, ob bei Ausscheidung des Ge
+<lb break="no"/>sundheits- und Veterinärwesen aus Artikel 10 noch ein Valks
+<lb break="no"/>gesundheitsamt bestehen bleiben könne, das ja dann nur mehr
+      <lb break="yes"/>internationale Angelegenheiten des Gesundheitswesens zu re
+<lb break="no"/>geln hätts und im übrigen nur ein legistisches Departement
+      <lb break="yes"/>wäre; er stellt fest, daß eine Einigung nicht zustande ge
+<lb break="no"/>kommen sei. Zu Punkt 1l des Artikels 11 und zum 2.Absatz
+      <lb break="yes"/>liegt kein Antrag vor. Die Erörterung des Minderheitsanträ-</p><p>366</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>-8-
+      <lb break="yes"/>ges der christlichsozielen Partei zu Art.12 (Punkt l a
+<lb break="no"/>Verhältnis zwischen Schule und Kirche usw.) soll erst im Zu
+<lb break="no"/>sanmenhang mit der allgemeinen Besprechung der Schulfrags
+      <lb break="yes"/>stattfinden.
+      <lb break="yes"/>Bei Punkt 2 konstatiert der Vorsitzende den Zusemmen
+<lb break="no"/>hang mit dem Gesundheitswesen. Zu 3 und 4 liegt kein Antrag
+      <lb break="yes"/>vor. Bei 6 handelt es sich um die landwirtschaftlichen Arbei
+<lb break="no"/>ter, 5 um die Regelung des Elektrizitätswesens. Ueber Punkt 7,
+      <lb break="yes"/>dessen Streichung von Dr. Se i p el beantragt wird, hat
+      <lb break="yes"/>die Abstimmung zu entscheiden. Auch zu Punkt 8 wird von
+      <lb break="yes"/>christlichsozialer Seite ein Zusetz wegen des Dienstrechtes
+      <lb break="yes"/>der Lehrer gemimacht. An Artikel l3 ist als Absatz 6 anzu
+<lb break="no"/>gliedern:
+      <lb break="yes"/>ol6) Die Länder sind im Bersiche ihrer Gegetzgebung
+      <lb break="yes"/>befugt, die zur Regelung des Gegenstandss erforderli
+<lb break="no"/>chen Bestimmungen auch auf dem Gebigte des Straf- und Zivil
+<lb break="no"/>rechtes zu troffene.
+      <lb break="yes"/>Dr. Danneberg meldet als Minderheitsantrag
+      <lb break="yes"/>die Aufnahme des Setzes: Fundesrecht bricht Landesrecht.
+      <lb break="yes"/>Der Varsitzgade ist der Anschauung, daß eine Abstin
+<lb break="no"/>nung über diesen Antrag im Unterausschuß besser zu vermeiden
+      <lb break="yes"/>wäre, da aus der Ablehnung geschlossen werden könnte, daß
+      <lb break="yes"/>Bundesrecht nicht Landesrecht bricht, während doch nicht das
+      <lb break="yes"/>Meritum sondern die Aufnahme des Setzen in die Verfassung in
+      <lb break="yes"/>Frage steht.
+      <lb break="yes"/>Dr. 58 ipel schließt sich dieser Anscheuung an.
+      <lb break="yes"/>seine Partei ist der Meinung, daß in dieser Frage auch ohne
+      <lb break="yes"/>Aufnahme des Satzes genügend vorgesorgt ist. Sollten noch
+      <lb break="yes"/>Lücken auftauchen, die nicht durch die Verfassung gedeckt
+      <lb break="yes"/>sind, dann gelte der Grundsatz lex posterier deragst priori
+<lb break="no"/>Prof.Dr. Kelsen meint, daß dieser Grundsatz für die
+      <lb break="yes"/>gewöhnlichen Gerichte gegeben sei, gelange die Gerichte ge
+<lb break="no"/>hörig kundgemachte Gesetze anwenden müssen. Es ist aber not
+<lb break="no"/>wendig, dem Richter das Recht auf Prülfung der Burdesgebetz-</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>mässigkeit jedes einzelnen Gesetzes einzuräumen und ihn von
+      <lb break="yes"/>der Regel zu befreien, daß er gehörig kundgemachte Gesetze
+      <lb break="yes"/>anwenden müsss. Der Vargitzende stellt fest, daß auch der
+      <lb break="yes"/>Verasangegerichtshef nur kassieren kann, wenn der Wirkunge
+<lb break="no"/>kreis überschritten ist. nicht aber, wenn eine konkurrierende
+      <lb break="yes"/>Gasotzgebung vorliegt. Im Konkurrenz- Falle kann der Bund
+      <lb break="yes"/>von seinem Gesetzgebuagsrecht Gebrauch machen. Zu Artikel 13a
+      <lb break="yes"/>ist nichts zu bemerken. Zu Artikel l4 erwähnt Dr. Danne
+<lb break="no"/>b« r8, daß nach sozialdemckratischen Hinderheitsantrag der
+      <lb break="yes"/>2. Absatz des Linzer Entwurfes nicht gestrichen werden soll.
+      <lb break="yes"/>Ferner beantragt Dr. Seipel, daß Artikel 14a
+      <lb break="yes"/>ganz gestrichen wird. Dr. Danne berg erwähnt den
+      </p><div type="article">
+<head>Art. 15.
+      </head>
+<p>Minderheitsantrag auf Einfügung der Absätze 2,3 und 4des
+      <lb break="yes"/>sozialdemokratischen Entwurfes (904 d. B.). Die Einfügung
+      <lb break="yes"/>wind der Abstimmung überlassen. Ueber die Frage der Strei
+<lb break="no"/>chung des ganzen Artikels kann eine Aeusserung nicht abgege
+<lb break="no"/>ben werden,Dr. Se ipsl erblickt in der Beibehaltung
+      <lb break="yes"/>des Artikels die Gefehr, daß jedes Gemeinwesen sich verfas
+<lb break="no"/>zungsmässig berachtigt halten könnte alle möglichen wirt
+<lb break="no"/>schaftlichen Organiastienen zu versuchen. Seine Partei er
+<lb break="no"/>blickt in dieser Bestimmung eine verfassungsmässige Verewi
+<lb break="no"/>zung des Zentralenwesens, was nach Anschauung Dr. Dan ne
+<lb break="no"/>bergs damit nicht gemeint ist. Schließlich wird die Bei
+<lb break="no"/>behaltung oder Streichung des Artikels l4a offen gelassen.
+      <lb break="yes"/>zu 14 b und c ergibt sich keine Bemerkung. In l4d dürften
+      <lb break="yes"/>bei Lösung der Schulfrage möglicherweise Konderungen notwen
+<lb break="no"/>dig werden. Ein Kauptstreitpunkt ist Artikel l4 e, für des
+<lb break="no"/>sen Fassung Dr. Seipel einen schriftlichen Abänderungs
+<lb break="no"/>vorschlag zu erstatten beabsichtigt. Die Landesregierungen
+      <lb break="yes"/>legen mit Rücksicht auf Qualität und Parterrichtung der Gen
+<lb break="no"/>darmen Wert darauf, daß nicht willkürliche Verschiebungen
+      <lb break="yes"/>der Gendarmerie zwischen den einzelnen Ländern stattfinden.
+      <lb break="yes"/>Auch sall ihre Mitwickung bei der Bestellung und bei der Ab
+<lb break="no"/>srufun des Landesgendarneriskemmardantes gewahrt bleiben.
+      <lb break="yes"/></p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10-
+      <lb break="yes"/>Zu 14 f ist nichts zu bemerken, zu l4 g teilt der
+      <lb break="yes"/>Vezgitzende mit, daß er eine Reihe von Zuschriften erhalten.
+      <lb break="yes"/>hat, die vom Standpunkt des Publikums beklagen, daß bei der
+      <lb break="yes"/>Subsidiarhaftung des Stasten verschiedene langwierige Prozesse
+      <lb break="yes"/>geführt werden müssen. Artikel ls bleibt im Entwurf. In Arti
+<lb break="no"/>kel ls beantragt Dr. Dannsberg die Streichung des
+      <lb break="yes"/>2.Absatzes. In Artikel 19 wird an den 2.Absatz folgender Satz
+      <lb break="yes"/>angeschlossen?
+      <lb break="yes"/>«Die Rähler üben ihr Kahlrecht in Hahltezirken aus
+      <lb break="yes"/>von denen jeder ein geschlasgenes Gebiet umfassen muß. Die
+      <lb break="yes"/>Zahl der Abgeadnetenjst auf die Rahlbezirke im Verhältnis der
+      <lb break="yes"/>Zahl der Bundesangehörigen, die in ihnen nach dem Ergehnis
+      <lb break="yes"/>der letzten Volkszählung ihren Nehnsitz hatten, zu verteilen.
+      <lb break="yes"/>Eine Gliederung der Hählerschaft in andere Mahlkärper ist
+      <lb break="yes"/>nicht zulässige.
+      <lb break="yes"/>Bei den Artikeln 22 bis 25 erübrigt sich eine Dis
+<lb break="no"/>kussion.
+      <lb break="yes"/>Die Sitzung wird um 1s21 Uhr mittage unterbrochen
+      <lb break="yes"/>und um 3 Uhr nachmittags fartgesetzt.
+      <lb break="yes"/>(Bei Niederaufnahme der Berstungen wird auf Vorschleg
+      <lb break="yes"/>des Vargitzenden das Schulwesen erörtert. Berichterstatter
+      <lb break="yes"/>Abg.Dr. Seipel wünscht unter Verbehalt stilistischer
+      <lb break="yes"/>Aenderungen in Art. 10. Pkt. 13 folgende Einfügung:,Des Roch
+<lb break="no"/>schul- und Mittelschulwesen, wobei der Landesschulbehörde
+      <lb break="yes"/>das verbindliche Verschlagsrecht für die Ernennung der Mittel
+<lb break="no"/>schullehrpersenen zusteht. Die Schulaufsicht mit Ausnahme der
+      <lb break="yes"/>Zusemmensetzung der Schulaufsichtsbehorden, der Feststellung
+      <lb break="yes"/>ihres Wirkungskreises und der Einteilung der Schulbezirke.
+      <lb break="yes"/>In Artikel 1l wurde bisher die Einschaltung »pädege
+<lb break="no"/>gisch didaktische Einrichtung des mittleren Schulwesens« be
+<lb break="no"/>antragt; darauf wird verzichtet. Hingegen werden in Artikel 12
+      <lb break="yes"/>einige Einschaltungen verlangt;nach Punkt 1: »Die Errichtung
+      <lb break="yes"/>und Erhaltung der Volks- und Bürgerschulen sowie der Hilfs-</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>12
+      <lb break="yes"/>schulen-, ferner zu Runkt 8 des Artikels 12: Das Dienstrecht
+      <lb break="yes"/>undesoldungssysten der Lehrpersopen an öffentlichen Volks-
+      <lb break="yes"/>und Bürgerschulen. Präsident Seitz hält dem entgegen
+<lb break="no"/>daß der Stast derzeit das gesante Schulwesen bis hinaus zum
+      <lb break="yes"/>Bezirksschulrat untersteht. Ea würde einen Verzicht bedeuten.
+      <lb break="yes"/>dis Ernennung der Hittelschullehrpersonen an ein verbindti
+<lb break="no"/>ches Verschlagrecht zu knüpfen, denn jetzt werden auch die
+      <lb break="yes"/>Lehrer an den Landssreslschulen von Steate eroannt. Ebensone
+<lb break="no"/>nig ginge es an, den Wirkungskreis der Landes- und Bezirks
+<lb break="no"/>schulräte durch die Linder bestimmen zu lassen. Bisher sind
+      <lb break="yes"/>sämtliche Schulgesetze einheitlich. Die Macht des Staates auf
+      <lb break="yes"/>diesem Gebiete ging in der Monarchie so weit, daß es kein
+      <lb break="yes"/>land ragen durfts, irgendselchs Sonderbestinrungen zu treffes.
+      <lb break="yes"/>Auch der übermas müchtignherrachenden Fartei in Niederöster
+<lb break="no"/>reich war es nicht möglich, bei der Scheffung neuer Schuleuf
+<lb break="no"/>sichtsgesetzs trost heftigen Fampfes dem Unterrichtsministe
+<lb break="no"/>rium irgend stwas abzugerinnen. Ie müster such in der reuen
+      <lb break="yes"/>Verfassung Carantten vorgeschen werden, das die grundsätzli
+<lb break="no"/>chs Gesetzgsbung des Busdas über die Errichtung und Erhaltung
+      <lb break="yes"/>der Schulen im dicherigen Ausnas durch den Sind erfalgt. Auch
+      <lb break="yes"/>bei Dienstrecht und Besoldungesysten Kranen den Ländern keine
+      <lb break="yes"/>Zugeständnisen genacht werden, denn diess würdes s von des
+      <lb break="yes"/>lehrern als unerträglicher Rückschritt empfunden werden.
+      <lb break="yes"/>Staatssekrstär Dr. Kayr verwergt darauf, daß die
+      <lb break="yes"/>Lehrer eben anslog rie die Bezirkshauptmänner und der Landes
+<lb break="no"/>hauptmann Landesorgane werden müssten. Auch Prof.Abg. Se i
+<lb break="no"/>p el seint, daß den Fünschen der Lehrer Rechnung getragen
+      <lb break="yes"/>ist, wenn sie wis alle anderen Beanten Ergane des Gliedstostes
+      <lb break="yes"/>wenden. Der Veraitzande neint, das dies von der Lehrerschaft
+      <lb break="yes"/>nicht gewünscht wird. Abgeordaster Seipel erklärt, es
+      <lb break="yes"/>stehe außer zweifel, daß dis Lätrer bisser nicht von Stast
+      <lb break="yes"/>ernannt werden, sondern zus den Ländern. Es sei ein starkss
+      <lb break="yes"/>Intgsgerkonnen, daß die Erzige der Estrar sratsitlich gere
+      <lb break="yes"/>1.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>12-
+      <lb break="yes"/>gelt werden, es sei aber kaun denkbar, den Ländern das Ernen
+<lb break="no"/>nungsrecht der Lehrpersonen an Valks- und Bürgerschulen veg
+<lb break="no"/>zunehmen. Es müßte überdies auch in Punkt 9 des Artikels 12
+      <lb break="yes"/>folgende Bestimmung aufgenommen werden? »Die Festsetzung des
+      <lb break="yes"/>Kreises jener kersonen, aus denen sich die Schulaufsichtsbe
+<lb break="no"/>hörden zusammensetze., wabei der Schulerhalter, die Religiens
+<lb break="no"/>genesgenschaften und die Pachleute in denselben vertreten
+      <lb break="yes"/>sein müssen.«
+      <lb break="yes"/>Präsident Seitz hält eine Ueberbrückung der Ge
+<lb break="no"/>gensätze auf diesem Gebiet für ausgeschlossen. Nach dieser
+      <lb break="yes"/>Fassung konnte ein Landesgesetz gemacht werden, wonach zwei
+      <lb break="yes"/>Drittel der Schulaufsichtsbehörden vom Landesschulrat gewählt
+      <lb break="yes"/>werden, wodurch die vom Stest zur Wahrung der Einheit entsen
+<lb break="no"/>deten Vertreter eine machtlose Winderheit wären. Auch kann
+      <lb break="yes"/>der Vertretung der Religionsgenossenschaften in den Schulauf
+<lb break="no"/>sichtsbehürden von der sozialdemokratischen Partei niemals
+      <lb break="yes"/>zugestimmt werden.
+      <lb break="yes"/>Abgeerdnsterlse ipel weist darauf hin, daß diese
+      <lb break="yes"/>Bestimmung nur den geltenden Gesetzen entnommen sei. Präsident
+      <lb break="yes"/>Seit» hält unbedingt daran fest, daß die Mehrheit der
+      <lb break="yes"/>Rüfsichtabehörden vom Staat ernannt werden müsse. Man könnte
+      <lb break="yes"/>soweit entgegenkommen, daß man bei der Ernennung der Lehrer
+      <lb break="yes"/>ein Vorschlagsrecht zugesteht aber weiter nicht.
+      <lb break="yes"/>Bei der Besprechung, war die Schülerzahl in der ein
+      <lb break="yes"/>zelnen Klasse und wer den Lehrplan festzusetzen hätte, meint
+      <lb break="yes"/>AbgeordnetersSeipel, daß in einem Bundesstaat den Län
+<lb break="no"/>dern nicht das Recht genommen werden könne, das Schulwesen im
+      <lb break="yes"/>Lande den Bedürfnissen der Bevölkerung anzupassen. An prakti
+<lb break="no"/>schen Beispielen erörtert hingegen Präsident seitz die
+      <lb break="yes"/>Nachteile für die Kinder der Arbeiterbevölkerung, die in Uaber
+<lb break="no"/>siedlungsfällen wegen der grossen Unterschiede des Lehrplanes
+      <lb break="yes"/>nicht in die ihrem Alter entsprechende Klasse aufgenommen ver
+<lb break="no"/>den können. Es sei eine begründete Klage der tschechischen.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13-
+      <lb break="yes"/>Bevölkerung gewesen, daß ihre Kinder stets um ein bis zwei
+<lb break="no"/>Jahre zurückgesetzt werden mußten. Durch Zugeständnisse auf
+      <lb break="yes"/>diesem Gebiete gebe der Stast die ganze Schulreform preis.
+      <lb break="yes"/>Abgeordneter Seipel findet auf Grund seiner
+      <lb break="yes"/>Erfahrungen als Lehrer - 10 Jahre an der Volksschule, 6 Jah
+      <lb break="yes"/>re an Mittelschulen und mehreJahre als Schulinspekter - die
+      <lb break="yes"/>Gefahr, daß ein Kind nicht in die seinem Aiter entsprechende
+      <lb break="yes"/>Klasse aufgenommen werden könnte, sehr gering, wenn die Schu
+<lb break="no"/>len und die Schulaufsichtsbehörden einheitlich eingerichtet
+      <lb break="yes"/>sind. Auch jetzt muß die Schuleinrichtung je nach den ortli
+<lb break="no"/>chen Verhältnissen verschieden sein. Eine kleine Gemeinde sei
+      <lb break="yes"/>nicht in der lage, achtklassige Schulen zu errichten, andrer
+<lb break="no"/>seits hat man bei den Aufnahmsprüfungen in die Mittelschulen
+      <lb break="yes"/>oft die Erfahrung gemacht, daß Schüler zweiklassiger Schulen
+      <lb break="yes"/>besser vorbereitet waren als solche mehrklassiger. Selbst bei
+      <lb break="yes"/>den Mädchenlyzeen, deren Lehrgang überaus verschieden ist,
+      <lb break="yes"/>stets
+      <lb break="yes"/>hatesichlein Ausgleich erzielen lassen. Wenn auf dem Gebiete
+      <lb break="yes"/>der Schulreferm die grundsätzliche Gesetzgebung Bundessache
+      <lb break="yes"/>wird, so bedeute das nicht ihre Ausschließunge sondern bloß
+      <lb break="yes"/>Eine Verlangsamung der Tempos, was vom pädagegischen Stand
+<lb break="no"/>punkte nur zu begrüssen wär«, Denn gerade auf diesem Gebiet
+      <lb break="yes"/>seien jeweils Schlagwerte maßgebend, die erfahrungsgemäß
+      <lb break="yes"/>schen nach kurzer, Zeit überholt sind. Die Gefahr der Ungleich
+<lb break="no"/>heit des Lehrplanes wird auf sozieldemokratischer Seite ent
+<lb break="no"/>schieden überschätzt. Es kommt auch jetzt vor, daß Kinder von
+      <lb break="yes"/>Deutschland nach Oesterreich übersiedeln und trotzdem mitkem
+<lb break="no"/>men
+<lb break="no"/>Die Länder wollen nicht zulassen, daß Lehrer in Ge
+<lb break="no"/>genden geschickt werden, die dart frand sind und nicht einmal
+      <lb break="yes"/>die Keimatkunde unterrichten können. Außerdem sind die Lehrer
+      <lb break="yes"/>in kleinen und entlegenen Gemeinden Träger der Intelligenz
+      <lb break="yes"/>und die Länder verwahren sich dagegen, daß die Verhältnisse
+      <lb break="yes"/>im Lande von einer Zentrals aus auf diesem Rege einheitlich
+      <lb break="yes"/>bgeinflußt werden.</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>24.
+      <lb break="yes"/>Auf Anfrage des Vargitzenden stellt Abgeordneter Dr.
+      <lb break="yes"/>Seipel fest, daß seine Partei die Frage der Sorgenkin
+<lb break="no"/>der mit der Erklärung über die Hilfsschulen für erledigt er
+<lb break="no"/>achtet. Die fachlichen Zentrallehranstalten sowie die Staats
+<lb break="no"/>erziehungsanstalten seien bereits zugestanden, doch bestün
+<lb break="no"/>den noch Bedenken bezüglich der Lehrerbildung und der Schul
+<lb break="no"/>bücher. Unterstaatseskretär Glockel hat mitgeteilt,
+      <lb break="yes"/>daß für die Ausarbeitung der Schulbücher ein ganz neues Ver
+<lb break="no"/>fahren eingeleitet wird, wobei man den Bedürfnissen der Län
+<lb break="no"/>der besonders Rechnung zu tragen sucht. Nach Erledigung der
+      <lb break="yes"/>einschlägigen Vorarbeiten werde man weiter verhandeln können.
+      <lb break="yes"/>Präsident Seitz bemerkt hiezu, daß Lehrerbil
+<lb break="no"/>dung und Approbation der Lehrbücher in den Artikel lo einge
+<lb break="no"/>reiht werden müssen und erklärt, daß es sich für seine Parter
+      <lb break="yes"/>darum handelt, daß für die Kinder der industriellen Arbeiter
+      <lb break="yes"/>der Schulerganismus einheitlich gestaltet wird. Die heutige
+      <lb break="yes"/>Verschiedenheit der Lehrpläne, die bald zyklisch, bald stufen
+<lb break="no"/>weise aufgebaut sind, bedeute eine unerträgliche Schwierig
+<lb break="no"/>keit, weshalb die Lehrpläne zentral festgelegt werden müsgen.
+      <lb break="yes"/>Es sei selbstverständlich und auch von der Lehrerschaft hei
+<lb break="no"/>neswegs erstrebt, daß Lehrer aus der Stadt in Dörfer kommen
+      <lb break="yes"/>und umgekehrt. Seine Partei sehe die Schwierigkeit darin, daß
+      <lb break="yes"/>auf dem Lande zwei Kulturfaktoren einander gegenüberstehen?
+      <lb break="yes"/>der Geistliche und der Lehrer.. Da aber ersterer in einer
+      <lb break="yes"/>straffen Berufserganisation steht und von einer geistigen
+      <lb break="yes"/>Zentrale seine Heisungen erhält, sei es nötig, auch den Leh
+<lb break="no"/>rer in einen größeren Kulturkreis einzubeziehen. Deshalb ver
+<lb break="no"/>langen heute alle Lehrer, auch die konservativ gesinnten,
+      <lb break="yes"/>die Verstaatlichung. Prof. Abg. Se ip el glaubt, daß den
+      <lb break="yes"/>Bedenken bezüglich der Lehrplanverschiedenheit durch vernünf
+<lb break="no"/>tige Regelung abgeholfen werden könne und verweist auf die
+      <lb break="yes"/>Schwierigkeit des Uebertrittes aus einer Diözese in eine an
+<lb break="no"/>dere. Hisdurch lebe der Geistliche im Gegensatz zu dem Ver
+<lb break="no"/>gang, der bei den Lehrern geplant gei, in einem viel engeren</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>15</p><p>Bereich.
+      <lb break="yes"/>Der Vargitzende findet, daß hier unüberbrückbare Ge
+<lb break="no"/>gunsätss einander gegenüberstehen, Der Beschluß des Unteraus
+<lb break="no"/>Anhusses hat alle Agenden als Bundessache erklärt. Hingegen
+      <lb break="yes"/>will der Vorschlag der chrietlichsozialen Partei dem Bund
+<lb break="no"/>nur das Hachschulwosen belassen, Für ein Kompromik auf Grund
+      <lb break="yes"/>des heutigen Zustandes sei dieser zu unklar. Präsident
+      <lb break="yes"/>S e itz hält namentlich ein Untgegenkommen hinsichtlich
+      <lb break="yes"/>der Zusammensetzung der Schulaufsichtsbehörden für unmöglich
+<lb break="no"/>eher konnte man sich über die Einteilung der Schulbezirke
+      <lb break="yes"/>einigen. Wenn die Länder auf dem Gebiet der Kompetenz vor
+<lb break="no"/>schiedene Zugeständnisse machen, so ergebe sich ein verwel
+<lb break="no"/>tungstechnisch und bürokratisch unhaltbarer Zustand, Ebense
+      <lb break="yes"/>unennehmbar sind die Forderungen der christlichsszialen Par
+<lb break="no"/>tei bezüglich der Zusammensetzung der Aufsichtsbehörden und
+      <lb break="yes"/>der Hitzirkung von Vertretern der Religionsgesellschaften.
+      <lb break="yes"/>Abgeeränster Ai g a er bringt auch die wirtschaft
+      <lb break="yes"/>lichen Bedenken der Länder zur Geltung. So hat namentlich
+      <lb break="yes"/>Oberösterreich die schwersten Bedenken hinsichtlich seiner
+      <lb break="yes"/>Belastung, da die Durchfuhrung der Schufreform nach den Be
+<lb break="no"/>rechnungen die Errichtung von 3300 Klassen und eine entspre
+<lb break="no"/>chende Vermehrung der Lehrstellen erfordere,
+      <lb break="yes"/>Abgeordneter Prof. Dr. S eipel erklärt, daß
+      <lb break="yes"/>seine Partei auf die Aufnahme eines Artikels 14 eee nicht
+      <lb break="yes"/>verzichlen kenne, der zu lauten hätte:
+      <lb break="yes"/>«Die Lehrpersonen an öffentlichen Volks- und Bür
+<lb break="no"/>gerschulen sind lendesangestellte.
+      <lb break="yes"/>Auch bringt er folgenden Runsch seiner Partei zur
+      <lb break="yes"/>Kenntais:
+      <lb break="yes"/>-Falls die »fädegogisch didaktische Einrichtung
+      <lb break="yes"/>des niederen Schulwesens in den Art.10 käme, müßte man hie
+<lb break="no"/>von ausnehmen: Die Festsetzung der einer Lehrperson zuzu
+<lb break="no"/>weisenden Schülerzahl.
+      <lb break="yes"/>Der Uaterausschuß beschließt die Erbrterung der
+      <lb break="yes"/>Schulfragen zu vertagen, ur veuerlic Farteiberstungen zu
+      <lb break="yes"/>21</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>16</p><p>ermöglichen.
+      <lb break="yes"/>Der Vorsitzendg stellt hierauf fest, welche Fragen
+      <lb break="yes"/>bezüglich der künftigen Stellung kiens als Bundeshauptstadt
+      <lb break="yes"/>noch zu erledigen wären. So muß Dien hinsichtlich der Ueber
+<lb break="no"/>weisungen und der Vertretung im Bundesrate den Ländern
+      <lb break="yes"/>gleichgestellt werden. Das Abgaberecht bedarf der Regelung,
+      <lb break="yes"/>ferner müssen gewisse Angelegenheiten, die jetzt der Landen
+      <lb break="yes"/>regierung zustehen, an den Magistrat übergehen.
+      <lb break="yes"/>Dr. D an ne berg möchte zuwarten bis man in
+      <lb break="yes"/>Rathaus offiziell Stellung genommen hat. Die Besprechungen
+      <lb break="yes"/>der Parteien sind noch nicht abgeschlossen. Donnerstag Vor
+<lb break="no"/>mittag tritt der Stadtsenat zusammen, ein Beschluß wird
+      <lb break="yes"/>voraussichtlich erst Freitag gefaßt werden können.
+      <lb break="yes"/>Der Vorsitzende bemerkt zur Frage des Abgaberechten,
+      <lb break="yes"/>daß die Gemeinde die Notwendigkeit einer Zustimmung des
+      <lb break="yes"/>Landtages stets als drückende Bevermundung empfand.
+      <lb break="yes"/>Abgeordneter Dr. Heiskirchner bespricht
+      <lb break="yes"/>das bisherige Verfahren und das einschlägige Uebereinkommen
+      <lb break="yes"/>der Gemeinde Wien mit dem Landtag, wonach die Hauptstadt an
+      <lb break="yes"/>den Ueberweisungen stets mit 504 beteiligt wurde. Für die
+      <lb break="yes"/>Zukunft müßte namentlich festgestellt werden, ob Wien von
+      <lb break="yes"/>den Zuschlägen des Landes Nieder-Oesterreich befreit wird,
+      <lb break="yes"/>ob Wien als Gemeinde und als Land zu behandeln sei. Es müf
+      <lb break="yes"/>te wohl die Landeszuschläge tragen, solange nicht die Tren
+<lb break="no"/>nung ausgesprochen ist. Laut Angabe des Vorsitzenden haben re
+<lb break="no"/>der das Staatsamt für Finanzen, noch die ländlichen Abgeord
+<lb break="no"/>neten des Landes Nieder-Oesterreich andere Zugeständnisse
+      <lb break="yes"/>gemacht, als auf dem Gebiete des Abgabérechtes und der Ueber
+<lb break="no"/>weisungen. Letztere sollten aber nicht mehr nach dem Bevöl
+<lb break="no"/>kerungsschlüssel, sondern nach dem Erträgnis gewisser Steu
+<lb break="no"/>ern erfolgen, was für Hien vorteilhafter sei. Während Prä
+<lb break="no"/>sident S ei t z es als unerträglich bezeichnet, daß ein
+      <lb break="yes"/>Verwalt ingskörper von der Größe Hiens stets die Zustimmung
+      <lb break="yes"/>einer Mehrheit agrar. Vertreter im Landtag einholen müsse,</p><pb facs="#facs_18" n="18" xml:id="img_0018"/><p>17</p><p>wenn er eins neue Steuer irgendwelcher Art beschließt, er
+<lb break="no"/>blickt Abgeordneter Dr. Sei pel im Ueberprüfungsrecht
+      <lb break="yes"/>des Landtages einen besseren Schutz der Bevölkerung. Dr.
+      <lb break="yes"/>Danneberg verweist auf die möglichen Schwierigkei
+<lb break="no"/>ten, die entstehen können, wenn im Landtag eine andere Hehr
+<lb break="no"/>heit bestünde als im Gemeinderat. Lehnt der Landtag einen
+      <lb break="yes"/>Steuerbeschluß der Gemeinde ab, so führt das zu schweren
+      <lb break="yes"/>Konflikten. Die Frage des Abgabérechtes müsse geklärt wer
+<lb break="no"/>den auch für den Fall, daß keine Trennung Wiens von Nieder
+<lb break="no"/>Oesterreich erfolgt. Die andere Frage, daß die Landesumla
+<lb break="no"/>gen in Wien nicht mehr zur Einhebung gelangen sollen, könn
+<lb break="no"/>te nur im Zuge einer Auseinandersetzung zwischen Gemeinde
+      <lb break="yes"/>und Land gelöst werden. Die Annahme des soz.dem. Antrages
+      <lb break="yes"/>in Form des Vermittlungsvorschlages der großdeutschen Par
+<lb break="no"/>tei würde nichts daran ändern, daß die Bewohner Wiens zwei
+<lb break="no"/>erlei Steuern zahlen, wie die Angehörigen jeder anderen Ge
+<lb break="no"/>meinde Wieder-Oesterreichs, nur wäre es der Bundeshaupt
+<lb break="no"/>stadt zu überlassen, welche Stauern sie einhebt. Dr.Nei s.
+      <lb break="yes"/>kirchner findet auch noch andere Folgen einer Dif
+<lb break="no"/>ferenz in der politischen Konstellation für gefährlich, so
+      <lb break="yes"/>konnte eine anders geartete Majorität des Landtages Landes
+<lb break="no"/>umlagen beschließen, die Für die Gemeinde Wien katastrophal
+      <lb break="yes"/>wären, da die Gemeinde s0f aller Landesunlagen zahle. Die
+      <lb break="yes"/>Kompliziertheit sei so groß, daß es nach seiner Anschauung
+      <lb break="yes"/>zu keiner Trennung kommen könne.
+      <lb break="yes"/>Der Varsitzende faßt das Ergebnis der Beratungen
+      <lb break="yes"/>darin zusammen, daß Wien die Einsnaheheit wie ein Land be
+<lb break="no"/>kammen müsse, und zwar sonchl bezüglich der Steuergals auch
+      <lb break="yes"/>bezüglich der Anleihen. Der gemeinsame Aufwand müsse auf
+      <lb break="yes"/>Grund besonderer Vereinbarungen gedeckt werden, Profkel
+      <lb break="yes"/>sens vermittelnde Anregung, daß Iien in finanzieller
+      <lb break="yes"/>Hinsicht, unbeschadet seiner Stellung als Gemeinde, die
+      <lb break="yes"/>Stellung eines selbständigen Landes erhalten soll, findet
+      <lb break="yes"/>die Zustinnung des Unterausschuesss. Der fursitzende fügt
+      <lb break="yes"/>N.1.</p><pb facs="#facs_19" n="19" xml:id="img_0019"/><p>18</p><p>hinzu, daß der Magzstrat Kompstenzen zu übernehmen hat, die
+      <lb break="yes"/>bisher der nieder-Osterreichiachen Landesregierung zustan
+<lb break="no"/>den. Auch müßte eine besondere zweite Instenz für Wien in
+      <lb break="yes"/>Gestalt einer Kommission gebildet werden, die zusammenge
+<lb break="no"/>setzt wäre aus rechtskundigen Verwaltungsbeamten der Ge
+<lb break="no"/>meinde Wien und aus Gemeinderäten. Der administrative In
+<lb break="no"/>stanzenzug ginge unmittelbar zu den Bundesämtern. Abgenrd
+<lb break="no"/>veter Dr. Weiskirchner bespricht die Schwierig
+<lb break="no"/>keit einer solchen Lösung, da Hien bisher vom Landesaus
+<lb break="no"/>schuß eximiert war, nun aber bei Uebertretungen der Gewer
+<lb break="no"/>beordnung, die mit 20 K bestraft würden, als zweite Instanz
+      <lb break="yes"/>die gemischte Kommission entscheiden müßte. Er wäre für die
+      <lb break="yes"/>Belassung der Landesregierung als zweite Instanz. Dr. Se i.
+      <lb break="yes"/>p el erwähnt die Sorge der Hiener Bevolkerung, daß bei
+      <lb break="yes"/>einer Trennung Wiens von Nieder-Oesterreich eine Landesre
+      <lb break="yes"/>gierung zur Macht käme, die Hien nichts mehr angeht und die
+      <lb break="yes"/>sich daher zu Hien so verhielte, wie etwa die ober-öster
+<lb break="no"/>reichische. Dr. Dan a e berg reist dagegen darauf
+      <lb break="yes"/>hin, daß die Wiener Abgeordneten im Landtags nach immer die
+      <lb break="yes"/>Majorität besitzen, Präsident Seitz erklärt sich zum
+      <lb break="yes"/>Entgegenkommen bereit, wenach die Landesregierung in allen
+      <lb break="yes"/>Belangen, in denen sie nur für das Land entscheidet, auch
+      <lb break="yes"/>nur vom Land gewählt wird und nur in gemeinsamen Angelegen
+<lb break="no"/>heiten durch die Vertreter Hiens erweitert wird. Die Zahl
+      <lb break="yes"/>der gemeinsamen Angelegenheiten wird voraussichtlich sehr
+      <lb break="yes"/>geringe sez. Dr. Meiskirchner bleibt bei sei
+<lb break="no"/>ner Anschauung, daß die Bevölkerung dem Rechtszug zur Lag
+<lb break="no"/>desregierung mehr Vertrauen entgegenbringe, Prof.Dr. Se i
+<lb break="no"/>pel möchte einen allgemeinen Satz, der auf die Netwen
+<lb break="no"/>digkeit der Trennung hinweist, vorziehen, un nicht die Ver
+<lb break="no"/>fassung mit umfangreichen detaillierten Bestimmungen zu
+      <lb break="yes"/>überlasten, was nach Anschauung Dr. Neiskirch
+<lb break="no"/>n e r &amp; prinzipiell jede Statutargemeinde verlangen kön.s
+      <lb break="yes"/>Präsident Seitz ist der Anschauung, daß ach
+      <lb break="yes"/>Oesterreich noch in der Revolution befinde, der End daher</p><pb facs="#facs_20" n="20" xml:id="img_0020"/><p>19</p><p>auch sagen könne, diese Agenden übertrage ich in der Form
+<lb break="no"/>daß ich die Statthaltereibefugnis einer gewählten Regierung
+      <lb break="yes"/>übertrage.
+      <lb break="yes"/>Prof. K el s e n: Gegenwärtig kann die Landesord
+<lb break="no"/>nung durch Staatsgesetz abgeändert werden. Wie sich aus der
+      <lb break="yes"/>Staatsgesetzgebung erweisen läßt, so könnte auch durch
+      <lb break="yes"/>Staatsgesetz angeordnet werden, daß der Landtag aus zwei
+      <lb break="yes"/>Kürien gebildet wird. Beide wählen je eine Landesregie
+<lb break="no"/>rung für ihre Angelegenheiten, was deshalb von Wichtigkeit
+      <lb break="yes"/>sei, weil wir einen verantwortlichen Landeshauptmann haben
+      <lb break="yes"/>müssen. Es wäre ferner denkbar, daß beide Kurien zur Rege
+<lb break="no"/>lung gemeinsamer Angelegenheiten zusammentreten. Die Kon
+<lb break="no"/>struktion eines solchen Doppellandes wäre jetzt verfassungs
+<lb break="no"/>rechtlich möglich, künftig aber durch Bundesgesetz nicht
+      <lb break="yes"/>mehr. Der Magistratsdirekter erhielte einen anderen Namen.
+      <lb break="yes"/>Vom Standpunkte des Bundes sei am wichtigsten, daß der Lan
+<lb break="no"/>deshauptmann von Wien die Gleichstellung, wie alle anderen
+      <lb break="yes"/>Landeshauptmänner erhält, d.h., daß er dem Bunde gegenüber
+      <lb break="yes"/>verantwortlich ist. Gegen einen solchen staatlichen Ein
+<lb break="no"/>griff könne man Bedenken geltend machen; als Entschuldigung
+      <lb break="yes"/>müsse dienen, daß es das letztemal und nach der neuen Ver
+<lb break="no"/>künftig
+      <lb break="yes"/>fassungkunmtglich sei. Der Landtag wäre ein einheitlicher
+      <lb break="yes"/>Apparat, doch bestünden gewissermassen zwei Landesausschüs
+<lb break="no"/>se.
+      <lb break="yes"/>Der Vargitzende ersucht hierauf mit Zustimmung des
+      <lb break="yes"/>Unterausschusses Prof. Dr. Kelsen sobald als möglich
+      <lb break="yes"/>Formulierungen seiner Anregungen vorzulegen. Uebrigens wä
+<lb break="no"/>re auch eine Neufermulierung des Artikels 26 notwendig.
+      <lb break="yes"/>weselbst die Gemeinde Nien als gleichberechtigter Teilneh
+<lb break="no"/>mer im Bundesrat eingefügt werden müßte. Er hebt neuerlich
+      <lb break="yes"/>die Benachteiligung des Hiener Arbeiterstandes dadurch her
+<lb break="no"/>vor, daß man den kleinsten Ländern drei Vertreter im Bun
+<lb break="no"/>desrat, anstatt eines einzigen zuerkannt hat. Prof. Dr.
+      <lb break="yes"/>Seipel meint, daß der soz. dem. Partei auf Grund des
+      <lb break="yes"/>312</p><pb facs="#facs_21" n="21" xml:id="img_0021"/><p>20
+      <lb break="yes"/>Verhältniswahlrechtes in jedem Land ein Vertreter gesichert
+      <lb break="yes"/>sei, was der Vazgitzende bezweifelt, indem er annimmt, daß
+      <lb break="yes"/>in einem Landtag, der aus lauter Christlichsezielen
+      <lb break="yes"/>und nur ein bis zwei Sozialdemokraten bestünde, sich die
+      <lb break="yes"/>ersten sofort als zwei Parteien, eine städtische und eine
+      <lb break="yes"/>ländliche konstituieren würden. Ein Bundesret ohne Vertre
+<lb break="no"/>tung der Tiroler- oder Vorarlberger- Sozialdemokreten sei
+      <lb break="yes"/>nicht denkbar. Dr. Weiskirchner stellt fest,
+      <lb break="yes"/>daß die Mitgliederzahl, wie sie die Verfassung festsetzt,
+      <lb break="yes"/>von der christlichsozialen Partei noch gar nicht zugestan
+<lb break="no"/>den sei. Präsident seit z hält ein Abgehen vom Ver
+<lb break="no"/>hältniswahlrecht deshalb für besonders schwierig, weil ein
+      <lb break="yes"/>Parteivertreter aus einem anderen Land mit der Hahrung der
+      <lb break="yes"/>Interessen des Landes betraut werden müßte, das kein Mit
+<lb break="no"/>glied seiner Parteirichtung in den Bundesrat hat entsenden
+      <lb break="yes"/>können. Dieses Parteimitglied müßte dann geradezu in dem
+      <lb break="yes"/>betreffenden Land expeniert werden, um stets richtig infer
+<lb break="no"/>miert zu sein. Der Vorsitzende bittet um Berücksichtigung
+      <lb break="yes"/>des Standpunktes entweder reine Verhältnismäßigkeit, das
+      <lb break="yes"/>kleinste Land einen Vertreter, die übrigen im Verhältnis
+      <lb break="yes"/>zur Bevölkerungszahl oder das Kempremiß, doch ziehe seine
+      <lb break="yes"/>Partei den ersteren Vorschlag bei weitem vor.
+      <lb break="yes"/>Artikel 27. Absetzl wird hierauf so formuliert:
+      <lb break="yes"/>(1) Im Vorsitz des Bundesrates nechseln die Länder-
+      <lb break="yes"/>und die Bundeshauptstadt Hien halbjährlich in alphabetfi
+<lb break="no"/>scher Reihenfolge ab.
+      <lb break="yes"/>Zu Artikel 28 wird kein Vorschlag vorgebracht; das
+      <lb break="yes"/>sez. dem. Minoritätsvotum zu Artikel 29 wird zurückgezegen;
+      <lb break="yes"/>in Artikel 30, Absatz 2 wird die Zahl der Stimmberechtigten
+      <lb break="yes"/>statt mit 300.000 mit 200.000 festgesetzt.
+      <lb break="yes"/>Die Horte »im Wege der Bundesregierung sind so
+      <lb break="yes"/>aus zu legen, daß gemäß Artikel 30 die Bundesregierung auch
+      <lb break="yes"/>Gesetzesanträge, mit denen sie nicht einverstanden ist.
+      <lb break="yes"/>als Gesetzesverlagen einzubringen hat. In Artikel 32 wünscht</p><pb facs="#facs_22" n="22" xml:id="img_0022"/><p>21.
+      <lb break="yes"/>ein soz. dem. Hinderheitsantrag die MMehrheit des Bundesre
+<lb break="no"/>tes“ anstatt einem«Drittel der Mitglieder des Bundesrates.
+      <lb break="yes"/>Das Verlangen kann durch Sammlung der erforderlichen Unter
+<lb break="no"/>sctriften geltend gemacht werden.
+      <lb break="yes"/>Bei Artikel 40 bejaht der Vorsitzende die Fra
+<lb break="no"/>ge des Präsidenten Seit z, ob die Horte »Der Bundesprä
+<lb break="no"/>sident ordnet an bedeuten, daß der Bundespräsident zu ver
+<lb break="no"/>fügen hat.
+      <lb break="yes"/>Der Winderheitsantrag der christlichsozielen
+      <lb break="yes"/>Vertreter, der Genicht legt auf die qualifizierte Mehrheit
+      <lb break="yes"/>beim Einspruch, wird von den Sozieldemokraten unbedingt ab
+<lb break="no"/>gelehnt.
+      <lb break="yes"/>Zu Artikel 42 a bemerkt Min.Rat Dr. Frachlich
+      <lb break="yes"/>daß, gesetzändernd nicht nur bedeute, daß geändert wird,
+      <lb break="yes"/>sondern auch daß ein neues Gesetz geschaffen werden müsse.
+      <lb break="yes"/>Präsident Seitz stellt fest, daß also die Bundesregie
+<lb break="no"/>rung beschließe und der Bundespräsident zum ausführenden
+      <lb break="yes"/>Organ der Kabinettsrates werde. Dies entspricht nach Aeus
+<lb break="no"/>serung des Vorgitzenden dem Vorgange in jeder parlamentari
+<lb break="no"/>schen Menarchie. Auch der König von England, der keinen
+      <lb break="yes"/>Einfluß auf die Zusammensetzung der Regierung hat, erscheint
+      <lb break="yes"/>als Ratifikant von Staatsverträgen, da er den Staat nach
+      <lb break="yes"/>außen vertritt.
+      <lb break="yes"/>Bei Erörterung der Immunität jener Mitglieder
+      <lb break="yes"/>des Bundesrates, denen die Vertretung der Bundeshauptstadt
+      <lb break="yes"/>obliegt, die aber als Gemeinderatsmitglieder nicht immun
+      <lb break="yes"/>sind, erklärt Prof.Dr. Kels ea; daß es bei Annahme der
+      <lb break="yes"/>Formulierung, mit der er heute betraut wurde, nur einer
+      <lb break="yes"/>Uebergangsbestimmung bedürfe.
+      <lb break="yes"/>Der Vorsitzende stellt noch fest, daß der soz
+<lb break="no"/>dem. Hinderheitsantrag zu Artikel 47 zurückgezogen wird und
+      <lb break="yes"/>schließt um 112 7 Uhr abende die Sitzung.
+      <lb break="yes"/>D</p></div>
+</div></body>
+    </text>
+</TEI>

@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__36">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529241</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="goobi">14582</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920</title>
+                            <note type="editor">Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920, Lithographie auf dünnem Durchschlagpapier, Zustand mäßig, zahlreiche handschriftliche Korrekturen und Anmerkungen, Papier stark gewellt, zum Teil Ränder ausgerissen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin from="1920-07-11" to="1920-07-11">11. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-11" notAfter-iso="1920-07-11">
+                    11. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-02-12" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0030/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0031/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0032/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0033/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0034/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0035/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0036/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0037/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0038/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0039/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0040/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0041/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0042/full/full/0/default.jpg" width="3840px" height="5760px"/></surface><surface ulx="0" uly="0" lrx="3840" lry="5760" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__36/files/images/IMG_0043/full/full/0/default.jpg" width="3840px" height="5760px"/></surface></facsimile>
+    <text type="Sitzungsprotokoll">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+      <lb break="yes"/>der Sitzung des Subkomitees des Verfassungsausschusses
+      <lb break="yes"/>vom 11. Juli 1920.
+      <lb break="yes"/>Beginn: 9h30 Vormittag.
+      <lb break="yes"/>Anwesend:
+      <lb break="yes"/>Dr. Etto Bauer, als Vorsitzender,
+      <lb break="yes"/>Dr. Joaef Aigher,
+      <lb break="yes"/>Heinrich Cleasin, als Berichterstatter
+      <lb break="yes"/>tr. Lobert Dannebere.
+      <lb break="yes"/>datuies il dersca.
+      <lb break="yes"/>Jodok Sinok,
+      <lb break="yes"/>dr. Ignez Seipel
+      <lb break="yes"/>Staxtssckretur trof.Dr. Michsel sayr.
+      <lb break="yes"/>Juroc. or. Naue &amp; e l e en als Espale des Mrfeffie
+      <lb break="yes"/>Von der Staatskanzlei:
+      <lb break="yes"/>Win-lat Fr. Georg rocällch.
+      <lb break="yes"/>Sektionsrat Dr. Egbert Kanaliaher
+      <lb break="yes"/>oberfinanzrat dr. Karl Uoser
+      <lb break="yes"/>alo cartettine
+      <lb break="yes"/>Kin.Vizosekretär dr. KurtFFisberge</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2
+      <lb break="yes"/>der Voreitzende er
+<lb break="no"/>teilt nach tröffnung der Sitzung den
+      <lb break="yes"/>serichterstatter clesein das
+      <lb break="yes"/>ort, der ss als seine fufgabe dar
+<lb break="no"/>stellt, aus den vorliegenden Entwürfen
+      <lb break="yes"/>die Differenzpunkte derauszuschälen,
+      <lb break="yes"/>un eine Grundtage der Verhandlungen zu
+      <lb break="yes"/>gewinnen. Zur Beratung liegen vor:
+      <lb break="yes"/>2.) der Antwurf, der gemeinsam
+      <lb break="yes"/>vom Stagtskanzler Dr. fenner und Staats
+<lb break="no"/>gekretär Dr. Mayr verfast wurde (Jenner
+      <lb break="yes"/>Mayr Intwurf):
+      <lb break="yes"/>2.) der Entwarf, der auf Grund der
+      <lb break="yes"/>Einzer Verhandlungen in Forn einer Oe
+<lb break="no"/>genüberstellung der Entwürfe des Staates
+      <lb break="yes"/>sekretüre Dr. Mayr und der soz.-den. Far
+<lb break="no"/>tei (Tr. Hanneberz) abgefaßt ist;
+      <lb break="yes"/>3.) der Intmurt der. großdeutechen
+      <lb break="yes"/>Vereinigung und
+      <lb break="yes"/>2.) der Intwurf des Nr.113pr (840
+      <lb break="yes"/>der Beilagen).
+      <lb break="yes"/>Vor Eintritt in die Debatte über
+      <lb break="yes"/>diese Entwürfe wird se aber notwendig
+      <lb break="yes"/>sein, sich darüber klar zu werden, ob
+      <lb break="yes"/>nan, wie es alle 3 fartelen vorscälsgen
+      <lb break="yes"/>eine Treiteilung der Kompetenzen vornen
+      <lb break="yes"/>men soll, u.zw. folgendermaßen:
+      <lb break="yes"/>K: Angelegenneiten, in denen dis
+      <lb break="yes"/>setzgebung und die Vollziehung den Bung
+      <lb break="yes"/>zustehen,
+      <lb break="yes"/>R: Angelegenheiten, in denen die
+      <lb break="yes"/>artzsehune den Funde und die Vollziche</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>den Ländern zustcht,
+      <lb break="yes"/>c: angelegerheiten, in denen dem
+      <lb break="yes"/>Funde nur die grundsätzliche Gesetzge
+<lb break="no"/>bung, den Ländern aber die Erlassung
+      <lb break="yes"/>der Ausführungsgesetze und die Voll
+<lb break="no"/>zienung zustchen.
+      <lb break="yes"/>Nachdem der Eerichterstatter in
+      <lb break="yes"/>ausfüurlicher Bärstellung die Unter
+<lb break="no"/>schiede der Kompetenzabgrenzung in den
+      <lb break="yes"/>eingange ermähnten Ertwirfen Punkt für
+      <lb break="yes"/>Punkt aufgezühlt und erörtert hat, ei
+<lb break="no"/>pffehlt er die Dehatte in der leise
+      <lb break="yes"/>zu führen, daß das Subkomitee zuerst
+      <lb break="yes"/>über die allgemeine Kompetenzaberen
+<lb break="no"/>zung und dann über das Recht zur. Er
+<lb break="no"/>lassung von Verordnungen schlüssig
+      <lb break="yes"/>werde.
+      <lb break="yes"/>Als erster ledner der Oeneralde
+<lb break="no"/>batte, die der Vorsitzende
+      <lb break="yes"/>daraufhin eröffnet, erklärt Staatere
+<lb break="no"/>kretär Dr. Ma y r, daß sich die län
+<lb break="no"/>der nach langnierigen Verhandlungen des
+      <lb break="yes"/>Tystenatik seines Entwurfes,
+      <lb break="yes"/>wie er der Linzer lagung vorlag und
+      <lb break="yes"/>nach dem Entwurf Dr. Dahnebergs ergänzt
+      <lb break="yes"/>wurde, also auch der Dreiteilung der
+      <lb break="yes"/>Zompstenzen einhellig angeschlossen.
+      <lb break="yes"/>nätten. Die Subsumierung der Kompeten
+<lb break="no"/>zen hingegen sei unter großen Schwie
+<lb break="no"/>rigkeiten in der Staatakanzlei unter
+      <lb break="yes"/>Litwirkung der außgebenden Keanten der
+      <lb break="yes"/>Verfassungs- und Vermaltungsahtellung</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4</p><p>erfolgt, wobel getrachtet wurde, un
+<lb break="no"/>der derarzichung zuständiger sacnkente
+      <lb break="yes"/>ein halsbares Und prahtioch durchfüer
+<lb break="no"/>bares sart zu schaffen.
+      <lb break="yes"/>debor den Eatrart, der unter den
+      <lb break="yes"/>Voreitz des Staatsfanzlers (Entaurf
+      <lb break="yes"/>tenner-Wayr) ausgearbeitet wurde, wäre
+      <lb break="yes"/>zu benerken, daß brihenner in der aur
+<lb break="no"/>zählung der Kompstenzen bereita den Ir
+<lb break="no"/>jedes einzelnen
+      <lb break="yes"/>Kaggskels  ünftigen dundesninlet
+<lb break="no"/>riumtestlegen wollte, so daß Ekt.I die
+      <lb break="yes"/>Angelegenheiten der Staatekanzlei,2
+      <lb break="yes"/>die des Staatsantes für leuderes u.s..
+      <lb break="yes"/>wiedergeben. Die Erreichung dieses Luaß
+<lb break="no"/>kes erscheint  wende wichtle, de
+      <lb break="yes"/>in der Verfrosung
+      <lb break="yes"/>keine Notwendigkeit bestent/Gen ir8
+      <lb break="yes"/>Kungakreis der Ministerien zum Ausdruck
+      <lb break="yes"/>doch
+      <lb break="yes"/>zu bringen, der Vielfachen Lenderungen
+      <lb break="yes"/>unterliegt. Die juristischen Mitarbei
+<lb break="no"/>ter der Staatskanzlei haben sich ebenso
+      <lb break="yes"/>wie die Fachleute der Staatsänter seiner
+      <lb break="yes"/>Anschauung angeschlogsen, das die sest
+      <lb break="yes"/>stenatik des Einzer und des Fr.tadne
+<lb break="no"/>berg'schen Entwurfes richtiger ach, als
+      <lb break="yes"/>Frage politischer hatur sei noch zu er
+<lb break="no"/>wähnen, daß mit den Sätz,, die winder
+      <lb break="yes"/>übertragen der Bunde“ zum Ausdruck ge
+<lb break="no"/>bracht werden soll, daß die länder pri
+<lb break="no"/>märe Genalt besitzen. Spätere Derztun
+<lb break="no"/>gen führen, ällerdinge huben noch nicht
+      <lb break="yes"/>alle Länder ihre Zustinnung gegeben,
+      <lb break="yes"/>zur fahl der Torte: Hundsssache ist
+      <lb break="yes"/>einsichtlich besstzgebung und Vollzie
+<lb break="no"/>hungs..</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>Abscnliefend regt der Stautsse
+<lb break="no"/>Kretür an, nicht den Ertnarf dr. Nenners
+      <lb break="yes"/>als Brundlage der Beratungen zu nehmen,
+      <lb break="yes"/>da sich dann die Differenzpunkte zui
+<lb break="no"/>schen den Intwürfen der chrietlicn
+<lb break="no"/>sorialgn, der Shzial-Demokraten und der
+      <lb break="yes"/>crösdeutschen Vereinigung leichter der
+<lb break="no"/>vorheben lassen.
+      <lb break="yes"/>Auch Br. Seippl beantragt, sich mit
+      <lb break="yes"/>der Syetenatik der letzteren Entrürfe
+      <lb break="yes"/>einverstanden zu erklären, worauf der
+      <lb break="yes"/>Berichterptätter die
+      <lb break="yes"/>notwendigkeit einer lahhengesetzgebung.
+      <lb break="yes"/>des Bundes erörtert, die gr mit dei
+<lb break="no"/>Zeit
+      <lb break="yes"/>spielen aus frühgrgrbelegt.
+      <lb break="yes"/>zur trage def (Systenatik verneist
+      <lb break="yes"/>Min.Rat Dr. F r oghli ch Garauf,
+      <lb break="yes"/>daß zahlreiche Mlaterien in die Komge
+<lb break="no"/>tenz verschiedener östaatsämter,gehären.
+      <lb break="yes"/>und bei einer Cliederung des Stoffes
+      <lb break="yes"/>nach bundesministerien Kompetenzstrhi
+<lb break="no"/>tigkeiten nicht zu vermeiden wären, daß
+      <lb break="yes"/>andererseits
+      <lb break="yes"/>aberfauch Angelegenheitsn in der Ver
+<lb break="no"/>fassung erwännt werden ulssen, die lei
+<lb break="no"/>Den Staatsant zugencfen, die z.B. die
+      <lb break="yes"/>Vermaltungsgerichtsbarkeit.
+      <lb break="yes"/>zügt Ain
+<lb break="no"/>Trof. dr. Kelsen
+      <lb break="yes"/>zu, daß zwar er die inzer untwirfe
+      <lb break="yes"/>wie alle übrigen mangelhaft und refornbedürftisg seten.
+      <lb break="yes"/>daß sich aber eine Kompgtenzabgresizung
+      <lb break="yes"/>wie sie der Entwurf Dr Renners versucht
+      <lb break="yes"/>naca zwei besichtspanhten)nicht durch
+<lb break="no"/>rühren lüsse und Unstignigkeitzin Me
+<lb break="no"/>folge nabe. Iner er redst einer lähpens</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6</p><p>gesetzgebung das dort, nur müsse narh
+      <lb break="yes"/>die kunder verpflichten, diese Gesetze
+      <lb break="yes"/>dinren einer bestinnten Frist durcund
+<lb break="no"/>führen.
+      <lb break="yes"/>der Vorsitzende bringt hierauf der
+      <lb break="yes"/>Antrar Dr.Seinel zur Abstinnung, das
+      <lb break="yes"/>die Dreiteilung beizthalten get, wanit
+      <lb break="yes"/>implichte festgestellt wird, daß alles,
+      <lb break="yes"/>was nicht ausdrücklich den Kunde ver
+<lb break="no"/>behalten ist, in den Uirkungekreis der
+      <lb break="yes"/>Lünder fallt (Antrag angenommen). sei
+<lb break="no"/>ters beantragt er, dad mit Rücksient
+      <lb break="yes"/>auf die vorliegende Cegenüberstellung
+      <lb break="yes"/>des carietlica-sozialen und des sozial
+<lb break="no"/>denokratischen Entwarfes in der linzer
+      <lb break="yes"/>rassung - der großdeutsche entnurf
+      <lb break="yes"/>wird sieh unschner mitbenandeln lassen.
+      <lb break="yes"/>den inzer Intwurf als Grundiage der
+      <lb break="yes"/>Verhandiung zu nehnen, wobei es not
+<lb break="no"/>im Art. 10.
+      <lb break="yes"/>wendig sein wird, is nur teitreien
+      <lb break="yes"/>benandelte Dinge geneindan mit Frt.11
+      <lb break="yes"/>zu benandeln. (angenomnen).
+      <lb break="yes"/>leitet hierauf Eingel
+<lb break="no"/>Der VorsitzendNeßerabungen
+      <lb break="yes"/>ein und das Subkomitée besculießt über
+      <lb break="yes"/>seinen Antrag, daß abs.1 des Art.10
+      <lb break="yes"/>zu lauten het: Fundessache ist die
+      <lb break="yes"/>Gertzgehung und Voliziehung in falcens
+      <lb break="yes"/>den Argelegenheiten. In Felgenden da
+<lb break="no"/>ben darn die Gestinnten Ertikeln zu
+      <lb break="yes"/>entfallen.
+      <lb break="yes"/>zu rkt. I empfichlt der Berichter
+<lb break="no"/>statter nach den Tort ,Ausland einen
+<lb break="no"/>Zügen: lusbesondere der abschlutallen</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>7</p><p>zwar nach Arscheu
+      <lb break="yes"/>Frärel.
+      <lb break="yes"/>ung des Staubssekretire tr. larr nient
+      <lb break="yes"/>notwendig sei, aber, e
+      <lb break="yes"/>—einen wische des Stautsantes für
+      <lb break="yes"/>Kenseres entgegenkonnk,
+      <lb break="yes"/>-. Nächden auch Pros. Dr.
+      <lb break="yes"/>elsen diesen Vornchtag unterstütri.
+      <lb break="yes"/>weil sich in den Fändern die Fendenz
+      <lb break="yes"/>zum Abschluß von Staatsvertrügen zeige,
+      <lb break="yes"/>wird der Antrag angenomnen.
+      <lb break="yes"/>In diesem Zusamnennänge gelangt
+      <lb break="yes"/>auch die Frage zur Trörterung, wer zur
+      <lb break="yes"/>Kriegserklärung kompetent sei, wobei
+      <lb break="yes"/>itaatssekretär Dr. Mayr dur die Schrie
+<lb break="no"/>rigkeit hinweist; daß es noch nicht ei
+<lb break="no"/>cher sei, in welcher Form die Gesetzge
+<lb break="no"/>bung durchgefüart wird.- Bundeerat oder
+      <lb break="yes"/>dundestug. Ia sei fraglich, welche or
+<lb break="no"/>gabe ein solches besetz zu beschließen.
+      <lb break="yes"/>hätten, nicht fraglich gei es aber, daß
+      <lb break="yes"/>die Länder eine Kriegserzlärung nicht
+      <lb break="yes"/>beschließen können. Prof.Dr. Kelsen
+      <lb break="yes"/>gibt zu bedenken, das wir nach dem
+      <lb break="yes"/>Friedensvertrag keinch Trieg fuhren
+      <lb break="yes"/>dürfen und auch kein lnetrament dafür
+      <lb break="yes"/>schon
+      <lb break="yes"/>das politi
+<lb break="no"/>haben.
+      <lb break="yes"/>wirdeessich
+      <lb break="yes"/>senen Tründenfnicat enpfeulen, au die
+      <lb break="yes"/>spitze dieser Verfussung die Kriegser
+<lb break="no"/>klärung zu stellen. flch Staatssekreter
+      <lb break="yes"/>Nr. 12Ir möchte nur das unbedingt Not
+<lb break="no"/>wendige aufnehmen.
+      <lb break="yes"/>Funkt 2 wird in der inzer Fasenee
+      <lb break="yes"/>angenommen, Nar wird über antrag des</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>Vorsitzenden anstatt des lortes, die
+<lb break="no"/>seur das dort, lan gesetzt.
+      <lb break="yes"/>Dei Pkt.3 entwickelt sich über
+      <lb break="yes"/>die Einfährung der Pürgerliste eine
+      <lb break="yes"/>längere Auseinandersetzung, in deren
+      <lb break="yes"/>Verlauf Win.tat Dri Prbeklich
+      <lb break="yes"/>und Sekt.tat dr. Mannlicher
+      <lb break="yes"/>den Vert der Führung solcher listen
+      <lb break="yes"/>nach belgischen Muster mit) der Vich
+<lb break="no"/>tigkeit dieses Behelfes besi wahlen in
+      <lb break="yes"/>den Bundestag und bei Volksabstinmun
+<lb break="no"/>gen begränden, Dr. Danneberg und X.12-
+      <lb break="yes"/>dgrach aber der Anschauung (sind, daß
+      <lb break="yes"/>bpi den ranlen, trotzdem wehgen der un
+<lb break="no"/>vermeidlichen Mangelhaftigheit solcher
+      <lb break="yes"/>Aufzeichnungen jedesnal nehe fählerli
+<lb break="no"/>sten unentbehrlich wären uhd die Zo
+<lb break="no"/>sten der Fridenthaltung ramentlich in
+      <lb break="yes"/>der Miltionenstadt Wien die Finanziel
+<lb break="no"/>le letsthöfsfanigkeit des Silastes meit
+      <lb break="yes"/>übersteigen.
+      <lb break="yes"/>Zeinesfalls dürfe die Khfnanne in
+      <lb break="yes"/>Die Bürgerliste an eine gesißee Seshar
+<lb break="no"/>tigkeit gebunden werden. Staafssekretär
+      <lb break="yes"/>Dr. Ma y r erklärt, er habe(sich ver
+<lb break="no"/>pflichtet gefühlt, nervorzuheben, das
+      <lb break="yes"/>die Traxis für die Bürgerlisten spreche,
+      <lb break="yes"/>während Dr. Selpel gegen eine Streichung
+      <lb break="yes"/>des Beisatzee nichts einzuwenden hat,
+      <lb break="yes"/>weil die Angelegenheit noch nieut spruch
+<lb break="no"/>reif sei.
+      <lb break="yes"/>da auch der Voreitzknde
+      <lb break="yes"/>den Beisatz nicht für notwendiehält,
+      <lb break="yes"/>weil die Voltzienung in aulangeflegen
+<lb break="no"/>heiten</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>7 vor dem Worte, Bundesfinanzen</p><p>und vol
+      <lb break="yes"/>indessachs set
+      <lb break="yes"/>daher (Bundesregierung
+      <lb break="yes"/>unddie
+      <lb break="yes"/>e enterung etwer bürger
+<lb break="no"/>liste verfügen könne, wird gunkts1
+      <lb break="yes"/>der Tessuag des Entwarfee augesonne
+      <lb break="yes"/>jedoch entrattt der Sechsatz, sonie
+      <lb break="yes"/>die Einrichtung und Wiürung der Bür,er
+      <lb break="yes"/>Tister.
+      <lb break="yes"/>Ei Reginne des Mettes 4hit in
+      <lb break="yes"/>Gegensatz zur sonstigen Streiehung der
+      <lb break="yes"/>bestimnte Artikel)stehen zu bleiben,
+      <lb break="yes"/>hinrichtlieh des übrigeh ortlautes
+      <lb break="yes"/>verweist der Voreitzenke auf den fer
+<lb break="no"/>aerlöchen Antwurz, dersaiar überall,
+      <lb break="yes"/>wo vor den Ländern die fiede ist, auch
+      <lb break="yes"/>die Semeindent anfchrt.
+      <lb break="yes"/>(Megelung, welche) abgeben den
+      <lb break="yes"/>bunde, den fändern und ben Senginden.
+      <lb break="yes"/>zustehen; legelung der Antellnahne der
+      <lb break="yes"/>lönder und ceneinden dasen Einnahnen
+      <lb break="yes"/>des Fundes und Regelung der Beiträge
+      <lb break="yes"/>und Zuschüsse aus Bundeenifteln zu den
+      <lb break="yes"/>usgeben der Länder und Sangioden,.
+      <lb break="yes"/>Dr. Tanneberg schließt eien der Anschau
+<lb break="no"/>ung Dr. Lenner's an, da die Sorge un die
+      <lb break="yes"/>Finanzen der Länder und der Chnfinden
+      <lb break="yes"/>gleieh brennend sel. Sollte dis Ange
+<lb break="no"/>lung der Semeindefinanzen den Jändern
+      <lb break="yes"/>überlassen bleiben, dann iet (zu fürch
+<lb break="no"/>ten, daf die großen Aussinanderpetzung
+      <lb break="yes"/>gen zwischen sund und ändern dahn eret
+      <lb break="yes"/>noch zwischen Geneinden und Ländsen
+      <lb break="yes"/>durchgekämptt werden müssen, wünrend
+      <lb break="yes"/>so eine einmeitliche Regelung möglich
+      <lb break="yes"/>wäre. Grof. Nr. lelsen weint in verfas</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>-10-
+      <lb break="yes"/>sungstechnischer Ninsicht die Einsigung
+      <lb break="yes"/>davon ablängig machen zu müssen, nie
+      <lb break="yes"/>die bemeinden in die Verfassung einge
+<lb break="no"/>gliedert werden, denn Fr. kenner habs
+      <lb break="yes"/>die bemeinden den Ländern selbständig
+      <lb break="yes"/>gegenübergestellt. Den gegentiber ver
+<lb break="no"/>weist der Vorsitzende auf die etete For
+<lb break="no"/>derung der Geweinden nach Zuneisungen
+      <lb break="yes"/>seitens des Staates, deren löhe dieser
+      <lb break="yes"/>selpst regeln solle und erwühnt einen
+      <lb break="yes"/>Gesetzentwurf der Regierung, in den den
+      <lb break="yes"/>Gemeinden verschiedene Steuern zugenle
+<lb break="no"/>sen werden (Insatzsteuer, Hauszinssten
+<lb break="no"/>er, Meischsteuer, stz.). Ein Sonnen
+      <lb break="yes"/>werde immer bestehen und es sei nicht
+      <lb break="yes"/>ungefährlieh, die Frage nur voh staatss
+      <lb break="yes"/>rechtlichen Standpunkt zu behandeln.
+      <lb break="yes"/>Staatssekretär Dr. Marr würde
+      <lb break="yes"/>es für praktischer halten, das Vorbild
+      <lb break="yes"/>der deutschen Reichsverfassung zu neh
+<lb break="no"/>men; man müste dann aueh auf dim zu
+      <lb break="yes"/>schaffende Gemeindevertände Rücksicht
+      <lb break="yes"/>nehnen. In keiner anderen Verfaseung
+      <lb break="yes"/>sei eine solche Heranziehung der Genein
+<lb break="no"/>den festgelegt. enn wir dies als Bun
+<lb break="no"/>dessache einfügen, so werden die Gemein
+<lb break="no"/>den in einer ihrer wichtigsten Ingele
+<lb break="no"/>genheiten von den Findern losgelöst.Die
+      <lb break="yes"/>Länder würden dageren so heftig Wider
+<lb break="no"/>spruch erheben, daß das ganze Verfas
+<lb break="no"/>sungswerk in Frage käne, denn nach de
+<lb break="no"/>ren Anschauung gäbe es übernaupt.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11</p><p>keine Fundermittel, sondern fur landes
+<lb break="no"/>mittel über die der Fund verfügt. N
+      <lb break="yes"/>der Versitzende widerspricht die
+<lb break="no"/>ser Auffassung, da man in Kinblick auf
+      <lb break="yes"/>die staatlichen Ueberweisungen mit mehr
+      <lb break="yes"/>Lecht sagen könne, daß der Kund die Re
+<lb break="no"/>dürfniese der Händer bestreiteft. Inner
+<lb break="no"/>hin müser dem Bunde das Recat gewährt
+      <lb break="yes"/>werden, über Soneindesinanzen abzu
+<lb break="no"/>sprechen, wenn er über Geneindeangele
+<lb break="no"/>genheiten, wie z.F. die lakale Polizei
+      <lb break="yes"/>entscheiden darf; in diesen Falle ent
+<lb break="no"/>scheidet der Bund, ob er für die Aus
+<lb break="no"/>fünrung des übertragenen Virkungskrei
+<lb break="no"/>ses eine Entschädigung gewänrt. M. I1-
+      <lb break="yes"/>dersch fügt hinzu, das senließlich
+      <lb break="yes"/>aus den Steuerquellen diens sowohl die
+      <lb break="yes"/>fänder wie die Sensinden dotiert werden
+      <lb break="yes"/>müesen.
+      <lb break="yes"/>Maenden Staatesckretär Pr. X
+      <lb break="yes"/>ernähnt, daß die Gemeinden erst seit
+      <lb break="yes"/>Errichtung der Republik aus Not staat
+<lb break="no"/>liche Milfe in Anspruch nennen müssen,
+      <lb break="yes"/>der Foraitzende die Trage
+      <lb break="yes"/>meritorisch derzeit als unlösbar bezeich
+      <lb break="yes"/>net und die vom Staatesckretär Br.1err
+      <lb break="yes"/>angekündigte Vorlage geeigneten Stu
+<lb break="no"/>diermaterials begrüst; beantragt Dr.
+      <lb break="yes"/>seipel in Sinne einer Anregune Lel
+      <lb break="yes"/>pincks den Antrag Fr. Danneberge zu
+      <lb break="yes"/>vertagen, welcher Ertrag angenormen
+      <lb break="yes"/>wird. In übrigen wird der ikt.1 im
+      <lb break="yes"/>vortlant angenonnen. Phense auch 7Nt. 3.</p><p/><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>12</p><p>meenden ein entrag bleseine aus Win
+<lb break="no"/>schaltung der Torte mit Ausnahne der
+      <lb break="yes"/>ändertanken und generblichen Kredit
+<lb break="no"/>anstalten) nach den ort „lankwesen?
+      <lb break="yes"/>in Verlauf einer Detatte, an der sich
+      <lb break="yes"/>der Versitzende, Fetsk Winck, Nr. Ie1-
+      <lb break="yes"/>sel, K. Eldergen, S.R. Dr. Hannliener und
+      <lb break="yes"/>MrrE.Nr. Heleen Ueteiligen, abgelchat
+      <lb break="yes"/>beiden
+      <lb break="yes"/>wird. Insbesondere dieNetzteren ma
+<lb break="no"/>chen dagegen gelfend, daß die Steliung
+      <lb break="yes"/>der fänder ebensd wie die des Bundes,
+      <lb break="yes"/>soweit sie
+      <lb break="yes"/>sind,
+      <lb break="yes"/>strüger von Trivatrechten duren die
+      <lb break="yes"/>Bestinmungen des Irtiksle unberünrt
+      <lb break="yes"/>bleiben und sich der Ausdruck, Vollzis
+<lb break="no"/>hung ausschlieblide auf die hoheibli
+<lb break="no"/>che, nicht auf dief mirtschaftliche Re
+<lb break="no"/>reiung bezicht; auch bei der Unteretel
+<lb break="no"/>lung des Verksnranfsens unter die Ge
+<lb break="no"/>setzgebung und Tolfziehung des Sundes
+      <lb break="yes"/>sel nicht gemeint,(das alle Landesbah
+<lb break="no"/>nen fundeshannen wörden müssen.
+      <lb break="yes"/>rkl.6 wird in sportlant angenon
+      <lb break="yes"/>deegleichen ikt.2, in den Dr. Narnebere
+      <lb break="yes"/>das Kraftfaarnesen aufgenonnen schen.
+      <lb break="yes"/>möchts. Zu dieser Frage bemerkt Stadte
+      <lb break="yes"/>sekretür dr. Ma yr, daß mit der Rege
+<lb break="no"/>lung des Turchzugssperkehres die Bundee
+<lb break="no"/>kompetenz auf diesen Lebiet genügend
+      <lb break="yes"/>genahrt sei; so ifbeauch die Scnnetz
+      <lb break="yes"/>eine Leihe von Straßen als Durchzues
+<lb break="no"/>strafen erklärt, wie es bei uns mit des
+      <lb break="yes"/>lauptlinten der leicnestraden dereege
+<lb break="no"/>scnchen missen. Segen( die Einterichung</p><p/><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13</p><p>spricht auch, daß es sich nicht un
+      <lb break="yes"/>ein gegenlosscnes Tanzes handelt, sor
+<lb break="no"/>dern nur um eihen feil der Betätigung
+      <lb break="yes"/>das Kraftfahrwesen
+      <lb break="yes"/>gut den Straßen, weshalt —Vn sinver
+<lb break="no"/>nehnen mit den Stautsant für Verkehre
+<lb break="no"/>wegen in dieser funk- ausgelassen wurde.
+      <lb break="yes"/>eoentliche ehänderunge, Ereeten
+      <lb break="yes"/>den Tkt. d des frd.10. Niezu benerkt
+      <lb break="yes"/>Lastesckretur Nr. /3rr, daß die vorlie
+<lb break="no"/>gende Fertierung das Ergetnis laugnie
+<lb break="no"/>riser Verhandlungen in Saisburg gewesen
+      <lb break="yes"/>sei, bei denen es pit schzerer Wühe er
+<lb break="no"/>reicht würde, daß das lasser- und Flek
+<lb break="no"/>trizitätsnesen der Grundsatzregelung
+      <lb break="yes"/>des bundes unterstellt wurde, aller
+<lb break="no"/>dinge hat sich die sozialdenokratische
+      <lb break="yes"/>an der Fastung dieser Beschlüsse
+      <lb break="yes"/>Parteihicht heteiligt.
+      <lb break="yes"/>in Laufe der Debutte, an der sich
+      <lb break="yes"/>auder den Staatssckrettr, den Vorsitzens
+      <lb break="yes"/>den und den Merichterstatter duch die
+      <lb break="yes"/>konitäendiglieder Eldersch. Finck, Dr.
+      <lb break="yes"/>Seipel und dr. Iigner betfiligen, wird
+      <lb break="yes"/>an der Hand verschiedener Geispiele ge
+<lb break="no"/>zeigt, welche Minderniese der Kapitalse
+      <lb break="yes"/>beschaffung der länder besin Außbau der
+      <lb break="yes"/>wasserkräfte entgegenstehen, und das aus
+<lb break="no"/>ländische littel fir besonders ertrage
+<lb break="no"/>reiche frojekte nohl zur Kreffxxx ztr
+<lb break="no"/>kun gegeben werden, daß aber sdadureh
+      <lb break="yes"/>eine einheltliche unsprstenatigche Ver
+<lb break="no"/>wertung säutlicher wasssekräftd bester
+<lb break="no"/>reichs urmöglich genacnt wird. In
+      <lb break="yes"/>Denischland wäre es anddauhar, daß ei</p><p/><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>14
+      <lb break="yes"/>zum deispiel dagern bein dasbau gesef
+      <lb break="yes"/>wasserkräfte den lelche irgendein Zurf
+<lb break="no"/>ständeie macht.
+      <lb break="yes"/>Zur Annahne gelangt folgende Tael
+      <lb break="yes"/>sunf des Funktes c:
+      <lb break="yes"/>Vergwesen; die Ausfürrung der
+      <lb break="yes"/>Regulierung und die Instandhaltung der
+      <lb break="yes"/>schiffbaren und flößbaren Gewüeser,
+      <lb break="yes"/>dann solcher Genässer, welche die Erd
+      <lb break="yes"/>ze gegen das Ausland oder zwischen lih
+      <lb break="yes"/>dern bilden, oder die zwei oder mehre
+<lb break="no"/>re Länder durchfließen, den Bau der jen
+      <lb break="yes"/>nigen Fasserstraten, die das Znland
+      <lb break="yes"/>mit den Zusland, oder die mehrere lön
+<lb break="no"/>der verbinden; dnr Dampfkessel- und
+      <lb break="yes"/>Kraftmaschinennesen; Vernessungswesen
+      <lb break="yes"/>Abgelehnt wurde der Antrag auf
+      <lb break="yes"/>Einschaltung der Torte, die Angelegene
+      <lb break="yes"/>neiten der Tohlfahrtswälder (Schänz-
+      <lb break="yes"/>und Kannwälder)sowie das Aufforstunge
+      <lb break="yes"/>wesen,“ Die von sozialdenokratischer
+      <lb break="yes"/>Seite gewünschte Einschaltung des Vor
+<lb break="no"/>bes lasserrechtonesen“ sowie der in
+<lb break="no"/>trag Eidersch auf Aufnahne der Worte
+      <lb break="yes"/>Mektrizitktswesen und industrielle
+      <lb break="yes"/>Vermertung der Bewisser.“
+      <lb break="yes"/>nachden der Vorsitzende die Sit
+<lb break="no"/>glieder des Subkomitées, deren Entre
+<lb break="no"/>ge abgelennt wurden, zur rechtzeitigen
+      <lb break="yes"/>Vorlage der Hinoritätsvoten eingeladen
+      <lb break="yes"/>nst, scnliest er die Sitzung um 12 Uar
+      <lb break="yes"/>30 dinaten und berannt die Fortsetzung
+      <lb break="yes"/>aur Montag, den 12. Juli, 10 der vorn.
+      <lb break="yes"/>an.</p></div></body>
+    </text>
+</TEI>
