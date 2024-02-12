@@ -58,7 +58,7 @@ def get_img_names_from_goobi_mets(bv_doc_id):
     for flocat in flocats:
         img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
         try:
-            img_name = re.match(r".*?(IMG_[0-9]+)\.[a-zA-Z]+[^/]*$", img_url).group(1)
+            img_name = re.match(r".*?(IMG_[0-9]+(?:_\d+)?)\.[a-zA-Z]+[^/]*$", img_url).group(1)
             # well i could have used the correct xpath but no (elements are doubled, there is default & representation)
             if img_name not in image_names:
                 image_names.append(img_name)
@@ -328,6 +328,8 @@ def create_new_xml_data(
     doc_metadata: dict,
 ):
     # # get body & filename
+    bv_doc_id = doc_metadata["bv_id"]
+    print(f"processing {bv_doc_id}")
     body_node = doc.any_xpath(".//tei:body")[0]
     make_all_section_divs(doc)
     substitute_useless_elements(
@@ -344,7 +346,7 @@ def create_new_xml_data(
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
-    faksimile = get_faksimile_element(doc, bv_doc_id=doc_metadata["bv_id"])
+    faksimile = get_faksimile_element(doc, bv_doc_id=bv_doc_id)
     # # get metadata
     context = {
         "project_md": PROJECT_MD,
@@ -356,7 +358,7 @@ def create_new_xml_data(
     xml_data = template.render(context)
     doc = get_xml_doc(xml_data)
     if doc is not None:
-        tei_file_path = os.path.join(TEI_DIR, doc_metadata["bv_id"] + ".xml")
+        tei_file_path = os.path.join(TEI_DIR, bv_doc_id + ".xml")
         print("writing", tei_file_path)
         doc.tree_to_file(tei_file_path)
 
@@ -519,6 +521,7 @@ def process_all_files():
                     )
                 else:
                     doc_metadata = resolve_types(collection_metadata[transkribus_doc_id])
+                    print(f"loading {transkribus_doc_id}")
                     mets_doc = return_mets_doc(
                         transkribus_doc_id, transkribus_collection_id
                     )
