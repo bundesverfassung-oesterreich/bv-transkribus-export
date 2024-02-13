@@ -211,7 +211,21 @@ def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
     parent_element.remove(lb)
 
 
-
+def replace_unleserlichs(doc):
+    for text_node in doc.any_xpath('//tei:div[@type="main"]//text()[normalize-space()="unleserlich" or normalize-space()="Unleserlich"]'):
+        gap = NewElement.gap(reason="illegible")
+        parent = text_node.getparent()
+        if text_node.is_text:
+            if len(parent) == 0 and parent.xpath("local-name()") == "hi":
+                parent.addnext(gap)
+                parent.getparent().remove(parent)
+            else:
+                gap.tail = ""
+                parent.text = ""
+                parent.insert(0, gap)
+        else:
+            parent.tail=""
+            parent.addnext(gap)
 
 def replace_hi(doc: TeiReader):
     for span in doc.any_xpath("//tei:hi"):
@@ -222,9 +236,9 @@ def replace_hi(doc: TeiReader):
             span.tag = "ul"
             _ = span.attrib.pop("rend")
         elif span.xpath("@rend='italic:true;'"):
-            span.attrib["rend"] = "italic"
+            span.attrib["rend"] = "emphasis"
         elif span.xpath("@rend='bold:true;'"):
-            span.attrib["rend"] = "bold"
+            span.attrib["rend"] = "emphasis"
         else:
             span.attrib["rend"] = ""
 
@@ -350,6 +364,7 @@ def create_new_xml_data(
     create_main_div(doc)
     type_lb_elements(doc)
     replace_hi(doc)
+    replace_unleserlichs(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
