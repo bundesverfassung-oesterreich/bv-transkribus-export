@@ -323,6 +323,12 @@ def create_main_div(doc: TeiReader):
     parent_div = doc.any_xpath("//tei:body/tei:div[1]")[0]
     parent_div.attrib["type"] = "main"
 
+def add_break_attrib_to_pbs(doc):
+    for pb in doc.any_xpath(
+        "//tei:pb[not(@break)]"
+    ):
+        pb.attrib["break"] = "yes"
+
 def create_new_xml_data(
     doc: TeiReader,
     doc_metadata: dict,
@@ -340,6 +346,7 @@ def create_new_xml_data(
     )
     remove_useless_atributes(doc)
     remove_useless_elements(doc)
+    add_break_attrib_to_pbs(doc)
     create_main_div(doc)
     type_lb_elements(doc)
     replace_hi(doc)
