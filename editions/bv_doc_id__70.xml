@@ -103,12 +103,12 @@ Umfang: 6 Seiten</note>
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3226" lry="5235" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0002/full/full/0/default.jpg" width="3226px" height="5235px"/></surface><surface ulx="0" uly="0" lrx="3255" lry="5333" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0003/full/full/0/default.jpg" width="3255px" height="5333px"/></surface><surface ulx="0" uly="0" lrx="3388" lry="5292" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0004/full/full/0/default.jpg" width="3388px" height="5292px"/></surface><surface ulx="0" uly="0" lrx="3308" lry="5327" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0005/full/full/0/default.jpg" width="3308px" height="5327px"/></surface><surface ulx="0" uly="0" lrx="3206" lry="5218" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0006/full/full/0/default.jpg" width="3206px" height="5218px"/></surface><surface ulx="0" uly="0" lrx="3183" lry="5202" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__70/files/images/IMG_0007/full/full/0/default.jpg" width="3183px" height="5202px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Vertraulich!
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Vertraulich!
       <lb break="yes"/>Kabinettsprotokoll Nr. 12
       <lb break="yes"/>vom 20. Mai 1919.
       <lb break="yes"/>Anwesend:
@@ -125,7 +125,7 @@ Umfang: 6 Seiten</note>
       <lb break="yes"/>1. Ergebnis der Länderkonferenz über den Reise- und Semmerver
 <lb break="no"/>ketr.
       <lb break="yes"/>2. Vertnatung Deutsch-Südmährens bei der Friedenskonferenz.
-      <lb break="yes"/>Folio 1-98</p><p>1</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2
+      <lb break="yes"/>Folio 1-98</p><p>1</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2
       <lb break="yes"/>3. Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländi
 <lb break="no"/>scher Währung und über die Heranziehung des Forstbesitzes zur Sicher
 <lb break="no"/>stellung solcher Anlehen.
@@ -151,7 +151,7 @@ Umfang: 6 Seiten</note>
       <lb break="yes"/>13. Zusammensetzung des Bureaus der Sozialisierungskommission und
       <lb break="yes"/>Bezüge ihrer Beamten.
       <lb break="yes"/>14. Beendigung der Wirksamkeit des Obersten Sanitätsrates und des
-      <lb break="yes"/>Obersten Lebensmittelbeirates.</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>15. Gesetzentwurf über die Regelung des Verkehrs mit Getreide und
+      <lb break="yes"/>Obersten Lebensmittelbeirates.</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>15. Gesetzentwurf über die Regelung des Verkehrs mit Getreide und
       <lb break="yes"/>Mahlprodukten.
       <lb break="yes"/>1.
       <lb break="yes"/>Ergebnis der Länderkonferenz über den
@@ -181,7 +181,7 @@ Umfang: 6 Seiten</note>
       <lb break="yes"/>weiterhin in Aussicht gestellt, den
       <lb break="yes"/>ländern zum Zwecke der besseren Versor
 <lb break="no"/>gung während der Zeit, welche Für den
-      <lb break="yes"/>Sommerverkehr in Betracht kommt, beson-</p><p/><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4
+      <lb break="yes"/>Sommerverkehr in Betracht kommt, beson-</p><p/><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4
       <lb break="yes"/>dere Lebensmittelzuschübe zur Verfügung
       <lb break="yes"/>zu stellen.
       <lb break="yes"/>Der Kabinettsrat nimmt diesen Be
@@ -215,7 +215,7 @@ Umfang: 6 Seiten</note>
       <lb break="yes"/>Anlehen.
       <lb break="yes"/>Präsident Seitz verweist.
       <lb break="yes"/>derauf, dass der Kabinettsrat in seiner
-      <lb break="yes"/>Sitzung am 2. Mai d.J. den Beschluß</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>Die fünfte Länderkonferenz A.
+      <lb break="yes"/>Sitzung am 2. Mai d.J. den Beschluß</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>Die fünfte Länderkonferenz A.
       <lb break="yes"/>1
       <lb break="yes"/><hi rend="bold">unleserlich</hi> wirde verlautbart
       <lb break="yes"/>Communicque.
@@ -253,7 +253,7 @@ Umfang: 6 Seiten</note>
 <lb break="no"/>frischlern besucht werden, dürfte dadurch die Möglichkeit
       <lb break="yes"/>geboten sein, auch der ortsansäßigen Bevölkerung eine Er
 <lb break="no"/>leichterung ihrer Versorgung zu bieten.
-      <lb break="yes"/>000001</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p><hi rend="bold">Unleserlich</hi>
+      <lb break="yes"/>000001</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p><hi rend="bold">Unleserlich</hi>
       <lb break="yes"/>Vollzugsanweisung.
       <lb break="yes"/>der Staatsregierung vom 19. Mai 1919, mit welcher die
       <lb break="yes"/>Vollzugsanweisung.

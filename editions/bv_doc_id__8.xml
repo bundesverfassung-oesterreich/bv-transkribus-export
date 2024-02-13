@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2796" lry="4506" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0002/full/full/0/default.jpg" width="2796px" height="4506px"/></surface><surface ulx="0" uly="0" lrx="2743" lry="4428" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0003/full/full/0/default.jpg" width="2743px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2781" lry="4496" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0004/full/full/0/default.jpg" width="2781px" height="4496px"/></surface><surface ulx="0" uly="0" lrx="2709" lry="4448" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0005/full/full/0/default.jpg" width="2709px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2758" lry="4464" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0006/full/full/0/default.jpg" width="2758px" height="4464px"/></surface><surface ulx="0" uly="0" lrx="2737" lry="4450" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0007/full/full/0/default.jpg" width="2737px" height="4450px"/></surface><surface ulx="0" uly="0" lrx="2754" lry="4448" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0008/full/full/0/default.jpg" width="2754px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2747" lry="4454" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0009/full/full/0/default.jpg" width="2747px" height="4454px"/></surface><surface ulx="0" uly="0" lrx="2736" lry="4448" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2739" lry="4447" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0011/full/full/0/default.jpg" width="2739px" height="4447px"/></surface><surface ulx="0" uly="0" lrx="2638" lry="4428" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0012/full/full/0/default.jpg" width="2638px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2722" lry="4445" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0013/full/full/0/default.jpg" width="2722px" height="4445px"/></surface><surface ulx="0" uly="0" lrx="2717" lry="4432" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0014/full/full/0/default.jpg" width="2717px" height="4432px"/></surface><surface ulx="0" uly="0" lrx="2743" lry="4428" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0015/full/full/0/default.jpg" width="2743px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2732" lry="4431" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0016/full/full/0/default.jpg" width="2732px" height="4431px"/></surface><surface ulx="0" uly="0" lrx="2748" lry="4423" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0017/full/full/0/default.jpg" width="2748px" height="4423px"/></surface><surface ulx="0" uly="0" lrx="2705" lry="4415" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0018/full/full/0/default.jpg" width="2705px" height="4415px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Falser
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Falser
       <lb break="yes"/>Die Verfassung des Bundesstaates
       <lb break="yes"/>-----------
 <lb break="no"/>Oesterreich.
@@ -141,7 +141,7 @@
       <lb break="yes"/>Auch ohne solches Ersuchen kann die Bundesgewalt gegen Störun
 <lb break="no"/>gen der öffentlichen Ruhe und Ordnung innerhalb des Gebietes eines
       <lb break="yes"/>1) Dr. Straffner beantragt, diesem Artikel noch den Satz anzu
-<lb break="no"/>schließen: Reichsrecht bricht Landrecht.</p><p>10</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>- 2 -</p><p>oder mehrerer der Bundesglieder einschreiten, wenn die Landesregie
+<lb break="no"/>schließen: Reichsrecht bricht Landrecht.</p><p>10</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>- 2 -</p><p>oder mehrerer der Bundesglieder einschreiten, wenn die Landesregie
 <lb break="no"/>rung außer Stande ist, die Unruhen zu unterdrücken, oder wenn zu be
 <lb break="no"/>fürchten ist, daß sie auf das Gebiet anderer Bundesglieder übergreifen.
       </p></div>
@@ -176,7 +176,7 @@
       <lb break="yes"/>Sicherheit innerhalb seiner Gebietsgrenzen eine Landjägertruppe auf
 <lb break="no"/>zustellen, und auf eigene Kosten zu erhalten. Die Größe der Land
 <lb break="no"/>jägertruppe wird nach der Zahl der Bewohner für jedes Bundesmit
-<lb break="no"/>glied in der Art bemessen, dass auf je 500 Einwohner (nach der</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>- 3 -</p><p>jeweilig letzten Volkszählung) wenigstens ein Mann entfällt.
+<lb break="no"/>glied in der Art bemessen, dass auf je 500 Einwohner (nach der</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>- 3 -</p><p>jeweilig letzten Volkszählung) wenigstens ein Mann entfällt.
       <lb break="yes"/>Die Festsetzung der Bedingungen der Aufnahme, die Ausbildung und
       <lb break="yes"/>Gliederung dieser Truppe ist Sache der Bundesglieder.
       <lb break="yes"/>Im Falle der Abwehr feindlicher Angriffe von außen, sind die
@@ -214,7 +214,7 @@
       <lb break="yes"/>widrigens die Gewährleistung als vom Bunde übernommen gilt.
       <lb break="yes"/>Lehnt die Bundesversammlung die Uebernahme der Gewährleistung
       <lb break="yes"/>ab, so kann der davon betroffene Teil der Landesverfassung (des
-      <lb break="yes"/>Statutes der Stadt Wien) nicht in Kraft treten.</p><p>11</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>- 4 -
+      <lb break="yes"/>Statutes der Stadt Wien) nicht in Kraft treten.</p><p>11</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>- 4 -
       </p></div>
 <div type="article">
 <head>Artikel VII.
@@ -257,7 +257,7 @@
 <lb break="no"/>stimmungen.
       <lb break="yes"/>-----------------------------
 <lb break="no"/>1) Zu Artikel VII: Gegen den Satz: „Niemand darf......gezwungen
-      <lb break="yes"/>werden" bestehen bei der Mehrheit des Ausschusses Bedenken.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>- 5 -
+      <lb break="yes"/>werden" bestehen bei der Mehrheit des Ausschusses Bedenken.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>- 5 -
       </p></div>
 <div type="article">
 <head>Artikel XI.
@@ -298,7 +298,7 @@
 <lb break="no"/>dern sind, wenn dadurch die Auslandsgrenzen nicht berührt werden, dem
       <lb break="yes"/>Bundesrate lediglich zur Kenntnis zu bringen.
       <lb break="yes"/>2) Die Entscheidung über Krieg und Frieden.
-      <lb break="yes"/>3) Die Gesetzgebung über das Heerwesen in den Schranken des Artikel IV</p><p>12</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>- 6 
+      <lb break="yes"/>3) Die Gesetzgebung über das Heerwesen in den Schranken des Artikel IV</p><p>12</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>- 6 
 <lb break="no"/>über die militärische Befehlsgewalt, über Vorspannleistungen, Ver
 <lb break="no"/>pflegung und Einquartierung des Heeres, ferner die Regelung der
       <lb break="yes"/>Militärgerichtsbarkeit in den Schranken des Artikels XI.
@@ -327,7 +327,7 @@
       <lb break="yes"/>Beratung. 1)
       <lb break="yes"/>--------------------------------
 <lb break="no"/>1) Zu Artikel XIV Z. 5: Dr. Straffner ist gegen die Forderung kolle
-<lb break="no"/>gialer Ernennung der Richter.</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>- 7 
+<lb break="no"/>gialer Ernennung der Richter.</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>- 7 
 <lb break="no"/>6) Das Post-, Telegraphen-, Telephon-Eisenbahn-Schiffahrts- und Luft
 <lb break="no"/>schiffahrtswesen, die Elektrizitätsgesetzgebung 1) und die Verwal
 <lb break="no"/>tung der Bundesstraßen.
@@ -354,7 +354,7 @@
       <lb break="yes"/>Satz: die Oberaufsicht über die Angelegenheiten der Landeskultur
       <lb break="yes"/>und über die Nutzbarmachung der Wasserkräfte; die Bundesgesetzge
 <lb break="no"/>bung erläßt zu diesem Behufe die erforderlichen allgemeinen Vor
-<lb break="no"/>schriften.</p><p>13</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>- 8 -</p><p>Wenn jedoch eine Gewässerstrecke, die für die Gewinnung einer
+<lb break="no"/>schriften.</p><p>13</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>- 8 -</p><p>Wenn jedoch eine Gewässerstrecke, die für die Gewinnung einer
       <lb break="yes"/>Wasserkraft in Anspruch genommen wird, unter der Gebietshoheit
       <lb break="yes"/>zweier oder mehrerer Bundesglieder steht und sich diese über eine
       <lb break="yes"/>gemeinsame Konzession nicht einigen können, so ist die Erteilung
@@ -388,7 +388,7 @@
 <lb break="no"/>mung der Staatsregierung nicht kundgemacht werden.Beschließt der
       <lb break="yes"/>Landtag (der Wiener Gemeinderat) auf dem ursprünglichen Beschlus
 <lb break="no"/>se zu beharren, so hat dessen Kundmachung durch die Landesregie
-<lb break="no"/>rung zu erfolgen.</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>- 9 -
+<lb break="no"/>rung zu erfolgen.</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>- 9 -
       </p></div>
 <div type="article">
 <head>Artikel XVII.
@@ -423,7 +423,7 @@
       <lb break="yes"/>und zum Gemeinderate der Bundeshauptstadt Wien wahlberechtigten
       <lb break="yes"/>nach dem Verhältniswahlverfahren gewählten Abgeordneten. Die
       <lb break="yes"/>Einteilung der Wahlkreise unter Wahrung der Gebietsgrenzen der
-      <lb break="yes"/>einzelnen Bundesglieder und das Wahlverfahren wird durch beson-</p><p>14</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>-10-
+      <lb break="yes"/>einzelnen Bundesglieder und das Wahlverfahren wird durch beson-</p><p>14</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>-10-
       <lb break="yes"/>deres Gesetz, das einen Bestandteil der Bundesverfassung bil
 <lb break="no"/>det, geregelt.
       <lb break="yes"/>Die Anzahl der aus jedem Wahlkreise zur Bundesversammlung
@@ -458,7 +458,7 @@
       <lb break="yes"/>Ablauf der sechsjährigen Amtsdauer der abtretenden Bundesver
 <lb break="no"/>---------------------------
 <lb break="no"/>1) Falser möchte die Rechte der Länder bei Auswahl ihrer Vertreter
-      <lb break="yes"/>nicht beschränken durch die Forderung des Verhältniswahlrechtes.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>- 11 
+      <lb break="yes"/>nicht beschränken durch die Forderung des Verhältniswahlrechtes.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>- 11 
 <lb break="no"/>tretung gewählt sein können. Für die Einhaltung dieser Frist ist der
       <lb break="yes"/>Bundesrat der neuen Bundesversammlung verantwortlich.
       <lb break="yes"/>Falls einzelne Bundesglieder ihre Vertreter im Länderhause
@@ -498,7 +498,7 @@
       <lb break="yes"/>Die Beschlußfähigkeit des Länderhauses ist gegeben, wenn wenig
 <lb break="no"/>stens 4 Bundesglieder an der Abstimmung teilnehmen.
       <lb break="yes"/>Abgelehnte Anträge können erst nach Durchführung allgemeiner
-      <lb break="yes"/>Neuwahlen wieder eingebracht werden.</p><p>15</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>- 12  -
+      <lb break="yes"/>Neuwahlen wieder eingebracht werden.</p><p>15</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>- 12  -
       </p></div>
 <div type="article">
 <head>Artikel XXIII.
@@ -542,7 +542,7 @@
       <lb break="yes"/>die Bundesversammlung wählbaren Bürgern auf die Dauer von 3 Jahren
       <lb break="yes"/>ernannt. Nach jeder Gesamterneuerung der Bundesversammlung wird auch
       <lb break="yes"/>der Bundesrat erneuert; die in der Zwischenzeit freigewordenen Stel
-<lb break="no"/>len werden bei der nächstfolgenden Tagung der Bundesversammlung</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>- 13 
+<lb break="no"/>len werden bei der nächstfolgenden Tagung der Bundesversammlung</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>- 13 
 <lb break="no"/>für den Rest der Amtsdauer wieder besetzt.
       <lb break="yes"/>Die Mitglieder des Bundesrates dürfen keine andere dienstliche
       <lb break="yes"/>Stellung, sei es im Dienste des Bundesstaates, sei es im Dienste
@@ -580,7 +580,7 @@
       <lb break="yes"/>Bundesversammlung und des Ländeshauses, insoweit sie nicht Mitglie
 <lb break="no"/>der dieser Körperschaft sind, eine beratende Stimme und auch das
       <lb break="yes"/>Recht, über einen zur Beratung gestellten Gegenstand Anträge zu
-      <lb break="yes"/>stellen.</p><p>16</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>- 14 -
+      <lb break="yes"/>stellen.</p><p>16</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>- 14 -
       </p></div>
 <div type="article">
 <head>Artikel XXXI.
@@ -614,7 +614,7 @@
       <lb break="yes"/>Rechenschaft über seine Tätigkeit, sowie einen Bericht übere die
       <lb break="yes"/>Gesamtlage des Bundesstaates im Innern und nach Aussen; er hat auch
       <lb break="yes"/>besondere Berichte zu erstatten, wenn die Bundesversammlung oder
-      <lb break="yes"/>das Länderhaus es verlangen.</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>- 15 
+      <lb break="yes"/>das Länderhaus es verlangen.</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><p>- 15 
 <lb break="no"/>Für seine gesamte Amtsführung ist er der Bundesversammlung ver
 <lb break="no"/>antwortlich.
       </p></div>
@@ -651,7 +651,7 @@
 <p>Die im Kaiserstaate Oesterreich im Zeitpunkte der Einführung
       <lb break="yes"/>der Republik in Geltung gestandenen Gesetze und die auf gesetzlicher
       <lb break="yes"/>Grundlage erlassenen Verordnungen der k.k. Behörden, dann die
-      <lb break="yes"/>seit Einführung der republikanischen Staatsform in Kraft getretenen</p><p>17</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>- 16 
+      <lb break="yes"/>seit Einführung der republikanischen Staatsform in Kraft getretenen</p><p>17</p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>- 16 
 <lb break="no"/>Gesetze und auf gesetzlicher Grundlage erlassenen Verordnungen
       <lb break="yes"/>der Behörden der Republik Deutschösterreich werden als geltendes
       <lb break="yes"/>Recht des Bundesstaates und seiner Gliedstaaten übernommen, insoweit
@@ -689,7 +689,7 @@
       <lb break="yes"/>die Bundesversammlung und das Länderhaus einen aus je 6 Mitgliedern
       <lb break="yes"/>und ebensoviel Ersatzmännern bestehenden Ausschuss behufe Ausarbei
 <lb break="no"/>tung eines neuen Verfassungsentwurfes zu bestellen, der binnen Jahres
-<lb break="no"/>frist dem Bundeerate Bericht zu erstatten hat. Kommt im Ausschusse</p><pb facs="#facs_18" n="18" xml:id="img_0018"/><p>- 17 
+<lb break="no"/>frist dem Bundeerate Bericht zu erstatten hat. Kommt im Ausschusse</p><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><p>- 17 
 <lb break="no"/>mit einfacher Stimmenmehrheit sämtlicher Mitglieder ein neuer Ent
 <lb break="no"/>wurf zustande, so ist dieser der Volksabstimmung im Sinne des Ar
 <lb break="no"/>tikels XXXV zu unterziehen; im gegenteiligen Falle hat der Bundesrat

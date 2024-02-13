@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3012" lry="4748" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0017/full/full/0/default.jpg" width="3012px" height="4748px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4742" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0018/full/full/0/default.jpg" width="2958px" height="4742px"/></surface><surface ulx="0" uly="0" lrx="2951" lry="4735" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0019/full/full/0/default.jpg" width="2951px" height="4735px"/></surface><surface ulx="0" uly="0" lrx="3010" lry="4747" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0020/full/full/0/default.jpg" width="3010px" height="4747px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4802" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0021/full/full/0/default.jpg" width="2979px" height="4802px"/></surface><surface ulx="0" uly="0" lrx="2991" lry="4695" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0022/full/full/0/default.jpg" width="2991px" height="4695px"/></surface><surface ulx="0" uly="0" lrx="2988" lry="4698" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0023/full/full/0/default.jpg" width="2988px" height="4698px"/></surface><surface ulx="0" uly="0" lrx="2998" lry="4698" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0024/full/full/0/default.jpg" width="2998px" height="4698px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4689" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0025/full/full/0/default.jpg" width="2979px" height="4689px"/></surface><surface ulx="0" uly="0" lrx="2978" lry="4710" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0026/full/full/0/default.jpg" width="2978px" height="4710px"/></surface><surface ulx="0" uly="0" lrx="2975" lry="4797" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0027/full/full/0/default.jpg" width="2975px" height="4797px"/></surface><surface ulx="0" uly="0" lrx="2925" lry="4684" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0028/full/full/0/default.jpg" width="2925px" height="4684px"/></surface><surface ulx="0" uly="0" lrx="2954" lry="4685" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0029/full/full/0/default.jpg" width="2954px" height="4685px"/></surface><surface ulx="0" uly="0" lrx="2942" lry="4654" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0030/full/full/0/default.jpg" width="2942px" height="4654px"/></surface><surface ulx="0" uly="0" lrx="2898" lry="4683" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0031/full/full/0/default.jpg" width="2898px" height="4683px"/></surface><surface ulx="0" uly="0" lrx="2909" lry="4906" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__45/files/images/IMG_0032/full/full/0/default.jpg" width="2909px" height="4906px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokol1
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokol1
       <lb break="yes"/>der lo:Titzung des Unterausschueses des Verfassunge
 <lb break="no"/>ausschueses vom 24. August 1320.
       <lb break="yes"/>beginn 10 Unr Vormittag.
@@ -122,7 +122,7 @@
       <lb break="yes"/>Vinisterialrizesstretur Dr. Furt Frieberger
       <lb break="yes"/>als Schriftführer
       <lb break="yes"/>prof. Dr. kane ksl sen ale Tiperte des Verfassunge
-      <lb break="yes"/>ausschussee.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2.
+      <lb break="yes"/>ausschussee.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2.
       <lb break="yes"/>auf antrag des Vorsitzenden
       <lb break="yes"/>wird an 1rt. 29 ein 5.Satz
       <lb break="yes"/>folgenden Nortlautes angeschloseen:
@@ -157,7 +157,7 @@
       <lb break="yes"/>Der Fandeorat kann in Wege der Bundesreglgrung Gesetzesanträge in
       <lb break="yes"/>Nationalrat stellen.
       <lb break="yes"/>(2) Der von 300.dco stinnberechtigten oder von je der Mäle
-<lb break="no"/>te der Stinnberechtigten dreier länder gestellte Antrag (Volkebe-</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3
+<lb break="no"/>te der Stinnberechtigten dreier länder gestellte Antrag (Volkebe-</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3
       <lb break="yes"/>gehrenl ist von der Bundeeregierung dem Nationalrat zur geschäfts
 <lb break="no"/>ordnungewässigen Behandlung vorzulegen.“
       <lb break="yes"/>Fernor:
@@ -191,7 +191,7 @@
       <lb break="yes"/>rei nitur Tthr,auss ain von einer gesdaten verfassung
       <lb break="yes"/>rede, auch das srestz seltst heiset uverfassungr. Volksabstimmung
       <lb break="yes"/>sollte eintraten, wenn ein Frittel der Eitelieder dee Kinderatis
-      <lb break="yes"/>oder des Fatiemitratis esverlanet.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>-4-
+      <lb break="yes"/>oder des Fatiemitratis esverlanet.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>-4-
       <lb break="yes"/>Dr. Danneberg spricht sich grundsätzlich für die
       <lb break="yes"/>Volksabstimmung aus, befürchtet jedoch, das der große spparat ei
 <lb break="no"/>ner Volksabstinnung unnfentiger Linge halber in Benegung gesetzt
@@ -227,7 +227,7 @@
       <lb break="yes"/>Dadurch würde die geaante Rechtssicherheit auf das Schwerste er
 <lb break="no"/>schüttert. Kurze Legielaturperloden seien ein meit besserer Schatz.
       <lb break="yes"/>In der Schneiz sel die Verstastlichung der Bahnen 15 Jahre lang
-      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>zum größten Schaden der Allgemeinheit durch die Volksabstimmung
+      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5</p><p>zum größten Schaden der Allgemeinheit durch die Volksabstimmung
       <lb break="yes"/>verzögert worden. Dr. S e i p el erklärt, daß der Vorschlag des
       <lb break="yes"/>Entwurfes ganz von dem Vorgang in der Schweiz abweicht.
       <lb break="yes"/>Dach Anschauung des Vorsitzenden hat der Volkeentscheid
@@ -257,7 +257,7 @@
       <lb break="yes"/>Volknentscheid, so scheine ein derartiges Verlangen gerechtfertigt.
       <lb break="yes"/>Auch die sozialdenokratischen Vortreter erklären sich nur mit ei
 <lb break="no"/>ner derartigen Berechtigung des Nahionalratee einverstanden. Be
-<lb break="no"/>schlossen wird:</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>-6
+<lb break="no"/>schlossen wird:</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>-6
       <lb break="yes"/>Frt. 33.
       <lb break="yes"/>Einer Volkeabstinnung ist ferner jeder Beschluss des National
 <lb break="no"/>rates vor seiner Beurkundung durch den Bundespräsidenten zu unter
@@ -297,7 +297,7 @@
       </head>
 <p>(2) jeder Oesetzesbeschlass der Nationalrates ist anverzüg
 <lb break="no"/>1.
-      <lb break="yes"/>412</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>2
+      <lb break="yes"/>412</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>2
       <lb break="yes"/>lich durch dessen Präsidenten den Bundeekanzler zu übermitteln, der
       <lb break="yes"/>Ihn sofort dem Bundeerate bekanntzugeben hat.
       <lb break="yes"/>(2) Ein Gesetzesbeschlues kann, soneit nicht in diesen Artikel
@@ -334,7 +334,7 @@
       <lb break="yes"/>Dr. Sel pel und Dr. Denneberg münschten eine
       <lb break="yes"/>Vereinsachung der Forn des Ert. Al, wonit die Staätskanzlei betraut
       <lb break="yes"/>1.
-      <lb break="yes"/>10</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8-
+      <lb break="yes"/>10</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8-
       <lb break="yes"/>wird. Zu Art. 12 bemerkt boktionerat Dr. Hannlicher,
       <lb break="yes"/>dass die Verringerung der vacatio legls auch für die Landesgesetz
 <lb break="no"/>gebung bereits beschlossen sei, der Artikel wird in Nortlaut des
@@ -369,7 +369,7 @@
       <lb break="yes"/>bestehe, der zweite Satz jedoch zu streichen wäre.
       <lb break="yes"/>Abg. O l e &amp;s i n beantragt die Aufnahme eines Absatzee
       <lb break="yes"/>1.
-      <lb break="yes"/>164</p><p>1D</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9-
+      <lb break="yes"/>164</p><p>1D</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9-
       <lb break="yes"/>auroh den Mandatowerborn des Beantenstandes der erforderliche Or
 <lb break="no"/>laub für die Handatsbenerbung genährleistet werde. Der Vorsitzende
       <lb break="yes"/>nacht auf die Schnierigkeit der Feststellung aufmerksan, wer als
@@ -401,7 +401,7 @@
       <lb break="yes"/>(1) Alle politischen Staatsverträge, andere nur, sofern sie
       <lb break="yes"/>gesetzesändernden Inhalt haben, bedürfen zu ihrer Fültigkeit der
       <lb break="yes"/>genehnigung durch den Nationalrat.
-      <lb break="yes"/>(2) aut beschlüsse des Fationalrates über die Senehnlgung von</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10.
+      <lb break="yes"/>(2) aut beschlüsse des Fationalrates über die Senehnlgung von</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10.
       <lb break="yes"/>Staateverträgen finden die Bestimnungen des Frt. 38, 1bs,1 bie 4
       <lb break="yes"/>eingendese Anwendung.
       <lb break="yes"/>Mit der Fornulierung sineh eigenen Artikels über die Vorlage
@@ -434,7 +434,7 @@
       <lb break="yes"/>Reichstag hat das Recht und auf Antrag von einem Fünftel seiner
       <lb break="yes"/>Mitglieder die Prlicht, Untersuchungsausschüsse einzusetzen.“ Der
       <lb break="yes"/>Voreitzende erblickt darin ein sehr weitgehondes Minoritätsrecht,
-      <lb break="yes"/>19</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>-12
+      <lb break="yes"/>19</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>-12
       <lb break="yes"/>das von einer faktiösen Opposition dazu benützt werden kann, jeden
       <lb break="yes"/>Tag neue Untersuchungen zu erzätigen, insbesondere können einzeine
       <lb break="yes"/>Abgeordnete ihr Privatintereese durch Einsichtnaäme in Akte leicht
@@ -471,7 +471,7 @@
       <lb break="yes"/>bemängelt Prof. kelseA Die worte, Die Vollziehung des Bundest
       <lb break="yes"/>als juristisch unkler. Dessor wäre die vollzichende Genalt des Bun
 <lb break="no"/>des, doch ssi man primzipiell bestrebt gewesen, das Nort benalt zu
-      <lb break="yes"/>1.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>+12-
+      <lb break="yes"/>1.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>+12-
       <lb break="yes"/>vermelden. Beschlossen wird folgender Vortlaut:
       <lb break="yes"/>dritter abschnitt.
       <lb break="yes"/>Von der Vollziehung des Bundes.
@@ -506,7 +506,7 @@
       <lb break="yes"/>wie das Wort Stadtgemeindevorstehung, an dessen Stelle man wegen
       <lb break="yes"/>des Sprachgebrauches allenthalben wieder den Ausfruck Magietrat
       <lb break="yes"/>eingeführtchabe.
-      <lb break="yes"/>1.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13-
+      <lb break="yes"/>1.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>13-
       <lb break="yes"/>In prinziploildr Abstimnung entdcheidet sich der Unteraus
 <lb break="no"/>schues für den Titel Kinister und beschlieset den Art.58 in der
       <lb break="yes"/>Einzer Fassung.
@@ -543,7 +543,7 @@
       <lb break="yes"/>(4) ist der Nationslrat nicht versammelt, so wird die Bundes
 <lb break="no"/>reglerung bis zum Zusanmenteitt des Nationalrates vom Hauptaus
 <lb break="no"/>schusg bestellt.
-      <lb break="yes"/>1.</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>22
+      <lb break="yes"/>1.</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>22
       <lb break="yes"/>(5) auf die Besteliuag einzeiner Mitglieder der Bundesregle
 <lb break="no"/>rung finden die Bestinmungen der 1beätze 2 bie d sinngendese Ar
 <lb break="no"/>wendung.
@@ -575,7 +575,7 @@
       <lb break="yes"/>Art. 6t a.
       <lb break="yes"/>(2) Die Gestallungsurkunden des Burdeskenzlers, des Vizskenz
 <lb break="no"/>lers und der übrigen Bundesminlater werden von Dundespräsidenten
-      <lb break="yes"/>mit dem Datum des Tages der Angelobung ausgefertigt und von neu</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>-15-
+      <lb break="yes"/>mit dem Datum des Tages der Angelobung ausgefertigt und von neu</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><p>-15-
       <lb break="yes"/>bestellten Bundeskanzler gegengezeichnet.
       <lb break="yes"/>»(2) Die Mitglieder der Bundesregierung werden vor.
       <lb break="yes"/>Antritt ihres Antes von Kundespräsidenten angelobt.
@@ -607,7 +607,7 @@
       <lb break="yes"/>obligatoriach vorzuschteiben, wohl aber ebeaso ris Winieter shns
       <lb break="yes"/>Dortsfeuflls zuzulassen. Ohne Unteratastssskreture sei eine zer
 <lb break="no"/>ladentarische Kontrolls schner durchführbar
-<lb break="no"/>1.</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>16
+<lb break="no"/>1.</p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>16
       <lb break="yes"/>Staatsvekretdr Dr. May x meint, das ein Bundesgesetz über
       <lb break="yes"/>die Zahl der Wintsterien zu entschelden haben werde. Politische
       <lb break="yes"/>Unterstastssekretäre seler. in allgemeinen kaun nurschensnert; es

@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3172" lry="4589" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0002/full/full/0/default.jpg" width="3172px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3200" lry="4639" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0003/full/full/0/default.jpg" width="3200px" height="4639px"/></surface><surface ulx="0" uly="0" lrx="3172" lry="4601" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0004/full/full/0/default.jpg" width="3172px" height="4601px"/></surface><surface ulx="0" uly="0" lrx="3199" lry="4628" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0005/full/full/0/default.jpg" width="3199px" height="4628px"/></surface><surface ulx="0" uly="0" lrx="3191" lry="4628" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0006/full/full/0/default.jpg" width="3191px" height="4628px"/></surface><surface ulx="0" uly="0" lrx="3148" lry="4617" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0007/full/full/0/default.jpg" width="3148px" height="4617px"/></surface><surface ulx="0" uly="0" lrx="3186" lry="4624" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__33/files/images/IMG_0008/full/full/0/default.jpg" width="3186px" height="4624px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
       <lb break="yes"/>die Materie mit Ausnahme des Abschnittes über die Grund- und Freiheitsrechte durchberaten.
       <lb break="yes"/>Im Nachfolgenden wird nunmehr der Entwurf, wie er im Unterausschusse beschlossen wurde, in seiner Gänze der Öffentlichkeit zur
       <lb break="yes"/>Kenntnis gebracht. Bei der durch die Verhältnisse bedingten raschen Beratung war es unvermeidlich, daß sich in der Textierung gewisse
@@ -357,7 +357,7 @@
 <lb break="no"/>geset kann für die Erlassung der Ausführungsgesehe
       <lb break="yes"/>eine Frist bestimmen, die nicht kürzer als drei
       <lb break="yes"/>Monate und nicht langer als ein Jahr sein darf.
-      <lb break="yes"/>Wird diese Frist von einer Landesgesehgebung nicht</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>eingehalten, so geht die Zuständigkeit zur Erlassung
+      <lb break="yes"/>Wird diese Frist von einer Landesgesehgebung nicht</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>eingehalten, so geht die Zuständigkeit zur Erlassung
       <lb break="yes"/>des Ausführungsgesetes für dieses Land auf den
       <lb break="yes"/>Bund über
       <lb break="yes"/>(3) Soll ein Aft der vollziehenden Gewalt für
@@ -625,7 +625,7 @@
       <lb break="yes"/>Artitel 28.
       <lb break="yes"/>(1) Im Bundesrate sind die Länder im Verhältnis
       <lb break="yes"/>zu ihrer Einwohnerzahl gemäß den folgenden Be
-<lb break="no"/>smmungen vertreten.</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>(2) Das Land mit der größten Einwohnerzahl
+<lb break="no"/>smmungen vertreten.</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>(2) Das Land mit der größten Einwohnerzahl
       <lb break="yes"/>entsendet 12 Mitglieder, jedes andere Land so
       <lb break="yes"/>viele Mitglieder, ass dem Verhältnisse seiner Ein
 <lb break="no"/>wohnerzaht zur erstangeführten einwohnerzahl ent
@@ -903,7 +903,7 @@
 <head>Artikel 45.
       </head>
 <p>(1) Niemand kann gleichzeitig dem Nationalrat und
-      <lb break="yes"/>dem Bundesrat angehören.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>(2) Öffentliche Angestellte und Funktionäre ein
+      <lb break="yes"/>dem Bundesrat angehören.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>(2) Öffentliche Angestellte und Funktionäre ein
 <lb break="no"/>schließlich der Ungehörigen des Bundesheeres bedürfen
       <lb break="yes"/>zur Ansübung eines Mandates im Nationaltat oder
       <lb break="yes"/>im Bundegrase seines Urlaubes.
@@ -1186,7 +1186,7 @@
       <lb break="yes"/>in gleicher Weise bestellt werden wie die Bundes
 <lb break="no"/>minister.
       <lb break="yes"/>3) Der Staatssekretär ist dem Bundesminister
-      <lb break="yes"/>unterstellt und an seine Weisungen gebunden.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>(Artikel 67 fällt aus.)
+      <lb break="yes"/>unterstellt und an seine Weisungen gebunden.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>(Artikel 67 fällt aus.)
       <lb break="yes"/>3. Das Bundesheer.
       <lb break="yes"/>(Artitel 68 fallt aus.)
       </p></div>
@@ -1489,7 +1489,7 @@
       <lb break="yes"/>Ausübung der vollziehenden Gewalt des Bundes zu
       <lb break="yes"/>beauftragen.
       <lb break="yes"/>(3) Die Grrichtung von eigenen Bundesbehörden
-      <lb break="yes"/>für andere als die im Absatze 2 bezeichneten An-</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>gelgenheiten kann nur mit Zustimmung der beteiligten
+      <lb break="yes"/>für andere als die im Absatze 2 bezeichneten An-</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>gelgenheiten kann nur mit Zustimmung der beteiligten
       <lb break="yes"/>Länder erfolgen.
       <lb break="yes"/>(4) In den Angelegenheiten der mittelbaren Bundes
 <lb break="no"/>verwaltung sind die Landesregierungen an die
@@ -1759,7 +1759,7 @@
       <lb break="yes"/>Artitel 143.
       <lb break="yes"/>(1) Das stattgebende Erkenntnis des Verwaltungs
 <lb break="no"/>gerichtshofes bewirkt die Aufhebung der rechts
-<lb break="no"/>widrigen Entscheidung oder Verfügung.</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>9) Die Verwaltungsbehörde ist bei der neu zu
+<lb break="no"/>widrigen Entscheidung oder Verfügung.</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>9) Die Verwaltungsbehörde ist bei der neu zu
       <lb break="yes"/>treffenden Entscheibung oder Verfügung an die Rechts
 <lb break="no"/>anschanung des Verwaltungsgerichtshoses gebunden.
       <lb break="yes"/>3) Der Verwaltungsgerichtehof kann in der Sache

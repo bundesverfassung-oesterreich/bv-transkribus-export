@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3011" lry="4790" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0073/full/full/0/default.jpg" width="3011px" height="4790px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4794" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0074/full/full/0/default.jpg" width="2976px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="3004" lry="4796" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0075/full/full/0/default.jpg" width="3004px" height="4796px"/></surface><surface ulx="0" uly="0" lrx="2986" lry="4817" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0076/full/full/0/default.jpg" width="2986px" height="4817px"/></surface><surface ulx="0" uly="0" lrx="2989" lry="4782" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0078/full/full/0/default.jpg" width="2989px" height="4782px"/></surface><surface ulx="0" uly="0" lrx="2987" lry="4858" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0079/full/full/0/default.jpg" width="2987px" height="4858px"/></surface><surface ulx="0" uly="0" lrx="2999" lry="4864" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0080/full/full/0/default.jpg" width="2999px" height="4864px"/></surface><surface ulx="0" uly="0" lrx="3012" lry="4841" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0081/full/full/0/default.jpg" width="3012px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="3118" lry="4862" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0082/full/full/0/default.jpg" width="3118px" height="4862px"/></surface><surface ulx="0" uly="0" lrx="3111" lry="4892" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0083/full/full/0/default.jpg" width="3111px" height="4892px"/></surface><surface ulx="0" uly="0" lrx="3062" lry="4873" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0084/full/full/0/default.jpg" width="3062px" height="4873px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4849" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0085/full/full/0/default.jpg" width="3014px" height="4849px"/></surface><surface ulx="0" uly="0" lrx="3003" lry="4827" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0086/full/full/0/default.jpg" width="3003px" height="4827px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4848" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__50/files/images/IMG_0087/full/full/0/default.jpg" width="3066px" height="4848px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokoll
       <lb break="yes"/>
 <lb break="no"/>der 15. Sitzung des Unterausschusses des Verfassungs
 <lb break="no"/>ausschusses vom 14.IK.1920.
@@ -126,7 +126,7 @@
       <lb break="yes"/>els Schriftführer
       <lb break="yes"/>Prof, Dr. Hans kel se a als Experte des Verfassungs
 <lb break="no"/>ausschusses
-      <lb break="yes"/>219</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2
+      <lb break="yes"/>219</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2
       <lb break="yes"/>zu Beginn der Sitzung teilt der Varsitzende mit, daß
       <lb break="yes"/>er eine große Anzahl Zuschriften von Gewsindevertretungen or
 <lb break="no"/>hält, die säntlich den Beschluß mitteilen es wolle ihnen
@@ -162,7 +162,7 @@
       <lb break="yes"/>aus, unn denen jeder ein geschlessenes Grhiet unfassen mus
 <lb break="no"/>Die Zahl der Abgeordneten auf die Wahlbezirke im Verhältnis der Zahl
       <lb break="yes"/>der kundesangehörigen, die in ihnen nach den Ergebnis
-      <lb break="yes"/>der</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3
+      <lb break="yes"/>der</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3
       <lb break="yes"/>letzten Volkszählung ihren Rahnsitz hatten, zu verteilen, Zi
 <lb break="no"/>p2 Gliederung der Kählerschaft in andere Hehlkorper ist nicht
       <lb break="yes"/>zulässig.
@@ -199,7 +199,7 @@
       <lb break="yes"/>jedoch mit Rücksicht auf verwaltungsreformatorische ldeen
       <lb break="yes"/>weggelassen. Es sei nämlich eine Ungestaltung in der Richtung
       <lb break="yes"/>geplent, das diese Benörden auch Gegätig der jetzigen poli
-<lb break="no"/>13</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4</p><p>tiecher Behörden zu übernehmen hätten. Zu erwähnen wärs nach,
+<lb break="no"/>13</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4</p><p>tiecher Behörden zu übernehmen hätten. Zu erwähnen wärs nach,
       <lb break="yes"/>daß die Rgenden der Veiksgesundhait so eug mit der politi
 <lb break="no"/>schen Verwaltung zusammenhängen, daß sie von dieser nicht
       <lb break="yes"/>getrannt werden kinden. Eine weitere Ergänzung wünscht, wie
@@ -232,7 +232,7 @@
       <lb break="yes"/>um Aufklärung zu einzelnen Punkten, welche Beaute mit diesen
       <lb break="yes"/>Angelegenheiten befaßt sind. Zum Beispiel MHaren und Viehver
 <lb break="no"/>kehr mit dem Ausland«, Sehr allgemein ist auch die Wendung
-      <lb break="yes"/>»Arbeiterrecht und Arbeiter- und Angestelltenschutze, auf</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>Grund deren viste neus Ergans eingeführt werden könnten, wäh
+      <lb break="yes"/>»Arbeiterrecht und Arbeiter- und Angestelltenschutze, auf</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5</p><p>Grund deren viste neus Ergans eingeführt werden könnten, wäh
       <lb break="yes"/>rend jetzt nur die Geverbeinspektoren vorhanden sind.
       <lb break="yes"/>Tekt, Tat Dr. Wernlicher sraähnt, daß das
       <lb break="yes"/>Slaabsan? für Land und Verstwirtschaft großes Gericht auf
@@ -269,7 +269,7 @@
       <lb break="yes"/>durch das Bunderverfassungsgesetz festgestelllen Hirkungsbe
 <lb break="no"/>reiches des Biodes nat unmittehteg ahren Kindestshördes ver
 <lb break="no"/>
-      <lb break="yes"/>z16</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6</p><p>gehen werden.
+      <lb break="yes"/>z16</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>gehen werden.
       <lb break="yes"/>Beren- und Vichverkehr mit dem Auslande. Granzver
       <lb break="yes"/>werkung: Zsllregen- Birdesfinzuzen, Pranpslrsser, best, Ge
 <lb break="no"/>richts-, Wormen- und Kunzigrungswegen, Justizzosen, Verkehre
@@ -302,7 +302,7 @@
       <lb break="yes"/>Ein soz, dem. Minderheitsantrag zu Artikel 97 wird
       <lb break="yes"/>der Abstimmung überlassen.
       <lb break="yes"/>Zum folgenden 5. Hauptstück bemerkt der Vargitzende.
-      <lb break="yes"/>daß prinzipielle Fragen offen geblieben seien: Die Einführung</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>7</p><p>von Kreisen überhaupt, da die Vertreter der christlichsozie
+      <lb break="yes"/>daß prinzipielle Fragen offen geblieben seien: Die Einführung</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>7</p><p>von Kreisen überhaupt, da die Vertreter der christlichsozie
 <lb break="no"/>len Partei gegen die Einführung vpn Kreisen in den größeren
       <lb break="yes"/>Ländern Stellung genommen habrn;ferner wünscht die soz.den.
       <lb break="yes"/>Partei, daß die Leiter der Bezirks- und Kreisänter zuer
@@ -335,7 +335,7 @@
       <lb break="yes"/>gewöhnlicher Kehrheit beschlessen werden kann, Freise beken
 <lb break="no"/>men werden sie nicht als Garantie betrachten. Prof.Dr. Sei
       <lb break="yes"/>pel meint, daß die Bildung von Gebietsgemeinden in der
-      <lb break="yes"/>größeren Ländern, auch weur die Kreise nicht ausdrücklich ge-</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8-
+      <lb break="yes"/>größeren Ländern, auch weur die Kreise nicht ausdrücklich ge-</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8-
       <lb break="yes"/>nennt werden, als Gerantis angeschen werden könne. Der Vor
 <lb break="no"/>sitzende errähnt, daß für die kleineren Länder ja schen von
       <lb break="yes"/>der Bildung von Kreisen Abstand genommen worden sei, wan be
@@ -370,7 +370,7 @@
       <lb break="yes"/>Gebietsgeweinden.
       <lb break="yes"/>Ferher hat der Beginn des Artikels 97 d zu lauten:
       <lb break="yes"/>" Die Ortsgensinden und Schietsgeweinden sind auch selastän
-      <lb break="yes"/>dige Wirzzcnaftskörper</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>3-
+      <lb break="yes"/>dige Wirzzcnaftskörper</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>3-
       <lb break="yes"/>Zu Artikel 97 e weldet Dr. Darneberg ein
       <lb break="yes"/>soz. dem. Minoritätsvotum bezüglich der Hahl von rechtskundi
 <lb break="no"/>gen Beanten an. Prof.Dr. §é i p s l stellt fest, daß der
@@ -405,7 +405,7 @@
 <lb break="no"/>liche Bestimmung in Deutschen Reich, Abgesränster Tr. Reis
 <lb break="no"/>kirShner weist, das die Gschaftigheitsklausst in
       <lb break="yes"/>er Gesterneich vist bedentwaser gewesse sei, die Zumande
-      <lb break="yes"/>1700</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10</p><p>fer nagen Andersaatioaele, Ia Hien hielten dich in der guter
+      <lb break="yes"/>1700</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10</p><p>fer nagen Andersaatioaele, Ia Hien hielten dich in der guter
       <lb break="yes"/>Zeit etwa 60 bis 89000 Bauarbeiter auf, die Saisenarbeiter
       <lb break="yes"/>waren. Abgesrdaster Fink halt die Zahl von 1000 Eznnch
 <lb break="no"/>nern für zu geriag. So seien beim Spuller see 1000 Arbeiter
@@ -438,7 +438,7 @@
       <lb break="yes"/>eine überragende Stellung gegenüber allen ernannten Beanten
       <lb break="yes"/>erlangen, wodurch die Verwaltung in den Ländern auseinander
 <lb break="no"/>fallen würde. Deshalb müsse auch er sich gegen die Mahl der
-      <lb break="yes"/>Dezirkshauptmänner aussprechen.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11
+      <lb break="yes"/>Dezirkshauptmänner aussprechen.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>11
       <lb break="yes"/>Präsident Seitz meint, daß auch die Beamten
       <lb break="yes"/>des Bezirkes vom Bezirkshauptmann ergannt werden müßten.
       <lb break="yes"/>Dr. Weiskirchner befürchtet, daß bei
@@ -473,7 +473,7 @@
       <lb break="yes"/>dieser Kortlaut zweckmäßiger erschienen, da er sich an die
       <lb break="yes"/>beslehende Geueindeordnung anschließt, algo eingelehte Aus
 <lb break="no"/>drücke verwendel, die eineo bestimmten Inhall haben,
-      <lb break="yes"/>Prof Br. k ei s« a hemerät hiez, dak der Begroff</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>-12
+      <lb break="yes"/>Prof Br. k ei s« a hemerät hiez, dak der Begroff</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>-12
       <lb break="yes"/>der Sicherheitspolizei sehr strittig sei, was sich auch bei
       <lb break="yes"/>der Verhandlung mit den Vertretern der Staatsänter herausge
 <lb break="no"/>stellt hat, iaher wurde die Bezerchnung der Gemeindeordnung
@@ -509,7 +509,7 @@
 <lb break="no"/>hin eine Genehmigung durch die Bundesregierung vorsehen.
       <lb break="yes"/>Mit Zustimmung des Unterausschusses graucht der Vor
 <lb break="no"/>zitzende Praf. Dr. Kelsen nach Fuhlungnahme mit dan Rathauge
-      <lb break="yes"/>seinen Vorschiag auch auf dieses Preblem zu erstrecken.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13</p><p>Dr. DanReberg münscht in der Formulierung
+      <lb break="yes"/>seinen Vorschiag auch auf dieses Preblem zu erstrecken.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>13</p><p>Dr. DanReberg münscht in der Formulierung
       <lb break="yes"/>des Artikels 37f das immer wiederkehrende Hort Polizei durch
       <lb break="yes"/>ein anderes ersetzt. Der Vorsitzende spricht sich jedoch de
 <lb break="no"/>keßen aus, da dies traditionelle Ausdrückeaus der kamera
@@ -544,7 +544,7 @@
       <lb break="yes"/>handeln kann. Auch hat er auf Antrag des Prof.Dr. Seipe
       <lb break="yes"/>anstatt »über die Rechtsverletzungen zu lauten vüber Be
 <lb break="no"/>Schwerden wegen Rechtsverletzung“
-      <lb break="yes"/>1.</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>14
+      <lb break="yes"/>1.</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>14
       <lb break="yes"/>Zu den folgenden Artikeln bemerkt Prof.Dr. Kel
       <lb break="yes"/>s e a, daß eine Reihe von technischen Fragen zu bereinigen
       <lb break="yes"/>wäre. Er bemerkt auch, daß zu Artikel 160 ein Antrag des

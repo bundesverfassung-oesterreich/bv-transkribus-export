@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3083" lry="4928" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0003/full/full/0/default.jpg" width="3083px" height="4928px"/></surface><surface ulx="0" uly="0" lrx="2927" lry="4787" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0004/full/full/0/default.jpg" width="2927px" height="4787px"/></surface><surface ulx="0" uly="0" lrx="2901" lry="4837" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0005/full/full/0/default.jpg" width="2901px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2955" lry="4811" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0006/full/full/0/default.jpg" width="2955px" height="4811px"/></surface><surface ulx="0" uly="0" lrx="2940" lry="4833" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0007/full/full/0/default.jpg" width="2940px" height="4833px"/></surface><surface ulx="0" uly="0" lrx="2937" lry="4788" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0008/full/full/0/default.jpg" width="2937px" height="4788px"/></surface><surface ulx="0" uly="0" lrx="2863" lry="4849" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0009/full/full/0/default.jpg" width="2863px" height="4849px"/></surface><surface ulx="0" uly="0" lrx="2736" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="2795" lry="4826" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0011/full/full/0/default.jpg" width="2795px" height="4826px"/></surface><surface ulx="0" uly="0" lrx="2839" lry="4821" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0012/full/full/0/default.jpg" width="2839px" height="4821px"/></surface><surface ulx="0" uly="0" lrx="2758" lry="4816" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0013/full/full/0/default.jpg" width="2758px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="2751" lry="4791" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0014/full/full/0/default.jpg" width="2751px" height="4791px"/></surface><surface ulx="0" uly="0" lrx="2910" lry="4790" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__44/files/images/IMG_0015/full/full/0/default.jpg" width="2910px" height="4790px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll</p><p>dup S. Sitzung des Unterautscaueees des Verfausungsausscaussis
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokoll</p><p>dup S. Sitzung des Unterautscaueees des Verfausungsausscaussis
       <lb break="yes"/>von 23. August 1520.
       <lb break="yes"/>Joeine 20 iar 30 voraittog.
       <lb break="yes"/>
@@ -122,7 +122,7 @@
       <lb break="yes"/>80
       <lb break="yes"/>schriftführer.
       <lb break="yes"/>profossor hr. Nans fo) een als ergerte des Verfarsuneeaue
-<lb break="no"/>schugess.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>aemannen. Mestaf des frulkelel wird un
+<lb break="no"/>schugess.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>aemannen. Mestaf des frulkelel wird un
 <lb break="no"/>verandert angenomen. ale 2. Meaft bsantragt lbg. Dr. Denn
       <lb break="yes"/>bergeie rasgene aur 84 def Sotlaren
       <lb break="yes"/>rvoreitzende leitst die
@@ -156,7 +156,7 @@
       <lb break="yes"/>volke eingesetzt und in sedden Nanen ausgubt:. Dieser Antrag
       <lb break="yes"/>aira angenommmn. Abg. e lo s s in verveiet auf den grosedeut
       <lb break="yes"/>schen Antrag, der durch die Torte -jeder staateburser hat Antet
-      <lb break="yes"/>an der wirtschaftlichen und politischen Nacht der gesantheith</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>sicherung und Förderung der seeankhelt und dee Einzelnen iet
+      <lb break="yes"/>an der wirtschaftlichen und politischen Nacht der gesantheith</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>sicherung und Förderung der seeankhelt und dee Einzelnen iet
       <lb break="yes"/>der Zreck des staatser zur wirtschaftlichen Denokratie zu
       <lb break="yes"/>gelangen eucht, stallt aber selbet seinen Antrag, so dass die
       <lb break="yes"/>Aufnahne dieser Worts nach seiner gesenerklärung der Voreitzen
@@ -188,7 +188,7 @@
       <lb break="yes"/>purgenland bie zur Fahl nur ein Territorium sel, das von
       <lb break="yes"/>Oueterreich verwaltet wird, eret wenn se einen Landise hat,
       <lb break="yes"/>kann se sin sigense rand werden.
-      <lb break="yes"/>pls frage ob dien als selbständiger Bundesland zu bahet</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4</p><p>dein sei und imnieferne seine Joslösung von Niederöeterreich
+      <lb break="yes"/>pls frage ob dien als selbständiger Bundesland zu bahet</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4</p><p>dein sei und imnieferne seine Joslösung von Niederöeterreich
       <lb break="yes"/>in der Verfaszung zu srwähnen sel, wird ein Antrag dee Voreltzen
 <lb break="no"/>den angenommen, danzufolge die staatekanzlei sreucht wird.
       <lb break="yes"/>in Einvernehmen mit dem zande Fiederösterralch und mit der
@@ -221,7 +221,7 @@
       <lb break="yes"/>12) par kundserabist bildet ein einschlägiger Währunge
 <lb break="no"/>Eirtschafte- und zollgebiet.
       <lb break="yes"/>(2) Innsraalt der granten des Funder dürfen kerne Zwischen
-      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>zollinten vrrichtst werden.
+      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5</p><p>zollinten vrrichtst werden.
       <lb break="yes"/>4ierauf wird folgender frelkel angenommen:
       <lb break="yes"/>Artieel 36.
       <lb break="yes"/>Hunderhauptstadt und sitz der Staateobororgand der Fundse
@@ -253,7 +253,7 @@
       <lb break="yes"/>bürgerschaft srrorhen.
       <lb break="yes"/>14) Jeder kundsshürzer hat in jeden fande die gleienen
       <lb break="yes"/>Rechte und Priienten wie die Bürger dee fandee selbet.
-      <lb break="yes"/>artikel s fällt aus.</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6.
+      <lb break="yes"/>artikel s fällt aus.</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6.
       <lb break="yes"/>Artikel s die Einser enwarfee wird unter Petonung der
       <lb break="yes"/>der grossen prattlech-polltiechen gedautung, die eine Brrännung
       <lb break="yes"/>der wandermeitsrechte bezüsliel des Burgenlandss und färntene
@@ -288,7 +288,7 @@
       <lb break="yes"/>Nenen gemderseleiten. so sel da rerotz über die Vermögeneabe
       <lb break="yes"/>eebe die stelle enthalten: weie Veraögensnbgabe wird nicht vor.
       <lb break="yes"/>geschrieben zur zroche der Sintebung von Mnlagen auf eide aesee
-      <lb break="yes"/>1.</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>7</p><p>gtinung schlärtndie versrehet die Stantriekss für Fineniee
+      <lb break="yes"/>1.</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>7</p><p>gtinung schlärtndie versrehet die Stantriekss für Fineniee
       <lb break="yes"/>danit, dase diess die sinder zöglichtesi eei ohne Vierterricn
       <lb break="yes"/>tät der Verfossung die Zuschlagefreiaeit auezudrücken. Dr vet
 <lb break="no"/>weise auf die Regelung in Zngland (grante in diel
@@ -321,7 +321,7 @@
       <lb break="yes"/>in solchen angelegenheiten, die zun selbständigen Wirkungekreies
       <lb break="yes"/>der fänder gehören. Flebel stchen den Funde die gleichen Rachle
       <lb break="yes"/>gegeniber den fandsefsgierungen zu, wie bei den angeleganherten de
-      <lb break="yes"/>der mittelbaren Bundesverwaltung.</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>zigrauf bsepricht abgeordneter dr. se ipel Nreikel 14
+      <lb break="yes"/>der mittelbaren Bundesverwaltung.</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8</p><p>zigrauf bsepricht abgeordneter dr. se ipel Nreikel 14
       <lb break="yes"/>des vorialdenskratisclen znwuries (Sat der Zellugs) er be
 <lb break="no"/>zurrortst die Aufnahne derartiger Fretimungen, wie eie ähnlich au
       <lb break="yes"/>auch in zroeedeutschen Antwurfe anthalten selen. Ficher hat men
@@ -353,7 +353,7 @@
 <lb break="no"/>bespricht die berstende feilnehne der rerufsorgenieation bai
       <lb break="yes"/>der wirtechftlicher und sorialen sgestzretung.
       <lb break="yes"/>Unter genutzung des 1bs. l das trr. 15 (304 der zeilegen)
-      <lb break="yes"/>der übrlee reil dee frtltele, über den fr. dannebere Abstien</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>enne nunacht, wire abgleunes- eird singeschoden.
+      <lb break="yes"/>der übrlee reil dee frtltele, über den fr. dannebere Abstien</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>enne nunacht, wire abgleunes- eird singeschoden.
       <lb break="yes"/>artikel leer.
       <lb break="yes"/>11) Die organlention der gutererzeugung und der guber
 <lb break="no"/>perreitene det netgabr dee constereron. Deron slanangetern
@@ -385,7 +385,7 @@
 <lb break="no"/>liener Ruhstag ssin.
       <lb break="yes"/>13) rahlbar iet jeder Patütorecktigte der das 24. Eebene
 <lb break="no"/>Jaur übsrechritten hat.
-      <lb break="yes"/>1.</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10.
+      <lb break="yes"/>1.</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10.
       <lb break="yes"/>1a) nie Autscallesenne von Dahlrocat und der Mählbarkelt
       <lb break="yes"/>kann nur infolge einer gerichtlichen verurteilung oder Verfügung
       <lb break="yes"/>esin.
@@ -419,7 +419,7 @@
       <lb break="yes"/>meint, nicht an, dass die von Nationalrat genähtte Regierung
       <lb break="yes"/>aissen auflder. Der Vereitzande iet der freicht, dase state,
       <lb break="yes"/>anm er sich zeigt, dase eine Fahl ein anderes Ergebate hätte,
-      <lb break="yes"/>1.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11-
+      <lb break="yes"/>1.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>11-
       <lb break="yes"/>dor vertrotungekörper autzuldnen und eine Neuzahl einentelten
       <lb break="yes"/>erto We. Leuthner zelet an englischen delepiolen wie
       <lb break="yes"/>gefänrlich ss sat, wenn die Ragierung darüber zu beetinnen ver
@@ -459,7 +459,7 @@
       <lb break="yes"/>ordnung.
       <lb break="yes"/>15) par asostz über die Berchäftworenune kann aur
       <lb break="yes"/>aursernasrt der fälfte der Vitglieder und ait einer Kaarheie
-      <lb break="yes"/>von mei prittele der abgegebiner stinmen beschloseen werden.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>12.
+      <lb break="yes"/>von mei prittele der abgegebiner stinmen beschloseen werden.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>12.
       <lb break="yes"/>Nrr. 28 und 25 werden ia verblabte der Einzer tatrüffee
       <lb break="yes"/>angenennen.
       <lb break="yes"/>Der früher beschlosgen- Artikel über die Bundeevet
@@ -495,7 +495,7 @@
       <lb break="yes"/>Alle Auefertigungen des Jundseratse müssen die Unterschrift eu
 <lb break="no"/>nee voreitzendn tragen.
       <lb break="yes"/>13) der Bundesrat gitt sich meine geschäftsordnung durch
-      <lb break="yes"/>t.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13
+      <lb break="yes"/>t.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>13
       <lb break="yes"/>Beschluss, der nur bei Anrenheit der fülfts der Uitelieter und
       <lb break="yes"/>ait Zusierittslachrheit gefaert worden kann.
       <lb break="yes"/>Bsschloesen vire ferner:

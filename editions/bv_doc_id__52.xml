@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3036" lry="4802" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0121/full/full/0/default.jpg" width="3036px" height="4802px"/></surface><surface ulx="0" uly="0" lrx="3028" lry="4800" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0122/full/full/0/default.jpg" width="3028px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3025" lry="4811" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0123/full/full/0/default.jpg" width="3025px" height="4811px"/></surface><surface ulx="0" uly="0" lrx="3024" lry="4802" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0124/full/full/0/default.jpg" width="3024px" height="4802px"/></surface><surface ulx="0" uly="0" lrx="2982" lry="4795" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0125/full/full/0/default.jpg" width="2982px" height="4795px"/></surface><surface ulx="0" uly="0" lrx="3036" lry="4854" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0126/full/full/0/default.jpg" width="3036px" height="4854px"/></surface><surface ulx="0" uly="0" lrx="2983" lry="4878" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0127/full/full/0/default.jpg" width="2983px" height="4878px"/></surface><surface ulx="0" uly="0" lrx="2979" lry="4819" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0128/full/full/0/default.jpg" width="2979px" height="4819px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4794" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0129/full/full/0/default.jpg" width="2990px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4783" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0130/full/full/0/default.jpg" width="2976px" height="4783px"/></surface><surface ulx="0" uly="0" lrx="2964" lry="4804" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0131/full/full/0/default.jpg" width="2964px" height="4804px"/></surface><surface ulx="0" uly="0" lrx="3033" lry="4798" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__52/files/images/IMG_0132/full/full/0/default.jpg" width="3033px" height="4798px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>4277</p><p>Prorokoll
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>4277</p><p>Prorokoll
       <lb break="yes"/>der 17. Sitzung des Unterausschusses des Verfasgungsaugschusses
       <lb break="yes"/>vom 22. September 1530.
       <lb break="yes"/>Begina 3 Uhr Nachmittag.
@@ -130,7 +130,7 @@
       <lb break="yes"/>Professor Dr.Hans Kelsen als Pxperte des Verfassungsaus
 <lb break="no"/>schlesss.
       <lb break="yes"/>-000--
-<lb break="no"/>14</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2</p><p>Der Jozsitzende erlangt die Zustimmung des Unterausschun
+<lb break="no"/>14</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2</p><p>Der Jozsitzende erlangt die Zustimmung des Unterausschun
 <lb break="no"/>gea,ver Eintritt in die technische Earung der Gesantentwurfes
       <lb break="yes"/>eine Bezeinigung der Kompetenzfrage bezüglich der Volksgesund
 <lb break="no"/>heit und des Flektrizitktowesene zu versuchen und erteilt zuerst
@@ -163,7 +163,7 @@
       <lb break="yes"/>und Bestaltungswosens sowie des Gemeindesanitätsdiensteg und Ha
 <lb break="no"/>zungewesene; hinsichtlich der Heil- und Eflegeangtalten, Ampule
       <lb break="yes"/>tprien und der Kurertewegeng jedoch nur die ganitäre Aufzicht.
-      <lb break="yes"/>von einer ausdrücklichen Brhnung der Kadizinalstatistik</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>wird abgesehen, da zahlrgiche Stnatsämter gewisse Zueize der Sta
+      <lb break="yes"/>von einer ausdrücklichen Brhnung der Kadizinalstatistik</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>wird abgesehen, da zahlrgiche Stnatsämter gewisse Zueize der Sta
 <lb break="no"/>tistik aufgenemmen wünschen, die wen aber in Art.10, Prt.13 1r
       <lb break="yes"/>der Formel: Volkszählangenssen, soale sonstiga Statistik se
       <lb break="yes"/>weit als nicht nur den Iuterongen eines einzelnen landes dientg
@@ -196,7 +196,7 @@
 <lb break="no"/>lich des Besoldungswesent und des Dlexinlinarrechtes. Privatschul
 <lb break="no"/>wesen. Volksbildung. Die Zusammensetzung den Schalvermaltungsbe
 <lb break="no"/>1.
-      <lb break="yes"/>106</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4
+      <lb break="yes"/>106</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4
       <lb break="yes"/>hörden und die Dienstheheit über die Lehrerschaft an niederen Lehr
 <lb break="no"/>estalten wird durch besondere Bundes-Verfasbungsgesetze beakimmt.
       <lb break="yes"/>Ergänzend bemerkt der Veraifgende, daß ein Hinvernehmen der
@@ -229,7 +229,7 @@
 <lb break="no"/>men sei! nur in zwei Punkten besteht ein abselater Widerspruch:
       <lb break="yes"/>Die Christlichsozialen fordern, daß die Lehrer Landesbeamte sein
       <lb break="yes"/>sollen, während seine Partei sie nie Bundesbeamte betrachtet; der
-      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5
+      <lb break="yes"/>1.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5
       <lb break="yes"/>zweise strittigs Pankt saten die Schnlanfeicktebehörden. Nach
       <lb break="yes"/>Aeschanung seiner Partei selleh Landes- und Bezirkeschaleäte
       <lb break="yes"/>Organe des Bundes sein, während die Christlichsozialen der An
@@ -263,7 +263,7 @@
 <lb break="no"/>zustand mit den Kategorien der neuen Verfassung in Einklang zu
       <lb break="yes"/>bringen, die endgültige Regelung aber einer späteren Regelung
       <lb break="yes"/>vorzubehalten, wird vom Präsidenten deitz mit dem Hinweie
-      <lb break="yes"/>1.</p><p>126</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>8
+      <lb break="yes"/>1.</p><p>126</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>8
       <lb break="yes"/>abgelöhnt, daß bereite die Grund- und Freiheitsrechte in der
       <lb break="yes"/>Verfassung fehlen und nun auch noch das Schulwesen nicht ent
 <lb break="no"/>halten wäre. Seine Partei habe das gräßte Entgegenkommen ge
@@ -295,7 +295,7 @@
       <lb break="yes"/>des wirtschaftlichen und fachtechnischen Archiv- und Bibliotheke
 <lb break="no"/>dienstes u.s.w. anzuschließen wären. Endlich wäre in Art,12 als
       <lb break="yes"/>Ekt.l a Privatunterricht und Privatschulwesen einzugliedern und
-      <lb break="yes"/>in Pkb.8 dieses Artikels nach den Worten Wienetrecht der Organe</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>-7
+      <lb break="yes"/>in Pkb.8 dieses Artikels nach den Worten Wienetrecht der Organe</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>-7
       <lb break="yes"/>der Länder, die behörklisbe aufgaben zu besorgen hstsa, »ienst
 <lb break="no"/>recht und Besoldungsspaten der Lehrpsrognes an den Volks- U42
       <lb break="yes"/>purgerschulen (oder an den anderen Schulen)anzuschlisben.
@@ -328,7 +328,7 @@
       <lb break="yes"/>dieess technisch unbestrittens Ziel zu erreichen, ein ziel;
       <lb break="yes"/>dae die Setweiz bereite erreicht habe als folgs dar schweizeri!
       <lb break="yes"/>echen Bundse- und Kantonal-Gesetzgebung, die dem Bunde die
-      <lb break="yes"/>Führung aller einschlägigen Angelegenneiten zugestaht.</p><p>107</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>ProfsFr. AEIF dI wbnacht die Debatts über die vor
+      <lb break="yes"/>Führung aller einschlägigen Angelegenneiten zugestaht.</p><p>107</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8</p><p>ProfsFr. AEIF dI wbnacht die Debatts über die vor
 <lb break="no"/>gelegten Fasgungen in der nächsten Iitzung gemeinsan mit der
       <lb break="yes"/>über die anderen strittigen Fragen abzuführen und ertallt zur
       <lb break="yes"/>technischen legung Praf.Dr. Kisan das Hort. Dieser bit
@@ -360,7 +360,7 @@
 <lb break="no"/>erhalten (Nigägrystarreich- Land und Kiea), nach Analogle der
       <lb break="yes"/>Schwelzer Verfassung: Besel- Land und Bassl-Stadt.
       <lb break="yes"/>22 Art.3, Abs.l schlägt Prof.Dr. Kelsen die Strei
-<lb break="no"/></p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>chung des zweiten Satzen, Re steht unter dem Bghutz des Bundee
+<lb break="no"/></p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>chung des zweiten Satzen, Re steht unter dem Bghutz des Bundee
       <lb break="yes"/>vor, da hierin kein neuer Gedanke ausgedrückt sei. Der Unter
 <lb break="no"/>ausschuß beschließt die Etrgichung und formuliert auf Antrag
       <lb break="yes"/>Eelsene den dritten Absatz folgendermaßen:
@@ -393,7 +393,7 @@
       <lb break="yes"/>Nachden der Unterausschud für dts.1 das Art.4 folgenden
       <lb break="yes"/>Wortlaut zugestimmt hat:
       <lb break="yes"/>"42) Für jedes Land besteht eine Landesbärgerschaft. Ver
-<lb break="no"/>aussetzung der Landesburgerschaft ist das Heimatrecht in einer</p><p>138</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>-10-
+<lb break="no"/>aussetzung der Landesburgerschaft ist das Heimatrecht in einer</p><p>138</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>-10-
       <lb break="yes"/>Gemeinde des Landen. Die Bedingungen für den Erwerb und den
       <lb break="yes"/>Verlust der Landesbürgerschaft sind in jedem Land gleich,
       <lb break="yes"/>wird die weitere Erärterung der Streickungefrage bis zur Be
@@ -427,7 +427,7 @@
 <lb break="no"/>gengeändert, so daß es nicht heißt „die sich auf das ganze
       <lb break="yes"/>Bundesgebiet erstrecken“, sondern, auf Grund der Bundesverfag
 <lb break="no"/>gunge.
-      <lb break="yes"/>1.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11</p><p>In Art.10, Pkt.2 wird das Wort, auswärtige" In, Äußerer
+      <lb break="yes"/>1.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>11</p><p>In Art.10, Pkt.2 wird das Wort, auswärtige" In, Äußerer
       <lb break="yes"/>berichtigt und anstatteRegelung des Haren- und Vichverkahres
       <lb break="yes"/>mit dem Ausland gesetzt» Waren- und Viehverkehr mit dem Aus
 <lb break="no"/>laks.«
@@ -459,7 +459,7 @@
       <lb break="yes"/>verzichtet und die Aenderung des Punktes 7 im Sinne des Vor
 <lb break="no"/>schlages Prof.Dr. k el se ne angenommen?
       <lb break="yes"/>"7, Angelegenheiten des Gewerben und der Industrie; Be
-<lb break="no"/>109</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>f 102/101-1900
+<lb break="no"/>109</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>f 102/101-1900
       <lb break="yes"/>27
       <lb break="yes"/>kampfung des unlauteren Hettbewerbes; Patentwegen sonie Schutz
       <lb break="yes"/>von Kustern, Marken und anderen Warenbazeichaungen; Angelegen

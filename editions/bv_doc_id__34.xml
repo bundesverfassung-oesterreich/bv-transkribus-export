@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/></surface><surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/></surface><surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/></surface><surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Unleserlich
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Unleserlich
       <lb break="yes"/>Unleserlich</p><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
       <lb break="yes"/>die Materie mit Ausnahme des Abschnittes über die Grund- und Freiheitsrechte durchberaten.
       <lb break="yes"/>Im nachfolgenden wird nunmehr der Entwurf, wie er im Unterausschusse beschlossen wurde, in seiner Gänze der Öffentlichkeit zur
@@ -350,7 +350,7 @@
       <lb break="yes"/>(2) Insoweit der Bundesgesehgebung bloß die
       <lb break="yes"/>Regelung der Grundsage vorbehalten ist, obliegt die
       <lb break="yes"/>nähere Ausführung der Landesgesetzgebung innerhalb
-      <lb break="yes"/>des bundesgesetzlich festgelegten Rahmens. Das Bundes-</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2</p><p>gesetz kann für die Erlassung der Ausführungsgesetze
+      <lb break="yes"/>des bundesgesetzlich festgelegten Rahmens. Das Bundes-</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2</p><p>gesetz kann für die Erlassung der Ausführungsgesetze
       <lb break="yes"/>eine grist bestimmen, die nicht kürger als drei
       <lb break="yes"/>Monate und nicht länger als ein jahr sein darf.
       <lb break="yes"/>Wirs diese Frist von einer Landesgesetgebung nicht
@@ -625,7 +625,7 @@
       </head>
 <p>(1) Im Bundesrate sind die Länder im Verhältnis
       <lb break="yes"/>zu ihrer Einwohnerzahl gemäß den folgenden Be
-<lb break="no"/>stimmungen vertreten.</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>(2) Das Land mit der größten Einwohnerzahl
+<lb break="no"/>stimmungen vertreten.</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>(2) Das Land mit der größten Einwohnerzahl
       <lb break="yes"/>entjendet1er   n
       <lb break="yes"/>viele Mitglieder ass dem verhältnisse seiner Otn.
       <lb break="yes"/>wohnerahl zur ersangeführten enwohnerzoht ent
@@ -895,7 +895,7 @@
 <p>(1) Niemand kann gleichzeitig dem Nationalrat und
       <lb break="yes"/>dem Bundesrat angehören.
       <lb break="yes"/>(2) öffentliche Ungestellte und Junktionäre ein
-<lb break="no"/>schließlich der Angehörigen des Bundesheeres bedürfen</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4</p><p>zur Ausübung eines Mandates im Nationalrat oder
+<lb break="no"/>schließlich der Angehörigen des Bundesheeres bedürfen</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4</p><p>zur Ausübung eines Mandates im Nationalrat oder
       <lb break="yes"/>im Bundesrate seines Urlaubes.
       <lb break="yes"/>(3) Wenn sich die im Absatz 2 bezeichneten
       <lb break="yes"/>Personen um Mandate im Nationalrat bewerben, ist
@@ -1183,7 +1183,7 @@
 <p>(1) Dem Bundesheer liegt der Schutz der Grenzen
       <lb break="yes"/>der Republit ob
       <lb break="yes"/>(2) Das Bundesheer ist, soweit die gesetzmäßige
-      <lb break="yes"/>bürgerliche Gewalt seine Mitwirtung in Anspruch</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5</p><p>nimmt, zum Schutz der verfassungsmäßigen Einrich
+      <lb break="yes"/>bürgerliche Gewalt seine Mitwirtung in Anspruch</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5</p><p>nimmt, zum Schutz der verfassungsmäßigen Einrich
 <lb break="no"/>tungen sowie zur Aufrecherhaltung der Ordnung und
       <lb break="yes"/>Sicherheit im Znnern überhaupt und zur Hilfeleistung
       <lb break="yes"/>bei Elementarereignissen und Unglücksfällen
@@ -1485,7 +1485,7 @@
 <head>Artikel 93.
       </head>
 <p>(1) Der Landeshauptmann oder sein Stellvertreier
-      <lb break="yes"/>vertritt das Land Er trägt in den Angelegenheiten</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6</p><p>der mittelbaren Bundesverwaltung die Verantwortung
+      <lb break="yes"/>vertritt das Land Er trägt in den Angelegenheiten</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>der mittelbaren Bundesverwaltung die Verantwortung
       <lb break="yes"/>gegenüber der Bundesregierung gemäß Artikel 152. Der
       <lb break="yes"/>Geltendmachung dieser Verantwortung steht die
       <lb break="yes"/>Immunitat nicht im Bege.
@@ -1763,7 +1763,7 @@
       <lb break="yes"/>Vorschlag der Bundesregierung vom Bundespräsidenten
       <lb break="yes"/>ernannt der vorschlag der Bundesregierung bedarf
       <lb break="yes"/>bezüglich des Präsidenten und der Hälfte der Mit
-<lb break="no"/>glieder der Zustimmung des Hauptansschusses des</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>7</p><p>Nationalrates, bezüglich des Vizepräsidenten und der
+<lb break="no"/>glieder der Zustimmung des Hauptansschusses des</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>7</p><p>Nationalrates, bezüglich des Vizepräsidenten und der
       <lb break="yes"/>anderen Hälfte der Mitglieder der Zustimmung des
       <lb break="yes"/>Bundegrates.
       <lb break="yes"/>Artifel 146.

@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2998" lry="4846" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0002/full/full/0/default.jpg" width="2998px" height="4846px"/></surface><surface ulx="0" uly="0" lrx="2996" lry="4841" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg" width="2996px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4814" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg" width="2990px" height="4814px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4808" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg" width="2990px" height="4808px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4837" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg" width="3022px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2973" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg" width="2973px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3039" lry="4881" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg" width="3039px" height="4881px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4841" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg" width="3007px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="3004" lry="4883" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg" width="3004px" height="4883px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4824" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg" width="3007px" height="4824px"/></surface><surface ulx="0" uly="0" lrx="3037" lry="4899" xml:id="facs_12"><graphic url="%2Ffiles.jpeg" width="3037px" height="4899px"/></surface><surface ulx="0" uly="0" lrx="3005" lry="4853" xml:id="facs_13"><graphic url="%2Ffiles.jpeg" width="3005px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3015" lry="4861" xml:id="facs_14"><graphic url="%2Ffiles.jpeg" width="3015px" height="4861px"/></surface><surface ulx="0" uly="0" lrx="2991" lry="4838" xml:id="facs_15"><graphic url="%2Ffiles.jpeg" width="2991px" height="4838px"/></surface><surface ulx="0" uly="0" lrx="3000" lry="4794" xml:id="facs_16"><graphic url="%2Ffiles.jpeg" width="3000px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="3009" lry="4816" xml:id="facs_17"><graphic url="%2Ffiles.jpeg" width="3009px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4807" xml:id="facs_18"><graphic url="%2Ffiles.jpeg" width="3023px" height="4807px"/></surface><surface ulx="0" uly="0" lrx="3017" lry="4803" xml:id="facs_19"><graphic url="%2Ffiles.jpeg" width="3017px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4860" xml:id="facs_20"><graphic url="%2Ffiles.jpeg" width="3029px" height="4860px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4853" xml:id="facs_21"><graphic url="%2Ffiles.jpeg" width="3035px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3013" lry="4810" xml:id="facs_22"><graphic url="%2Ffiles.jpeg" width="3013px" height="4810px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokoll
       <lb break="yes"/>der 14, sitzung des Unterausschüsses des Verfassungs
 <lb break="no"/>ausschusses von 13.I. 1520.
       <lb break="yes"/>Beginn 10 Uhr Vormittag.
@@ -123,7 +123,7 @@
       <lb break="yes"/>Ministerialvizesekretär Dr. Kurt Frieberger
       <lb break="yes"/>als Schriftführer
       <lb break="yes"/>Prof. Dr. Hans Kel sen als Experte des Verfassunge
-      <lb break="yes"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2-
+      <lb break="yes"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2-
       <lb break="yes"/>Zu Beginn der Verhandlungen entscheidet sich der Un
 <lb break="no"/>terausschuß für eine artikelweise Durchberatung des Verfas
 <lb break="no"/>sungsentwurfes unter Berücksichtigung der in den letzten Ta
@@ -156,7 +156,7 @@
 <lb break="no"/>meinderat über die Angelegenheit am kommenden Freitag eine
       <lb break="yes"/>Plenarsitzung abhalten.
       <lb break="yes"/>Auf Antrag des Letzteren erhält Absatz 2 des Artikels
-      <lb break="yes"/>3 à folgende Fassung; »(2) Innerhalb der Granzen des Bundes</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3</p><p>dürfen keinerlei Zwischenzellinien oder senstige Verkehrs
+      <lb break="yes"/>3 à folgende Fassung; »(2) Innerhalb der Granzen des Bundes</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>dürfen keinerlei Zwischenzellinien oder senstige Verkehrs
 <lb break="no"/>beschränkungen errichtet werden.«
       <lb break="yes"/>Zu diesem Beschluß verliest Hin.Rat Dr. Froeh
 <lb break="no"/>i ch die in Auseicht genemmene Uebergangsbestimmung?
@@ -191,7 +191,7 @@
       <lb break="yes"/>die
       <lb break="yes"/>(2) Bindsssscne isi die Grostzgebung und Gritzienung
       <lb break="yes"/>Miseichtlich der Begelung, welche Aignden den Bunde den
-      <lb break="yes"/>34</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4-
+      <lb break="yes"/>34</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4-
       <lb break="yes"/>ländern und den Gensinden zustehen; der Regelung der Arteils
       <lb break="yes"/>der Länder und Gemeinden an den Kinnahmen des Bundes und der
       <lb break="yes"/>Regelung der Beiträge und zuschüsse aus Bundesmittelt zu ern
@@ -224,7 +224,7 @@
 <lb break="no"/>Punkt 8 »Munitions-, Schief und Sprengmittelwesen, soweit
       <lb break="yes"/>es nicht dem Monopol unterliegt sowie Haffenwesenn. Seines
       <lb break="yes"/>Erinnerns hat Hofrat Fal s er gefragt, wie es sich in
-      <lb break="yes"/>diesen Belangen mit den Tirsler Spezialgesetzen verhält und</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5-
+      <lb break="yes"/>diesen Belangen mit den Tirsler Spezialgesetzen verhält und</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5-
       <lb break="yes"/>der Vorsitzende festgestellt, daß diese durch die Kompstenz
 <lb break="no"/>bestimmung der Verfassung nicht berührt werden. Auch auf der
       <lb break="yes"/>Friedensvertrag sei hingeriesen worden, doch sei kein endgil
@@ -259,7 +259,7 @@
 <lb break="no"/>lichsaziele Wingritätsvotun bezüglich des Sazielversicherungs
 <lb break="no"/>esdes zurückgezogen ser, wenn die AnEhahme bezüglich des Er
 <lb break="no"/>beiter- und Ingestelltegschulzes in erster Teile gesegelt wird,
-      <lb break="yes"/>305</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6</p><p>Dr. Dahneberg spricht sich im weiteren
+      <lb break="yes"/>305</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>Dr. Dahneberg spricht sich im weiteren
       <lb break="yes"/>Verlauf der Beratungen für die Einfügung des Ernährungsre
 <lb break="no"/>sens aus Die Staatskanzlei hat. wie Min- Rat Dr. Frechlich
       <lb break="yes"/>mitteilt, die Regelung dieser Frage in § 14 der dem Aus
@@ -294,7 +294,7 @@
       <lb break="yes"/>rsitzende
       <lb break="yes"/>feststellt, kein Antrag var; Artikel ll muß entsprechend
       <lb break="yes"/>den varstehend erwähnten Einschaltungen in Artikel 10 gs
-      <lb break="yes"/>ändert werden. Es entfallen die bisherigen Punkte l. 2 und</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>4, von Punkt s bleibt nur die Frendenkolizei. Bei den
+      <lb break="yes"/>ändert werden. Es entfallen die bisherigen Punkte l. 2 und</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>4, von Punkt s bleibt nur die Frendenkolizei. Bei den
       <lb break="yes"/>öffentlichen Agestieen gibt Dr. Bauer zu bedenken,
       <lb break="yes"/>daß die bloße Erwähnung den Ländern die Fiederbelebung
       <lb break="yes"/>dieser Institutionen ermögliche. Die Anführung der Be
@@ -327,7 +327,7 @@
 <lb break="no"/>geln hätts und im übrigen nur ein legistisches Departement
       <lb break="yes"/>wäre; er stellt fest, daß eine Einigung nicht zustande ge
 <lb break="no"/>kommen sei. Zu Punkt 1l des Artikels 11 und zum 2.Absatz
-      <lb break="yes"/>liegt kein Antrag vor. Die Erörterung des Minderheitsanträ-</p><p>366</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>-8-
+      <lb break="yes"/>liegt kein Antrag vor. Die Erörterung des Minderheitsanträ-</p><p>366</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>-8-
       <lb break="yes"/>ges der christlichsozielen Partei zu Art.12 (Punkt l a
 <lb break="no"/>Verhältnis zwischen Schule und Kirche usw.) soll erst im Zu
 <lb break="no"/>sanmenhang mit der allgemeinen Besprechung der Schulfrags
@@ -361,7 +361,7 @@
 <lb break="no"/>Prof.Dr. Kelsen meint, daß dieser Grundsatz für die
       <lb break="yes"/>gewöhnlichen Gerichte gegeben sei, gelange die Gerichte ge
 <lb break="no"/>hörig kundgemachte Gesetze anwenden müssen. Es ist aber not
-<lb break="no"/>wendig, dem Richter das Recht auf Prülfung der Burdesgebetz-</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>mässigkeit jedes einzelnen Gesetzes einzuräumen und ihn von
+<lb break="no"/>wendig, dem Richter das Recht auf Prülfung der Burdesgebetz-</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>mässigkeit jedes einzelnen Gesetzes einzuräumen und ihn von
       <lb break="yes"/>der Regel zu befreien, daß er gehörig kundgemachte Gesetze
       <lb break="yes"/>anwenden müsss. Der Vargitzende stellt fest, daß auch der
       <lb break="yes"/>Verasangegerichtshef nur kassieren kann, wenn der Wirkunge
@@ -398,7 +398,7 @@
       <lb break="yes"/>der Gendarmerie zwischen den einzelnen Ländern stattfinden.
       <lb break="yes"/>Auch sall ihre Mitwickung bei der Bestellung und bei der Ab
 <lb break="no"/>srufun des Landesgendarneriskemmardantes gewahrt bleiben.
-      <lb break="yes"/></p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10-
+      <lb break="yes"/></p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10-
       <lb break="yes"/>Zu 14 f ist nichts zu bemerken, zu l4 g teilt der
       <lb break="yes"/>Vezgitzende mit, daß er eine Reihe von Zuschriften erhalten.
       <lb break="yes"/>hat, die vom Standpunkt des Publikums beklagen, daß bei der
@@ -431,7 +431,7 @@
 <lb break="no"/>gisch didaktische Einrichtung des mittleren Schulwesens« be
 <lb break="no"/>antragt; darauf wird verzichtet. Hingegen werden in Artikel 12
       <lb break="yes"/>einige Einschaltungen verlangt;nach Punkt 1: »Die Errichtung
-      <lb break="yes"/>und Erhaltung der Volks- und Bürgerschulen sowie der Hilfs-</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>12
+      <lb break="yes"/>und Erhaltung der Volks- und Bürgerschulen sowie der Hilfs-</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>12
       <lb break="yes"/>schulen-, ferner zu Runkt 8 des Artikels 12: Das Dienstrecht
       <lb break="yes"/>undesoldungssysten der Lehrpersopen an öffentlichen Volks-
       <lb break="yes"/>und Bürgerschulen. Präsident Seitz hält dem entgegen
@@ -465,7 +465,7 @@
       <lb break="yes"/>stehe außer zweifel, daß dis Lätrer bisser nicht von Stast
       <lb break="yes"/>ernannt werden, sondern zus den Ländern. Es sei ein starkss
       <lb break="yes"/>Intgsgerkonnen, daß die Erzige der Estrar sratsitlich gere
-      <lb break="yes"/>1.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>12-
+      <lb break="yes"/>1.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>12-
       <lb break="yes"/>gelt werden, es sei aber kaun denkbar, den Ländern das Ernen
 <lb break="no"/>nungsrecht der Lehrpersonen an Valks- und Bürgerschulen veg
 <lb break="no"/>zunehmen. Es müßte überdies auch in Punkt 9 des Artikels 12
@@ -498,7 +498,7 @@
       <lb break="yes"/>Nachteile für die Kinder der Arbeiterbevölkerung, die in Uaber
 <lb break="no"/>siedlungsfällen wegen der grossen Unterschiede des Lehrplanes
       <lb break="yes"/>nicht in die ihrem Alter entsprechende Klasse aufgenommen ver
-<lb break="no"/>den können. Es sei eine begründete Klage der tschechischen.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13-
+<lb break="no"/>den können. Es sei eine begründete Klage der tschechischen.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>13-
       <lb break="yes"/>Bevölkerung gewesen, daß ihre Kinder stets um ein bis zwei
 <lb break="no"/>Jahre zurückgesetzt werden mußten. Durch Zugeständnisse auf
       <lb break="yes"/>diesem Gebiete gebe der Stast die ganze Schulreform preis.
@@ -533,7 +533,7 @@
       <lb break="yes"/>in kleinen und entlegenen Gemeinden Träger der Intelligenz
       <lb break="yes"/>und die Länder verwahren sich dagegen, daß die Verhältnisse
       <lb break="yes"/>im Lande von einer Zentrals aus auf diesem Rege einheitlich
-      <lb break="yes"/>bgeinflußt werden.</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>24.
+      <lb break="yes"/>bgeinflußt werden.</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>24.
       <lb break="yes"/>Auf Anfrage des Vargitzenden stellt Abgeordneter Dr.
       <lb break="yes"/>Seipel fest, daß seine Partei die Frage der Sorgenkin
 <lb break="no"/>der mit der Erklärung über die Hilfsschulen für erledigt er
@@ -567,7 +567,7 @@
 <lb break="no"/>tige Regelung abgeholfen werden könne und verweist auf die
       <lb break="yes"/>Schwierigkeit des Uebertrittes aus einer Diözese in eine an
 <lb break="no"/>dere. Hisdurch lebe der Geistliche im Gegensatz zu dem Ver
-<lb break="no"/>gang, der bei den Lehrern geplant gei, in einem viel engeren</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>15</p><p>Bereich.
+<lb break="no"/>gang, der bei den Lehrern geplant gei, in einem viel engeren</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><p>15</p><p>Bereich.
       <lb break="yes"/>Der Vargitzende findet, daß hier unüberbrückbare Ge
 <lb break="no"/>gunsätss einander gegenüberstehen, Der Beschluß des Unteraus
 <lb break="no"/>Anhusses hat alle Agenden als Bundessache erklärt. Hingegen
@@ -602,7 +602,7 @@
 <lb break="no"/>weisenden Schülerzahl.
       <lb break="yes"/>Der Uaterausschuß beschließt die Erbrterung der
       <lb break="yes"/>Schulfragen zu vertagen, ur veuerlic Farteiberstungen zu
-      <lb break="yes"/>21</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>16</p><p>ermöglichen.
+      <lb break="yes"/>21</p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>16</p><p>ermöglichen.
       <lb break="yes"/>Der Vorsitzendg stellt hierauf fest, welche Fragen
       <lb break="yes"/>bezüglich der künftigen Stellung kiens als Bundeshauptstadt
       <lb break="yes"/>noch zu erledigen wären. So muß Dien hinsichtlich der Ueber
@@ -635,7 +635,7 @@
 <lb break="no"/>ern erfolgen, was für Hien vorteilhafter sei. Während Prä
 <lb break="no"/>sident S ei t z es als unerträglich bezeichnet, daß ein
       <lb break="yes"/>Verwalt ingskörper von der Größe Hiens stets die Zustimmung
-      <lb break="yes"/>einer Mehrheit agrar. Vertreter im Landtag einholen müsse,</p><pb facs="#facs_18" n="18" xml:id="img_0018"/><p>17</p><p>wenn er eins neue Steuer irgendwelcher Art beschließt, er
+      <lb break="yes"/>einer Mehrheit agrar. Vertreter im Landtag einholen müsse,</p><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><p>17</p><p>wenn er eins neue Steuer irgendwelcher Art beschließt, er
 <lb break="no"/>blickt Abgeordneter Dr. Sei pel im Ueberprüfungsrecht
       <lb break="yes"/>des Landtages einen besseren Schutz der Bevölkerung. Dr.
       <lb break="yes"/>Danneberg verweist auf die möglichen Schwierigkei
@@ -669,7 +669,7 @@
       <lb break="yes"/>Hinsicht, unbeschadet seiner Stellung als Gemeinde, die
       <lb break="yes"/>Stellung eines selbständigen Landes erhalten soll, findet
       <lb break="yes"/>die Zustinnung des Unterausschuesss. Der fursitzende fügt
-      <lb break="yes"/>N.1.</p><pb facs="#facs_19" n="19" xml:id="img_0019"/><p>18</p><p>hinzu, daß der Magzstrat Kompstenzen zu übernehmen hat, die
+      <lb break="yes"/>N.1.</p><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/><p>18</p><p>hinzu, daß der Magzstrat Kompstenzen zu übernehmen hat, die
       <lb break="yes"/>bisher der nieder-Osterreichiachen Landesregierung zustan
 <lb break="no"/>den. Auch müßte eine besondere zweite Instenz für Wien in
       <lb break="yes"/>Gestalt einer Kommission gebildet werden, die zusammenge
@@ -703,7 +703,7 @@
       <lb break="yes"/>überlasten, was nach Anschauung Dr. Neiskirch
 <lb break="no"/>n e r &amp; prinzipiell jede Statutargemeinde verlangen kön.s
       <lb break="yes"/>Präsident Seitz ist der Anschauung, daß ach
-      <lb break="yes"/>Oesterreich noch in der Revolution befinde, der End daher</p><pb facs="#facs_20" n="20" xml:id="img_0020"/><p>19</p><p>auch sagen könne, diese Agenden übertrage ich in der Form
+      <lb break="yes"/>Oesterreich noch in der Revolution befinde, der End daher</p><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/><p>19</p><p>auch sagen könne, diese Agenden übertrage ich in der Form
 <lb break="no"/>daß ich die Statthaltereibefugnis einer gewählten Regierung
       <lb break="yes"/>übertrage.
       <lb break="yes"/>Prof. K el s e n: Gegenwärtig kann die Landesord
@@ -738,7 +738,7 @@
 <lb break="no"/>vor, daß man den kleinsten Ländern drei Vertreter im Bun
 <lb break="no"/>desrat, anstatt eines einzigen zuerkannt hat. Prof. Dr.
       <lb break="yes"/>Seipel meint, daß der soz. dem. Partei auf Grund des
-      <lb break="yes"/>312</p><pb facs="#facs_21" n="21" xml:id="img_0021"/><p>20
+      <lb break="yes"/>312</p><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/><p>20
       <lb break="yes"/>Verhältniswahlrechtes in jedem Land ein Vertreter gesichert
       <lb break="yes"/>sei, was der Vazgitzende bezweifelt, indem er annimmt, daß
       <lb break="yes"/>in einem Landtag, der aus lauter Christlichsezielen
@@ -772,7 +772,7 @@
       <lb break="yes"/>Die Horte »im Wege der Bundesregierung sind so
       <lb break="yes"/>aus zu legen, daß gemäß Artikel 30 die Bundesregierung auch
       <lb break="yes"/>Gesetzesanträge, mit denen sie nicht einverstanden ist.
-      <lb break="yes"/>als Gesetzesverlagen einzubringen hat. In Artikel 32 wünscht</p><pb facs="#facs_22" n="22" xml:id="img_0022"/><p>21.
+      <lb break="yes"/>als Gesetzesverlagen einzubringen hat. In Artikel 32 wünscht</p><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><p>21.
       <lb break="yes"/>ein soz. dem. Hinderheitsantrag die MMehrheit des Bundesre
 <lb break="no"/>tes“ anstatt einem«Drittel der Mitglieder des Bundesrates.
       <lb break="yes"/>Das Verlangen kann durch Sammlung der erforderlichen Unter

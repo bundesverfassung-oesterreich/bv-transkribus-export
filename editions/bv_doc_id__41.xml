@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2884" lry="4793" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0002/full/full/0/default.jpg" width="2884px" height="4793px"/></surface><surface ulx="0" uly="0" lrx="2885" lry="4812" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0003/full/full/0/default.jpg" width="2885px" height="4812px"/></surface><surface ulx="0" uly="0" lrx="2870" lry="4804" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0004/full/full/0/default.jpg" width="2870px" height="4804px"/></surface><surface ulx="0" uly="0" lrx="2870" lry="4806" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0005/full/full/0/default.jpg" width="2870px" height="4806px"/></surface><surface ulx="0" uly="0" lrx="2884" lry="4763" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0006/full/full/0/default.jpg" width="2884px" height="4763px"/></surface><surface ulx="0" uly="0" lrx="2881" lry="4731" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0007/full/full/0/default.jpg" width="2881px" height="4731px"/></surface><surface ulx="0" uly="0" lrx="2881" lry="4769" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0009/full/full/0/default.jpg" width="2881px" height="4769px"/></surface><surface ulx="0" uly="0" lrx="2842" lry="4766" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0010/full/full/0/default.jpg" width="2842px" height="4766px"/></surface><surface ulx="0" uly="0" lrx="2851" lry="4765" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0011/full/full/0/default.jpg" width="2851px" height="4765px"/></surface><surface ulx="0" uly="0" lrx="2865" lry="4744" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0012/full/full/0/default.jpg" width="2865px" height="4744px"/></surface><surface ulx="0" uly="0" lrx="2903" lry="4735" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0013/full/full/0/default.jpg" width="2903px" height="4735px"/></surface><surface ulx="0" uly="0" lrx="2866" lry="4714" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0015/full/full/0/default.jpg" width="2866px" height="4714px"/></surface><surface ulx="0" uly="0" lrx="2839" lry="4726" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0016/full/full/0/default.jpg" width="2839px" height="4726px"/></surface><surface ulx="0" uly="0" lrx="2863" lry="4739" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0017/full/full/0/default.jpg" width="2863px" height="4739px"/></surface><surface ulx="0" uly="0" lrx="2879" lry="4742" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0018/full/full/0/default.jpg" width="2879px" height="4742px"/></surface><surface ulx="0" uly="0" lrx="2812" lry="4720" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0019/full/full/0/default.jpg" width="2812px" height="4720px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>e
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>e
       <lb break="yes"/>1
       <lb break="yes"/>
       <lb break="yes"/>der sechsten Sitzung des Unterausschusses des Verfassungs
@@ -126,7 +126,7 @@
 <lb break="no"/>führer.
       <lb break="yes"/>
       <lb break="yes"/>Prof. Dr. Hans Kelsea als Experte des Verfassungs
-<lb break="no"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2
+<lb break="no"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2
       <lb break="yes"/>Der Varsitzende verliest die von der Staatskanzlei
       <lb break="yes"/>vorgelegte Formulierung des
       <lb break="yes"/>"Art. 13
@@ -159,7 +159,7 @@
       <lb break="yes"/>Gänze oder nur zur Regelung der Grundsätze der Bundesge
 <lb break="no"/>setzgebung verbehalten sind, steht dem Bunde das Recht zu.
       <lb break="yes"/>die Einhaltung der von ihm erlassenen Verschriften wahrzu
-      <lb break="yes"/>nehnen.«</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>-3-
+      <lb break="yes"/>nehnen.«</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>-3-
       <lb break="yes"/>Der Artikel wird in dieser Fassung augenomnen, obwohl
       <lb break="yes"/>der Versitzende den Asicht Ausdruck gibt, dass es legi
 <lb break="no"/>stisch richtiger wäre den Artikel zu terlen: auf Bekurwor
@@ -191,7 +191,7 @@
 <lb break="no"/>schliesst der Bundesrat keinen Eiaspruch zu erheben oder
       <lb break="yes"/>wird ingerhalb der im zweiten Asatz festgesetzten Frist
       <lb break="yes"/>kein mit Begrundung versehener Einspruch erhaben, so ist
-      <lb break="yes"/>der Geselzesteschlus zu beurkunden und kundzumachen.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4
+      <lb break="yes"/>der Geselzesteschlus zu beurkunden und kundzumachen.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4
       <lb break="yes"/>(4) Die Bewilligung des Bundesvoranschlages und
       <lb break="yes"/>die Genehmigung der Rechnungsabschlüsse, die Aufnahme und
       <lb break="yes"/>Konvertierung von Bundesadleihen und die Verkügung über
@@ -225,7 +225,7 @@
       <lb break="yes"/>heutige Käraten, wozu noch das Burgenland käme: eine Grup
 <lb break="no"/>pe mit wesentlich höherer Einwehnerzahl: Oberösterreich
       <lb break="yes"/>mit dreimal so viel Einwehaern als Tirel, Steiermark mit
-      <lb break="yes"/>noch 90.d00 Einwohnera mehr und Niederösterreich, ehne</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>Hien 1. 600. 000 Franchaer und Wien selbst mit 1.800.000 Eia
+      <lb break="yes"/>noch 90.d00 Einwohnera mehr und Niederösterreich, ehne</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>Hien 1. 600. 000 Franchaer und Wien selbst mit 1.800.000 Eia
       <lb break="yes"/>wohnern. Die scziale Zusammensetzung der Bevölkerung sei
       <lb break="yes"/>in den Ländern grundverschieden. Die Bauernschaft habe
       <lb break="yes"/>allenthalben ihre gefestigte Position, während die übrigen
@@ -259,7 +259,7 @@
       <lb break="yes"/>zu und meidärt, daß sich dies nur vermeiden ließe, indem
       <lb break="yes"/>man die Zahl der Mandate in der Verfassung festlege, was
       <lb break="yes"/>jedoch im Lauf der Zeit zu ähnlichen Ungerechtigkeiten
-      <lb break="yes"/>kühre, wie in der alt-österreichischen Delegation. Dort</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>war die Zahl der Vertreter jedes Kronlandes, wie Abg.
+      <lb break="yes"/>kühre, wie in der alt-österreichischen Delegation. Dort</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>war die Zahl der Vertreter jedes Kronlandes, wie Abg.
       <lb break="yes"/>Clessin ernähnt, auf Grund der Volkszählung von
       <lb break="yes"/>1866 berechnet, so daß zuletzt Mähren noch immer mehr Dele
       <lb break="yes"/>gierte entsandte, als das mittlerweile meit dichter bevol
@@ -291,7 +291,7 @@
       <lb break="yes"/>erortert keine Landtagsmitglieder zu entsenden, da diese
       <lb break="yes"/>zu sehr im Lande selbst beschäftigt seien und bei der in
 <lb break="no"/>tensiven Gesetzungsgebungsarbeiten der Netionalversammlung
-      <lb break="yes"/>ständig in Men tagen mußten, sieht der Versitzende den</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>1.
+      <lb break="yes"/>ständig in Men tagen mußten, sieht der Versitzende den</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>1.
       <lb break="yes"/>dortselost
       <lb break="yes"/>Wert des Hundesrates vor allen darin, dabsdie an der Pat
 <lb break="no"/>stehung der Gesetze urtwirken, die auch mit ihrer späteren
@@ -327,7 +327,7 @@
 <lb break="no"/>tung über die Velksabstinnung ver. Üeber seinen Antrag wird
       <lb break="yes"/>folgende Fassung des Absetzes 6 Art. 26 angenomment
       <lb break="yes"/>" Die Bestimmungen dieses Artikels können aur abge
-<lb break="no"/>31.</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>äodert werden, wene die Konderung von der Mehrheit der Ver
+<lb break="no"/>31.</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8</p><p>äodert werden, wene die Konderung von der Mehrheit der Ver
 <lb break="no"/>treter von nenigstens vier ländern angenonmen wird.
       <lb break="yes"/>Der Versuch einer endgiltigen Frraulierung des ges
 <lb break="no"/>2s1 Artikels wird von der Stastskeozler in der nächsten
@@ -358,7 +358,7 @@
 <lb break="no"/>lich erwiesen habe. Die Mehl eines eigenen Fundespräss
 <lb break="no"/>denten bedeute fir unseren notlerdenden Stast die Schaf
 <lb break="no"/>fung einer neuen besonderen Stelle. Mas die Mehl durch das
-      <lb break="yes"/>gssante Rundesuelk anlange, so scheine sie sehr denckra-</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>tisch. beinhalte jedoch in unserem wenig konsulitierten
+      <lb break="yes"/>gssante Rundesuelk anlange, so scheine sie sehr denckra-</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>tisch. beinhalte jedoch in unserem wenig konsulitierten
       <lb break="yes"/>Stastsresen die Gefehr monarchistischer Eiperinarte. Abg.
       <lb break="yes"/>Clessin ist der Anschauung, dass der Bundespräsi
 <lb break="no"/>dent vom Volke gewählt werden soll; damit er nicht nur
@@ -392,7 +392,7 @@
       <lb break="yes"/>Die Wahl musste ganz anders durchgeführt werden als sen
 <lb break="no"/>sties Rehlen.
       <lb break="yes"/>Abe. Leutaer hält eine bescadege Hehl fur
-      <lb break="yes"/>Geterr</p><p>121</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10-
+      <lb break="yes"/>Geterr</p><p>121</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10-
       <lb break="yes"/>den schlechtesten kex um eine Persca zu suchen, die nicht
       <lb break="yes"/>im politischen Leben sicht.
       <lb break="yes"/>Der Unterausschuss entscheidet sich auf Grund
@@ -425,7 +425,7 @@
 <lb break="no"/>ter »Bundesfuaktioaären, der Präsident des Patentantes.
       <lb break="yes"/>stastliche Kommssäre, ein etwaiger Präsident der Akademie
       <lb break="yes"/>der Wissenschaften oder einer staatlichen Bank zu verstehen
-      <lb break="yes"/>wären.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>11</p><p>Präsident Seitz stellt mer bereits einen
+      <lb break="yes"/>wären.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>11</p><p>Präsident Seitz stellt mer bereits einen
       <lb break="yes"/>Unterschied fest. da noch der neutigen Textierung der
       <lb break="yes"/>Präsident nicht alle Bundesangestellten, soidern nur die
       <lb break="yes"/>von der VI. Rangsklasse aufwärts eruenst. Dach den dort
@@ -456,7 +456,7 @@
       <lb break="yes"/>xehe nicht en, den trasidenten mit solchen geringfugigen
       <lb break="yes"/>Fallen zu belasten; das Begnadigungsrecht könne ebense
       <lb break="yes"/>aut von der odersten ressertnässigen Stelle zusgeubt ver
-<lb break="no"/>den.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>22
+<lb break="no"/>den.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>22
       <lb break="yes"/>In Abs. 4 beanständen die sozialdenekrstischen
       <lb break="yes"/>Vertreter die Fiedereinführung des Titels Minister- und
       <lb break="yes"/>sprechen sich für Eerbenattung der Bereichtung -Startsse
@@ -488,7 +488,7 @@
 <lb break="no"/>kretäre Verschläge erstattet, wührend es bei „Gesantregie
 <lb break="no"/>runge klar war, dass ein Beschluss des Kabinettsrates er
 <lb break="no"/>forderlich ist. la der neuen Verfessung wäre grössere Klar
-      <lb break="yes"/>sert ermunscnt.</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>13
+      <lb break="yes"/>sert ermunscnt.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>13
       <lb break="yes"/>Hin.Ret Dr. Freehlich: Nach dem Gesetz über
       <lb break="yes"/>die Stastsrexierung ist unter Staatsregierung dasselbe wie
       <lb break="yes"/>unter Gesantregierung zu verstehen. Leider ist im Art. 14
@@ -524,7 +524,7 @@
       <lb break="yes"/>Nachdem nunmenr der Wirkungskreis des Bundesprä
 <lb break="no"/>sidenten festgestellt ist, erklärt Prof. Dr. Seipel
       <lb break="yes"/>dass er zwar prinzipiell für die Velksabstimmung sei, aber
-      <lb break="yes"/>mit Rucksicht auf die Kompetenz des Prasidenten davon ab-</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>-14
+      <lb break="yes"/>mit Rucksicht auf die Kompetenz des Prasidenten davon ab-</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>-14
       <lb break="yes"/>stehen konne. Der Unterausschuss beschliesst hierauf nach
       <lb break="yes"/>einem Referste Dr. Dannebergs, dass der Prusident
       <lb break="yes"/>durch Zusammentretung des Kundesrstes und des Bundestages
@@ -558,7 +558,7 @@
       <lb break="yes"/>allatienalrat und Runsserst treten zu genein
 <lb break="no"/>kamer Sitzung an dem Sitze des Nationalrates zusamnen:
       <lb break="yes"/>1. zur Wahl des Bundespräsidenten und dessen
-      <lb break="yes"/>Aagelobung.</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>-13
+      <lb break="yes"/>Aagelobung.</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><p>-13
       <lb break="yes"/>da sich, wie Abg. Dr. Seipel betort. die
       <lb break="yes"/>Henl des Bundespräsidenten von jeder anderen Wahl unter
       <lb break="yes"/>scheiden soll. wird Frt. 2 des Frt.70 ( Fr. Reaner) ge
@@ -591,7 +591,7 @@
       <lb break="yes"/>Fell der Aberufung oder einer Verfolgung des Frisidenten
       <lb break="yes"/>musste die Einberufung auf Beschluss eines der beideh
       <lb break="yes"/>Häuser, im Falle der Kriegserklärung über Auftrag des Bun
-<lb break="no"/>despriadenten erfolgen.</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>16-
+<lb break="no"/>despriadenten erfolgen.</p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>16-
       <lb break="yes"/>der Verschlsk des Berichterstatters dr. Danne
       <lb break="yes"/>berg. die Kahl des Bundespräsidenten im Sinne des Art.
       <lb break="yes"/>71 des Antrex Dr. Kenner zu regeln, wird abgelehnt. An

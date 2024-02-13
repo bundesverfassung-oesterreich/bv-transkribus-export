@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3068" lry="4835" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0003/full/full/0/default.jpg" width="3068px" height="4835px"/></surface><surface ulx="0" uly="0" lrx="3072" lry="4867" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0004/full/full/0/default.jpg" width="3072px" height="4867px"/></surface><surface ulx="0" uly="0" lrx="3055" lry="4836" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0005/full/full/0/default.jpg" width="3055px" height="4836px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4805" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0006/full/full/0/default.jpg" width="3058px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3048" lry="4805" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0007/full/full/0/default.jpg" width="3048px" height="4805px"/></surface><surface ulx="0" uly="0" lrx="3053" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0008/full/full/0/default.jpg" width="3053px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3058" lry="4825" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0009/full/full/0/default.jpg" width="3058px" height="4825px"/></surface><surface ulx="0" uly="0" lrx="3043" lry="4829" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0010/full/full/0/default.jpg" width="3043px" height="4829px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4898" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0001_1/full/full/0/default.jpg" width="3066px" height="4898px"/></surface><surface ulx="0" uly="0" lrx="3066" lry="4924" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0011/full/full/0/default.jpg" width="3066px" height="4924px"/></surface><surface ulx="0" uly="0" lrx="3041" lry="4830" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0012/full/full/0/default.jpg" width="3041px" height="4830px"/></surface><surface ulx="0" uly="0" lrx="3042" lry="4803" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0013/full/full/0/default.jpg" width="3042px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3038" lry="4850" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0014/full/full/0/default.jpg" width="3038px" height="4850px"/></surface><surface ulx="0" uly="0" lrx="3014" lry="4851" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0015/full/full/0/default.jpg" width="3014px" height="4851px"/></surface><surface ulx="0" uly="0" lrx="2958" lry="4789" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0017/full/full/0/default.jpg" width="2958px" height="4789px"/></surface><surface ulx="0" uly="0" lrx="2972" lry="4773" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__43/files/images/IMG_0018/full/full/0/default.jpg" width="2972px" height="4773px"/></surface></facsimile>
     <text type="Sitzungsprotokoll">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>Protokoll
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Protokoll
       <lb break="yes"/>der 8. Sitzung des Unterausschusses des Verfassungs
 <lb break="no"/>ausschusses von 21.1111.1520.
       <lb break="yes"/>Beginn 10 Uhr 30 Vormittag.
@@ -120,7 +120,7 @@
       <lb break="yes"/>Ministeriolvizesekretär Dr. Kurt Frieberger
       <lb break="yes"/>als Schriftfuhrer
       <lb break="yes"/>Prof. Dr. Haas Kels en als Experte des Verfassuags
-<lb break="no"/>ausschüsses.</p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>2.
+<lb break="no"/>ausschüsses.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2.
       <lb break="yes"/>der Versitzende leitet die Berstung über den 4.Abschaitt
       <lb break="yes"/>des Linzer Entwirfes eVon der Gesetzgebung und Vollziehung
       <lb break="yes"/>der Länder ein und bemerkt zu einer Frage, ob der Hchnsitz
@@ -154,7 +154,7 @@
       <lb break="yes"/>in das Belieben der Länder stellen und Prof.Dr. Kelsen
       <lb break="yes"/>erklärt, daß der Gedanke der Trennung in allen Entwürfen
       <lb break="yes"/>der Staatskanzlei bis zur Linzer Konferenz streng durchge
-<lb break="no"/>fuhrt worden sei, da man den Hauptgrund der Unbetmässigkeit</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>3-
+<lb break="no"/>fuhrt worden sei, da man den Hauptgrund der Unbetmässigkeit</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3-
       <lb break="yes"/>der Landeshauptmänner in ihrem Gefühl der Unabhängigkert er
 <lb break="no"/>blickt habe. Auf dem Gebiete der Vollziehung von Bundesange
 <lb break="no"/>legenherten müsse der Grundsatz abscluter Unterordnung herr
@@ -187,7 +187,7 @@
       <lb break="yes"/>daß es sehr schwierig sei den Landeshauptmann verantwortlich
       <lb break="yes"/>zu machen, weil er in den meisten Fällen der fachmännischen
       <lb break="yes"/>Bildung ermangle; eine solche fachtechnische Verbildung müsse,
-      <lb break="yes"/>alfer gewahrt bleiben.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>4
+      <lb break="yes"/>alfer gewahrt bleiben.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4
       <lb break="yes"/>Abs. Clessia verneist auf Art. 120 (Antrag kenner
       <lb break="yes"/>Mayr)nach dem in Städten und Märkten dem Bürgermeister ein
       <lb break="yes"/>Amtsleiter bergegeben ist und erblickt hierin den Gedanken.
@@ -221,7 +221,7 @@
 <lb break="no"/>chung der Anzahl der Landeshauptmannstellvertreter ergeben
       <lb break="yes"/>werde.
       <lb break="yes"/>Fr. Ai Gaer zählt hingegen eine Reihe von Verteilen
-      <lb break="yes"/>auf, wenn der Chef der Londesregierung zugleich such Vereit</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>5-
+      <lb break="yes"/>auf, wenn der Chef der Londesregierung zugleich such Vereit</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5-
       <lb break="yes"/>zender des landtages sei, die Kinberufung des Landtages, die
       <lb break="yes"/>Festsetzung der Tagesordnung, die Verbereitung der Geschäfte
       <lb break="yes"/>mit dem Apparat der Landesregierung. Dazu bedarf es keiner
@@ -254,7 +254,7 @@
 <lb break="no"/>kung die Zustimmung der Bundesbehorden eingehelt werden. Ver
 <lb break="no"/>Erteilung der Zustimmung kann ein solches Landesgegetz nicht
       <lb break="yes"/>kundgemacht werden.
-      <lb break="yes"/>Bei Besprechung des Art. 88 verweist der Vereitzehde, als</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>6
+      <lb break="yes"/>Bei Besprechung des Art. 88 verweist der Vereitzehde, als</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6
       <lb break="yes"/>von christlichsozialer Seite eine Verkürzung der Frist ge
 <lb break="no"/>wünscht wird, auf die Fassung des Art. 84 (904 d.B.): hier
       <lb break="yes"/>sei ein besonderer Fall vorgesehen, in dem die Zustimmung
@@ -288,7 +288,7 @@
       <lb break="yes"/>oo nicht znechs raschen Vollzuges die Bundesregierung auch
       <lb break="yes"/>erklären könne, dass sie keinen Einspruch erhebt, wrrauthin
       <lb break="yes"/>das Gesetz sefort kundgemacht werden könnte. Prof. Dr.
-      <lb break="yes"/>kel sen fintet den Verzug gegen den gegenwirtigen Zu-</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p>-7-
+      <lb break="yes"/>kel sen fintet den Verzug gegen den gegenwirtigen Zu-</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>-7-
       <lb break="yes"/>stand darin, dass jetzt eine Klage erst nach Kundmachung nög
 <lb break="no"/>lich ist, während die künftig im fateresse der formalen Selb
 <lb break="no"/>ständigkeit schen vorher geltend gemacht werden kann.
@@ -319,7 +319,7 @@
       <lb break="yes"/>§ 87 anzugliedern wäre.
       <lb break="yes"/>An Stelle des gestrichenen Artikels wird irt.85
       <lb break="yes"/>des srzialdenckratischen Entwurfes (S0t d. B.) als Art.89
-      <lb break="yes"/>eingeschädtet:</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>8</p><p>"Art. 83.
+      <lb break="yes"/>eingeschädtet:</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8</p><p>"Art. 83.
       <lb break="yes"/>(1) die durch landessssetz zu erlassende Lantesverfes
 <lb break="no"/>sung ken -insenert dadurch die Fundesverfassung nicht be
 <lb break="no"/>rührt wird - durch landesgesetz abgeändert werden.
@@ -352,7 +352,7 @@
       <lb break="yes"/>wird ein Atrag des Abg. Dr. Seipe l, der gegen einen
       <lb break="yes"/>Erngriff in die Rechte der Länder ist. folgender Vertlaut be
 <lb break="no"/>stimnt: naus dem landegnauptmam und der erforderlichen Zabt
-      <lb break="yes"/>von Stellvertretern und werteren Mitgliedern-. Auch im drit-</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>9</p><p>ten Absatz hat es zu leuten: nseine Stellvertrtter..
+      <lb break="yes"/>von Stellvertretern und werteren Mitgliedern-. Auch im drit-</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>ten Absatz hat es zu leuten: nseine Stellvertrtter..
       <lb break="yes"/>Ferner wird beschlosses, in den Art. 91 als B.Absatz
       <lb break="yes"/>den Abs: 3 des Art.88 (504 d.B.) einzuschalten: eDie Mit
 <lb break="no"/>glieder der Landesregierung müssen nicht dem Lanttag angehe
@@ -382,7 +382,7 @@
       <lb break="yes"/>christlichsorialer Serte auf den Viderstand der Schweizerkan
 <lb break="no"/>tene gegen die stete Vermehrung der Hundesbehorden im ganzen
       <lb break="yes"/>Gebiete der Kiigenesgenschaft hingewiesen wird, ergibt die
-      <lb break="yes"/>Abstinmung die Annanne eines Artrages Clessio's.</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>10-
+      <lb break="yes"/>Abstinmung die Annanne eines Artrages Clessio's.</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10-
       <lb break="yes"/>»(20 Eigene Bundesbehörden können bis auf weiteres
       <lb break="yes"/>fur folgende Angelegenheiten errichtet werden: »hin ken
 <lb break="no"/>kreter Verschleg ist von der Staatskanzlei nach Verhandlungen
@@ -417,7 +417,7 @@
       <lb break="yes"/>daß der Landeshauptmann, selange keine Trennung der Punktion
       <lb break="yes"/>vom Landesregierungschef und Vorsitzenden des Landtages ein
 <lb break="no"/>tritt, ebenso wie früher der Statthalter der Bundesregierung
-      <lb break="yes"/>gegenpber verantwortlich sein musse.</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>4
+      <lb break="yes"/>gegenpber verantwortlich sein musse.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>4
       <lb break="yes"/>die länder wurden derin keine Erhöhung derrselb
 <lb break="no"/>ständigreit des leodeshauptnames sondern ein hedereuf
 <lb break="no"/>leben der Statthalter sehen.
@@ -454,7 +454,7 @@
       <lb break="yes"/>Landesregierung wird ein rechtskündiger Verwaltungskeanten
       <lb break="yes"/>els londesantsdirexter bestellt. Ur ist in den Angelegen
 <lb break="no"/>neiten der mittelberen Fundesverwaltung das hilfsorgen des
-      <lb break="yes"/>Landeshauptnames.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p>-12-
+      <lb break="yes"/>Landeshauptnames.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>-12-
       <lb break="yes"/>Der besprechung des Artikels Ss nebt der Verertzen
 <lb break="no"/>de die Moglichkeit ausserordentlicher Kongequenzen hervor
 <lb break="no"/>mit Uetergehung des Landtsges und des Astienalrates we
@@ -491,7 +491,7 @@
       </head>
 <p>Vereinlarungen der Finder- untereinander können nur
       <lb break="yes"/>uver Angelegenheiten des selbständigen Wirkungstreises ge
-<lb break="no"/>troffen werden und sind der Bundesregierung unverzüglich</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>-15-
+<lb break="no"/>troffen werden und sind der Bundesregierung unverzüglich</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>-15-
       <lb break="yes"/>anzuzeigen.
       <lb break="yes"/>von sczialdenskralischer Serte wrd aunnehr be
 <lb break="no"/>antragt in die Verfassung den Artikel ihres Ertnurfes
@@ -523,7 +523,7 @@
       <lb break="yes"/>wohl eine geographische Tersplitterung nicht verliege wie
       <lb break="yes"/>in Deutschland, wohl aber seien gewaltige scziele, kultu
 <lb break="no"/>relle und wirtschaftliche Unterschiede zwischen den Bench
-<lb break="no"/>neru verschiedener landstriche eines einzelnen landes. Der</p><pb facs="#facs_15" n="15" xml:id="img_0015"/><p>14</p><p>Benomner des Valdviertels und der einer Suttshageneinde
+<lb break="no"/>neru verschiedener landstriche eines einzelnen landes. Der</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>14</p><p>Benomner des Valdviertels und der einer Suttshageneinde
       <lb break="yes"/>werden kaum miteinander verglichen werden konnen. Gewisse
       <lb break="yes"/>Gebiete mussten aus verwaltungstechnischen Grunden von ei
 <lb break="no"/>nem Lande einem anderen überwiesen werden wie namentlich
@@ -554,7 +554,7 @@
       <lb break="yes"/>(6) aus einer Gebietsänderung erwachsende finanz
 <lb break="no"/>rechtliche Streitigkerten entscherdet ebebfalls der Volker
 <lb break="no"/>sund.
-      <lb break="yes"/>der Vorsitzende necht suf die Schnierietert sufnert-</p><pb facs="#facs_16" n="16" xml:id="img_0016"/><p>15.
+      <lb break="yes"/>der Vorsitzende necht suf die Schnierietert sufnert-</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/><p>15.
       <lb break="yes"/>seu, die derda liegt. das noch diesen Verschlag unsere ver
 <lb break="no"/>fassung ausländischen Stostea den Auftrog gibt, Beschlüsse
       <lb break="yes"/>zu fassen und den Volkertund eine Aufgabe stellt, mit deren
@@ -586,7 +586,7 @@
 <lb break="no"/>nent, das ver 5 Jauren geuählt worden sei konne nicht mehr
       <lb break="yes"/>ein Siegelbild der politischen Arschsuungen der Bevolke
       <lb break="yes"/>rung genannt werden. Neunchlen in kurzen Zeitstständen ge
-<lb break="no"/>ben den Voltsmllen deutlicher Ausdruck als Velksabstimungen</p><pb facs="#facs_17" n="17" xml:id="img_0017"/><p>-16-
+<lb break="no"/>ben den Voltsmllen deutlicher Ausdruck als Velksabstimungen</p><pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>-16-
       <lb break="yes"/>und sind greignst den Gedanken der Deuckratie zu sterken.
       <lb break="yes"/>dessen Gegner das Sonjelsystem verteidigen, demzufelge
       <lb break="yes"/>jederzertige Abberufung des Velisvertreters durch seine Näh

@@ -97,12 +97,12 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-12" who="#cfh">document automatically created</change>
+            <change when="2024-02-13" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3071" lry="4477" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00002/full/full/0/default.jpg" width="3071px" height="4477px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4472" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00003/full/full/0/default.jpg" width="3035px" height="4472px"/></surface><surface ulx="0" uly="0" lrx="2997" lry="4480" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00004/full/full/0/default.jpg" width="2997px" height="4480px"/></surface><surface ulx="0" uly="0" lrx="3019" lry="4464" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00005/full/full/0/default.jpg" width="3019px" height="4464px"/></surface><surface ulx="0" uly="0" lrx="2978" lry="4454" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00006/full/full/0/default.jpg" width="2978px" height="4454px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4451" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00007/full/full/0/default.jpg" width="3023px" height="4451px"/></surface><surface ulx="0" uly="0" lrx="3003" lry="4478" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00008/full/full/0/default.jpg" width="3003px" height="4478px"/></surface><surface ulx="0" uly="0" lrx="2983" lry="4463" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00009/full/full/0/default.jpg" width="2983px" height="4463px"/></surface><surface ulx="0" uly="0" lrx="3016" lry="4462" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00010/full/full/0/default.jpg" width="3016px" height="4462px"/></surface><surface ulx="0" uly="0" lrx="2986" lry="4455" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00011/full/full/0/default.jpg" width="2986px" height="4455px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4457" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00012/full/full/0/default.jpg" width="3029px" height="4457px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4440" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00013/full/full/0/default.jpg" width="2976px" height="4440px"/></surface><surface ulx="0" uly="0" lrx="3030" lry="4466" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00014/full/full/0/default.jpg" width="3030px" height="4466px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002"/><p>25/6. 1920
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>25/6. 1920
       <lb break="yes"/>888 der Beilagen. — Konstituierende Nationalversammlung. 1
       <lb break="yes"/>Antrag
       <lb break="yes"/>Abgeordneten Dr. Michael Mayr und Genossen,
@@ -137,7 +137,7 @@
       <lb break="yes"/>R. Weigl.
       <lb break="yes"/>Partik.
       <lb break="yes"/><hi rend="bold">Unleserlich</hi>
-      <lb break="yes"/><hi rend="bold">Unleserlich</hi></p><pb facs="#facs_3" n="3" xml:id="img_0003"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 3
+      <lb break="yes"/><hi rend="bold">Unleserlich</hi></p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 3
       <lb break="yes"/>Gesetz
       <lb break="yes"/>vom..
       <lb break="yes"/>betreffend
@@ -175,7 +175,7 @@
       <lb break="yes"/>Bundes.
       <lb break="yes"/>(2) Die Landesbürgerschaft ist an die Heimats
 <lb break="no"/>berechtigung in der Gemeinde eines Landes ge
-<lb break="no"/>bunden.</p><pb facs="#facs_4" n="4" xml:id="img_0004"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 4
+<lb break="no"/>bunden.</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 4
       </p></div>
 <div type="article">
 <head>Artikel 5.
@@ -236,7 +236,7 @@
       <lb break="yes"/>Fünftel der Gesamtzahl der Mitglieder entfallen.
       <lb break="yes"/>(2) Die Landtage selbst werden nach denselben
       <lb break="yes"/>Grundsätzen wie der Bundestag von den im Lande
-      <lb break="yes"/>wohnhaften Bundesangehörigen gewählt.</p><pb facs="#facs_5" n="5" xml:id="img_0005"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 5
+      <lb break="yes"/>wohnhaften Bundesangehörigen gewählt.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 5
       </p></div>
 <div type="article">
 <head>Artikel 11.
@@ -293,7 +293,7 @@
       <lb break="yes"/>auch im Falle der Zustimmung des Bundesrates
       <lb break="yes"/>noch einer Volksabstimmung unterzogen werden.
       <lb break="yes"/>(5) Die jährliche Bewilligung des Bundes
-<lb break="no"/>budgets und die jährliche Genehmigung der</p><pb facs="#facs_6" n="6" xml:id="img_0006"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 6
+<lb break="no"/>budgets und die jährliche Genehmigung der</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 6
       <lb break="yes"/>Rechnungsabschlüsse, die Aufnahme und Konvertie
 <lb break="no"/>rung von Bundesanleihen und die Verfügung über
       <lb break="yes"/>das Bundesvermögen sind ausschließlich Sache des
@@ -352,7 +352,7 @@
       </head>
 <p>(1) Gemeinden und Gemeindeverbände haben
       <lb break="yes"/>das Recht der Selbstverwaltung innerhalb der
-      <lb break="yes"/>Schranken der Gesetze.</p><pb facs="#facs_7" n="7" xml:id="img_0007"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 7
+      <lb break="yes"/>Schranken der Gesetze.</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 7
       <lb break="yes"/>(2) Auch ihre Vertretungen müssen auf Grund
       <lb break="yes"/>des gleichen, direkten, geheimen und persönlichen
       <lb break="yes"/>Wahlrechtes der in ihrem Bereiche wohnhaften
@@ -406,7 +406,7 @@
 <lb break="no"/>lichen Abgaben, die ausschließlich oder teilweise für
       <lb break="yes"/>den Bund einzuheben sind; das Monopolwesen. Die
       <lb break="yes"/>Regelung, welche Abgaben dem Bunde und den
-      <lb break="yes"/>Ländern zustehen; die Regelung der Anteilnahme</p><pb facs="#facs_8" n="8" xml:id="img_0008"/><p> 888 der Beilagen. - Konstituierende Nationalversammlung. 8
+      <lb break="yes"/>Ländern zustehen; die Regelung der Anteilnahme</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p> 888 der Beilagen. - Konstituierende Nationalversammlung. 8
       <lb break="yes"/>der Länder an den Einnahmen des Bundes und
       <lb break="yes"/>die Regelung der Beiträge und Zuschüsse aus
       <lb break="yes"/>Bundesmitteln zu den Ausgaben der Länder erfolgt
@@ -460,7 +460,7 @@
       <lb break="yes"/>Vertragsversicherungswesen; das Geld=, Kredit=
       <lb break="yes"/>Börse= und Bankwesen;
       <lb break="yes"/>10. das Verkehrswesen bezüglich der Eisen
-<lb break="no"/>bahnen, der Schiffahrt und der Luftschiffahrt; die</p><pb facs="#facs_9" n="9" xml:id="img_0009"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 9
+<lb break="no"/>bahnen, der Schiffahrt und der Luftschiffahrt; die</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 9
       <lb break="yes"/>Angelegenheiten der wegen ihrer Bedeutung für den
       <lb break="yes"/>Durchzugsverkehr durch Bundesgesetz als Bundes
 <lb break="no"/>straßen erklärten Straßenzüge; die Strom= und
@@ -514,7 +514,7 @@
       <lb break="yes"/>7. die betriebstechnischen Vorschriften bezüg
 <lb break="no"/>lich des Kraftfahrwesens;
       <lb break="yes"/>8. die Ausbildung, Fort bildung und Berufs
-<lb break="no"/>ausübung von Heilpersonen; das Heilmittelwesen;</p><pb facs="#facs_10" n="10" xml:id="img_0010"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 10
+<lb break="no"/>ausübung von Heilpersonen; das Heilmittelwesen;</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>888 der Beilagen. — Konstituierende Nationalversammlung. 10
       <lb break="yes"/>das Gesundheitswesen mit Ausnahme der Heil= und
       <lb break="yes"/>Pflegeanstalten und Ambularien, des Kurorte-,
       <lb break="yes"/>Leichen= und Begräbniswesens sowie des Gemeinde
@@ -569,7 +569,7 @@
       <lb break="yes"/>durch die Bundesverfassung der Gesetzgebung oder
       <lb break="yes"/>auch der Vollziehung des Bundes übertragen ist,
       <lb break="yes"/>verbleibt sie im Wirkungsbereiche der Länder. In
-<lb break="no"/>soweit der Bundesgesetzgebung bloß die Regelung</p><pb facs="#facs_11" n="11" xml:id="img_0011"/><p>888 der Beilagen. — Konstituierende Nationalversammlung.
+<lb break="no"/>soweit der Bundesgesetzgebung bloß die Regelung</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>888 der Beilagen. — Konstituierende Nationalversammlung.
       <lb break="yes"/>der Grundzüge vorbehalten ist, obliegt die nähere
       <lb break="yes"/>Durchführung der Landesgesetzgebung innerhalb des
       <lb break="yes"/>bundesgesetzlich festgelegten Rahmens.
@@ -627,7 +627,7 @@
       <lb break="yes"/>Angelegenheiten errichtet werden: Regelung des
       <lb break="yes"/>Waren= und Viehverkehres mit dem Ausland, Zoll
 <lb break="no"/>wesen, Bundessinanzen und Regelung der Finanz
-<lb break="no"/>angelegenheiten zwischen Bund und Bundesländern,</p><pb facs="#facs_12" n="12" xml:id="img_0012"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 12
+<lb break="no"/>angelegenheiten zwischen Bund und Bundesländern,</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>988 der Beilagen. — Konstituierende Nationalversammlung. 12
       <lb break="yes"/>Monopolwesen, Maß=, Gewichts=, Normen= und
       <lb break="yes"/>Punzierungswesen, Justizpflege, Verkehrswesen be
 <lb break="no"/>züglich der Eisenbahnen, der Schiffahrt und der
@@ -680,7 +680,7 @@
 <lb break="no"/>samten Staatswirtschaft des Bundes und der
       <lb break="yes"/>Länder, ferner die Gebarung der von Organen des
       <lb break="yes"/>Bundes oder der Länder verwalteten Stiftungen.
-      <lb break="yes"/>Fonds und Anstalten ist der Rechnungshof berufen.</p><pb facs="#facs_13" n="13" xml:id="img_0013"/><p> 888 der Beilagen. — Konstituierende Nationalversammlung. 13
+      <lb break="yes"/>Fonds und Anstalten ist der Rechnungshof berufen.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p> 888 der Beilagen. — Konstituierende Nationalversammlung. 13
       <lb break="yes"/>Er kann auch die Gebarung von Unternehmungen
       <lb break="yes"/>überprüfen, an denen der Bund finanziell be
       <lb break="yes"/>teiligt ist.
@@ -736,7 +736,7 @@
       <lb break="yes"/>der Bundesregierung und den Landesregie
 <lb break="no"/>rungen oder zwischen diesen untereinander;
       <lb break="yes"/>e) Gesetzwidrigkeit von Wahlen zu den allgemeinen
-      <lb break="yes"/>Vertretungskörpern;</p><pb facs="#facs_14" n="14" xml:id="img_0014"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 14
+      <lb break="yes"/>Vertretungskörpern;</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><p>888 der Beilagen. - Konstituierende Nationalversammlung. 14
       <lb break="yes"/>f) Verantwortlichkeit des Bundespräsidenten, der
       <lb break="yes"/>Mitglieder der Bundesregierung, des Präsi
 <lb break="no"/>denten des Rechnungshofes und der Mit
