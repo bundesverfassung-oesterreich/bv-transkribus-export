@@ -81,7 +81,7 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin from="1920-07-22" to="1920-07-22">22. Juli 1920</origin>
+                        <origin notBefore-iso="1920-07-22" notAfter-iso="1920-07-22">22. Juli 1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -97,7 +97,7 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-14" who="#cfh">document automatically created</change>
+            <change when="2024-02-15" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2998" lry="4846" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0002/full/full/0/default.jpg" width="2998px" height="4846px"/></surface><surface ulx="0" uly="0" lrx="2996" lry="4841" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg" width="2996px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4814" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg" width="2990px" height="4814px"/></surface><surface ulx="0" uly="0" lrx="2990" lry="4808" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg" width="2990px" height="4808px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4837" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg" width="3022px" height="4837px"/></surface><surface ulx="0" uly="0" lrx="2973" lry="4800" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg" width="2973px" height="4800px"/></surface><surface ulx="0" uly="0" lrx="3039" lry="4881" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg" width="3039px" height="4881px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4841" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg" width="3007px" height="4841px"/></surface><surface ulx="0" uly="0" lrx="3004" lry="4883" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg" width="3004px" height="4883px"/></surface><surface ulx="0" uly="0" lrx="3007" lry="4824" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg" width="3007px" height="4824px"/></surface><surface ulx="0" uly="0" lrx="3037" lry="4899" xml:id="facs_12"><graphic url="%2Ffiles.jpeg" width="3037px" height="4899px"/></surface><surface ulx="0" uly="0" lrx="3005" lry="4853" xml:id="facs_13"><graphic url="%2Ffiles.jpeg" width="3005px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3015" lry="4861" xml:id="facs_14"><graphic url="%2Ffiles.jpeg" width="3015px" height="4861px"/></surface><surface ulx="0" uly="0" lrx="2991" lry="4838" xml:id="facs_15"><graphic url="%2Ffiles.jpeg" width="2991px" height="4838px"/></surface><surface ulx="0" uly="0" lrx="3000" lry="4794" xml:id="facs_16"><graphic url="%2Ffiles.jpeg" width="3000px" height="4794px"/></surface><surface ulx="0" uly="0" lrx="3009" lry="4816" xml:id="facs_17"><graphic url="%2Ffiles.jpeg" width="3009px" height="4816px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4807" xml:id="facs_18"><graphic url="%2Ffiles.jpeg" width="3023px" height="4807px"/></surface><surface ulx="0" uly="0" lrx="3017" lry="4803" xml:id="facs_19"><graphic url="%2Ffiles.jpeg" width="3017px" height="4803px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4860" xml:id="facs_20"><graphic url="%2Ffiles.jpeg" width="3029px" height="4860px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4853" xml:id="facs_21"><graphic url="%2Ffiles.jpeg" width="3035px" height="4853px"/></surface><surface ulx="0" uly="0" lrx="3013" lry="4810" xml:id="facs_22"><graphic url="%2Ffiles.jpeg" width="3013px" height="4810px"/></surface></facsimile>
@@ -123,7 +123,7 @@
       <lb break="yes"/>Ministerialvizesekretär Dr. Kurt Frieberger
       <lb break="yes"/>als Schriftführer
       <lb break="yes"/>Prof. Dr. Hans Kel sen als Experte des Verfassunge
-      <lb break="yes"/>ausschusses.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2-
+      <lb break="yes"/>ausschusses.<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2-
       <lb break="yes"/>Zu Beginn der Verhandlungen entscheidet sich der Un
 <lb break="no"/>terausschuß für eine artikelweise Durchberatung des Verfas
 <lb break="no"/>sungsentwurfes unter Berücksichtigung der in den letzten Ta
@@ -156,7 +156,7 @@
 <lb break="no"/>meinderat über die Angelegenheit am kommenden Freitag eine
       <lb break="yes"/>Plenarsitzung abhalten.
       <lb break="yes"/>Auf Antrag des Letzteren erhält Absatz 2 des Artikels
-      <lb break="yes"/>3 à folgende Fassung; »(2) Innerhalb der Granzen des Bundes</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>dürfen keinerlei Zwischenzellinien oder senstige Verkehrs
+      <lb break="yes"/>3 à folgende Fassung; »(2) Innerhalb der Granzen des Bundes<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>dürfen keinerlei Zwischenzellinien oder senstige Verkehrs
 <lb break="no"/>beschränkungen errichtet werden.«
       <lb break="yes"/>Zu diesem Beschluß verliest Hin.Rat Dr. Froeh
 <lb break="no"/>i ch die in Auseicht genemmene Uebergangsbestimmung?
@@ -191,7 +191,7 @@
       <lb break="yes"/>die
       <lb break="yes"/>(2) Bindsssscne isi die Grostzgebung und Gritzienung
       <lb break="yes"/>Miseichtlich der Begelung, welche Aignden den Bunde den
-      <lb break="yes"/>34</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4-
+      <lb break="yes"/>34<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4-
       <lb break="yes"/>ländern und den Gensinden zustehen; der Regelung der Arteils
       <lb break="yes"/>der Länder und Gemeinden an den Kinnahmen des Bundes und der
       <lb break="yes"/>Regelung der Beiträge und zuschüsse aus Bundesmittelt zu ern
@@ -224,7 +224,7 @@
 <lb break="no"/>Punkt 8 »Munitions-, Schief und Sprengmittelwesen, soweit
       <lb break="yes"/>es nicht dem Monopol unterliegt sowie Haffenwesenn. Seines
       <lb break="yes"/>Erinnerns hat Hofrat Fal s er gefragt, wie es sich in
-      <lb break="yes"/>diesen Belangen mit den Tirsler Spezialgesetzen verhält und</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5-
+      <lb break="yes"/>diesen Belangen mit den Tirsler Spezialgesetzen verhält und<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5-
       <lb break="yes"/>der Vorsitzende festgestellt, daß diese durch die Kompstenz
 <lb break="no"/>bestimmung der Verfassung nicht berührt werden. Auch auf der
       <lb break="yes"/>Friedensvertrag sei hingeriesen worden, doch sei kein endgil
@@ -259,7 +259,7 @@
 <lb break="no"/>lichsaziele Wingritätsvotun bezüglich des Sazielversicherungs
 <lb break="no"/>esdes zurückgezogen ser, wenn die AnEhahme bezüglich des Er
 <lb break="no"/>beiter- und Ingestelltegschulzes in erster Teile gesegelt wird,
-      <lb break="yes"/>305</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>Dr. Dahneberg spricht sich im weiteren
+      <lb break="yes"/>305<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>Dr. Dahneberg spricht sich im weiteren
       <lb break="yes"/>Verlauf der Beratungen für die Einfügung des Ernährungsre
 <lb break="no"/>sens aus Die Staatskanzlei hat. wie Min- Rat Dr. Frechlich
       <lb break="yes"/>mitteilt, die Regelung dieser Frage in § 14 der dem Aus
@@ -294,7 +294,7 @@
       <lb break="yes"/>rsitzende
       <lb break="yes"/>feststellt, kein Antrag var; Artikel ll muß entsprechend
       <lb break="yes"/>den varstehend erwähnten Einschaltungen in Artikel 10 gs
-      <lb break="yes"/>ändert werden. Es entfallen die bisherigen Punkte l. 2 und</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>4, von Punkt s bleibt nur die Frendenkolizei. Bei den
+      <lb break="yes"/>ändert werden. Es entfallen die bisherigen Punkte l. 2 und<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>4, von Punkt s bleibt nur die Frendenkolizei. Bei den
       <lb break="yes"/>öffentlichen Agestieen gibt Dr. Bauer zu bedenken,
       <lb break="yes"/>daß die bloße Erwähnung den Ländern die Fiederbelebung
       <lb break="yes"/>dieser Institutionen ermögliche. Die Anführung der Be
@@ -327,7 +327,7 @@
 <lb break="no"/>geln hätts und im übrigen nur ein legistisches Departement
       <lb break="yes"/>wäre; er stellt fest, daß eine Einigung nicht zustande ge
 <lb break="no"/>kommen sei. Zu Punkt 1l des Artikels 11 und zum 2.Absatz
-      <lb break="yes"/>liegt kein Antrag vor. Die Erörterung des Minderheitsanträ-</p><p>366</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>-8-
+      <lb break="yes"/>liegt kein Antrag vor. Die Erörterung des Minderheitsanträ-</p><p>366<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>-8-
       <lb break="yes"/>ges der christlichsozielen Partei zu Art.12 (Punkt l a
 <lb break="no"/>Verhältnis zwischen Schule und Kirche usw.) soll erst im Zu
 <lb break="no"/>sanmenhang mit der allgemeinen Besprechung der Schulfrags
@@ -361,7 +361,7 @@
 <lb break="no"/>Prof.Dr. Kelsen meint, daß dieser Grundsatz für die
       <lb break="yes"/>gewöhnlichen Gerichte gegeben sei, gelange die Gerichte ge
 <lb break="no"/>hörig kundgemachte Gesetze anwenden müssen. Es ist aber not
-<lb break="no"/>wendig, dem Richter das Recht auf Prülfung der Burdesgebetz-</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/><p>9</p><p>mässigkeit jedes einzelnen Gesetzes einzuräumen und ihn von
+<lb break="no"/>wendig, dem Richter das Recht auf Prülfung der Burdesgebetz-<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>9</p><p>mässigkeit jedes einzelnen Gesetzes einzuräumen und ihn von
       <lb break="yes"/>der Regel zu befreien, daß er gehörig kundgemachte Gesetze
       <lb break="yes"/>anwenden müsss. Der Vargitzende stellt fest, daß auch der
       <lb break="yes"/>Verasangegerichtshef nur kassieren kann, wenn der Wirkunge

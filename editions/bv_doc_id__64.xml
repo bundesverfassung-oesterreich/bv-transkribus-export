@@ -81,7 +81,7 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin from="1920-10-01" to="1920-10-01">1. Oktober 1920</origin>
+                        <origin notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">1. Oktober 1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -97,7 +97,7 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-14" who="#cfh">document automatically created</change>
+            <change when="2024-02-15" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3241" lry="5213" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0034/full/full/0/default.jpg" width="3241px" height="5213px"/></surface><surface ulx="0" uly="0" lrx="3233" lry="5213" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0035/full/full/0/default.jpg" width="3233px" height="5213px"/></surface><surface ulx="0" uly="0" lrx="3252" lry="5283" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0036/full/full/0/default.jpg" width="3252px" height="5283px"/></surface><surface ulx="0" uly="0" lrx="3257" lry="5265" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0037/full/full/0/default.jpg" width="3257px" height="5265px"/></surface><surface ulx="0" uly="0" lrx="3274" lry="5276" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0038/full/full/0/default.jpg" width="3274px" height="5276px"/></surface><surface ulx="0" uly="0" lrx="3245" lry="5211" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0039/full/full/0/default.jpg" width="3245px" height="5211px"/></surface><surface ulx="0" uly="0" lrx="3243" lry="5194" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0040/full/full/0/default.jpg" width="3243px" height="5194px"/></surface></facsimile>
@@ -206,7 +206,7 @@
       <lb break="yes"/>Unterstaatssekretäre die Staatssekretäre, an die Stelle
       <lb break="yes"/>des Staatsrechnungshofes der Rechnungshof
       <lb break="yes"/>(2) Die nach dem Gesetz vom 24. Juli 1917,
-      <lb break="yes"/>R. G. Bl. Nr. 307, mit welchem die Regierung</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>2</p><p>ermächtigt wird, aus Anlaß der durch den Kriegs
+      <lb break="yes"/>R. G. Bl. Nr. 307, mit welchem die Regierung<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2</p><p>ermächtigt wird, aus Anlaß der durch den Kriegs
 <lb break="no"/>zustand verursachten außerordentlichen Verhältnisse
       <lb break="yes"/>die notwendigen Verfügungen auf wirtschaftlichem
       <lb break="yes"/>Gebiete zu treffen, der Regierung zustehenden Be
@@ -308,7 +308,7 @@
       <lb break="yes"/>wird durch Bundesgesetz geregelt; bezüglich der
       <lb break="yes"/>Personen, die auf Grund des Staatsvertrages von
       <lb break="yes"/>Saint=Germain durch Option oder auf Grund einer
-      <lb break="yes"/>bloßen Erklärung gemäß § 2 des Gesetzes vom</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>3</p><p>5. Dezember 1918, St. G. Bl. Nr. 91, über das
+      <lb break="yes"/>bloßen Erklärung gemäß § 2 des Gesetzes vom<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>5. Dezember 1918, St. G. Bl. Nr. 91, über das
       <lb break="yes"/>Staatsbürgerrecht, die Staatsbürgerschaft ohne Er
 <lb break="no"/>langung eines Heimatrechtes erworben haben, steht
       <lb break="yes"/>auch die Vollziehung dem Bund zu.
@@ -409,7 +409,7 @@
       <lb break="yes"/>Tirol 3 Mitglieder,
       <lb break="yes"/>Kärnten 3 Mitglieder,
       <lb break="yes"/>Salzburg 3 Mitglieder,
-      <lb break="yes"/>Vorarlberg 3 Mitglieder.</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4</p><p>(2) Sobald das Burgenland einen Landtag gewählt
+      <lb break="yes"/>Vorarlberg 3 Mitglieder.<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p><p>(2) Sobald das Burgenland einen Landtag gewählt
       <lb break="yes"/>hat, wird die Anzahl der vom Burgenland zu
       <lb break="yes"/>entsendenden Mitglieder vom Bundespräsidenten nach
       <lb break="yes"/>Artikel 34 ermittelt.
@@ -506,7 +506,7 @@
       <lb break="yes"/>Zu Artikel 95.
       <lb break="yes"/>Die bestehenden Volksvertretungen in den
       <lb break="yes"/>Ländern sind die ersten Landtage im Sinne des
-      <lb break="yes"/>Bundes=Verfassungsgesetzes.</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>5</p><p>§ 30.
+      <lb break="yes"/>Bundes=Verfassungsgesetzes.<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>§ 30.
       <lb break="yes"/>Zu Artikel 98.
       <lb break="yes"/>(1) Der Artikel 99 wird auch auf Landesgesetze
       <lb break="yes"/>angewendet, die vor dem Inkrafttreten des Bundes
@@ -611,7 +611,7 @@
 <lb break="no"/>fassungsmäßigen Zuständigkeit.
       <lb break="yes"/>(2) In den Städten mit eigenem Statut über
 <lb break="no"/>nimmt die Gemeindevertretung zugleich die Aufgaben
-      <lb break="yes"/>der Bezirksvertretung. Diese Aufgaben können einem</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>besonderen Ausschuß der Gemeindevertretung, in
+      <lb break="yes"/>der Bezirksvertretung. Diese Aufgaben können einem<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>besonderen Ausschuß der Gemeindevertretung, in
       <lb break="yes"/>Wien den dort bestehenden Bezirksvertretungen oder
       <lb break="yes"/>Ausschüssen dieser Bezirksvertretungen, übertragen
       <lb break="yes"/>werden.
@@ -709,7 +709,7 @@
       <lb break="yes"/>III. Schlußbestimmungen.
       <lb break="yes"/>§ 42.
       <lb break="yes"/>(1) Die Artikel 10 bis einschließlich 13 und der
-      <lb break="yes"/>Artikel 15 des Bundes=Verfassungsgesetzes werden,</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>7</p><p>soweit es sich nicht um Angelegenheiten der ehe
+      <lb break="yes"/>Artikel 15 des Bundes=Verfassungsgesetzes werden,<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7</p><p>soweit es sich nicht um Angelegenheiten der ehe
 <lb break="no"/>mals autonomen Verwaltung der Länder handelt
       <lb break="yes"/>erst an dem Tag wirksam, an dem die folgenden
       <lb break="yes"/>Gesetze in Geltung getreten sind:

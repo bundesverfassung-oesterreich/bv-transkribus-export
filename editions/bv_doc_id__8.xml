@@ -81,7 +81,7 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin from="1919-10-07" to="1919-10-07">7. Oktober 1919</origin>
+                        <origin notBefore-iso="1919-10-07" notAfter-iso="1919-10-07">7. Oktober 1919</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -97,7 +97,7 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-02-14" who="#cfh">document automatically created</change>
+            <change when="2024-02-15" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2796" lry="4506" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0002/full/full/0/default.jpg" width="2796px" height="4506px"/></surface><surface ulx="0" uly="0" lrx="2743" lry="4428" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0003/full/full/0/default.jpg" width="2743px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2781" lry="4496" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0004/full/full/0/default.jpg" width="2781px" height="4496px"/></surface><surface ulx="0" uly="0" lrx="2709" lry="4448" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0005/full/full/0/default.jpg" width="2709px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2758" lry="4464" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0006/full/full/0/default.jpg" width="2758px" height="4464px"/></surface><surface ulx="0" uly="0" lrx="2737" lry="4450" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0007/full/full/0/default.jpg" width="2737px" height="4450px"/></surface><surface ulx="0" uly="0" lrx="2754" lry="4448" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0008/full/full/0/default.jpg" width="2754px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2747" lry="4454" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0009/full/full/0/default.jpg" width="2747px" height="4454px"/></surface><surface ulx="0" uly="0" lrx="2736" lry="4448" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0010/full/full/0/default.jpg" width="2736px" height="4448px"/></surface><surface ulx="0" uly="0" lrx="2739" lry="4447" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0011/full/full/0/default.jpg" width="2739px" height="4447px"/></surface><surface ulx="0" uly="0" lrx="2638" lry="4428" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0012/full/full/0/default.jpg" width="2638px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2722" lry="4445" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0013/full/full/0/default.jpg" width="2722px" height="4445px"/></surface><surface ulx="0" uly="0" lrx="2717" lry="4432" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0014/full/full/0/default.jpg" width="2717px" height="4432px"/></surface><surface ulx="0" uly="0" lrx="2743" lry="4428" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0015/full/full/0/default.jpg" width="2743px" height="4428px"/></surface><surface ulx="0" uly="0" lrx="2732" lry="4431" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0016/full/full/0/default.jpg" width="2732px" height="4431px"/></surface><surface ulx="0" uly="0" lrx="2748" lry="4423" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0017/full/full/0/default.jpg" width="2748px" height="4423px"/></surface><surface ulx="0" uly="0" lrx="2705" lry="4415" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__8/files/images/IMG_0018/full/full/0/default.jpg" width="2705px" height="4415px"/></surface></facsimile>
@@ -109,8 +109,7 @@
       <lb break="yes"/>--------
       </p><div type="article">
 <head>Artikel 1.</head>
-<p>
-</p><p>Unter dem völkerrechtlichen Zwange des Friedensvertrages von
+<p>Unter dem völkerrechtlichen Zwange des Friedensvertrages von
       <lb break="yes"/>St. Germain und mit feierlicher Verwahrung gegen die Verweigerung
       <lb break="yes"/>des Selbstbestimmungsrechtes der Völker schliessen sich die Länder
       <lb break="yes"/>Kärnten, Niederösterreich, Oberöstereich, Salzburg, Steiermark,
@@ -375,8 +374,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XVI.</head>
-<p>
-</p><p>Die Landesregierungen sind verpflichtet, alle Gesetzesbeschlüs
+<p>Die Landesregierungen sind verpflichtet, alle Gesetzesbeschlüs
 <lb break="no"/>se der Landtage vor ihrer Kundmachung der Staatsregierung mit
 <lb break="no"/>zuteilen, die gleiche Pflicht obliegt dem Stadtrate der Bundeshaupt
 <lb break="no"/>stadt Wien in Betreff der Gesetzesbeschlüsse des Gemeinderates.
@@ -475,8 +473,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXI.</head>
-<p>
-</p><p>Bundesgesetze kommen durch den übereinstimmenden Beschluß
+<p>Bundesgesetze kommen durch den übereinstimmenden Beschluß
       <lb break="yes"/>der Bundesversammlung und des Länderhauses zustande; die Feststel
 <lb break="no"/>lung der Voranschläge des Bundeshaushaltes, die Prüfung der Staats
 <lb break="no"/>rechnungsabschlüsse und die Erteilung der Entlastung, die Aufnahme
@@ -520,8 +517,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXV.</head>
-<p>
-</p><p>Bundesgesetze, sowie allgemein verbindliche Bundesbeschlüsse
+<p>Bundesgesetze, sowie allgemein verbindliche Bundesbeschlüsse
       <lb break="yes"/>sind dem Volke zur Annahme oder Verwerfung vorzulegen, wenn es von
       <lb break="yes"/>50.000 Bundesbürgern oder von 3 Bundesgliedern verlangt wird.
       <lb break="yes"/>Die Durchführung der Volksabstimmung und die Frist zur Einbrin
@@ -535,8 +531,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXVII.</head>
-<p>
-</p><p>Die oberste vollziehende und leitende Verwaltungsbehörde
+<p>Die oberste vollziehende und leitende Verwaltungsbehörde
       <lb break="yes"/>des Bundesstaates ist der Bundesrat, der aus 7 Mitgliedern besteht.
       <lb break="yes"/>Die Mitglieder werden von der Bundesversammlung aus allen in
       <lb break="yes"/>die Bundesversammlung wählbaren Bürgern auf die Dauer von 3 Jahren
@@ -662,8 +657,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXXV.</head>
-<p>
-</p><p>Zur Aenderung der Bestimmungen dieser Bundesverfassung ist
+<p>Zur Aenderung der Bestimmungen dieser Bundesverfassung ist
       <lb break="yes"/>erforderlich:
       <lb break="yes"/>1.) Ein mit 2/3 Mehrheit der in beschlussfähiger Anzahl versammelten
       <lb break="yes"/>Bundesversammlung gefasster Beschluß auf Aenderung der Verfassung,
@@ -700,8 +694,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXXVII.</head>
-<p>
-</p><p>Drei Monate nach Kundmachung dieser Bundesverfassung im Staats
+<p>Drei Monate nach Kundmachung dieser Bundesverfassung im Staats
 <lb break="no"/>gesetzblatte für die Republik Oesterreich, in welche Kundmachung auch
       <lb break="yes"/>die Annahmebeschlüsse der Bundesglieder im Wortlaute aufzunehmen
       <lb break="yes"/>sind, sind von der im Amte befindlichen Staatsregierung die Wahlen
@@ -719,8 +712,7 @@
       </p></div>
 <div type="article">
 <head>Artikel XXXIX.</head>
-<p>
-</p><p>Die Bundesversammlung und das Länderhaus sind von der Staatsre
+<p>Die Bundesversammlung und das Länderhaus sind von der Staatsre
 <lb break="no"/>gierung in der vierten Woche nach dem Wahltage in die Bundeshauptstadt
       <lb break="yes"/>einzuberufen; die Staatsregierung hat die Bundesversammlung zur Wahl
       <lb break="yes"/>eines Vorsitzenden und dreier Stellvertreter, sowie des Bundesrates
