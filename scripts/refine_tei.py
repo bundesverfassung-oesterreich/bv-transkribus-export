@@ -158,6 +158,31 @@ def raise_div_element(section_div: ET._Element):
         parent_element = section_div.getparent()
 
 
+def place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc):
+    for pb in doc.any_xpath(f"//tei:div/tei:pb[preceding-sibling::*[1][local-name()='p']]"):
+        p = pb.getprevious()
+        next_element = pb.getnext()
+        if next_element is not None and next_element.xpath("local-name()='p'"):
+            if next_element.tail:
+                p.tail += next_element.tail
+            # this binds next_el.text to pb.tail
+            if next_element.text:
+                if not pb.tail:
+                    pb.tail = ""
+                pb.tail += next_element.text
+                next_element.text = ""
+            p.append(pb)
+            for childelement in next_element:
+                p.append(childelement)
+            if (next_element.text or next_element.tail) and (next_element.text.strip() or next_element.tail.strip()):
+                print(ET.tostring(next_element))
+                raise ValueError
+            else:
+                next_element.getparent().remove(next_element)
+        else:
+            p.append(pb)
+
+
 def expand_div_element(section_div: ET._Element, append_test):
     next_element = section_div.getnext()
     while append_test(next_element):
@@ -226,6 +251,7 @@ def replace_unleserlichs(doc):
         else:
             parent.tail=""
             parent.addnext(gap)
+
 
 def replace_hi(doc: TeiReader):
     for span in doc.any_xpath("//tei:hi"):
@@ -314,13 +340,24 @@ def remove_calibration_page(doc: TeiReader):
             first_surface.getparent().remove(first_surface)
 
 
-def remove_useless_elements(doc: TeiReader):
-    remove_calibration_page(doc)
+def remove_empty_paras(doc):
+    for empty_p in doc.any_xpath("//tei:p[not(*) and normalize-space()='']"):
+        if empty_p.tail is None or not empty_p.tail.strip():
+            empty_p.getparent().remove(empty_p)
+
+
+def remove_lbs_as_first_child_of_p_without_text(doc):
     for parent in doc.any_xpath(
         "//tei:*[(local-name()='p' or local-name()='ab') and ./node()[1][normalize-space(.)=''] and ./*[1][local-name()='lb']]"
     ):
         parent.text = parent[0].tail
         parent.remove(parent[0])
+
+
+def remove_useless_elements(doc: TeiReader):
+    remove_calibration_page(doc)
+    remove_empty_paras(doc)
+    remove_lbs_as_first_child_of_p_without_text(doc)
 
 
 def get_faksimile_element(doc: TeiReader, bv_doc_id:str):
@@ -365,6 +402,7 @@ def create_new_xml_data(
     type_lb_elements(doc)
     replace_hi(doc)
     replace_unleserlichs(doc)
+    place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
