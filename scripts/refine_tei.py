@@ -571,19 +571,6 @@ def resolve_types(doc_metadata):
     return doc_metadata
 
 
-def resolve_types_bak(doc_metadata):
-    # this is a bit lazy but the id is build based on the row id, so whatever …
-    mani_types = []
-    for entry in doc_metadata["type_of_manifestation"]:
-        mani_types.append("bv_manifestation_type_id__"+str(entry["id"]))
-    doc_types = []
-    for entry in doc_metadata["type_of_document"]:
-        doc_types.append("bv_doctype_id__"+str(entry["id"]))
-    doc_metadata["type_of_document"] = " ".join(doc_types)
-    doc_metadata["type_of_manifestation"] = " ".join(mani_types)
-    return doc_metadata
-
-
 def process_all_files():
     # # load metadata from baserow
     metadata = load_metadata_from_dump()
