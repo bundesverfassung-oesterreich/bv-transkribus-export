@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Install Saxon and Ant
       run: |
-        EDITIONSPATH="./editions"
+        EDITIONSPATH="./editions_source"
         METSPATH="./mets"
         LOGPATH="./logs/malformed_files.csv"
         if [ -d "$EDITIONSPATH" ]; then rm -r "$EDITIONSPATH"; fi
