@@ -1,4 +1,4 @@
-EDITIONSPATH="./editions"
+EDITIONSPATH="./editions_source"
 METSPATH="./mets"
 if [ -d "$EDITIONSPATH" ]; then rm -r "$EDITIONSPATH"; fi
 if [ -d "$METSPATH" ]; then rm -r "$METSPATH"; fi

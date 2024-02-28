@@ -11,7 +11,7 @@ import json
 from acdh_tei_pyutils.tei import TeiReader
 
 
-TEI_DIR = "./editions"
+TEI_DIR = "./editions_source"
 TMP_DIR = "./mets/"
 MALFORMED_FILES_LOGPATH = "./logs/malformed_files.csv"
 TEMPLATE_PATH = "./scripts/templates"
