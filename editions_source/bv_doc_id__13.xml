@@ -1,0 +1,1332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">unidentifizierter Entwurf nach Linz</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529211</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="bv_data_set">Datenset A</idno>
+                <idno type="goobi">14522</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E 1731 (Nachlass Renner) Mappe 38</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Länderkonferenz</author>
+                            <title>unidentifizierter Entwurf nach Linz</title>
+                            <note type="editor">Nicht identifizierter, undatierter Entwurf, betitelt "Linzer Entwurf neuer Text". Gemeint dabei ist folgendes: in der linken Spalte Verweise auf die Dokumentstruktur von Mayr II (=Linzer Entwurf). Restlicher Text modifizierte Variante, unklar was genau??? Unbekannte Variante nach Evidenzexemplar??? Zustand gut, ohne Anmerkungen, 132 Artikel, die aber nicht alle wörtlich ausgeführt werden (siehe am Schluss 126-132). Möglicherweise Vorstufe zu Renner-Mayr</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-04-23" notAfter-iso="1920-07-07">Zwischen dem 23. April 1920 und 8. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-04-23" notAfter-iso="1920-07-07">
+                    Zwischen dem 23. April 1920 und 8. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2024-02-29" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="2802" lry="4558" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00002/full/full/0/default.jpg" width="2802px" height="4558px"/></surface><surface ulx="0" uly="0" lrx="2729" lry="4434" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00003/full/full/0/default.jpg" width="2729px" height="4434px"/></surface><surface ulx="0" uly="0" lrx="2790" lry="4550" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00004/full/full/0/default.jpg" width="2790px" height="4550px"/></surface><surface ulx="0" uly="0" lrx="2701" lry="4457" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00005/full/full/0/default.jpg" width="2701px" height="4457px"/></surface><surface ulx="0" uly="0" lrx="2768" lry="4518" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00006/full/full/0/default.jpg" width="2768px" height="4518px"/></surface><surface ulx="0" uly="0" lrx="2730" lry="4494" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00007/full/full/0/default.jpg" width="2730px" height="4494px"/></surface><surface ulx="0" uly="0" lrx="2781" lry="4506" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00008/full/full/0/default.jpg" width="2781px" height="4506px"/></surface><surface ulx="0" uly="0" lrx="2724" lry="4507" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00009/full/full/0/default.jpg" width="2724px" height="4507px"/></surface><surface ulx="0" uly="0" lrx="2763" lry="4510" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00010/full/full/0/default.jpg" width="2763px" height="4510px"/></surface><surface ulx="0" uly="0" lrx="2719" lry="4497" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00011/full/full/0/default.jpg" width="2719px" height="4497px"/></surface><surface ulx="0" uly="0" lrx="2782" lry="4503" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00012/full/full/0/default.jpg" width="2782px" height="4503px"/></surface><surface ulx="0" uly="0" lrx="2722" lry="4511" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00013/full/full/0/default.jpg" width="2722px" height="4511px"/></surface><surface ulx="0" uly="0" lrx="2771" lry="4486" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00014/full/full/0/default.jpg" width="2771px" height="4486px"/></surface><surface ulx="0" uly="0" lrx="2745" lry="4480" xml:id="facs_15"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00015/full/full/0/default.jpg" width="2745px" height="4480px"/></surface><surface ulx="0" uly="0" lrx="2744" lry="4519" xml:id="facs_16"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00016/full/full/0/default.jpg" width="2744px" height="4519px"/></surface><surface ulx="0" uly="0" lrx="2759" lry="4502" xml:id="facs_17"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00017/full/full/0/default.jpg" width="2759px" height="4502px"/></surface><surface ulx="0" uly="0" lrx="2705" lry="4489" xml:id="facs_18"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00018/full/full/0/default.jpg" width="2705px" height="4489px"/></surface><surface ulx="0" uly="0" lrx="2769" lry="4488" xml:id="facs_19"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00019/full/full/0/default.jpg" width="2769px" height="4488px"/></surface><surface ulx="0" uly="0" lrx="2733" lry="4493" xml:id="facs_20"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00020/full/full/0/default.jpg" width="2733px" height="4493px"/></surface><surface ulx="0" uly="0" lrx="2785" lry="4472" xml:id="facs_21"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00021/full/full/0/default.jpg" width="2785px" height="4472px"/></surface><surface ulx="0" uly="0" lrx="2715" lry="4487" xml:id="facs_22"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00022/full/full/0/default.jpg" width="2715px" height="4487px"/></surface><surface ulx="0" uly="0" lrx="2788" lry="4482" xml:id="facs_23"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00023/full/full/0/default.jpg" width="2788px" height="4482px"/></surface><surface ulx="0" uly="0" lrx="2747" lry="4494" xml:id="facs_24"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00024/full/full/0/default.jpg" width="2747px" height="4494px"/></surface><surface ulx="0" uly="0" lrx="2773" lry="4475" xml:id="facs_25"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00025/full/full/0/default.jpg" width="2773px" height="4475px"/></surface><surface ulx="0" uly="0" lrx="2739" lry="4475" xml:id="facs_26"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00026/full/full/0/default.jpg" width="2739px" height="4475px"/></surface><surface ulx="0" uly="0" lrx="2786" lry="4477" xml:id="facs_27"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__13/files/images/IMG_00027/full/full/0/default.jpg" width="2786px" height="4477px"/></surface></facsimile>
+    <text type="Verfassungsentwurf">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>- 1 -</p><p>Linzer Entwurf
+      </p><div type="article">
+<head>Art. 1
+      </head>
+<p>Art 2, Al. 1
+      <lb break="yes"/>Al. 2 wird Art 5
+      </p></div>
+<div type="article">
+<head>Art. 3</head>
+<p>Neuer Text
+      <lb break="yes"/>Erstes Hauptstück
+      <lb break="yes"/>Grundlegende Einrichtungen der Republik.
+      <lb break="yes"/>I. Abschnitt.
+      <lb break="yes"/>Der Bund, das Bundesgebiet und das Bundesvolk
+      </p></div>
+<div type="article">
+<head>Art. 1.
+      </head>
+<p>(1) Oesterreich ist eine demokratische Republik
+      <lb break="yes"/>(2) Alle Öffentliche Gewalt geht vom Volke aus und
+      <lb break="yes"/>wird in dessen Namen ausgeübt
+      </p></div>
+<div type="article">
+<head>Art. 2.
+      </head>
+<p>Die Republik Oesterreich ist ein freier Bundesstaat.
+      <lb break="yes"/>Der Bund wird gebildet durch den Zusammenschluß der Län
+<lb break="no"/>der Burgenland, Kärnten, Niederösterreich, Oberöstereich,
+      <lb break="yes"/>Salzburg, Steiermark, Tirol, Vorarlberg und Wien (Bun
+<lb break="no"/>desländer)
+      </p></div>
+<div type="article">
+<head>Art. 3.
+      </head>
+<p>(1) Die Bundesländer bilden zusammen das Bundesge
+<lb break="no"/>biet. Es steht unter dem Schutze des Bundes.
+      <lb break="yes"/>(2) Aenderungen der Bundesgrenze erfolgen soweit
+      <lb break="yes"/>sie nicht durch Staatsverträge herbeigeführt werden, durch
+      <lb break="yes"/>Bundesverfassungsgesetz.
+      <lb break="yes"/>(3) Aenderungen der Landesgrenzen innerhalb des
+      <lb break="yes"/>Bundesgebietes können entweder durch Bundesverfassungs
+      <lb break="yes"/>gesetze oder durch übereinstimmende einfache Gesetze
+      <lb break="yes"/>./.</p><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><p>Vacat
+      <lb break="yes"/>Art. 2, Al. 2.</p><p>- 2 
+<lb break="no"/>des Bundes und derjenigen Bundesländer, deren Gebiet
+      <lb break="yes"/>eine Aenderung erfahren soll, vorgenommen werden.
+      <lb break="yes"/>(4) Wächst der Republik ein Gebiet zu, das ge
+<lb break="no"/>schichtlich zu einem Bundeslande gehört hat, so wird es
+      <lb break="yes"/>diesem Lande einverleibt.
+      </p></div>
+<div type="article">
+<head>Art. 4.
+      </head>
+<p>(1) Wenn Gemeinden, deren Einwohner die Mehrheit in
+      <lb break="yes"/>einem zusammenhängenden Landesgebiete bilden, es bean
+<lb break="no"/>tragen, hat in diesem Gebiete eine Volksabstimmung darü
+<lb break="no"/>ber stattzufinden, ob es in ein angrenzendes Bundesland
+      <lb break="yes"/>einverleibt werden oder ein neues Bundesland bilden soll.
+      <lb break="yes"/>(2) Entscheidet die Volksabstimmung mit absoluter
+      <lb break="yes"/>Mehrheit der gültig abgegebenen Stimmen für die Einver
+<lb break="no"/>leibung in das angrenzende Bundesland, dann vollziehen die
+      <lb break="yes"/>Gebietsänderung übereinstimmende einfache Gesetze des
+      <lb break="yes"/>Bundes und dieses Landes; entscheidet die Volksabstimmung
+      <lb break="yes"/>für die Bildung eines neuen Bundeslandes, dann wird die
+<lb break="no"/>ses durch einfaches Bundesgesetz eingerichtet.
+      <lb break="yes"/>(3) Ueber Streitigkeiten, die aus der Auseinander
+<lb break="no"/>setzung zwischen Bundesländern über Gebietsänderungen
+      <lb break="yes"/>entstehen, entscheidet der Verfassungsgerichtshof.
+      </p></div>
+<div type="article">
+<head>Art. 5.
+      </head>
+<p>(1) Das Bundesgebiet bildet ein einheitliches Wäh
+<lb break="no"/>rungs-, Wirtschafts und Zollgebiet.
+      <lb break="yes"/>(2) Innerhalb der Grenzen des Bundes dürfen keiner
+<lb break="no"/>lei Zwischenzollinien oder sonstigen Verkehrsbe
+<lb break="no"/>schränkungen errichtet werden.
+      <lb break="yes"/>./.</p><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><p>- 3 -
+      </p></div>
+<div type="article">
+<head>Art. 6.
+      </head>
+<p>(1) Jeder Angehörige der Republik soll in einer Ge
+<lb break="no"/>meinde des Bundesgebietes das Heimatsrecht besitzen.
+      <lb break="yes"/>(2) Landesbürger ist jeder, der in einer Gemeinde
+      <lb break="yes"/>des Landes das Heimatsrecht besitzt.
+      <lb break="yes"/>(3) Jeder Landesbürger ist Angehöriger des Bundes.
+      </p></div>
+<div type="article">
+<head>Art. 7.
+      </head>
+<p>Jeder Bundesangehörige hat in jedem Lande des Bun
+<lb break="no"/>des die gleichen Rechte und Pflichten wie die Bürger des
+      <lb break="yes"/>Landes selbst
+      </p></div>
+<div type="article">
+<head>Art 8.
+      </head>
+<p> (1) Alle Bundesbürger sind vor dem Gesetze gleich,
+      <lb break="yes"/>Vorrechte der Geburt des Standes und des Bekenntnisses
+      <lb break="yes"/>sind für immer ausgeschlossen.
+      <lb break="yes"/>(2) Die politischen Rechte und Freiheiten des
+      <lb break="yes"/>Volkes sind durch die Bundesverfassung gewährleistet.
+      <lb break="yes"/>Ihrem Schutze dient der Verfassungsgerichtshof.
+      </p></div>
+<div type="article">
+<head>Art. 9
+      </head>
+<p>Die deutsche Sprache ist, unbeschadet der den
+      <lb break="yes"/>sprachlichen Minderheiten gesetzlich eingeräumten Rechte,
+      <lb break="yes"/>die Staatssprache der Republik
+      <lb break="yes"/>II. Abschnitt
+      <lb break="yes"/>Von der öffentlichen Gewalt der Republik
+      </p></div>
+<div type="article">
+<head>Art. 10.
+      </head>
+<p>Das Volk überträgt die öffentliche Gewalt gemäß
+      <lb break="yes"/>den Bestimmungen dieser Verfassung auf den Bund oder
+      <lb break="yes"/>die Bundesländer oder nach Maßgabe der Bundes- und Lan
+<lb break="no"/>desgesetze auf die Gemeinden
+      <lb break="yes"/>./.</p></div>
+<div type="article">
+<head>Art. 4
+      </head>
+</div>
+<div type="article">
+<head>Art. 5
+      </head>
+<p>Vacat, Siehe Art. 108
+      </p></div>
+<div type="article">
+<head>Art. 6
+      </head>
+<p>Alinaa 1 von
+      <lb break="yes"/>Art. 10, 11, 12</p><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><p>4</p><p>Vacat
+      <lb break="yes"/>Vacat
+      <lb break="yes"/>Siehe Art 19
+      <lb break="yes"/>26 85
+      <lb break="yes"/>Siehe Art 43
+      <lb break="yes"/>44 86
+      <lb break="yes"/>Siehe Art 15
+      <lb break="yes"/>und 26
+      <lb break="yes"/>Siehe Art 85
+      <lb break="yes"/>Vacat</p></div>
+<div type="article">
+<head>Art. 11.
+      </head>
+<p>(1) Der Oberste Träger der öffentlichen Gewalt der
+      <lb break="yes"/>Republik ist die Bundesversammlung die nach aussen
+      <lb break="yes"/>durch den von ihr gewählten Bundespräsidenten vertre
+<lb break="no"/>ten und verkörpert wird.
+      <lb break="yes"/>(2) Die Bundesversammlung besteht aus einem Volks
+<lb break="no"/>haus, dem Bundestag, und aus einem Länderhaus dem Bundesrat.
+      <lb break="yes"/>Die zwei Häuser der Bundesversammlung tagen mit Ausnahme
+      <lb break="yes"/>der in der Verfassung ausdrücklich vorgesehenen Fälle
+      <lb break="yes"/>abgesondert von einander.
+      </p></div>
+<div type="article">
+<head>Art. 12.
+      </head>
+<p>(1) Die gesetzgebende Gewalt wird durch Vertretun
+<lb break="no"/>gen des Volkes ausgeübt, welche auf Grund des gleichen
+      <lb break="yes"/>und geheimen Stimmrechtes im Verhältniswahlverfahren von
+      <lb break="yes"/>allen erwachsenen Männern und Frauen gewählt werden.
+      <lb break="yes"/>(2) Die Volksvertreter sind auf Zeit gewählt und
+      <lb break="yes"/>in Ausübung ihres Berufes den Behörden des Bundes und
+      <lb break="yes"/>der Länder nicht verantwortlich.
+      <lb break="yes"/>(3) Die gesetzgebende Gewalt ist zum Teile dem Bun
+<lb break="no"/>de zum Teil den Bundesländern übertragen.
+      </p></div>
+<div type="article">
+<head>Art. 13.
+      </head>
+<p>(1) Das gesetzgebende Organ des Bundes ist der
+      <lb break="yes"/>Bundestag, den das ganze Bundesvolk direkt wählt, in Ge
+<lb break="no"/>meinschaft mit dem Bundesrate, dessen Mitglieder von den
+      <lb break="yes"/>Landtagen gewählt werden.
+      <lb break="yes"/>(2) Das gesetzgebende Organ der Länder sind die
+      <lb break="yes"/>vom Volke direkt gewählten Landtage.
+      </p></div>
+<div type="article">
+<head>Art. 14.
+      </head>
+<p>(1) Mit dem Vollzuge der Gesetze sind Volksbeauftrag
+<lb break="no"/>te betraut die von den Volksvertretungen auf jederzeiti
+<lb break="no"/>gen Widerruf bestellt und diesen unmittelbar und vor dem</p><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><p>Vacat.
+      <lb break="yes"/>Vacat
+      <lb break="yes"/>Vacat
+      <lb break="yes"/>Siehe Art 49, 58.
+      <lb break="yes"/>Siehe Art 49.
+      <lb break="yes"/>Siehe Art. 60.
+      <lb break="yes"/>Siehe Art. 64.
+      <lb break="yes"/>al. 2.</p><p>5
+      <lb break="yes"/>Verfassungsgerichtshof verantwortlich sind. Der Geltend
+<lb break="no"/>machung dieser Verantwortung steht die Nichtverantwort
+      <lb break="yes"/>lichkeit des Volksvertreters (Art. 12, Al 2) nicht im
+      <lb break="yes"/>Wege
+      <lb break="yes"/>(2) An der Vollzugsgewalt nehmen nach Maßgabe die
+<lb break="no"/>ser Verfassung der Bund und die Bundesländer und auf Grund
+      <lb break="yes"/>der Bundes- und Landesgesetze die Gemeinden teil.
+      </p></div>
+<div type="article">
+<head>Art. 15.
+      </head>
+<p>(1) Die vom Bunde oder den Bundesländern bestellten,
+      <lb break="yes"/>an dem Vollzuge der Gesetze mitwirkenden Beamten der Re
+<lb break="no"/>publik leisten den Eid auf die Verfassung sind die Weisun
+<lb break="no"/>gen der Volksbeauftragten zu erfüllen gehalten und diesen
+      <lb break="yes"/>verantwortlich. (Diensthoheit)
+      <lb break="yes"/>(2) Die Beamten der Republik sind grundsätzlich auf
+      <lb break="yes"/>Lebenszeit bestellt. Ihr Dienstverhältnis zum Bund oder
+      <lb break="yes"/>zu den Bundesländern (Dienstrecht Dienstordnung) und
+      <lb break="yes"/>ihre Besoldung (Besoldungsordnung) sind gesetzlich
+      <lb break="yes"/>geregelt Streitigkeiten aus dem Dienstverhältnis werden
+      <lb break="yes"/>durch ein besonderes Schiedsverfahren erledigt.
+      <lb break="yes"/>(3) Sonst herangezogene Hilfskräfte unterstehen dem
+      <lb break="yes"/>bürgerlichen Rechte und den bürgerleichen Gerichten.
+      </p></div>
+<div type="article">
+<head>Art. 16.
+      </head>
+<p>(1) Das vollziehende Organ des Bundes sind der Bun
+<lb break="no"/>despräsident und die Bundesregierung.
+      <lb break="yes"/>(2) Der Bundespräsident wird von der Bundesversamm
+<lb break="no"/>lung auf Zeit bestellt und ist der oberste Volksbeauftrag
+<lb break="no"/>te der Republik.
+      <lb break="yes"/>(3) Die Bundesregierung wird vom Bundestag gewählt
+      <lb break="yes"/>und besteht aus dem Bundeskanzler seinem Stellwertreter
+      <lb break="yes"/>(Vizekanzler) und den Bundesministern.
+      <lb break="yes"/>(4) Die den Mitgliedern der Bundesregierung zustehen
+<lb break="no"/>den Aufträge und Vollmachten werden durch Verfassungsge-</p><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><p>6</p><p>Siehe Art. 91.
+      <lb break="yes"/>Siehe Art.92.
+      <lb break="yes"/>Vacat.
+      <lb break="yes"/>Siebe Art. 92.</p><p>setz des Bundes bestimmt und abgegrenzt.
+      </p></div>
+<div type="article">
+<head>Art. 17.
+      </head>
+<p>(1) Das vollziehende Organ der Bundesländer sind
+      <lb break="yes"/>die von den Landtagen gewählten Landesregierungen. Sie
+      <lb break="yes"/>bestehen aus dem Landeshauptmann, dessen Stellvertreter
+      <lb break="yes"/>und einer angemessenen Zahl von weiteren Mitgliedern.
+      </p></div>
+<div type="article">
+<head>Art. 18.
+      </head>
+<p>(1) Die Bundesregierung vollzieht ihre Aufträge
+      <lb break="yes"/>entweder direkt durch Bundesbehörden Bundesämter und
+      <lb break="yes"/>Bundes-Anstalten (direkte Bundesverwaltung) oder ver
+<lb break="no"/>mittels der Landesregierung (mittelbare Bundesverwal
+<lb break="no"/>tung, Landesverwaltung in Bundesauftrag) und deren
+      <lb break="yes"/>Organe.
+      <lb break="yes"/>(2) Soweit die Landesorgane (Landesregierung und
+      <lb break="yes"/>nach deren Weisungen Landesbehörden Landesämter, Landes
+<lb break="no"/>anstalten) Bundesangelegenheiten führen, sind sie an die
+      <lb break="yes"/>Weisungen der Bundesregierung gebunden und dieser verant
+<lb break="no"/>wortlich
+      </p></div>
+<div type="article">
+<head>Art. 19.
+      </head>
+<p>(1) Die Gemeinden verwalten jene Angelegenheiten, wel
+<lb break="no"/>che ihnen wegen ihrer örtlichen Natur vorbehalten sind,
+      <lb break="yes"/>selbstständig. (Vorbehaltene Gemeindesachen)
+      <lb break="yes"/>(2) Sie haben die Bundes und Landesgesetze nach
+      <lb break="yes"/>den Weisungen ihrer Landesregierung zu vollziehen und
+      <lb break="yes"/>unterstehen deren Aufsicht (Gemeindeverwaltung im Auf
+<lb break="no"/>trag des Bundes oder Landes).
+      </p></div>
+<div type="article">
+<head>Art. 20.
+      </head>
+<p>(1) Alle Gerichtsbarkeit ist dem Bunde vorbehalten,
+      <lb break="yes"/>sie ist von der Vollzugsgewalt getrennt und wird durch
+      <lb break="yes"/>unabhängige Richter ausgeübt
+      <lb break="yes"/>./.</p><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/><p>Vacat,
+      <lb break="yes"/>Siehe Art. 17, Al. 1
+      <lb break="yes"/>Siehe Art 70
+      <lb break="yes"/>Vacat.
+      <lb break="yes"/>Vacat.
+      </p></div>
+<div type="article">
+<head>Art. 9.
+      </head>
+<p>Vacat.
+      </p></div>
+<div type="article">
+<head>Art.10.</head>
+<p>7
+      <lb break="yes"/>(2) Die Richter sind auf Lebenszeit bestellt und
+      <lb break="yes"/>nur vor Gerichten ihres Standes verantwortlich.
+      </p></div>
+<div type="article">
+<head>Art. 21.
+      </head>
+<p>(1) Die Bundesversammlung entscheidet über Krieg und
+      <lb break="yes"/>Frieden, sie verfügt in gleicher Weise über die bewaffne
+<lb break="no"/>te Macht der Republik.
+      <lb break="yes"/>(2) Jeder wehrfähige Bundesangehörige ist verpflich
+<lb break="no"/>tet nach den Anordnungen der Bundesversammlung an der
+      <lb break="yes"/>Verteidigung der Republik wider den angreifenden Feind
+      <lb break="yes"/>teilzunehmen.
+      <lb break="yes"/>(3) Auf dem Bundesgebiete und unter dem Bundesvolke
+      <lb break="yes"/>ist ausser den zuständigen Bundesbehörden niemand befugt
+      <lb break="yes"/>eine bewaffnete Macht zu werben, zu halten oder zu ver
+<lb break="no"/>wenden.
+      </p></div>
+<div type="article">
+<head>Art. 22.
+      </head>
+<p>Sämtliche Behörden und Aemter der Republik sind im
+      <lb break="yes"/>Rahmen ihrer gesetzlichen Befugnisse zur wechselseiti
+<lb break="no"/>gen Hilfeleistung verpflichtet.
+      </p></div>
+<div type="article">
+<head>Art. 23.
+      </head>
+<p>(1) Die Republik Oesterreich ist bereit, dem Völker
+<lb break="no"/>bunde als freies Mitglied beizutreten und sich den von
+      <lb break="yes"/>ihm geschaffenen Einrichtungen zu unterstellen.
+      <lb break="yes"/>(2) Die Vertretung der Republik vor dem Völkerbunde
+      <lb break="yes"/>und gegenüber den anderen Staaten und der Abschluß von
+      <lb break="yes"/>Staatsanträgen ist ausschließlich Sache des Bundes.
+      <lb break="yes"/>III. Abschnitt.
+      <lb break="yes"/>Die Verteilung der Gesetzgebungs- und Vollzugsgewalt.
+      </p></div>
+<div type="article">
+<head>Art. 24.
+      </head>
+<p>Bundessache ist die Gesetzgebung und Voll
+<lb break="no"/>ziehung in folgenden Angelegenheiten:</p><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><p>8.</p><p>Artl. 11.
+      </p></div>
+<div type="article">
+<head>Art.12.
+      </head>
+</div>
+<div type="article">
+<head>Art. 13.
+      </head>
+<p>Art.13, al. 3.
+      <lb break="yes"/>Siehe Art. 59.</p><p>1...........................
+      </p></div>
+<div type="article">
+<head>Art. 25.
+      </head>
+<p>Bundessache ist die Gesetzgebung Landessache die
+      <lb break="yes"/>Vollziehung in folgenden Angelegenheiten:
+      <lb break="yes"/>1. ....
+      </p></div>
+<div type="article">
+<head>Art. 26.
+      </head>
+<p>(1) Bundessache ist die grundsätzliche Gesetzgebung.
+      <lb break="yes"/>Landessache die Erlassung von Ausführungsgesetze in fol
+<lb break="no"/>genden Angelegenheiten:
+      <lb break="yes"/>1.    ....
+      <lb break="yes"/>2. .....
+      <lb break="yes"/>(2) Das Bundesgesetz, das die grundsätzliche Regelung
+      <lb break="yes"/>vorschreibt, kann für die Erlassung der Ausführungsgesetze
+      <lb break="yes"/>eine Frist bestimmen, die drei Monate nicht überschreiten
+      <lb break="yes"/>darf. Wird diese Frist nicht eingehalten, so wird die Er
+<lb break="no"/>lassung des Ausführungsgesetzes Bundessache.
+      </p></div>
+<div type="article">
+<head>Art. 27.
+      </head>
+<p>(1) Soweit Angelegenheiten nicht ausdrücklich als
+      <lb break="yes"/>Bundessache erklärt sind, gelten sie als Landessache.
+      <lb break="yes"/>(2) Sofern jedoch in solchen Angelegenheiten der
+      <lb break="yes"/>Vollzug für mehrere Bundesländer Rechtswirksemkeit er
+<lb break="no"/>langen soll, werden sie als Bundessache behandelt.
+      </p></div>
+<div type="article">
+<head>Art. 28.
+      </head>
+<p>Die Länder können im Bereiche ihrer Gesetzgebungs
+<lb break="no"/>befugnisse auch die zur Regelung des Gegenstandes er
+<lb break="no"/>forderlichen Bestimmungen auf dem Gebiete des Zivil- und
+      <lb break="yes"/>Strafrechtes treffen.
+      </p></div>
+<div type="article">
+<head>Art. 29.
+      </head>
+<p>(1) Die zum Vollzuge der Bundesgesetze nötigen Ver
+<lb break="no"/>ordnungen erläßt die Bundesregierung, soweit nicht die
+      <lb break="yes"/>Erlassung von Ausführungsgesetzen Landessache ist.
+      <lb break="yes"/>./.</p><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/></div>
+<div type="article">
+<head>Art.14.
+      </head>
+<p>Art.7 u.8.</p><p>(2) Die zum Vollzuge der Landesgesetze nötigen Ver
+<lb break="no"/>ordnungen erlassen die Landesregierungen.
+      <lb break="yes"/>Die Aufsicht über den Vollzug steht der Regierung
+      <lb break="yes"/>zu, die zur Erlassung der zum Vollzuge nötigen Verord
+<lb break="no"/>nungen befugt ist.
+      </p></div>
+<div type="article">
+<head>Art. 30.
+      </head>
+<p>(1) Selbständige Bundesbehörden und Bundesämter
+      <lb break="yes"/>im Bereiche der Länder (direkte Bundesverwaltung) werden
+      <lb break="yes"/>in folgenden Angelegenheiten errichtet:
+      <lb break="yes"/>1. .......
+      </p></div>
+<div type="article">
+<head>Art. 31.
+      </head>
+<p>(1) Der Bund kann jedoch unbeschadet der gleichen
+      <lb break="yes"/>Befugnisse der Länder und Gemeinden zur Förderung des
+      <lb break="yes"/>wirtschaftlichen und kulturellen Lebens im ganzen Bundes
+<lb break="no"/>gebiete Bundesanstalten und Bundeseinrichtungen schaffen
+      <lb break="yes"/>und erhalten, Veranstaltungen treffen und finanzielle Mit
+      <lb break="yes"/>tel zur Verfügung stellen.
+      <lb break="yes"/>(2) Der Bund darf in allen diesen Rechtsbeziehungen
+      <lb break="yes"/>durch die Landesgesetzgebund niemals ungünstiger ge
+<lb break="no"/>stellt werden als das betreffende Land selbst.
+      </p></div>
+<div type="article">
+<head>Art. 32.
+      </head>
+<p>Im Zweifel geht das Bundesrecht dem Landesrechte vor.
+      <lb break="yes"/>IV. Abschnitt.
+      <lb break="yes"/>Die Embleme der Republik.
+      </p></div>
+<div type="article">
+<head>Art. 33.
+      </head>
+<p>Das Staatswappen der Republik stellt einen frei
+<lb break="no"/>schwebenden einköpfigen, schwarzen golden bewaffneten und
+      <lb break="yes"/>rot bezungten Adler dar dessen Brust mit einem roten,
+      <lb break="yes"/>von einem silbernen Querbalken durchzogenen Schildchen
+      <lb break="yes"/>belegt ist. Der Adler trägt auf dem Haupte eine goldene
+      <lb break="yes"/>./.</p><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><p>10.
+      <lb break="yes"/>Mauerkrone mit drei sichtbaren Zinnen, im rechten Fange
+      <lb break="yes"/>eine goldene Sichel mit einwärts gekehrter Schneide im
+      <lb break="yes"/>linken Fange einen goldenen Hammer.
+      </p></div>
+<div type="article">
+<head>Art. 34.
+      </head>
+<p>Die Länder bestimmen über ihre Embleme und Farben
+      <lb break="yes"/>selbst.
+      </p></div>
+<div type="article">
+<head>Art. 35.
+      </head>
+<p>In grosser Ausführung als Bundeswappen trägt das
+      <lb break="yes"/>Staatswappen der Republik um das Mittelschild neun Ne
+<lb break="no"/>benschilde auf dem Gefieder des Adlers und zwar zur
+      <lb break="yes"/>Rechten Seite absteigend die Wappen von Niederösterreich
+      <lb break="yes"/>Oberösterreich Steiermark und Burgenland zur linken Sei
+<lb break="no"/>te absteigend die Wappen von Kärnten Salzburg, Tirol und
+      <lb break="yes"/>Vorarlberg und in der Mitte oben das Wappen der Stadt
+      <lb break="yes"/>Wien
+      </p></div>
+<div type="article">
+<head>Art. 36.
+      </head>
+<p>(1) Das Staatssiegel weist das Staatswappen mit der
+      <lb break="yes"/>Umschrift "Republik Oesterreich" auf.
+      <lb break="yes"/>(2) Die Flagge der Republik besteht aus drei gleich
+<lb break="no"/>breiten wagrechten Streifen von denen der mittlere weiss,
+      <lb break="yes"/>der obere und untere rot ist.
+      <lb break="yes"/>./.</p><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><p>Linzer Entwurf.
+      <lb break="yes"/>Art.15 deleatur,
+      <lb break="yes"/>siehe neu Artikel
+      <lb break="yes"/>11 und Art. 13, Al.
+      <lb break="yes"/>1.
+      </p></div>
+<div type="article">
+<head>Art. 16.
+      </head>
+<p>Art. 17 und Art. 18
+      <lb break="yes"/>(gehören zum "Weg
+      <lb break="yes"/>der Gesetzgebung")
+      </p></div>
+<div type="article">
+<head>Art. 19.
+      </head>
+<p>Art. 20-25
+      </p></div>
+<div type="article">
+<head>Art. 26</head>
+<p>11.
+      <lb break="yes"/>Neuer Text.
+      <lb break="yes"/>Zweites Hauptstück.
+      <lb break="yes"/>Von der Bundesgesetzgebung.
+      <lb break="yes"/>1. Abschnitt: Der Bundestag.
+      </p></div>
+<div type="article">
+<head>Art. 37.
+      </head>
+<p>(1) Der Sitz des Bundestages ist die Bun
+<lb break="no"/>deshauptstadt Wien.
+      <lb break="yes"/>(2) Für die Dauer außerordentlicher Ver
+<lb break="no"/>hältnisse kann der Bundespräsident auf Antrag
+      <lb break="yes"/>der Bundesregierung den Bundestag in einen
+      <lb break="yes"/>andern Ort des Bundesgebietes berufen.
+      <lb break="yes"/>Art.38 jedoch Al. 4 gestrichen.
+      <lb break="yes"/>Art. 39 - 44 neu nach dem neuen Entwurf Kelsen.
+      <lb break="yes"/>2. Absohnitt: Der Bundesrat.
+      </p></div>
+<div type="article">
+<head>Art. 46
+      </head>
+<p>(1) Jeder Landtag wählt seine Vertreter
+      <lb break="yes"/>in den Bundesrat nach dem Grundsatz der Ver
+<lb break="no"/>hältniswahl aus seiner Mitte.
+      <lb break="yes"/>(2) Jedes Bundesland im Bundesrat
+      <lb break="yes"/>mindestens durch drei Mitglieder vertreten.
+      <lb break="yes"/>Bei den Bundesländern mit mehr als 360.000
+      <lb break="yes"/>Einwohnern erhöht sich die Zahl für je volle
+      <lb break="yes"/>120.000 Einwohner um ein Mitglied.
+      <lb break="yes"/>(3) Die Zahl der Mitglieder wird nach je
+<lb break="no"/>der allgemeinen Volkszählung durch den Bundes
+<lb break="no"/>rat festgesetzt.
+      <lb break="yes"/>./.</p><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><p>Al. 6 deleatur
+      </p></div>
+<div type="article">
+<head>Art. 27
+      </head>
+</div>
+<div type="article">
+<head>Art. 28
+      </head>
+<p>Art. 29 etwas
+      <lb break="yes"/>umzustilisie
+<lb break="no"/>ren.
+      </p></div>
+<div type="article">
+<head>Art. 30.</head>
+</div>
+<div type="article">
+<head>Art. 46.
+      </head>
+</div>
+<div type="article">
+<head>Art. 47.
+      </head>
+</div>
+<div type="article">
+<head>Art. 48.
+      </head>
+</div>
+<div type="article">
+<head>Art. 49.</head>
+<p>12.
+      <lb break="yes"/>(4) Für jedes Mitglied wird ein Ersatz
+<lb break="no"/>mann bestellt.
+      <lb break="yes"/>(5) Bei der Ausübung ihres Mandates sind
+      <lb break="yes"/>die Mitglieder des Bundesrates an keinen
+      <lb break="yes"/>Auftrag gebunden.
+      <lb break="yes"/>unverändert.
+      <lb break="yes"/>Die Sitzungen des Bundesrates sind nicht
+      <lb break="yes"/>öffentlich. Die von seinem Vorsitzenden aus
+<lb break="no"/>gegebenen Mitteilungen über den Verlauf der
+      <lb break="yes"/>Beratungen und über die gefaßten Beschlüsse
+      <lb break="yes"/>bleiben von jeder Verantwortung frei.
+      <lb break="yes"/>III. Abschnitt: Der Gang der Bundesgesetz
+<lb break="no"/>gebung.
+      <lb break="yes"/>(1) Gesetzesvorschläge werden im Bundes
+<lb break="no"/>tage eingebracht.
+      <lb break="yes"/>(2) Sie gelangen an den Bundestag entwe
+<lb break="no"/>der als Vorlage der Bundesregierung oder als
+      <lb break="yes"/>Anträge seiner Mitglieder.
+      <lb break="yes"/>(3) Außerdem kann der Bundesrat im Wege
+      <lb break="yes"/>der Bundesregierung Gesetzesanträge an den
+      <lb break="yes"/>Bundestag stellen.
+      <lb break="yes"/>(4) Endlich ist jeder von 300.000 Stimm
+<lb break="no"/>berechtigten gestellte Antrag von der Bundes
+<lb break="no"/>regierung dem Bundestag zur geschäftsordnungs
+<lb break="no"/>mässigen Behandlung vorzulegen.
+      <lb break="yes"/>./.</p><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/></div>
+<div type="article">
+<head>Art. 17.
+      </head>
+</div>
+<div type="article">
+<head>Art. 18.
+      </head>
+<p>Art. 38,39</p></div>
+<div type="article">
+<head>Art. 50.
+      </head>
+</div>
+<div type="article">
+<head>Art. 51.
+      </head>
+</div>
+<div type="article">
+<head>Art. 52.</head>
+<p>13.
+      <lb break="yes"/>(1) Uebereinstimmende Beschlüsse des
+      <lb break="yes"/>Bundestages und des Bundesrates sind erfor
+<lb break="no"/>derlich
+      <lb break="yes"/>1. bei Gesetzen, welche eine Aenderung
+      <lb break="yes"/>der Verfassung bewirken,
+      <lb break="yes"/>2. bei Aenderungen des Wehrgesetzes,
+      <lb break="yes"/>3. bei Staatsverträgen, die sich auf
+      <lb break="yes"/>Gegenstände beziehen, welche der Ge
+<lb break="no"/>setzgebung vorbehalten sind.
+      <lb break="yes"/>(2) Bedarf es zur Durchführung solcher
+      <lb break="yes"/>Staatsverträge gesetzlicher Maßnahmen der
+      <lb break="yes"/>Länder, so haben diese die betreffenden
+      <lb break="yes"/>Gesetze zu erlassen; kommt ein Land dieser
+      <lb break="yes"/>Verpflichtung nicht rechtzeitig nach, so
+      <lb break="yes"/>erläßt der Bund das Gesetz.
+      <lb break="yes"/>(3) Die Bundesregierung hat in Durch
+<lb break="no"/>führung von Verträgen und Uebereinkommen
+      <lb break="yes"/>mit fremden Staaten das Ueberwachungsrecht
+      <lb break="yes"/>auch in Landessachen. Hiebei stehen dem Bun
+<lb break="no"/>de die gleichen Rechte gegenüber den Län
+<lb break="no"/>dern zu wie bei aller Angelegenheiten der
+      <lb break="yes"/>Landesverwaltung in Bundesauftrag.
+      <lb break="yes"/>wörtlich
+      <lb break="yes"/>(1) Jeder Gesetzesbeschluß des Bundes
+<lb break="no"/>tages ist durch dessen Präsidenten im Wege
+      <lb break="yes"/>des Bundeskanzlers dem Bundesrat ohne Ver
+<lb break="no"/>zug zu übermitteln.
+      <lb break="yes"/>(2) Der Bundesrat erstattet dem Bundes
+<lb break="no"/>tag zu Gesetzesbeschlüssen, die nicht nach
+      <lb break="yes"/>Art. 50 und 51 gefaßt sind, im Wege der Bun
+<lb break="no"/>desregierung zu den übermittelten Beschlüs
+<lb break="no"/>sen seine Aeußerung.
+      <lb break="yes"/>./.</p><pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/><p>Art. 38, 39.
+      <lb break="yes"/>Volsabstim
+<lb break="no"/>mung fällt.
+      <lb break="yes"/>weg.
+      <lb break="yes"/>Das Recht auf
+      <lb break="yes"/>Abänderung in
+      <lb break="yes"/>diesen Punkten
+      <lb break="yes"/>sehr nötig.
+      </p></div>
+<div type="article">
+<head>Art. 31</head>
+</div>
+<div type="article">
+<head>Art. 53.
+      </head>
+</div>
+<div type="article">
+<head>Art. 54</head>
+<p>14.
+      <lb break="yes"/>(3) Stimmt diese Aeußerung ohne Vorbe
+<lb break="no"/>halt dem Beschlüsse zu, so kann er sofort
+      <lb break="yes"/>beurkundet und als Gesetz kundgemacht wer
+<lb break="no"/>den.
+      <lb break="yes"/>(4) Enthält die Aeußerung einen Vorbe
+<lb break="no"/>halt oder Einspruch, so legt die Bundesre
+<lb break="no"/>gierung den Beschluß samt Aeußerung und Be
+<lb break="no"/>gründung dem Bundestag unverzüglich zur
+      <lb break="yes"/>nachmaligen Beschlubfassung vor. Diese ist
+      <lb break="yes"/>endgültig.
+      <lb break="yes"/>(1) Gesetzesbeschlüsse des Bundestages
+      <lb break="yes"/>über Verfassungsänderungen, Aenderungen des
+      <lb break="yes"/>Wehrgesetzes und über Staatsverträge hat der
+      <lb break="yes"/>Bundesrat sofort in Verhandlung zu nehmen
+      <lb break="yes"/>und binnen vierzehn Tagen zu erledigen.
+      <lb break="yes"/>(2) Erteilt er ihnen seine Zustimmung, so
+      <lb break="yes"/>wird der Beschluß dem Bundeskanzler übermit
+<lb break="no"/>telt und durch diesen dem Bundespräsidenten
+      <lb break="yes"/>zur Beurkundung unterbreitet.
+      <lb break="yes"/>(3) Verweigert der Bundesrat seine Zu
+<lb break="no"/>stimmung oder beschließt er Abänderungen und
+      <lb break="yes"/>Ergänzungen, so wird der Beschluß des Bundes
+<lb break="no"/>rates im Wege des Bundeskanzlers an den Bun
+<lb break="no"/>destag geleitet, der ihn ohne Verzug in Ver
+<lb break="no"/>handlung nimmt, einen neuerlichen Gesetzesbe
+      <lb break="yes"/>schluß faßt und dem Bundesrat zumittelt.
+      <lb break="yes"/>(4) Kommt nach zweimaligen Austausch der
+      <lb break="yes"/>Beschlüsse eine Uebereinstimmung nicht zu
+<lb break="no"/>stande, so gilt die Vorlage, - unbeschadet der
+      <lb break="yes"/>Bestimmung des Art. 55, Abs. 3 als gescheitert.
+      <lb break="yes"/>(1) Zu einem Beschlüsse ist im Bundestag
+      <lb break="yes"/>die Anwesenheit von mindestens einem Viertel,
+      <lb break="yes"/>./.</p><pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/></div>
+<div type="article">
+<head>Art. 32
+      </head>
+<p>Art. 33 dele
+<lb break="no"/>atur
+      </p></div>
+<div type="article">
+<head>Art. 34
+      </head>
+</div>
+<div type="article">
+<head>Art. 35
+      </head>
+<p>Art. 36,37
+      <lb break="yes"/>Art. 38,39
+      <lb break="yes"/>Art. 39 Al.4
+      <lb break="yes"/>später.
+      </p></div>
+<div type="article">
+<head>Art. 40.</head>
+<p>13.
+      <lb break="yes"/>im Bundesrat von mindestens der Hälfte aller Mit
+<lb break="no"/>glieder und die absolute Mehrheit der abgegebenen
+      <lb break="yes"/>Stimmen erforderlich.
+      <lb break="yes"/>(2) Eine Abänderung der Bundesverfassung kann
+      <lb break="yes"/>jedoch in beiden Häusern nur bei Anwesenheit der
+      <lb break="yes"/>Hälfte der Mitglieder mit Zweidrittelmehrheit be
+<lb break="no"/>schlossen werden.
+      <lb break="yes"/>(1) Jede Gesamtänderung der Verfassung hat
+      <lb break="yes"/>der Bundespräsident, nachdem beide Häuser über
+<lb break="no"/>einstimmende Beschlüsse gefast haben, vor deren
+      <lb break="yes"/>Beurkundung, einer Abstimmung des ganzen Bundes
+<lb break="no"/>volkes zu unterziehen.
+      <lb break="yes"/>(2) Eine solche Abstimmung verfügt der Bundes
+<lb break="no"/>präsident auch bei einer von beiden Häusern be
+<lb break="no"/>schlossenen teilweisen Verfassungsänderung, wenn
+      <lb break="yes"/>die Mehrheit eines Hauses es verlangt.
+      <lb break="yes"/>(3) Ist ein Gesetzesvorschlag, der eine teil
+<lb break="no"/>weise Verfassungsänderung oder eine Aenderung
+      <lb break="yes"/>des Wehrgesetzes bewirken soll, gescheitert (Art.
+      <lb break="yes"/>53.Abs.4), so kann der Bundestag mit Zweidrittel
+<lb break="no"/>mehrheit die Volksabstimmung über diesen Beschluß
+      <lb break="yes"/>fordern.
+      <lb break="yes"/>(1) Das verfassungsmässige Zustandekommen der
+      <lb break="yes"/>Bundesgesetze wird durch die Unterschrift des Bun
+<lb break="no"/>despräsidenten beurkundet.</p></div>
+<div type="article">
+<head>Art. 55
+      </head>
+</div>
+<div type="article">
+<head>Art. 56
+      </head>
+</div>
+<div type="article">
+<head>Art. 57
+      </head>
+<p>Art. 58, 59
+      <lb break="yes"/>schon früher erledigt
+      </p></div>
+<div type="article">
+<head>Art. 60</head>
+<pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/><p>16.
+      <lb break="yes"/>(2) Die Beurkundung ist vom Bundeskanzler und
+      <lb break="yes"/>von den zuständigen Bundesministern gegenzuzeich
+<lb break="no"/>nen.
+      <lb break="yes"/>(1) Der Bundeskanzler macht die beurkundeten
+      <lb break="yes"/>Bundesgesetze im Bundesgesetzblatt kund.
+      <lb break="yes"/>(2) Die Kundmachung erfolgt
+      <lb break="yes"/>bei Staatsverträgen, bei Aenderungen der Verfas
+<lb break="no"/>sung oder des Wehrgesetzes
+      <lb break="yes"/>unter Berufung auf die übereinstimmenden Beschlüsse
+      <lb break="yes"/>des Bundestages und Bundesrates
+      <lb break="yes"/>im Falle einer Volksabstimmung lediglich mit Beru
+<lb break="no"/>fung auf deren Ergebnis,
+      <lb break="yes"/>bei allen anderen Gesetzen mit Berufung auf die
+      <lb break="yes"/>Zustimmung des Bundestages.
+      <lb break="yes"/>(3) Ohne ausdrückliche Zustimmung des Bundes
+<lb break="no"/>rates ist ein Gesetzesbeschluß des Bundestages
+      <lb break="yes"/>über Staatsverträge oder Aenderungen
+      <lb break="yes"/>der Verfassung oder des Wahrgesetzes auch dann vom
+      <lb break="yes"/>Bundespräsidenten unter bloßer Berufung auf die
+      <lb break="yes"/>Zustimmung des Bundestages zu beurkunden und vom
+      <lb break="yes"/>Bundeskanzler kundzumachen, wenn der Bundesrat die
+<lb break="no"/>sen Gesetzesbeschluss in der vorgeschriebenen Zeit
+      <lb break="yes"/>nicht erledigt hat.
+      <lb break="yes"/>(4) Bundesgesetze erlangen erst nach der Kund
+<lb break="no"/>machung im Bundesgesetzblatt verbindende Kraft.
+      <lb break="yes"/>IV. Abschnitt.
+      <lb break="yes"/>./.</p></div>
+<div type="article">
+<head>Art. 61
+      </head>
+</div>
+<div type="article">
+<head>Art. 62
+      </head>
+<p>Art. 63 - 68 unverändert</p></div>
+<div type="article">
+<head>Art. 41
+      </head>
+</div>
+<div type="article">
+<head>Art. 42
+      </head>
+<p>Art. 43 - 48</p><pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/><p>Art. 49. Art. 69.</p><p>17.
+      <lb break="yes"/>Drittes Hauptstück.
+      <lb break="yes"/>Von der Bundesvollziehung.
+      <lb break="yes"/>Erster Abschnitt.
+      <lb break="yes"/>Von der Regierung des Bundes.
+      <lb break="yes"/>1. Die Bundesversammlung und der
+      <lb break="yes"/>Bundespräsident.
+      <lb break="yes"/>(1) Bundestag und Bundesrat treten als Bundesver
+<lb break="no"/>sammlung zu gemeinsamer Sitzung an dem Sitze des Bun
+<lb break="no"/>destages zusammen
+      <lb break="yes"/>1. zur Wahl des Bundespräsidenten und zu dessen
+      <lb break="yes"/>Angelobung.
+      <lb break="yes"/>2. zur Wahl des obersten Bundesrichters, zur Wahl
+      <lb break="yes"/>des Präsidenten des Rechnungshofes und zu deren
+      <lb break="yes"/>Angelobung.
+      <lb break="yes"/>3. zur Beschlußfassung über Anträge auf behördli
+<lb break="no"/>che Verfolgung oder auf Abberufung des Bundes
+<lb break="no"/>präsidenten, des obersten Fundesrichters oder
+      <lb break="yes"/>des Präsidenten des Rechnungshofes.
+      <lb break="yes"/>4. zur Entscheidung über Krieg und Frieden zum
+      <lb break="yes"/>Aufruf aller wehrfähigen Bürger zur Verteidi
+<lb break="no"/>gung des Landes wider den angreifenden Feind.
+      <lb break="yes"/>(Art. 21).
+      <lb break="yes"/>(2) Die Sitzungen der Bundesversammlung sind nicht
+      <lb break="yes"/>öffentlich. Der Bundesrat und der Bundestag beraten
+      <lb break="yes"/>die zu entscheidenden Gegenstände gesondert und treten
+      <lb break="yes"/>bloß zum Zwecke der Abstimmung zusammen. Das Ergebnis
+      <lb break="yes"/>der Abstimmung wird beiden Häusern durch deren Vorsit
+<lb break="no"/>zenden mitgeteilt.
+      <lb break="yes"/>(3) Die näheren Vorschriften über das Verfahren der
+      <lb break="yes"/>Bundesversammlung (Geschäftsordnung) enthält ein beson
+<lb break="no"/>deres Bundesgesetz.
+      <lb break="yes"/>./.</p><pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/></div>
+<div type="article">
+<head>Art. 49.
+      </head>
+<p>Art. 50. 51.
+      </p></div>
+<div type="article">
+<head>Art. 52.
+      </head>
+<p>Art. 53-56
+      </p></div>
+<div type="article">
+<head>Art. 57.</head>
+<p>18.
+      </p></div>
+<div type="article">
+<head>Art. 70.
+      </head>
+<p>(1) Die Wahl des Bundespräsidenten findet frühestens
+      <lb break="yes"/>einen Monat und längstens zwei Monate nach den allge
+<lb break="no"/>meinen Wahlen statt. Er tritt sein Amt am achten Tage
+      <lb break="yes"/>seiner Wahl an und bleibt bis zum Amtsantritte seines
+      <lb break="yes"/>Nachfolgers im Amte. Wiederwahl ist zulässig.
+      <lb break="yes"/>(2) Zum Bundespräsidenten kann nur ein Mitglied
+      <lb break="yes"/>des Bundestages oder des Bundesrates gewählt werden,
+      <lb break="yes"/>das am 1. Jänner des Jahres, in welchem die Wahl statt
+<lb break="no"/>findet, das 35. Lebenejahr vollendet hat.
+      <lb break="yes"/>(3) Den Wahlvorgang regelt die Geschäftsordnung
+      <lb break="yes"/>der Bundesversammlung.
+      <lb break="yes"/>Art. 71. 72.
+      </p></div>
+<div type="article">
+<head>Art. 73.
+      </head>
+<p>(1) Eine behördliche Verfolgung oder Abberu
+<lb break="no"/>fung des Bundespräsidenten darf nur mit Zustimmung der
+      <lb break="yes"/>Bundesversammlung erfolgen.
+      <lb break="yes"/>(2) Zu einem solchen Beschlüsse ist die An
+<lb break="no"/>wesenheit der Hälfte der Mitglieder jedes Hauses und
+      <lb break="yes"/>die Zustimmung von zwei Dritteln der abgegebenen Stim
+      <lb break="yes"/>men erforderlich.
+      <lb break="yes"/>Art. 74 - 77
+      </p></div>
+<div type="article">
+<head>Art. 78.
+      </head>
+<p>Der Bundespräsident ist für die Ausübung der
+      <lb break="yes"/>ihm zustehenden Regierungs und Vollzugsgewalt der
+      <lb break="yes"/>Bundesversammlung gemäß Art. 152 der Bundesverfas
+<lb break="no"/>sung verantwortlich.
+      <lb break="yes"/>./.</p><pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/></div>
+<div type="article">
+<head>Art. 58
+      </head>
+</div>
+<div type="article">
+<head>Art. 59.
+      </head>
+<p>Art. 60 63
+      <lb break="yes"/>Art. 64 - 67</p></div>
+<div type="article">
+<head>Art. 69</head>
+<p>19
+      <lb break="yes"/>2. Die Bundesregierung
+      </p></div>
+<div type="article">
+<head>Art. 79.
+      </head>
+<p>(1) Die mit der Ausübung der Regierungs- und
+      <lb break="yes"/>Vollzugsgewalt betrauten Bundesminister bilden in
+      <lb break="yes"/>ihrer Gesamtheit unter dem Vorsitze des Bundeskanzlers
+      <lb break="yes"/>die Bundesregierung
+      <lb break="yes"/>(2) Der Vizekanzler ist zur Vertretung des Bun
+<lb break="no"/>deskanzlers in dessen gesamten Befugnisse berufen.
+      <lb break="yes"/>(3) Die Regierungs und Vollzugsgewalt des Bun
+<lb break="no"/>des darf nur auf Grund der Bundesverfassung und der
+      <lb break="yes"/>Bundesgesetze sowie der vom Bundestag gefaßten Be
+<lb break="no"/>schlüsse ausgeübt werden.
+      <lb break="yes"/>Art. 80 - 83.
+      <lb break="yes"/>(1) Zur Besorgung der Geschäfte der Bundesver
+<lb break="no"/>waltung sind die Bundeskanzlei und die jedem Bundes
+<lb break="no"/>minister unterstellten Bundesministerien sowie die
+      <lb break="yes"/>denselben unterstellten Behörden, Aemter und Anstalten
+      <lb break="yes"/>barufen
+      <lb break="yes"/>(2) Die Zahl der Bundesministerien und deren
+      <lb break="yes"/>Aufträge und vollmachten werden durch Bundesgesetz
+      <lb break="yes"/>bestimmt.
+      <lb break="yes"/>Art 84 - 87.
+      <lb break="yes"/>3. Das Bundesheer
+      </p></div>
+<div type="article">
+<head>Art. 88.
+      </head>
+<p>(1) Das Bundesheer ist ein Berufsheer; es wird
+      <lb break="yes"/>auf dem Wege freiwilliger Verpflichtungen aufge
+<lb break="no"/>stellt und ergänzt
+      <lb break="yes"/>(2) Im Falle eines feindlichen Angriffes auf
+      <lb break="yes"/>./.</p><pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/></div>
+<div type="article">
+<head>Art. 69.
+      </head>
+</div>
+<div type="article">
+<head>Art. 70.
+      </head>
+</div>
+<div type="article">
+<head>Art. 71.
+      </head>
+<p>Art. 72 deleatur
+      <lb break="yes"/>Art. 73 Al. 1
+      <lb break="yes"/>Art. 73. Al. 2-4
+      <lb break="yes"/>Art. 74, 75
+      <lb break="yes"/>Art. 76, Al. 1</p><p>20.
+      <lb break="yes"/>das Bundesgebiet kann die Bundesversammlung im ganzen
+      <lb break="yes"/>Bundesgebiet oder in einem Teile desselben sämtliche
+      <lb break="yes"/>wehrfähigen Bundesbürger oder einzelne Jahrgänge zur
+      <lb break="yes"/>Verteidigung des Landes aufbieten.
+      <lb break="yes"/>(3) Das Nähere bestimmt das Wehrgesetz.
+      </p></div>
+<div type="article">
+<head>Art. 89.
+      </head>
+</div>
+<div type="article">
+<head>Art. 90.
+      </head>
+<p>(1) Insoweit durch die Verfassung und durch das
+      <lb break="yes"/>Wehrgesetz die unmittelbare Verfügung über das Bun
+<lb break="no"/>desheer der Bundesversammlung vorbehalten ist wird
+      <lb break="yes"/>mit der Verfügung der Bundesregierung oder innerhalb
+      <lb break="yes"/>der von dieser erteilten Ermächtigung der zuständige
+      <lb break="yes"/>Bundesminister betraut.
+      <lb break="yes"/>(2) gleichlautend.
+      </p></div>
+<div type="article">
+<head>Art. 91.
+      </head>
+<p>Zweiter Abschnitt
+      <lb break="yes"/>Von der Gerichtsbarkeit des Bundes.
+      <lb break="yes"/>(1) gleichlautend.
+      <lb break="yes"/>(2) Die Urteile und Erkenntnisse werden im Namen
+      <lb break="yes"/>der Republik Oesterreich verkündet und ausgefertigt.
+      </p></div>
+<div type="article">
+<head>Art. 93.
+      </head>
+<p>Alinea 1 - 3
+      <lb break="yes"/>Art. 94, 95.
+      <lb break="yes"/>(1) Die Richter werden, sofern diese Verfas
+<lb break="no"/>sung oder die Gerichtsverfassungsgesetze nichts ange
+<lb break="no"/>deres bestimmen, auf Antrag der Bundesregierung vom
+      <lb break="yes"/>Bundespräsidenten oder auf Grund seiner Ermächtigung
+      <lb break="yes"/>vom zuständigen Bundesminister ernannt.
+      <lb break="yes"/>./.</p><pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/><p>Al. 2.
+      <lb break="yes"/>Art. 77 - 84.</p><p>21.
+      <lb break="yes"/>(2) Die Bundesregierung stellt ihre Anträge auf
+      <lb break="yes"/>Grund von Besetzungsvorschlägen von Kollegien, die
+      <lb break="yes"/>durch das Gerichtsverfassungsgesetz eingerichtet wer
+<lb break="no"/>den.
+      <lb break="yes"/>(3) In diese Kollegien entsenden die durch das
+      <lb break="yes"/>Gerichtsverfassungsgesetz bezeichneten richterlichen
+      <lb break="yes"/>Senate zwei Drittel der Mitglieder. Das letzte Drit
+<lb break="no"/>tel wird, wenn es sich um Richter der ersten oder
+      <lb break="yes"/>zweiten Instanz handelt, von dem Landtage, wenn es
+      <lb break="yes"/>sich um Richter der dritten Instanz handelt, vom Bun
+<lb break="no"/>destage entsendet.
+      <lb break="yes"/>(4) Gleichlautend mit Al. 2 des Art. 76 alt.
+      <lb break="yes"/>(6) Auf die Dauer von zwei Jahren nach Inkraft
+<lb break="no"/>treten dieser Verfassung kann der Bundestag die Bun
+<lb break="no"/>desregierung ermächtigen, in Bezug auf die Ernennung
+      <lb break="yes"/>der Richter der dritten Instanz von der Bestimmung des
+      <lb break="yes"/>zweiten und dritten Absatzes abzugehen.
+      <lb break="yes"/>Art. 97 - 104.</p><pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/><p>22.
+      <lb break="yes"/>Viertes Hauptstück.
+      <lb break="yes"/>Von der Gesetzgebung und Vollziehung in den Ländern.
+      </p></div>
+<div type="article">
+<head>Art. 105.
+      </head>
+<p>(1) Jedes Bundesland gibt sich im Rahmen dieser Bundesver
+<lb break="no"/>fassung in seiner Landesordnung selbst seine Verfasung.
+      <lb break="yes"/>(2) Die Landesordnung bestimmt die Zusammensetzung des Land
+<lb break="no"/>tages und der Landesregierung. Der Landtagspräsident, der Lan
+<lb break="no"/>deshauptmann und sein Stellvertreter leisten in die Hand des Bun
+<lb break="no"/>despräsidenten die Angelobung auf die Republik Oesterreich und
+      <lb break="yes"/>auf die Bundesverfassung.
+      <lb break="yes"/>(3) Die Landtagswahlordnungen dürfen wie die Wahlordnung
+      <lb break="yes"/>für alle öffentlichen Körperschaften die Bedingungen des passi
+<lb break="no"/>ven und aktiven Wahlrechtes nicht enger ziehen als dies in der
+      <lb break="yes"/>Wahlordnung zum Bundestag der Fall ist.
+      </p></div>
+<div type="article">
+<head>Art. 106
+      </head>
+</div>
+<div type="article">
+<head>Art. 107
+      </head>
+<p>(2) Insoweit ein Landesgesetz bei der Vollziehung die Mit
+<lb break="no"/>wirkung von Bundesorganen vorsieht, muß zu dieser Mitwerkung die
+      <lb break="yes"/>Vorgenehmigung der Bundesregierung eingeholt werden. Ohne diese
+      <lb break="yes"/>Vorgenehmigung kann das Gesetz nicht kundgemacht werden.
+      </p></div>
+<div type="article">
+<head>Art. 108
+      </head>
+<p>(2) Wegen Gefährdung von Bundesinteressen kann die Bundes
+<lb break="no"/>regierung binnen vierzehn Tagen vom Tage der eingelangten Be
+<lb break="no"/>kanntmachung an gegen den Gesetzesbeschluß des Landtages Ein
+<lb break="no"/>spruch erheben. In diesem Falle sind Beschluß und Einspruch im
+      <lb break="yes"/>Landtage neuerlich zur Verhandlung zu stellen.
+      <lb break="yes"/>Art. 109, 110.
+      <lb break="yes"/>./.</p></div>
+<div type="article">
+<head>Art. 85.
+      </head>
+</div>
+<div type="article">
+<head>Art. 86.
+      </head>
+</div>
+<div type="article">
+<head>Art. 87.
+      </head>
+</div>
+<div type="article">
+<head>Art. 88.
+      </head>
+<p>Art. 89. 90.
+      <lb break="yes"/>Art. 91, 92 deleatur.</p><pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/></div>
+<div type="article">
+<head>Art. 93.
+      </head>
+<p>Der letzte
+      <lb break="yes"/>Satz wird ge
+<lb break="no"/>strichen
+      <lb break="yes"/>(vgl. neu
+      <lb break="yes"/>Art. 14, Ab. 1)
+      <lb break="yes"/>Art. 94-96.
+      </p></div>
+<div type="article">
+<head>Art. 97
+      </head>
+<p>Neu.
+      <lb break="yes"/>Vacat.</p><p>23
+      </p></div>
+<div type="article">
+<head>Art. 111.
+      </head>
+<p>(1) Der Landeshauptmann oder sein Stellvertreter vertritt
+      <lb break="yes"/>des Land.
+      <lb break="yes"/>(2) Er trägt in den Angelegenheiten der mittelbaren Bundes
+<lb break="no"/>verwaltung gemäß Art. 152 die Verantwortung gegenüber der Bundes
+<lb break="no"/>regierung.
+      <lb break="yes"/>(3) Dem Landtage gegenüber sind die Mitglieder der Landes
+<lb break="no"/>regierung gemäß Art. 152 verantwortlich.
+      <lb break="yes"/>Art. 112 - 114.
+      </p></div>
+<div type="article">
+<head>Art. 115
+      </head>
+<p>Die Länder können untereinander in Landessachen Vereinbarun
+<lb break="no"/>gen treffen. Diese sind der Bundesregierung ohne Verzug anzuzei
+<lb break="no"/>gen.
+      <lb break="yes"/>Fünfter Abschnitt.
+      <lb break="yes"/>Von den Gemeinden
+      </p></div>
+<div type="article">
+<head>Art. 116.
+      </head>
+<p>(1) Jedes Land ordnet im Rahmen dieser Verfassung die
+      <lb break="yes"/>Rechte und Einrichtungen der Geneinden in einer besonderen Ge
+<lb break="no"/>meindeordnung selbständig.
+      <lb break="yes"/>(2) Gemeinden im Sinne dieser Verfassung sind nicht bloß
+      <lb break="yes"/>die Ortsgemeinden, sondern auch die Gerichtsbezirke und die
+      <lb break="yes"/>politischen Bezirke (Gebietsgemeinden). Diese sind als öffentlich
+      <lb break="yes"/>rechtliche Körperschaften und zugleich als juristische Personen
+      <lb break="yes"/>des Privatrechtes mit eigenen gewählten Vertretungen (Art. 105,
+      <lb break="yes"/>Ab. 3 ) einzurichten. Die Nichtverantwortlichkeit der Volksvertre
+<lb break="no"/>ter (Art. 14, Ab. 1) kommt den Gemeindevertretern nicht zu.
+      <lb break="yes"/>(3) Zu diesem Behufe sind die politischen Bezirke unter
+      <lb break="yes"/>Berücksichtigung der geschichtlichen Landeseinteilung tunlichst
+      <lb break="yes"/>./.</p><pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/><p>24
+      <lb break="yes"/>zu Kreisen (Gauen, Vierteln) zu vereinigen. Aenderungen in der
+      <lb break="yes"/>Abgrenzung der Gerichts- und politischen Bezirke und die Eintei
+<lb break="no"/>lung eines Landes in Kreise bedürfen übereinstimmender Bundes-
+      <lb break="yes"/>und Landesgesetze.
+      </p></div>
+<div type="article">
+<head>Art. 117.
+      </head>
+<p>(1) Jede Liegenschaft muß zum Verbande einer Ortsgemeinde
+      <lb break="yes"/>gehören. Jeder Bundesangehörige soll in einer Gemeinde des
+      <lb break="yes"/>Bundesgebietes das Heimatsrecht besitzen.
+      <lb break="yes"/>(2) Das Heimatsgesetz bestimmt, in welchen Fällen Bundesan
+<lb break="no"/>gehörige oder Landesbürger, die zur Zeit in keiner Gemeinde das
+      <lb break="yes"/>Heimatsrecht besitzen, einer Gemeinde als Angehörige zugewiesen
+      <lb break="yes"/>werden können.
+      </p></div>
+<div type="article">
+<head>Art. 118.
+      </head>
+<p>(1) Die Gemeindeordnungen setzen fest, welche Ortsgemeinden
+      <lb break="yes"/>als Klein- und Groß-Gemeinden, als Märkte und Städte zu bezeich
+<lb break="no"/>nen sind und sorgen für eine der Größe der Ortsgemeinde ange
+<lb break="no"/>paßte Vertretung und Verwaltung vor.
+      <lb break="yes"/>(2) Städte mit mehr als 15.000 Einwohnern erhalten das
+      <lb break="yes"/>Recht eines eigenen Statutes.
+      </p></div>
+<div type="article">
+<head>Art. 119.
+      </head>
+<p>(1) Die Gemeindeordnungen haben vorzusorgen, daß ein ober
+<lb break="no"/>stes gewähltes Organ (Gemeindevorsteher, Bürgermeister) und in
+      <lb break="yes"/>Städten und Märkten überdies ein oberstes Beamtetes Organ (Amts
+<lb break="no"/>leiter, Amtsdirektor) bestellt wird, das für die Vollziehung
+      <lb break="yes"/>der Gesetze und Verordnungen des Bundes, wie für die Befolgung
+      <lb break="yes"/>der Anweisungen der Bundesbehörden verantwortlich ist.
+      <lb break="yes"/>(2) Diese Verantwortlichkeit hindert nicht, daß dieselben
+      <lb break="yes"/>Organe zugleich die Landes- und Gemeindeangelegenheiten besorgen.
+      </p></div>
+<div type="article">
+<head>Art. 120.
+      </head>
+<p>(1) Die Bezirks- und Kreisvertretungen haben alle bisher
+      <lb break="yes"/>durch besondere Ausschüsse, Konkurrenzen und sonstigen Sonder
+<lb break="no"/>./.</p><pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/><p>25
+      <lb break="yes"/>vertretungen besorgten Geschäfte ihres Gebietes zu übernehmen.
+      <lb break="yes"/>(2) Die Amtsgeschäfte der bisherigen landesfürstlichen po
+<lb break="no"/>litischen Bezirksbehörden gehen auf die Kreisgemeinden über.
+      <lb break="yes"/>(3) In Bundesländern unter 300.000 Einwohnern kann durch
+      <lb break="yes"/>Landesgesetze der Landtag zugleich als Kreistag und die Landes
+<lb break="no"/>regierung als politische Kreisbehörde erster Instanz eingerich
+<lb break="no"/>tet werden, so daß im Rechtszuge eine Instanz entfällt.
+      </p></div>
+<div type="article">
+<head>Art. 121.
+      </head>
+<p>(1) Ein Bundesverfassungsgesetz über die Organisation der
+      <lb break="yes"/>Bundesverwaltung bestimmt, welche Organe (Kreishauptmann, Bezirks
+<lb break="no"/>leiter) den Kreis- und Bezirksgemeinden zum Vollzuge der Bundes-
+      <lb break="yes"/>und Landesgesetze und zur Durchführung der Verordnungen und Wei
+<lb break="no"/>sungen der Bundes- und Landesregierung durch den Bund beigegeben
+      <lb break="yes"/>werden. Diese Behörden sind im Wege der Landesregierung der Bun
+<lb break="no"/>desregierung verantwortlich.
+      <lb break="yes"/>(2) Dasselbe Bundesverfassungsgesetz regelt das Zusammen
+<lb break="no"/>arbeiten dieser Organe mit den Kreis- und Bezirksvertretungen.
+      </p></div>
+<div type="article">
+<head>Art. 122.
+      </head>
+<p>(1) Die Kreis-, Bezirks- und Ortsgemeinden sind berufen,
+      <lb break="yes"/>an der Verwaltung der Bundes- und Landessachen in erster Instanz
+      <lb break="yes"/>in der Weise, wie es das Bundesgesetz über die Organisation der
+      <lb break="yes"/>Bundesverwaltung vorsieht, mitzuwirken.
+      <lb break="yes"/>(2) Wegen ihrer örtlichen Natur sind den Kreis-, Bezirks-
+      <lb break="yes"/>und Ortsgemeinden folgende Angelegenheiten als Gemeindesache in
+      <lb break="yes"/>besonderem Sinne innerhalb der Bundes- und Landesgesetze vorbe
+<lb break="no"/>halten:
+      <lb break="yes"/>1. Die Wahrung und Vertretung der gemeinsamen Interessen
+      <lb break="yes"/>ihres Gebietes und ihrer Bevölkerung vor den Landes- und Bun
+<lb break="no"/>desbehörden,
+      <lb break="yes"/>2. Im Dienste dieser Interessen die Begründung, Erhaltung
+      <lb break="yes"/>./.</p><pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/></div>
+<div type="article">
+<head>Art. 98.
+      </head>
+</div>
+<div type="article">
+<head>Art. 99.
+      </head>
+</div>
+<div type="article">
+<head>Art. 100.</head>
+<p>26
+      <lb break="yes"/>und Führung von öffentlichen Einrichtungen und Anstalten zur
+      <lb break="yes"/>Förderung der Volkswirtschaft, wie zur Pflege der sozialen
+      <lb break="yes"/>Wohlfahrt und der geistigen Kultur.
+      <lb break="yes"/>(3) Das Recht Vermögen aller Art zu besitzen, gemeinwirt
+<lb break="no"/>schaftliche Unternehmungen zu betreiben, ihren Haushalt selbstän
+<lb break="no"/>dig zu führen und dazu innerhalb der Staats- und Landesgesetze
+      <lb break="yes"/>Steuern und Abgaben auszuschreiben.
+      </p></div>
+<div type="article">
+<head>Art. 123.
+      </head>
+<p>(1) Der Kreisvertretung ist insbesondere vorbehalten anzuord
+<lb break="no"/>nen, in welcher Weise Kreis-, Bezirks- und Ortsgemeinden sich in
+      <lb break="yes"/>diese Aufgaben teilen und zusammenarbeiten.
+      <lb break="yes"/>(2) Die Bundes- und Landesorgane (Art. 121) stehen den Ge
+<lb break="no"/>meindevertretungen beratend und unterstützend zur Seite und wir
+<lb break="no"/>ken beim Vollzuge der Gemeindebeschlüsse nach Maßgabe des Bundes
+<lb break="no"/>verfassungsgesetzes über die Organisation der Bundesverwaltung
+      <lb break="yes"/>mit.
+      <lb break="yes"/>Sechster Abschnitt.
+      <lb break="yes"/>Von der Rechnungskontrolle im Bunde.
+      <lb break="yes"/>124.
+      <lb break="yes"/>125.
+      <lb break="yes"/>(1) Der Rechnungshof untersteht unmittelbar der Bundesver
+<lb break="no"/>sammlung.
+      <lb break="yes"/>(2) unverändert.
+      <lb break="yes"/>(3) Der Präsident des Rechnungshofes wird von der Bundes
+<lb break="no"/>versammlung gewählt.
+      <lb break="yes"/>(4) unverändert.
+      <lb break="yes"/>126.
+      <lb break="yes"/>(1) unverändert.
+      <lb break="yes"/>(2) Er kann durch Beschluß der Bundesversammlung abberufen
+      <lb break="yes"/>werden.
+      <lb break="yes"/>126 - 132.</p></div>
+</div></body>
+    </text>
+</TEI>
