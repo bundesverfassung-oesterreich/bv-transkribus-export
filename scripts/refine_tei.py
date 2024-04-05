@@ -199,6 +199,7 @@ def make_all_section_divs(doc):
         #xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
         xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art')]",
         regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMmLl]+) *\.* *$",
+        # regex_test=r" *Art\. *$",
         type_val=article_type,
     )
     # # move created divs to child-level of main div
