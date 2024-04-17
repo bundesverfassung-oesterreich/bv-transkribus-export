@@ -256,19 +256,21 @@ def replace_unleserlichs(doc):
 
 
 def replace_hi(doc: TeiReader):
-    for span in doc.any_xpath("//tei:hi"):
-        if span.xpath("@rend='strikethrough:true;'"):
-            span.tag = "del"
-            _ = span.attrib.pop("rend")
-        elif span.xpath("@rend='underlined:true;'"):
-            span.tag = "ul"
-            _ = span.attrib.pop("rend")
-        elif span.xpath("@rend='italic:true;'"):
-            span.attrib["rend"] = "emphasis"
-        elif span.xpath("@rend='bold:true;'"):
-            span.attrib["rend"] = "emphasis"
-        else:
-            span.attrib["rend"] = ""
+    for hi_element in doc.any_xpath("//tei:hi"):
+        # if span.xpath("@rend='strikethrough:true;'"):
+        #     span.tag = "del"
+        #     _ = span.attrib.pop("rend")
+        # elif span.xpath("@rend='underlined:true;'"):
+        #     span.tag = "ul"
+        #     _ = span.attrib.pop("rend")
+        # elif span.xpath("@rend='italic:true;'"):
+        #     span.attrib["rend"] = "emphasis"
+        # elif span.xpath("@rend='bold:true;'"):
+        #     span.attrib["rend"] = "emphasis"
+        # else:
+        #     span.attrib["rend"] = ""
+        hi_element.attrib.clear()
+        hi_element.tag = "emph"
 
 lb_encoders = ["-", "¬"]
 def type_lb_elements(doc: TeiReader):
