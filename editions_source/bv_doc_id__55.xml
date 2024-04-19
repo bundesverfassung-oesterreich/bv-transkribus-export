@@ -6171,7 +6171,7 @@
       <lb break="yes"/>verlesen (lieft):
       <lb break="yes"/>„Sechster Abschnitt.
       <lb break="yes"/>Die Grund- und Freiheitsrechte.
-      </p><div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      </p><div type="article">
 <head>Artikel 105.
       </head>
 <p>Vor dem Gesetze sind alle Staatsbürger gleich.
@@ -6179,7 +6179,7 @@
       <lb break="yes"/>Geschlechtes, Standes oder der Klafse sind für
       <lb break="yes"/>immer ausgeschlossen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 106.
       </head>
 <p>Der Adel, seine äußzeren Ehrenvorzüge
@@ -6194,14 +6194,14 @@
       <lb break="yes"/>ausländischen Regierung Titel oder Orden an
 <lb break="no"/>nehmen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 107.
       </head>
 <p>Die öffentlichen Umter und Funktionen sind
       <lb break="yes"/>für alle Staatsbürger ohne Unterschied nach Maß
 <lb break="no"/>gabe der Gesetze gleich zugänglich.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 108.
       </head>
 <p>Die Freizügigkeit der Personen und Güter
@@ -6228,7 +6228,7 @@
       <lb break="yes"/>der Berufswahl ist nur durch das Familienrecht be
 <lb break="no"/>schränkt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 111.
       </head>
 <p>() Die Freiheit der Person ist gewährleistet.
@@ -6236,15 +6236,15 @@
 <lb break="no"/>forderlichen Schranken können nur durch Bundes
 <lb break="no"/>gesetz errichtet werden.
       <lb break="yes"/>247<pb facs="#facs_60" n="60" xml:id="img_0060" break="yes"/>64
-      <label>(2) </label><item>Personen, denen die Freiheit  entzogen<lb break="yes"/>wird, sind spätestens am darauffolgenden Täge in
+      <list><label>(2) </label><item>Personen, denen die Freiheit  entzogen<lb break="yes"/>wird, sind spätestens am darauffolgenden Täge in
       <lb break="yes"/>Kenntnis zu fetzen, von welcher Behörde und aus
       <lb break="yes"/>welchen Gründen die Entziehung der Freiheit an
 <lb break="no"/>geordnet worden ist; es muß ihnen unverzüglich
       <lb break="yes"/>Gelegenheit gegeben werden, Einwendungen gegen
       <lb break="yes"/>die Freiheitsentziehung vorzubringen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 112.
       </head>
 <p>() Das Ashlrecht für Delikte, die aus poli
@@ -6254,14 +6254,14 @@
       <lb break="yes"/>Das Recht der Auslieferung von Ver
 <lb break="no"/>brechern wird durch Bundesgesetz geregelt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 113.
       </head>
 <p>Das Hausrecht ist gewährleistet. Wann eine
       <lb break="yes"/>Hausdurchsuchung zulässig ist, wird durch Bundes
 <lb break="no"/>gesetz bestimmt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 114.
       </head>
 <p>Das Brief- Post-, Telegraphen- und Fern
@@ -6270,7 +6270,7 @@
       <lb break="yes"/>unter außzerordentlichen Verhältnissen können nur
       <lb break="yes"/>durch Bundesgesetz bestimmt werden.
       <lb break="yes"/>Artifel 115.
-      <label>(1) </label><item>Die Freiheit der Meinungsäußerung ist<lb break="yes"/>nur durch das Strafaeset beschränkt.
+      <list><label>(1) </label><item>Die Freiheit der Meinungsäußerung ist<lb break="yes"/>nur durch das Strafaeset beschränkt.
       <lb break="yes"/>() Die Breßfreiheit ist gewährleistet. Die
       <lb break="yes"/>Beschlagnahme von Druckwerfen darf nur aus den
       <lb break="yes"/>vom Strafgesetz, von der Strafprozeßordnung und
@@ -6284,8 +6284,8 @@
       <lb break="yes"/>Schauftellungen und Darbietungen gesetzliche Maß
 <lb break="no"/>nahmen zulässig.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 116.
       </head>
 <p>Die Ehe ift ein bürgerlicher Vertrag.
@@ -6294,11 +6294,11 @@
       <lb break="yes"/>unbenommen, auch die Vorschriften seiner Religion
       <lb break="yes"/>zu erfüllen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 117.
       </head>
 <p>
-<label>(1) </label><item>Der Eheschließung kann aus Gründen<lb break="yes"/>des religiösen Bekenntnisses oder eines religiösen
+<list><label>(1) </label><item>Der Eheschließung kann aus Gründen<lb break="yes"/>des religiösen Bekenntnisses oder eines religiösen
       <lb break="yes"/>(elübdes fein rechtliches Sindernis geseßzt werden.
       <lb break="yes"/>Die Möglichkeit einer Trennung der Ghe
 <lb break="no"/>im Falle des Ginverständnisses beider Ehegatten
@@ -6306,7 +6306,7 @@
 <lb break="no"/>auch ohne die Zustimmung eines der beiden Ehe
 <lb break="no"/>gatten zu trennen ift. bestimmt das Gesetz. Doch
       <lb break="yes"/>ist in beiden Fällen auf die Versorgung der Kinder/</item>
-</p><p>aus der getrennten Ehe durch ihre Eltern gesetzlich
+</list></p><p>aus der getrennten Ehe durch ihre Eltern gesetzlich
       <lb break="yes"/>Bedacht zu nehmen.
       <lb break="yes"/>Artifel 118.
       <lb break="yes"/>Den unehelichen Kindern sind durch die Gesetz
@@ -6319,12 +6319,12 @@
       <lb break="yes"/>zu bilden. Dieses Recht darf durch Ausführungs
 <lb break="no"/>gesetze nicht gemindert werden. Eine Sonder
 <lb break="no"/>behandlung der politischen Vereine ift ausgeschlossen.
-      <label>(2) </label><item>Für Vereinigungen, die religiöse Zwecke<lb break="yes"/>verfolgen, gelten dieselben Bestimmungen.
+      <list><label>(2) </label><item>Für Vereinigungen, die religiöse Zwecke<lb break="yes"/>verfolgen, gelten dieselben Bestimmungen.
       <lb break="yes"/>über die Rechtsfähigkeit von Vereinen
       <lb break="yes"/>bestimmen die Vorschriften des bürgerlichen Rechtes.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 120.
       </head>
 <p>Alle Staatsbürger haben das Recht, sich
@@ -6336,7 +6336,7 @@
       <lb break="yes"/>und bei unmittelbarer Gefährdung der Teilnehmer
       <lb break="yes"/>oder anderer Personen verboten werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 121.
       </head>
 <p>Die volle Glaubens- und Gewiffensfreiheit,
@@ -6345,7 +6345,7 @@
       <lb break="yes"/>Einschränkungen sind nur durch das Straf
 <lb break="no"/>gesetz zulässig.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 122.
       </head>
 <p>Der Genuk der bürgerlichen und poli
@@ -6362,7 +6362,7 @@
       <lb break="yes"/>angeordnete statiftische Erhebung dies erfordert.
       <lb break="yes"/>In diesem Sinne ist durch Bundesgesetz
 <lb break="no"/>die Führung der Standesregister zu regeln.
-      <label>(1) </label><item>Niemand darf zu einer kirchlichen Hand
+      <list><label>(1) </label><item>Niemand darf zu einer kirchlichen Hand
 <lb break="no"/>lung, zur Teilnahme an einer kirchlichen Feier
 <lb break="no"/>lichteit oder an religiöfen übungen gezwungen.
       <lb break="yes"/>werden. Zu gerichtlichen oder sonftigen behördlichen
@@ -6371,8 +6371,8 @@
       <lb break="yes"/>Artifel 123.
       </item>
 <label>(1) </label><item>Staat und Kirche werden getrennt.</item>
-<pb facs="#facs_61" n="61" xml:id="img_0061" break="yes"/>
-      <label>(2) </label><item>Die Freiheit der Vereinigung zu Religions
+</list><pb facs="#facs_61" n="61" xml:id="img_0061" break="yes"/>
+      <list><label>(2) </label><item>Die Freiheit der Vereinigung zu Religions
 <lb break="no"/>gesellschaften wird gewährleistet. Der Zusammen
 <lb break="no"/>schluß von Religionsgesellschaften innerhalb des
       <lb break="yes"/>Bundesgehietes unterliegt keinen Beschränkungen.
@@ -6386,15 +6386,15 @@
       <lb break="yes"/>bürgerlichen Rechtes über die Rechtsfähigkeit der
       <lb break="yes"/>Vereine.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 124.
       </head>
 <p>Alle bishier auf Gefetz, Vertrag oder be
 <lb break="no"/>sonderen Rechtstiteln beruhenden Staatsleiftungen
       <lb break="yes"/>an die Religionsgesellschaften werden aufgehoben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 125.
       </head>
 <p>Den Angehörigen des öffentlichen Dienstes
@@ -6402,7 +6402,7 @@
       <lb break="yes"/>Befriedigung ihrer religiösen Bedürfnisse zu ge
 <lb break="no"/>währen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 126.
       </head>
 <p>Soweit das Bedürfnis nach Gottesdienft und
@@ -6411,7 +6411,7 @@
       <lb break="yes"/>Handlungen zuzulassen, wobei jeder Zwang fern
 <lb break="no"/>zuhalten ift.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 127.
       </head>
 <p>Die Kunft, die Wissenschaft und ihre Lehre
@@ -6421,7 +6421,7 @@
       <lb break="yes"/>und der Natur genießen den Schutz und die Pflege
       <lb break="yes"/>des Staates.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 128.
       </head>
 <p>Gs besteht allgemeine Schulpflicht. Ihrer Er
@@ -6431,21 +6431,21 @@
 <lb break="no"/>jahre. Der Unterricht und die Zernmittel sind un
 <lb break="no"/>entgeltlich.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 129.
       </head>
 <p>In allen Schulen ist sittliche Vildung,
       <lb break="yes"/>staatsbürgerliche Gesinnung und berufliche Tüch
 <lb break="no"/>tigkeit zu erstreben.
       <lb break="yes"/>Beim Unterricht in öffentlichen Schulen
-      <label>1</label><item>it Bedacht zu nehmen, daß die Empfindungen<lb break="yes"/>Andersdeükender nicht verletzt werden.
+      <list><label>1</label><item>it Bedacht zu nehmen, daß die Empfindungen<lb break="yes"/>Andersdeükender nicht verletzt werden.
       <lb break="yes"/>Staatsbürgerfunde und Arbeitsunterricht
       <lb break="yes"/>sind Lehrfächer der Schulen. Jeder Schüler er
 <lb break="no"/>hält bei Beendigung der Schulpflicht einen Ab
 <lb break="no"/>druck der Verfassung.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 130.
       </head>
 <p>für den Zugang Minderbemittelter zu den
@@ -6456,7 +6456,7 @@
 <lb break="no"/>leren und höheren Schulen für geeignet erachtet
       <lb break="yes"/>werden, bis zur Beendigung der Ausbildung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 131.
       </head>
 <p>Von Staatswegen wird weder Religions
@@ -6476,13 +6476,13 @@
       <lb break="yes"/>Schulen bedürfen der Genehmigung des Bundes
       <lb break="yes"/>und unterstehen den Bundesgesetzen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 133.
       </head>
 <p>Alle Bundesangehörigen haben ein glei
 <lb break="no"/>ches Recht auf Wahruna ihrer Nationalität und
       <lb break="yes"/>Sprache.
-      <label>(2) </label><item>Keinem Bundesangehörigen werden im<lb break="yes"/>Gebräuche irgend einer Sprache im Privat- oder
+      <list><label>(2) </label><item>Keinem Bundesangehörigen werden im<lb break="yes"/>Gebräuche irgend einer Sprache im Privat- oder
       <lb break="yes"/>Geschäftsvertehr sowie bei Betätigung der reli
 <lb break="no"/>giösen Überzeugung, in der Presse oder in son
 <lb break="no"/>stigen Veröffentlichungen oder in allgemein zugäng
@@ -6493,8 +6493,8 @@
       <lb break="yes"/>in Wort und Schrift bei den Gerichten geboten
       <lb break="yes"/>werden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 134.
       </head>
 <p>Bundesangehörige, die nach Nationalität,
@@ -6522,13 +6522,13 @@
       <lb break="yes"/>Die Zwecke, zu denen enteignet werden
       <lb break="yes"/>kann, werden in besonderen Gesetzen, das Enteig
 <lb break="no"/>nunazuerfahren wird durch Bundesgesetz geregelt.
-      <label>(3) </label><item>In welchen Fällen auf Verfall oder Ein
+      <list><label>(3) </label><item>In welchen Fällen auf Verfall oder Ein
 <lb break="no"/>ziehung von Gegenständen als Folge einer rechts
 <lb break="no"/>widrigen Sandlung zu erkennen ist, bestimmt
       <lb break="yes"/>das Gesetz.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 137.
       </head>
 <p>Alle Fideikommisse sind aufgehoben.“ (Sbricht:)
@@ -6562,7 +6562,7 @@
       <lb break="yes"/>Der Bund schafft ein einheitliches Ar
 <lb break="no"/>beitsrecht.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 140.
       </head>
 <p>Das Roalitionsrecht der Arbeiter und An
@@ -6578,7 +6578,7 @@
 <lb break="no"/>wesen, wobei die Verwaltung unbeschadet des Auf
 <lb break="no"/>ichtsrechtes des Staates ausschließlich von den
       <lb break="yes"/>Versicherten selbst zu besorgen ist.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 142.
       </head>
 <p>Wer in einem Dienst- oder Arbeitsverhältnis
@@ -6590,7 +6590,7 @@
       <lb break="yes"/>Wie weit ihm der Anspruch auf Vergütung er
 <lb break="no"/>halten bleibt, bestimmt das Gefeß.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 143.
       </head>
 <p>Jedem Bundesangehörigen soll die Möglich
@@ -6841,7 +6841,7 @@
       <lb break="yes"/>Wenn ich noch ein paar allgemeine Worte
       <lb break="yes"/>sprechen darf über die Frage des Unterrichtes und
       <lb break="yes"/>der Schule, so möchte ich feststellen, daß der Artikel
-      <label>149 </label><item>der deutschen Reichsverfassung die Möglichkeit<lb break="yes"/>des öffentlichen staatlichen Bekenntnisses, freie
+      <list><label>149 </label><item>der deutschen Reichsverfassung die Möglichkeit<lb break="yes"/>des öffentlichen staatlichen Bekenntnisses, freie
       <lb break="yes"/>Schule zuläßzt, während bei uns es im Artikel 130.
       <lb break="yes"/>des Dr. Mahrschen Entwurfes ausdrücklich heißt:
       <lb break="yes"/>„„Der Religionsunterricht ist ordentliches
@@ -6878,8 +6878,8 @@
       <lb break="yes"/>Jjedermann unbenommen, auch die Vorschriften
       <lb break="yes"/>einer Religion zu erfüllen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 117.
       </head>
 <p>Der Eheschließung kann aus Gründen.
@@ -6898,7 +6898,7 @@
       <lb break="yes"/>leibliche, seelische und gesellschaftliche Entwicklung
       <lb break="yes"/>zu schaffen wie den ehelichen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 119.
       </head>
 <p>(,) Alle Bundesangehörigen haben das nur
@@ -6921,19 +6921,19 @@
 <lb break="no"/>macht und bei unmittelbarer Gefährdung der Teil
 <lb break="no"/>nehmer oder anderer Personen verboten werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 121.
       </head>
 <p>
-<label>(1) </label><item>Die volle Glaubens- und Gewifsensfrei
+<list><label>(1) </label><item>Die volle Glaubens- und Gewifsensfrei
 <lb break="no"/>heit, insbesondere die private und öffentliche
       <lb break="yes"/>Religionsübung, wird jedermann gewährleistet.
       </item>
 <label>3) </label><item>Einschränkungen sind nur durch das Straf
 <lb break="no"/>gesetz zulässig.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 122.
       </head>
 <p>() Der Genusi der bürgerlichen und politischen
@@ -6973,14 +6973,14 @@
       <lb break="yes"/>bürgerlichen Rechtes über die Rechtsfähigkeit der
       <lb break="yes"/>Vereine.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 124.
       </head>
 <p>Alle bisher auf Gefek. Vertrag oder befon
 <lb break="no"/>deren Rechtstiteln beruhenden Staatsleiftungen an
       <lb break="yes"/>die Religionsgefellschaften werden aufgehoben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 125.
       </head>
 <p>Den Angehörigen des öffentlichen Dienstes
@@ -6988,7 +6988,7 @@
       <lb break="yes"/>Befriedigung ihrer religiösen Bedürfnisse zu ge
 <lb break="no"/>währen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 126.
       </head>
 <p>Soweit das Bedürfnis nach Gottesdienft und
@@ -6997,7 +6997,7 @@
       <lb break="yes"/>Handlungen zuzulassen, wobei jeder Zwang fern
 <lb break="no"/>zuhalten ift.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 127.
       </head>
 <p>() Die Kunft. die Wissenschaft und ihre
@@ -7007,7 +7007,7 @@
       <lb break="yes"/>und der Natur genießen den Schutz und die
       <lb break="yes"/>Pflege des Staates.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 128.
       </head>
 <p>Gs befieht allgemeine Schulpflicht. Ihrer
@@ -7017,7 +7017,7 @@
 <lb break="no"/>jahre. Der Unterricht und die Lernmittel sind
       <lb break="yes"/>unentgeltlich.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 129.
       </head>
 <p>In allen Schulen ist sittliche Bildung,
@@ -7032,7 +7032,7 @@
       <lb break="yes"/>hält bei Beendigung der Schulpflicht einen Ab
 <lb break="no"/>druck der Verfassung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 130.
       </head>
 <p>Für den Zugang Minderbemittelter zu den
@@ -7044,7 +7044,7 @@
 <lb break="no"/>achtet werden, bis zur Beendigung der Aus
 <lb break="no"/>bildung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 131.
       </head>
 <p>Von Staats wegen wird weder Reli
@@ -7060,14 +7060,14 @@
       <lb break="yes"/>überlassen, der über die religiöse Erziehung des
       <lb break="yes"/>Kindes zu bestimmen hat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 132.
       </head>
 <p>Private Schulen als Ersatz für öffentliche
       <lb break="yes"/>Schulen bedürfen der Genehmigung des Bundes
       <lb break="yes"/>und unterstehen den Bundesgesetzen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 133.
       </head>
 <p>Alle Bundesangehörigen haben ein gleiches
@@ -7086,7 +7086,7 @@
       <lb break="yes"/>Sprache in Wort und Schrift bei den Gerichten
       <lb break="yes"/>geboten werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 134.
       </head>
 <p>Bundesangehörige, die nach Nationalität,
@@ -7098,7 +7098,7 @@
       <lb break="yes"/>Sprache nach Belieben zu gebrauchen und ihre
       <lb break="yes"/>Religion frei auszuüben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 135.
       </head>
 <p>Wo eine verhältnismäßig beträchtliche Anzahl
@@ -7108,11 +7108,11 @@
       <lb break="yes"/>zugewendet werden, diese Minderheiten angemessen.
       <lb break="yes"/>zu beteilen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 136.
       </head>
 <p>
-<label>(1) </label><item>Das Gigentum ist von der staatlichen<lb break="yes"/>Rechtsordnung verliehen und kann durch sie ent
+<list><label>(1) </label><item>Das Gigentum ist von der staatlichen<lb break="yes"/>Rechtsordnung verliehen und kann durch sie ent
 <lb break="no"/>zogen werden.
       </item>
 <label>(2) </label><item>Die Zwecke, zu denen enteignet werden.<lb break="yes"/>kann, werden in besonderen Gesetzen, das Ent
@@ -7123,13 +7123,13 @@
 <lb break="no"/>widrigen Handlung zu erkennen ist, bestimmt das
       <lb break="yes"/>Gesetz.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 137.
       </head>
 <p>Alle Fideikommisse sind aufgehoben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 138.
       </head>
 <p>() Wer durch schuldhaft rechtswidrige Aus
@@ -7142,7 +7142,7 @@
 <lb break="no"/>aussetzung ein Rückgriffsrecht gegen das schuld
 <lb break="no"/>tragende Organ zulässig ist.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 139.
       </head>
 <p>Die Arbeitskraft steht unter dem beson
@@ -7163,7 +7163,7 @@
       <lb break="yes"/>Der Bund schafft ein einheitliches Ar
 <lb break="no"/>beitsrecht.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 140.
       </head>
 <p>Das Roalitionsrecht der Arbeiter und An
@@ -7171,7 +7171,7 @@
       <lb break="yes"/>Maßnahmen, welche dieses Recht einzuschränten.
       <lb break="yes"/>oder zu behindern suchen, sind nichtig.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 141.
       </head>
 <p>Zur Erhaltung der Gesundheit und Arbeits
@@ -7182,7 +7182,7 @@
       <lb break="yes"/>Aufsichtsrechtes des Staates ausschlieklich von
       <lb break="yes"/>den Versicherten selbst zu besorgen ist.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 142.
       </head>
 <p>Wer in einem Dienft- oder Arbeitsverhältnis
@@ -7194,7 +7194,7 @@
       <lb break="yes"/>weit ihni der Anspruch auf Vergütung erhalten
       <lb break="yes"/>bleibt, bestimmt das Gefeb.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 143..
       </head>
 <p>Jedem Bundesangehörigen soll die Mög
@@ -7253,7 +7253,7 @@
 <lb break="no"/>genommen habe, so möchte ich hinweisen, daß
       <lb break="yes"/>mir gerade da das deutsche Muster fast Wort
       <lb break="yes"/>für Wort maßgebend gewesen ist.
-      <label>(5</label><item>s ift vielleicht eine kleine Dosheit von mir.<lb break="yes"/>Ich persönlich lege nicht viel Wert auf Adel und
+      <list><label>(5</label><item>s ift vielleicht eine kleine Dosheit von mir.<lb break="yes"/>Ich persönlich lege nicht viel Wert auf Adel und
       <lb break="yes"/>Adelsvorrechte und beabsichtige nicht in mittel
 <lb break="no"/>alterliche Zustände zurückzukommen. Eine andere
       <lb break="yes"/>Frage ist die des Fideikommisses, des Asulrechtes,
@@ -7302,7 +7302,7 @@
       <lb break="yes"/>zweite ebenso stark betonen wie das erfte. Zu
       <lb break="yes"/>den Ausführungen des Herrn Speiser nur zwei
       <lb break="yes"/>251</item>
-<pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/>72
+</list><pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"/>72
       <lb break="yes"/>Wortc. Das Verhältnis von Kirche, Schule und
       <lb break="yes"/>Ehe zum Staate ift gewis hochwichtig und muß
 <lb break="no"/>in der Verfassung verankert werden. Und da war
@@ -7376,7 +7376,7 @@
       <lb break="yes"/>privatrechtlicher Natur hervorbringen, wird es
       <lb break="yes"/>notwendig sein, die Bundesinteressen noch durch
       <lb break="yes"/>verschärfte Bestimmungen, als wie sie im Artikel
-      <label>141 </label><item>des Vorentwurfes vorgefehen find, unbedingt<lb break="yes"/>zu schützen. Wir stellen uns daher auf den Stand
+      <list><label>141 </label><item>des Vorentwurfes vorgefehen find, unbedingt<lb break="yes"/>zu schützen. Wir stellen uns daher auf den Stand
 <lb break="no"/>punkt folgender Bestimmungen (lieft):
       <lb break="yes"/>„Zum Schutze der Interessen des Bundes
       <lb break="yes"/>kann die Bundesregierung gegen Entscheidungen
@@ -7421,7 +7421,7 @@
 <lb break="no"/>stellvertreter Langoth hat das Wort.
       <lb break="yes"/>Herr Landeshauptmannstellvertreter Vangoth
       <lb break="yes"/>(Oberöfterreich): Namens meiner Varteifreünde</item>
-<pb facs="#facs_69" n="69" xml:id="img_0069" break="yes"/>kann ich die Erklärung abgeben, daß wir mit den
+</list><pb facs="#facs_69" n="69" xml:id="img_0069" break="yes"/>kann ich die Erklärung abgeben, daß wir mit den
       <lb break="yes"/>Anträgen des Herrn Landesrates Kunschak ein
 <lb break="no"/>verstanden sind.
       <lb break="yes"/>Herr Vorsitzender Landeshauptmann Doktor

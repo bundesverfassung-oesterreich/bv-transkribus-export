@@ -103,7 +103,7 @@
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3233" lry="4586" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0010/full/full/0/default.jpg" width="3233px" height="4586px"/></surface><surface ulx="0" uly="0" lrx="3171" lry="4633" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0011/full/full/0/default.jpg" width="3171px" height="4633px"/></surface><surface ulx="0" uly="0" lrx="3152" lry="4535" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0012/full/full/0/default.jpg" width="3152px" height="4535px"/></surface><surface ulx="0" uly="0" lrx="3149" lry="4543" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0013/full/full/0/default.jpg" width="3149px" height="4543px"/></surface><surface ulx="0" uly="0" lrx="3059" lry="4589" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0014/full/full/0/default.jpg" width="3059px" height="4589px"/></surface><surface ulx="0" uly="0" lrx="3147" lry="4607" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0015/full/full/0/default.jpg" width="3147px" height="4607px"/></surface><surface ulx="0" uly="0" lrx="3022" lry="4576" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__34/files/images/IMG_0016/full/full/0/default.jpg" width="3022px" height="4576px"/></surface></facsimile>
     <text type="Verfassungsentwurf">
-        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p><gap xmlns:mets="http://www.loc.gov/METS/" reason="illegible"/><lb break="yes"/><gap xmlns:mets="http://www.loc.gov/METS/" reason="illegible"/></p><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p><gap reason="illegible"/><lb break="yes"/><gap reason="illegible"/></p><p>Bekanntlich hat der Unterausschuß des Verfassungsausschusses auf Grundlage der verschiedenen Entwürfe für eine Bundesverfassung
       <lb break="yes"/>die Materie mit Ausnahme des Abschnittes über die Grund- und Freiheitsrechte durchberaten.
       <lb break="yes"/>Im nachfolgenden wird nunmehr der Entwurf, wie er im Unterausschusse beschlossen wurde, in seiner Gänze der Öffentlichkeit zur
       <lb break="yes"/>Kenntnis gebracht. Bei der durch die Verhältnisse bedingten raschen Beratung war es unvermeidlich, daß sich in der Textierung gewisse
@@ -111,19 +111,19 @@
 <lb break="no"/>fassung der Republik Österreich.
       <lb break="yes"/>Erstes Hauptstück
       <lb break="yes"/>Allgemeine Bestimmungen.
-      </p><div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      </p><div type="article">
 <head>Artikel 1.
       </head>
 <p>
-<label>(1) </label><item>Osterreich ist eine demokratische Republik.</item>
+<list><label>(1) </label><item>Osterreich ist eine demokratische Republik.</item>
 <label>(2) </label><item>Alle öffentlichen Gewalten werden vom Volke <lb break="yes"/>eingesetzt und in seinem Namen ausgeübt.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 2.
       </head>
 <p>
-<label>(1) </label><item>Ofterreich ist ein Bundesstaat.</item>
+<list><label>(1) </label><item>Ofterreich ist ein Bundesstaat.</item>
 <label>(2) </label><item>Der Bundesstaat wird gebildet aus den selb
 <lb break="no"/>ständigen Ländern: Kärnten, Niederösterreich, Ober
 <lb break="no"/>österreich, Salzburg, Steiermark, Tirol, Vorarlberg
@@ -132,12 +132,12 @@
 <label>(3) </label><item>Das Burgenland wird als selbstständiges und<lb break="yes"/>gleichberechtigtes Land in den Bund aufgenommen,
       <lb break="yes"/>sobals es seinen Willen dazu ausgedrückt hat.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 3.
       </head>
 <p>
-<label>(1) </label><item>Das Bundesgebiet umfaßt die Gebiete der<lb break="yes"/>Bundesländer. Es steht unter dem Schutze des
+<list><label>(1) </label><item>Das Bundesgebiet umfaßt die Gebiete der<lb break="yes"/>Bundesländer. Es steht unter dem Schutze des
       <lb break="yes"/>Bundes.
       </item>
 <label>(2) </label><item>Eine Änderung des Bundesgebietes, die zu
@@ -156,12 +156,12 @@
       <lb break="yes"/>Bundeshauptstadt und Sitz der obersten Organe
       <lb break="yes"/>des Bundes ist Wien.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 4.
       </head>
 <p>
-<label>(1) </label><item>Für jedes Land besteht eine Landesbürgerschaft.<lb break="yes"/>Die Voraussetzungen für Erweib und Verlust der
+<list><label>(1) </label><item>Für jedes Land besteht eine Landesbürgerschaft.<lb break="yes"/>Die Voraussetzungen für Erweib und Verlust der
       <lb break="yes"/>Landesbürgerschaft sind in jedem Lände gleich und
       <lb break="yes"/>durch Bundesgesetz geregelt.
       </item>
@@ -185,8 +185,8 @@
       <lb break="yes"/>gewährleistet.
       <lb break="yes"/>(Artitel 5 fällt aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 6.
       </head>
 <p>Die deutsche Sprache ist, unbeschadet der den
@@ -197,12 +197,12 @@
       <lb break="yes"/>gelten als Bestandteile des Bundesrechtes.
       <lb break="yes"/>(Artitel 7, 8 und 9 fallen aus.)
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 10.
       </head>
 <p>Bundessache ist die Gesetzgebung und Vollziehung
       <lb break="yes"/>in folgenden Angelegenheiten?</p><p>
-      <label>1. </label><item>Bundesverfassung, insbesondere Wahlen zum<lb break="yes"/>Nationalrat, Volksabstimmungen, die sich auf das
+      <list><label>1. </label><item>Bundesverfassung, insbesondere Wahlen zum<lb break="yes"/>Nationalrat, Volksabstimmungen, die sich auf das
       <lb break="yes"/>ganze Bundesgebiet erstieden; Verfassungsgerichts
       <lb break="yes"/>barleit;
       <lb break="yes"/>﻿2. auswärtige Angelegenheiten mit Einschluß der
@@ -283,9 +283,9 @@
       <lb break="yes"/>Anlaß eines Krieges oder im Gefolge eines solcher
       <lb break="yes"/>zur Sicherung der einheitlichen Führung der Wirt
 <lb break="no"/>schaft notwendig erscheinende Maßnahmen, insbesondere</item>
-</p><p>auch hinsichtlich der Versorgung der Bevölkerung mit
+</list></p><p>auch hinsichtlich der Versorgung der Bevölkerung mit
       <lb break="yes"/>Bedarfegegenständen;
-      <label>15. </label><item>Einrichtung der Bundesämter und sonstigen<lb break="yes"/>Bundesbehörden; Dienstrecht der Bundesangestellten.
+      <list><label>15. </label><item>Einrichtung der Bundesämter und sonstigen<lb break="yes"/>Bundesbehörden; Dienstrecht der Bundesangestellten.
       <lb break="yes"/>Artifel 11.
       </item>
 <label>(1) </label><item>Bundesjache ist die Gesetzgebung, Landessache<lb break="yes"/>die Vollziehung in folgenden Angelegenheiten:
@@ -356,26 +356,26 @@
 <label>8. </label><item>Dienstrecht der Organe der Länder, die behörd
 <lb break="no"/>liche Aufgaben zu besorgen haben.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 13.
       </head>
 <p>
-<label>(1) </label><item>Wenn eine Angelegenheit nicht ausdrücklich<lb break="yes"/>durc die Bundesverfassung der Gesehgebung oder
+<list><label>(1) </label><item>Wenn eine Angelegenheit nicht ausdrücklich<lb break="yes"/>durc die Bundesverfassung der Gesehgebung oder
       <lb break="yes"/>auch der Vollziehung des Bundes überträgen ist, ver
 <lb break="no"/>bleibt sie im Wirtungsbereiche der Länder.
       </item>
 <label>(2) </label><item>Insoweit der Bundesgesehgebung bloß die<lb break="yes"/>Regelung der Grundsage vorbehalten ist, obliegt die
       <lb break="yes"/>nähere Ausführung der Landesgesetzgebung innerhalb
       <lb break="yes"/>des bundesgesetzlich festgelegten Rahmens. Das Bundes-</item>
-<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2</p><p>gesetz kann für die Erlassung der Ausführungsgesetze
+</list><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>2</p><p>gesetz kann für die Erlassung der Ausführungsgesetze
       <lb break="yes"/>eine grist bestimmen, die nicht kürger als drei
       <lb break="yes"/>Monate und nicht länger als ein jahr sein darf.
       <lb break="yes"/>Wirs diese Frist von einer Landesgesetgebung nicht
       <lb break="yes"/>eingehalten, so geht die zuständigkeit zur Erlassung
       <lb break="yes"/>des Ausführungsgesetzes für dieses Land auf den
       <lb break="yes"/>Bund über.
-      <label>(3) </label><item>Soll ein Aft der vollziehenden Gewalt für<lb break="yes"/>mehrere Lander Rechtswirtsamkeit äußern und ist
+      <list><label>(3) </label><item>Soll ein Aft der vollziehenden Gewalt für<lb break="yes"/>mehrere Lander Rechtswirtsamkeit äußern und ist
       <lb break="yes"/>in dem die Angelegenheit regelnden Bundesgesetz
       <lb break="yes"/>nicht ein anderer Vorgang vorgesehen, so geht die
       <lb break="yes"/>Zuständigkeit für diesen Ait der Vollziehung au
@@ -456,14 +456,14 @@
       <lb break="yes"/>Artitel 14 d.
       </item>
 <label>(1) </label><item>Das Dienftrecht — einschließlich des Besoldungs.<lb break="yes"/>systems und des Disziplinarrechtes wird für jene</item>
-</p><p>Organe des Bundes und der Länder, die berhördliche
+</list></p><p>Organe des Bundes und der Länder, die berhördliche
       <lb break="yes"/>Ausgaben zu besorgen haben, nach einheitlichen Gruns
 <lb break="no"/>Sätzen durch Bundesgesetz geregelt. Hiebei wird ins
 <lb break="no"/>besondere auch festgesegt, inniemeit bei der Regelung
       <lb break="yes"/>der Rechte und Prlichten dieser Oigane, unbeschadet
       <lb break="yes"/>der Diensthoheit des Bundes und der Länder, Per
 <lb break="no"/>onalvertietungen teilzunehmen haben.
-      <label>(2) </label><item>Die Diensthoheit des Bundes gegenüber seinen<lb break="yes"/>Organen wirs von den Boltsbeaustragten des Bundes,
+      <list><label>(2) </label><item>Die Diensthoheit des Bundes gegenüber seinen<lb break="yes"/>Organen wirs von den Boltsbeaustragten des Bundes,
       <lb break="yes"/>die Diensthoheit der Länder gegenüber ihren Organen
       <lb break="yes"/>von den Volksbeauftragten der Länder ausgeübt.
       </item>
@@ -545,11 +545,11 @@
       <lb break="yes"/>Schadenersat erlangen kann.
       </item>
 <label>(3) </label><item>Die näheren Bestimmungen trifft ein Bundes<lb break="yes"/>gesetz.</item>
-</p><p>Zweites Hauptstück
+</list></p><p>Zweites Hauptstück
       <lb break="yes"/>Von der Gesetzgebung des Bundes.
       <lb break="yes"/>A. Der Nationalrat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 15.
       </head>
 <p>Die gesetzgebende Gewalt des Bundes übt der vom
@@ -557,11 +557,11 @@
       <lb break="yes"/>mit dem von den Landlagen gewählten Bünbeh
 <lb break="no"/>rate aus.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 16.
       </head>
 <p>
-<label>(1) </label><item>Der Sitz des Nationalrates ift die Bundes
+<list><label>(1) </label><item>Der Sitz des Nationalrates ift die Bundes
 <lb break="no"/>Hauptstadt Wien.
       </item>
 <label>12) </label><item>Für die Dauer außerordentlicher Verhältnisse<lb break="yes"/>ann der Bundespräsident auf Antrag der Bundes
@@ -569,12 +569,12 @@
       <lb break="yes"/>Bundesgebietes berufen.
       <lb break="yes"/>(Artikel 17 und 18 fallen aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 19.
       </head>
 <p>
-<label>(1) </label><item>Der Nationalrat wird vom Bundesvolt auf<lb break="yes"/>Grund des gleichen, diretten, geheimen und persön
+<list><label>(1) </label><item>Der Nationalrat wird vom Bundesvolt auf<lb break="yes"/>Grund des gleichen, diretten, geheimen und persön
 <lb break="no"/>sichen Wahlrechtes der Männer und Frauen, die vor
       <lb break="yes"/>dem 1. Janner des Jahres der Wahl dag zwanzigste
       <lb break="yes"/>Lebensjahr überschritten hätten, nach den Grundsäten
@@ -588,12 +588,12 @@
 <label>(4) </label><item>Die Ausschließung vom Wahlrecht und von<lb break="yes"/>der Wählbarkeit kann nur die Folge einer gericht
 <lb break="no"/>lichen Verurteilung oder Verfügung sein.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 20.
       </head>
 <p>
-<label>(1) </label><item>Die Geseßzgebungsperiode des Nationalrates<lb break="yes"/>dauert vier Jahre, vom Tage seines ersten Zusammen
+<list><label>(1) </label><item>Die Geseßzgebungsperiode des Nationalrates<lb break="yes"/>dauert vier Jahre, vom Tage seines ersten Zusammen
 <lb break="no"/>trittes an gerechnet. Die Neuwahl ist von der Bundes
 <lb break="no"/>regierung so anzuordnen, daß der neugewählte National
 <lb break="no"/>rat am Tage nach der Beendigung der ablaufenden
@@ -616,12 +616,12 @@
       <lb break="yes"/>gebungsperiode bis zum Zusammentritte des neu
 <lb break="no"/>gewählten Nationalrates.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 23.
       </head>
 <p>
-<label>(1) </label><item>Der Nationalrat wählt aus feiner Mitte einen<lb break="yes"/>Präsidenten und zwei Viepräsidenten.
+<list><label>(1) </label><item>Der Nationalrat wählt aus feiner Mitte einen<lb break="yes"/>Präsidenten und zwei Viepräsidenten.
       </item>
 <label>13 </label><item>Die Geschäftsführung des Nationalrates erfolgt<lb break="yes"/>auf Grund eines besonderen Gesetzes und einer im
       <lb break="yes"/>Nahmen dieses Gesepes vom Nationalrate zu be
@@ -639,8 +639,8 @@
       <lb break="yes"/>Mitglieder verlangt und vom Hause nach Entfernung
       <lb break="yes"/>der Zuhörer beschlossen wird.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 25.
       </head>
 <p>Wahrheitsgetreue Berichte über die Verhandlungen
@@ -649,14 +649,14 @@
 <lb break="no"/>tung frei.
       <lb break="yes"/>B. Der Bundesrat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 26.
       </head>
 <p>
-<label>(1) </label><item>Im Bundesrate sind die Länder im Verhältnis<lb break="yes"/>zu ihrer Einwohnerzahl gemäß den folgenden Be
+<list><label>(1) </label><item>Im Bundesrate sind die Länder im Verhältnis<lb break="yes"/>zu ihrer Einwohnerzahl gemäß den folgenden Be
 <lb break="no"/>stimmungen vertreten.</item>
-<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>
-      <label>(2) </label><item>Das Land mit der größten Einwohnerzahl<lb break="yes"/>entjendet1er   n
+</list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>3</p><p>
+      <list><label>(2) </label><item>Das Land mit der größten Einwohnerzahl<lb break="yes"/>entjendet1er   n
       <lb break="yes"/>viele Mitglieder ass dem verhältnisse seiner Otn.
       <lb break="yes"/>wohnerahl zur ersangeführten enwohnerzoht ent
       <lb break="yes"/>spricht, wobei Meste über die Hälfie der Verhältnis
@@ -744,13 +744,13 @@
 <lb break="no"/>Känzler gegengezeichnet.
       <lb break="yes"/>Sie ämtliche Kundmachung liegt dem Bundes
 <lb break="no"/>Canzler ob.</item>
-</p><p>D. Der Weg der Bundesgesetzgebung.
+</list></p><p>D. Der Weg der Bundesgesetzgebung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 30.
       </head>
 <p>
-<label>(1) </label><item>Gefeßeévorschläge gelangen an den Nationalrat<lb break="yes"/>entweder als Anträge seiner Mitglieder oder als
+<list><label>(1) </label><item>Gefeßeévorschläge gelangen an den Nationalrat<lb break="yes"/>entweder als Anträge seiner Mitglieder oder als
       <lb break="yes"/>Vorlagen der Bundesregierung. Der Bundesraf
       <lb break="yes"/>kann im Bege der Bundesregierung Gesehesanträge
       <lb break="yes"/>im Nationatrate stedlen.
@@ -835,15 +835,15 @@
       <lb break="yes"/>beurlunden und kundzumachen.
       <lb break="yes"/>Artikel 39 fällt aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 40.
       </head>
 <p>
-<label>(1) </label><item>Das verfassungsgemäße Zustandekommen der<lb break="yes"/>Bundesgesehe wird durch die Unterschrift des Bundes
+<list><label>(1) </label><item>Das verfassungsgemäße Zustandekommen der<lb break="yes"/>Bundesgesehe wird durch die Unterschrift des Bundes
 <lb break="no"/>präsidenten beurlundet.</item>
-</p><p>
-      <label>(2) </label><item>Die Vo lage zur Veurfundung erfolgt durch<lb break="yes"/>den Bundestan, ler.
+</list></p><p>
+      <list><label>(2) </label><item>Die Vo lage zur Veurfundung erfolgt durch<lb break="yes"/>den Bundestan, ler.
       </item>
 <label>(3) </label><item>Die Beukundung ist vom Bundestanzler und<lb break="yes"/>von ten zuständigen Bundesministern gegenzuzeichnen.
       <lb break="yes"/>Urtifel 41.
@@ -855,12 +855,12 @@
       <lb break="yes"/>gesebes, das auf ener Volleabsümmung beruht, mit
       <lb break="yes"/>Berusung auf das Ergebnis der Böltsabstimmung.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 42.
       </head>
 <p>
-<label>(1) </label><item>Die Rundmachung der Bundesgesetze und<lb break="yes"/>der in Ärtikel 42 a bezeichneten Staatsverträge ist
+<list><label>(1) </label><item>Die Rundmachung der Bundesgesetze und<lb break="yes"/>der in Ärtikel 42 a bezeichneten Staatsverträge ist
       <lb break="yes"/>durch den Bundestanzler im Bundesgeschblatte
       <lb break="yes"/>zu veranlossen. Ihre verbindende Kraft beginnt.
       <lb break="yes"/>wenn nicht ausdrücklich eine andere Bestimmung
@@ -923,32 +923,32 @@
 <label>(5) </label><item>Die Immunität der Organe des Nationalrates,<lb break="yes"/>deren Junttion üter die Gesehgebungsperiode hinaus
 <lb break="no"/>geht, bleibt für die Dauer dieser Junttion bestehen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 44.
       </head>
 <p>Die Mitglieder des Bundesrates genießen für diese
       <lb break="yes"/>Junktion während deren gänzen Dauer die Immunität
       <lb break="yes"/>von Mitgliedern des Lanstages, der sie entsendet hat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 45.
       </head>
 <p>
-<label>(1) </label><item>Niemand kann gleichzeitig dem Nationalrat und<lb break="yes"/>dem Bundesrat angehören.
+<list><label>(1) </label><item>Niemand kann gleichzeitig dem Nationalrat und<lb break="yes"/>dem Bundesrat angehören.
       </item>
 <label>(2) </label><item>öffentliche Ungestellte und Junktionäre ein
 <lb break="no"/>schließlich der Angehörigen des Bundesheeres bedürfen</item>
-<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p><p>zur Ausübung eines Mandates im Nationalrat oder
+</list><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>4</p><p>zur Ausübung eines Mandates im Nationalrat oder
       <lb break="yes"/>im Bundesrate seines Urlaubes.
-      <label>(3) </label><item>Wenn sich die im Absatz 2 bezeichneten<lb break="yes"/>Personen um Mandate im Nationalrat bewerben, ist
+      <list><label>(3) </label><item>Wenn sich die im Absatz 2 bezeichneten<lb break="yes"/>Personen um Mandate im Nationalrat bewerben, ist
       <lb break="yes"/>ihnen die dazu erforderliche freie Zeit zu gewähren
       <lb break="yes"/>Das Nähere bestimmen die Dienstesvorschriten.
       <lb break="yes"/>G. Stellung der Bundesregierung im Nationalrat,
       <lb break="yes"/>die Eumnd at wnen dr dn enermndung.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 46.
       </head>
 <p>Die Mitglieder der Bundesregierung sowie die von
@@ -963,7 +963,7 @@
       <lb break="yes"/>die Anwesenheit der Mitglieder der Bundesregierung
       <lb break="yes"/>verlängen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 47.
       </head>
 <p>Der Natirnalrot und der Bundesrat sind befugt,
@@ -974,11 +974,11 @@
       <lb break="yes"/>die Ansübung der Regierungs- und Vollzugsgewalt
       <lb break="yes"/>in Entschliebungen Ausdruck zu geben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 48.
       </head>
 <p>
-<label>(1) </label><item>Der Nationalrat kann durch Beschluß Unter
+<list><label>(1) </label><item>Der Nationalrat kann durch Beschluß Unter
 <lb break="no"/>suchungsausschüsse einsetzen.
       </item>
 <label>13) </label><item>Die Ferikte und alle anderen Behörden sind<lb break="yes"/>verpflichtet, dem Esuchen dieser Ausschüsse um Be
@@ -991,12 +991,12 @@
       <lb break="yes"/>A. Von der Regierungsgewalt des Bundes.
       </item>
 <label>1. </label><item>Der Bundespräsident.</item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 49.
       </head>
 <p>
-<label>(1) </label><item>Der Bundespräsident wird von der Bundes
+<list><label>(1) </label><item>Der Bundespräsident wird von der Bundes
 <lb break="no"/>versammlung gemäß Artikel 29a in namentlicher
       <lb break="yes"/>Abstmmung mit Summzetteln gewähl.
       </item>
@@ -1018,8 +1018,8 @@
 <lb break="no"/>tätigkeit keiner politischen Körperschaft angehören und
       <lb break="yes"/>keinen anderen Beruf ausüben.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 51.
       </head>
 <p>Der Bundespräsident leistet bei Antritt seines Amtes
@@ -1032,7 +1032,7 @@
       <lb break="yes"/>Eine behördliche Verfolgung des Bundes
 <lb break="no"/>präfidenten ist nur zulässig, wenn ihr die Bundes
 <lb break="no"/>versammlung zugestimmt hat
-      <label>2) </label><item>der Antrag auf Verfolgung des Bundes
+      <list><label>2) </label><item>der Antrag auf Verfolgung des Bundes
 <lb break="no"/>präfidenten ist von der zuständigen Behörde beim
       <lb break="yes"/>Nationaltat zu stellen, welcher beschliegt, ob die
       <lb break="yes"/>Bundesversammlung damit zu befassen ist. Epricht
@@ -1040,24 +1040,24 @@
       <lb break="yes"/>Gundestanzler die Bundesversammlung innerhals
       <lb break="yes"/>dreier Wochen einzuberufen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 53.
       </head>
 <p>
-<label>(1) </label><item>Wenn der Bundespräsident verhindert oder wenn<lb break="yes"/>seine Stelle dauernd erledigt ist, in letzterem Falle</item>
-</p><p>bis zu der Wahl seines Nachfolgers, gehen alle Funk
+<list><label>(1) </label><item>Wenn der Bundespräsident verhindert oder wenn<lb break="yes"/>seine Stelle dauernd erledigt ist, in letzterem Falle</item>
+</list></p><p>bis zu der Wahl seines Nachfolgers, gehen alle Funk
 <lb break="no"/>tionen des Bundespräsidenten auf den Bundeslanzler
       <lb break="yes"/>über.
-      <label>(2) </label><item>Diejer hat im Falle der dauernden Erledigung<lb break="yes"/>der Stelle des Bundespräsidenten sofort die Neuwahl
+      <list><label>(2) </label><item>Diejer hat im Falle der dauernden Erledigung<lb break="yes"/>der Stelle des Bundespräsidenten sofort die Neuwahl
       <lb break="yes"/>auszuschreiben und durchzuführen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 54.
       </head>
 <p>
-<label>(1) </label><item>Der Bundespräsident vertritt die Republik nach<lb break="yes"/>außen, empfangt uns beglaubigt die Gesandten, ge
+<list><label>(1) </label><item>Der Bundespräsident vertritt die Republik nach<lb break="yes"/>außen, empfangt uns beglaubigt die Gesandten, ge
 <lb break="no"/>nehmigt die Bestellung der fremden Konsuln, bestellt
       <lb break="yes"/>die konsularischen Vertreter der Republik im Ausland
       <lb break="yes"/>und schließt die Staatsverträge ab.
@@ -1116,22 +1116,22 @@
 <label>2) </label><item>Der Vizekanzler ist zur Vertretung des Bundes
 <lb break="no"/>tanzlers in dessen gesamtem Wirtungstreis berusen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 59.
       </head>
 <p>
-<label>(1) </label><item>Die Regierungsgewalt des Bundes darf nur<lb break="yes"/>auf Grund der Bundesverfassung und der Bundes
+<list><label>(1) </label><item>Die Regierungsgewalt des Bundes darf nur<lb break="yes"/>auf Grund der Bundesverfassung und der Bundes
 <lb break="no"/>gesehe ausgeübt werden.
       </item>
 <label>2) </label><item>Jede Behörde kann im Nahmen der Gesetze<lb break="yes"/>nnerhalb ihres Wirtungstreises Verordnungen erlassen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 60.
       </head>
 <p>
-<label>(1) </label><item>Die Bundesregierung wird vom Nationalrate<lb break="yes"/>gewählt. In die Bunderregierung kann nur gewähl
+<list><label>(1) </label><item>Die Bundesregierung wird vom Nationalrate<lb break="yes"/>gewählt. In die Bunderregierung kann nur gewähl
       <lb break="yes"/>werden, wer zum Nationalrat wahlbar ist: die mit
       <lb break="yes"/>glieder der Bundesregierung müssen nicht dem National
 <lb break="no"/>rat angehören.
@@ -1146,12 +1146,12 @@
       </item>
 <label>14) </label><item>Ist der Nationalrat nicht versammelt, so wird<lb break="yes"/>die Bundesregierung bis zum Zusammentritte des
       <lb break="yes"/>Nationalrates und Hauptausschusse bestellt.</item>
-</p><p>
-      <label>(5) </label><item>Auf die Bestellung einzelner Mitglieder der<lb break="yes"/>Bundesregierung finden die Bestimmungen der As
+</list></p><p>
+      <list><label>(5) </label><item>Auf die Bestellung einzelner Mitglieder der<lb break="yes"/>Bundesregierung finden die Bestimmungen der As
 <lb break="no"/>sabe 2 bis 4 sinngemäße Anwendung.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 61.
       </head>
 <p>Ist die Bundesregierung zurückgetreten, so hat
@@ -1164,7 +1164,7 @@
       <lb break="yes"/>Anwendung, wenn einzelne Mitglieder aus der
       <lb break="yes"/>Bundesregierung ausgeschieden sind.
       <lb break="yes"/>Artikel 61 a.
-      <label>(1) </label><item>Die Mitglieder der Bundesregierung werden<lb break="yes"/>vor Antritt ihres Amies vom Bundespräsidenten
+      <list><label>(1) </label><item>Die Mitglieder der Bundesregierung werden<lb break="yes"/>vor Antritt ihres Amies vom Bundespräsidenten
       <lb break="yes"/>angelobt.
       </item>
 <label>2) </label><item>Die Vestallungsurlunden des Bundeskanzlers,<lb break="yes"/>des Byekanzlers us der übrigen Bundesminister
@@ -1197,15 +1197,15 @@
 <label>3) </label><item>Die gesamte Bundesregierung und ihre einzelnen<lb break="yes"/>Mitglieder werden in den gesetzlich bestimmten Fällen
       <lb break="yes"/>oder auf ihren Bunsch vom Bundespräsidenten ihres
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 63.
       </head>
 <p>Die Mitglieder der Bundesregierung (Urtikel 60.
       <lb break="yes"/>und 61) sind gemäß Artikelt 152 dem Nationalrate
       <lb break="yes"/>verantwortlich.
       <lb break="yes"/>Artitel 64.
-      <label>(1) </label><item>Zur Besorgung der Geschäfte der Bundesver
+      <list><label>(1) </label><item>Zur Besorgung der Geschäfte der Bundesver
 <lb break="no"/>waltung sind die Bundeeministerien und die ihnen
       <lb break="yes"/>unterstellten Umter berusen.
       </item>
@@ -1217,12 +1217,12 @@
       <lb break="yes"/>zweiten Bundesministeriums betraut werden.
       <lb break="yes"/>(Artitel 65 fällt aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 66.
       </head>
 <p>
-<label>(1) </label><item>In besonderen Fällen kann die Bestellung von<lb break="yes"/>Bundesministern auch ohne gleichzeitige Betrauung
+<list><label>(1) </label><item>In besonderen Fällen kann die Bestellung von<lb break="yes"/>Bundesministern auch ohne gleichzeitige Betrauung
       <lb break="yes"/>mit der Zührung eines Bundesministeriums er
 <lb break="no"/>folgen.
       </item>
@@ -1236,21 +1236,21 @@
       </item>
 <label>3. </label><item>Das Bundesheer.<lb break="yes"/>(Artikel 68 fällt aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 69.
       </head>
 <p>
-<label>(1) </label><item>Dem Bundesheer liegt der Schutz der Grenzen<lb break="yes"/>der Republit ob
+<list><label>(1) </label><item>Dem Bundesheer liegt der Schutz der Grenzen<lb break="yes"/>der Republit ob
       </item>
 <label>(2) </label><item>Das Bundesheer ist, soweit die gesetzmäßige<lb break="yes"/>bürgerliche Gewalt seine Mitwirtung in Anspruch</item>
-<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>nimmt, zum Schutz der verfassungsmäßigen Einrich
+</list><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>5</p><p>nimmt, zum Schutz der verfassungsmäßigen Einrich
 <lb break="no"/>tungen sowie zur Aufrecherhaltung der Ordnung und
       <lb break="yes"/>Sicherheit im Znnern überhaupt und zur Hilfeleistung
       <lb break="yes"/>bei Elementarereignissen und Unglücksfällen
       <lb break="yes"/>gewöhnlichen Umfanges bestimmt.
       <lb break="yes"/>Artitel 70.
-      <label>(1) </label><item>Über das Heer verfügt der Nationalrat.<lb break="yes"/>Insoweit diesem nicht durch das Wehrgeset die
+      <list><label>(1) </label><item>Über das Heer verfügt der Nationalrat.<lb break="yes"/>Insoweit diesem nicht durch das Wehrgeset die
       <lb break="yes"/>unmittelbare Verfügung vorbehalten ist, wird mi
       <lb break="yes"/>der Verfügung die Bundesregierung oder innerhält
       <lb break="yes"/>der von dieser erteilten Ermächtigung der zuständige
@@ -1272,12 +1272,12 @@
 <label>(1) </label><item>Alle Gerichtsbarheit geht vom Bunde aus.</item>
 <label>(3) </label><item>Die Urteile und Erkeuntnisse werden im Namen<lb break="yes"/>der Repubiik verkündet und ausgefertigt.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 7.
       </head>
 <p>
-<label>(1) </label><item>Die Verfassung und Zuständigkeit der Gerichte<lb break="yes"/>wird durch Bundesgeset festgestellt.
+<list><label>(1) </label><item>Die Verfassung und Zuständigkeit der Gerichte<lb break="yes"/>wird durch Bundesgeset festgestellt.
       </item>
 <label>(2) </label><item>Niemand darf seinem ordentlichen Richter ent
 <lb break="no"/>zogen werden.
@@ -1295,25 +1295,25 @@
 <label>14) </label><item>Das Verfahren wegen Verletzungen des Bölker
 <lb break="no"/>rechtes wirs dem verfaffungsgerichtohof übertragen
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 74.
       </head>
 <p>Die Militärgerichtsbarkeit ist.
       <lb break="yes"/>außer für Kriegs
       <lb break="yes"/>zeiten — aufgehoben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 75.
       </head>
 <p>Die Todesstrafe im ordentlichen Verfahren ist ab
 <lb break="no"/>geschafft.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 76.
       </head>
 <p>
-<label>(1) </label><item>Die Richter werden - sofern nicht in der<lb break="yes"/>Verfassung oder in dem Gerichtsverfassungsgesett
+<list><label>(1) </label><item>Die Richter werden - sofern nicht in der<lb break="yes"/>Verfassung oder in dem Gerichtsverfassungsgesett
       <lb break="yes"/>anderes bestimmt ist auf Grund von gesehungs
       <lb break="yes"/>vorschlägen der durch die Gerichtsverfassung dazu be
 <lb break="no"/>stimmten Senate auf Antrag der Bundesregierung
@@ -1347,8 +1347,8 @@
 <label>(1) </label><item>Im Gerichtsverfassungsgesetze wird eine Alters
 <lb break="no"/>grenze bestimmt, nach deren Erreichung die Richter
       <lb break="yes"/>in den bauernden Rühestand zu verseten sind.</item>
-</p><p>
-      <label>2. </label><item>Im übrigen dürfen Richter nur in den vom<lb break="yes"/>Gesetze vorgeschriebenen Fällen und Formen und auf
+</list></p><p>
+      <list><label>2. </label><item>Im übrigen dürfen Richter nur in den vom<lb break="yes"/>Gesetze vorgeschriebenen Fällen und Formen und auf
       <lb break="yes"/>Gruns eines förmlichen richterlichen Erkenntnisses ihrer
       <lb break="yes"/>Amtes entsetzt oder wider ihren Willen an eine
       <lb break="yes"/>andere Stelle oder in den Ruhestand versetzt werden.
@@ -1366,12 +1366,12 @@
 <lb break="no"/>weisung der Sache an das zuständige Gericht statt
 <lb break="no"/>finden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 79.
       </head>
 <p>
-<label>(1) </label><item>Die Prüfung der Gültigkeit gehörig kundge
+<list><label>(1) </label><item>Die Prüfung der Gültigkeit gehörig kundge
 <lb break="no"/>machter Gesete steht den Gerichten nicht zu¬
       </item>
 <label>(2) </label><item>Hat ein Gericht gegen die Anwendung einer<lb break="yes"/>Verordnung aus dem Grunde der Gesetzwidrigkeit
@@ -1379,21 +1379,21 @@
       <lb break="yes"/>und den Antrag auf Kassation dieser verordnung
       <lb break="yes"/>beim Verfassungsgerichtshof zu stellen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 80.
       </head>
 <p>
-<label>(1) </label><item>Die Verhandlungen in Zivil- und Strafrechts<lb break="yes"/>sachen vor dem erkennenden Bericht sind mündlich und
+<list><label>(1) </label><item>Die Verhandlungen in Zivil- und Strafrechts<lb break="yes"/>sachen vor dem erkennenden Bericht sind mündlich und
       <lb break="yes"/>öffentlich. Ausnahmen bestimmt das Geset
       </item>
 <label>(2) </label><item>Im Sträsverfahren gilt der Anklageprogeß.</item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 81.
       </head>
 <p>
-<label>(1) </label><item>Das Volk hat an der Rechtssprechung mitzu-</item>
+<list><label>(1) </label><item>Das Volk hat an der Rechtssprechung mitzu-</item>
 <label>(2) </label><item>Bei den mit schweren Strafen bedrohten Ver
 <lb break="no"/>brechen, die das Gesetz zu bezeichnen hat, sowie bei
       <lb break="yes"/>allen politischen Verbrechen und Vergehen entscheiden
@@ -1402,8 +1402,8 @@
 <label>(3) </label><item>Im Strafverfahren wegen niederer Verbrechen<lb break="yes"/>und Vergehen nehmen Schöffen an der Rechts
 <lb break="no"/>sprechung teil.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 82.
       </head>
 <p>Als oberste Instanz in Zivil- und Strafrechts
@@ -1412,7 +1412,7 @@
       <lb break="yes"/>Amnestien wegen gerichtlich strafbarer Handlungen
       <lb break="yes"/>werden durch Bundesgeset erteilt.
       <lb break="yes"/>Artilel 84.
-      <label>(1) </label><item>Die Justiz ist von der Verwaltung in aller<lb break="yes"/>Instanzen getrennt,
+      <list><label>(1) </label><item>Die Justiz ist von der Verwaltung in aller<lb break="yes"/>Instanzen getrennt,
       </item>
 <label>(2) </label><item>Wenn eine Verwaltungsbehörde über Privatrechts
 <lb break="no"/>ansprüche zu entscheiden hat, steht es den durch diese
@@ -1423,12 +1423,12 @@
       <lb break="yes"/>Von der Gesetzgebung und Vollziehung der
       <lb break="yes"/>Länder.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 85.
       </head>
 <p>
-<label>(1) </label><item>Die gesetzgebende Gewalt der Ländern wird<lb break="yes"/>durch die Landtage ausgeübt, deren Mitglieder auf
+<list><label>(1) </label><item>Die gesetzgebende Gewalt der Ländern wird<lb break="yes"/>durch die Landtage ausgeübt, deren Mitglieder auf
       <lb break="yes"/>Grund des gleichen, geheimen, persönlichen und
       <lb break="yes"/>unmittelbaren Verhältniswahlrechtes aller nach den
       <lb break="yes"/>Landtagswahlordnungen wahlberechtigten männlichen
@@ -1439,40 +1439,40 @@
       <lb break="yes"/>enger ziehen, als dies in der Wahlordnung zum
       <lb break="yes"/>Nationalrat der Fall ist.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 86.
       </head>
 <p>
-<label>(1) </label><item>Die Mitglieder des Landtages genießen die<lb break="yes"/>gleiche Immunität wie die Mitglieder des National
+<list><label>(1) </label><item>Die Mitglieder des Landtages genießen die<lb break="yes"/>gleiche Immunität wie die Mitglieder des National
       <lb break="yes"/>rdtes, wobei die Bestimmungen des Artitels 43 finn.
       <lb break="yes"/>demas Anwendung finden.
       </item>
 <label>12) </label><item>Die Bestimmungen der Artikel 24 und 25 gelten<lb break="yes"/>auch für die Situngen der Landtage und ihrer Aus
 <lb break="no"/>shüsse.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 87.
       </head>
 <p>
-<label>(1) </label><item>Zu einem Landesgesetz ist der Beschluß des<lb break="yes"/>Hanstages, die Beurkundung und Gegenzeichnung nach
+<list><label>(1) </label><item>Zu einem Landesgesetz ist der Beschluß des<lb break="yes"/>Hanstages, die Beurkundung und Gegenzeichnung nach
       <lb break="yes"/>den Bestimmungen der Landesverfassung und die Kund
 <lb break="no"/>machung durch die Landesregierung im Landesgesetz
       <lb break="yes"/>Statte erforderlich.</item>
-</p><p>
-      <label>(2) </label><item>Insoweit ein Landesgesetz bei der Vollziehung<lb break="yes"/>die Mitwirtung von Bundesbehorden vorsieht, mus
+</list></p><p>
+      <list><label>(2) </label><item>Insoweit ein Landesgesetz bei der Vollziehung<lb break="yes"/>die Mitwirtung von Bundesbehorden vorsieht, mus
       <lb break="yes"/>zu dieser Mitwirtung die Zustimmung der Bundes
 <lb break="no"/>regierung eingeholt werden. Vor Erteilung der
       <lb break="yes"/>Zustimmung kann ein solches landesgeset nicht tund
 <lb break="no"/>gemacht werden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 88.
       </head>
 <p>
-<label>(1) </label><item>Alle Gesetzesbeschlüsse der Landtage sind unmittel
+<list><label>(1) </label><item>Alle Gesetzesbeschlüsse der Landtage sind unmittel
 <lb break="no"/>bar nach erfolgter Beschlusfassung des Landtages und
       <lb break="yes"/>vor ihrer Kundmachung vom Landeshauptmann der
       <lb break="yes"/>Bundesregierung oder dem zuständigen Bundesminister
@@ -1490,12 +1490,12 @@
 <lb break="no"/>machung nur zufällig, wenn die Bundesregierung
       <lb break="yes"/>ausdrücklich zustimmt
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 89.
       </head>
 <p>
-<label>(1) </label><item>Die durch Landesgesetz zu erlassende Landes
+<list><label>(1) </label><item>Die durch Landesgesetz zu erlassende Landes
 <lb break="no"/>verfassung kann soeit dadurc die Bundes
       <lb break="yes"/>verfassung nicht berührt wird durch Landesgeset
       <lb break="yes"/>abgeändert werden.
@@ -1505,12 +1505,12 @@
       <lb break="yes"/>mit einer Mehrheit von zwei Dritteln aller ab
 <lb break="no"/>gegebenen Stimmen beschlossen werden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 90.
       </head>
 <p>
-<label>(1) </label><item>Jeder Landtag kann auf Antrag der Bundes
+<list><label>(1) </label><item>Jeder Landtag kann auf Antrag der Bundes
 <lb break="no"/>regierung mit zustimmung des Bundegrates vom
       <lb break="yes"/>Bundespräsidenten aufgelöst werden. Sie zustimmung
       <lb break="yes"/>des Bundesrates muß bei Anwesenheit der Hälfte
@@ -1523,12 +1523,12 @@
 <lb break="no"/>gewählten Lanstages hal binnen vier Wochen nach
       <lb break="yes"/>durchgeführter Wahl zu erfolgen.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 91.
       </head>
 <p>
-<label>(1) </label><item>Die vollziehende Gewalt jedes Landes wird<lb break="yes"/>durch eine vom Lanstag zu wählende Candesregierung
+<list><label>(1) </label><item>Die vollziehende Gewalt jedes Landes wird<lb break="yes"/>durch eine vom Lanstag zu wählende Candesregierung
       <lb break="yes"/>ausgeübt.
       </item>
 <label>(3) </label><item>Die Mitglieder der Landesregierung müssen<lb break="yes"/>nicht dem Landtag angehören.Jedoch kann in die
@@ -1542,12 +1542,12 @@
 <label>(4) </label><item>Der Landeshauptmann und seine Stellvertreter<lb break="yes"/>werden durch den Bundespräfidenten auf die Bundes
 <lb break="no"/>verfassung angelobt.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 92.
       </head>
 <p>
-<label>(1) </label><item>Im Bereiche der Länder wird die vollziehende<lb break="yes"/>Gewalt des Bundes entweder durch eigene Bundes.
+<list><label>(1) </label><item>Im Bereiche der Länder wird die vollziehende<lb break="yes"/>Gewalt des Bundes entweder durch eigene Bundes.
       <lb break="yes"/>behörden sunmittelbare Bundesverwaltung oder durch
       <lb break="yes"/>die Landesregierungen und die ihnen unterstellten
       <lb break="yes"/>Landesbehörden (mittelbare Landesverwaltung) aus
@@ -1572,21 +1572,21 @@
       <lb break="yes"/>durch Bundesgeset ausbrücklich anderes bestimmt ist
       <lb break="yes"/>bis zu den zuständigen Bundesministerien.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 93.
       </head>
 <p>
-<label>(1) </label><item>Der Landeshauptmann oder sein Stellvertreier<lb break="yes"/>vertritt das Land Er trägt in den Angelegenheiten</item>
-<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>der mittelbaren Bundesverwaltung die Verantwortung
+<list><label>(1) </label><item>Der Landeshauptmann oder sein Stellvertreier<lb break="yes"/>vertritt das Land Er trägt in den Angelegenheiten</item>
+</list><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>6</p><p>der mittelbaren Bundesverwaltung die Verantwortung
       <lb break="yes"/>gegenüber der Bundesregierung gemäß Artikel 152. Der
       <lb break="yes"/>Geltendmachung dieser Verantwortung steht die
       <lb break="yes"/>Immunitat nicht im Bege.
-      <label>2) </label><item>Dem Landtage sind die Mitglieder der Landes
+      <list><label>2) </label><item>Dem Landtage sind die Mitglieder der Landes
 <lb break="no"/>regierung gemäß Artitel 152 verantwortlich.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 94
       </head>
 <p>Zur Leitung des gesamten inneren Dienstbetriebet
@@ -1597,7 +1597,7 @@
 <lb break="no"/>mannes.
       <lb break="yes"/>(Artikel 95 und 96 fallen aus.)
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 97.
       </head>
 <p>Vereinbarungen der Länder untereinander können
@@ -1616,7 +1616,7 @@
       <lb break="yes"/>Gemeinden Ortsgemeinden, als Gebietsgemeinder
       <lb break="yes"/>die Benite Beyitsgemeinden und in den größeren
       <lb break="yes"/>Ländern die Kreise CKreisgemeinden).
-      <label>3) </label><item>Die Gemeinden sins den Bezirten oder Kreisen<lb break="yes"/>und diese den Ländern untergeordnet. Zwischen Be
+      <list><label>3) </label><item>Die Gemeinden sins den Bezirten oder Kreisen<lb break="yes"/>und diese den Ländern untergeordnet. Zwischen Be
 <lb break="no"/>zirlen und Kreisen findet ein Instangenzug nicht statt.
       <lb break="yes"/>Artikel 97 c.
       </item>
@@ -1669,13 +1669,13 @@
       <lb break="yes"/>andere ass territoriale Bahlkörper eingeteilt werden.
       <lb break="yes"/>Die Wahlordnung tann bestmmen, dat die Babler
       <lb break="yes"/>schaft ihr Wahlrecht in Wahlbezirken auszuüben hat,</item>
-</p><p>die geschlossene Territorien sein müssen. Die Mandate
+</list></p><p>die geschlossene Territorien sein müssen. Die Mandate
       <lb break="yes"/>sind auf die Wahlbezirke im Verhältnis der Zahl der
       <lb break="yes"/>Bundesangehörigen, die in ihnen nach dem Ergebnis
       <lb break="yes"/>der lebten Volfszählung ihren Wohnsib hatten, zu
       <lb break="yes"/>verteilen. Eine Gliederung der Wählerschaft in andere
       <lb break="yes"/>Bahlkörper ist nicht zulässig.
-      <label>14) </label><item>die Bertretungen können nach dem Grundsabe<lb break="yes"/>der Verhälmiswahl aus ihrer Mitte für die einzelnen
+      <list><label>14) </label><item>die Bertretungen können nach dem Grundsabe<lb break="yes"/>der Verhälmiswahl aus ihrer Mitte für die einzelnen
       <lb break="yes"/>zieige der Verwaltung besondere Verwältungsaus
       <lb break="yes"/>schüsse bestellen, die, soweit besümmte Beruss- oder
       <lb break="yes"/>Interesentenaruppen in Betracht kommen, auch noch
@@ -1700,12 +1700,12 @@
       <lb break="yes"/>Sechstes Hauptstück.
       <lb break="yes"/>Von der Rechnungskontrolle des Bundes.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 98.
       </head>
 <p>
-<label>(1) </label><item>Zur Überprüfung der Gebarung der gesamten<lb break="yes"/>Staätswirtschaft des Bundes, ferner der Gebärung
+<list><label>(1) </label><item>Zur Überprüfung der Gebarung der gesamten<lb break="yes"/>Staätswirtschaft des Bundes, ferner der Gebärung
       <lb break="yes"/>der von Organen des Bundes verwalteten Stiftungen,
       <lb break="yes"/>sonds und Anstalten ist der Rechnungshof berüfen.
       <lb break="yes"/>Ihm kann auch die überprüfung der Gebarung von
@@ -1732,12 +1732,12 @@
       <lb break="yes"/>fünf jahren nicht Mütglies der Bundesregierung
       <lb break="yes"/>gewesen sein.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 100.
       </head>
 <p>
-<label>(1) </label><item>Der Präsident des Rechnungshofes ist in Bezug<lb break="yes"/>auf Verantwörtlichkeit den Mitgliedern der Bundes.
+<list><label>(1) </label><item>Der Präsident des Rechnungshofes ist in Bezug<lb break="yes"/>auf Verantwörtlichkeit den Mitgliedern der Bundes.
       <lb break="yes"/>regierung gleichgestefft.
       </item>
 <label>3)</label><item>Er kann durch Beschluß des Nationalrates<lb break="yes"/>abberufen werden.
@@ -1748,12 +1748,12 @@
 <label>(2) </label><item>Im Falle der Stellvertretung des Präsidenten<lb break="yes"/>gelten für den Stellvertreter die Bestimmungen des
       <lb break="yes"/>Artitels 100.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 102.
       </head>
 <p>
-<label>(1) </label><item>Die Beamten des Rechnungshofes ernennt auf<lb break="yes"/>Vorschlag und unter Gegenzeichnung des Präsidenten
+<list><label>(1) </label><item>Die Beamten des Rechnungshofes ernennt auf<lb break="yes"/>Vorschlag und unter Gegenzeichnung des Präsidenten
       <lb break="yes"/>des Rechnungshofes der Bundespräsident; das gleiche
       <lb break="yes"/>gitt für die Verleibung von Amtstiteln. Doch kann
       <lb break="yes"/>der Bundespräsident den Präsidenten des Rechnungs
@@ -1762,8 +1762,8 @@
       </item>
 <label>(2) </label><item>Die Hilfskräfte ernennt der Präsident des<lb break="yes"/>Rechnungshofes.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 103.
       </head>
 <p>Rein Mitglied des Rechnungshofes darf an der
@@ -1777,7 +1777,7 @@
       <lb break="yes"/>haben.
       <lb break="yes"/>(Artikel 104, Artifel 105 und Artitel 106 fallen aus.)
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 107.
       </head>
 <p>Die näheren Bestimmungen über die Tätigkeit des
@@ -1790,11 +1790,11 @@
 <lb break="no"/>waltung.
       <lb break="yes"/>A. Der Verwaltungsgerichtshof.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 138.
       </head>
 <p>
-<label>(1) </label><item>Wegen Rechtsverletzung durch die Entscheidung<lb break="yes"/>oder Verfügung einer Verwaltungsbehörde des Bundes
+<list><label>(1) </label><item>Wegen Rechtsverletzung durch die Entscheidung<lb break="yes"/>oder Verfügung einer Verwaltungsbehörde des Bundes
       <lb break="yes"/>oder eines Landes entscheibet nach Brschöpfung des
       <lb break="yes"/>administrativen Instanzenzuges der verwältungs.
       <lb break="yes"/>gerichtshof.
@@ -1803,12 +1803,12 @@
       <lb break="yes"/>administrative Instangenzug durci Bundesgeseh ab
 <lb break="no"/>gekürzt werden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 139.
       </head>
 <p>
-<label>(1) </label><item>Der Verwaltungsgerichtshof hat in der Regel.<lb break="yes"/>nur über Beschwerde der Barteien zu erkennen.
+<list><label>(1) </label><item>Der Verwaltungsgerichtshof hat in der Regel.<lb break="yes"/>nur über Beschwerde der Barteien zu erkennen.
       </item>
 <label>(2) </label><item>Doch kann, wenn die Entscheidung oder Ver
 <lb break="no"/>fügung einer Tandesbehörde die Interessen des Bundes
@@ -1832,8 +1832,8 @@
 <label>4. </label><item>in denen und insoweit die Verwaltungsbehörden<lb break="yes"/>nach freiem Ermessen vorzugehen haben.
       <lb break="yes"/>(Artitel 141 fällt aus.)
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 142.
       </head>
 <p>Jedem Senate des Verwaltungsgerichtshofes, der
@@ -1843,7 +1843,7 @@
       <lb break="yes"/>Justiz- oder Verwaltungsdienst in dem betreffenden
       <lb break="yes"/>Hande hervorgegangen ist.
       <lb break="yes"/>Artifel 143.
-      <label>(1) </label><item>Das stattgebende Erkenntnis des Verwaltungs
+      <list><label>(1) </label><item>Das stattgebende Erkenntnis des Verwaltungs
 <lb break="no"/>gerichtshofes bewirtt die Aufhebung der rechts
 <lb break="no"/>wiörigen Entscheidung oder verfügung.
       </item>
@@ -1867,7 +1867,7 @@
       <lb break="yes"/>ernannt der vorschlag der Bundesregierung bedarf
       <lb break="yes"/>bezüglich des Präsidenten und der Hälfte der Mit
 <lb break="no"/>glieder der Zustimmung des Hauptansschusses des</item>
-<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7</p><p>Nationalrates, bezüglich des Vizepräsidenten und der
+</list><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>7</p><p>Nationalrates, bezüglich des Vizepräsidenten und der
       <lb break="yes"/>anderen Hälfte der Mitglieder der Zustimmung des
       <lb break="yes"/>Bundegrates.
       <lb break="yes"/>Artifel 146.
@@ -1879,7 +1879,7 @@
 <lb break="no"/>streitigkeiten zwischen den Ländern sowie zwischen einem
       <lb break="yes"/>Lande und dem Bunde.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 148.
       </head>
 <p>Der Verfassungsgerichtshof entscheidet ferner:
@@ -1892,11 +1892,11 @@
       <lb break="yes"/>zwischen einer Landesregierung und der Bundes
 <lb break="no"/>regierung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 149.
       </head>
 <p>
-<label>(1) </label><item>Der Verfassungsgerichtshof entscheidet über Gesetz
+<list><label>(1) </label><item>Der Verfassungsgerichtshof entscheidet über Gesetz
 <lb break="no"/>widrigkeit von verordnungen einer Bundes oder
       <lb break="yes"/>Landesbchörde auf Antrag eines Gerichtes:
       <lb break="yes"/>über Geschwiörigkeit von Verordnungen einer Landes
@@ -1910,12 +1910,12 @@
       <lb break="yes"/>zur unverzüglichen Heundmachung der erfolgten Auf
 <lb break="no"/>Hebung.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 150.
       </head>
 <p>
-<label>(1) </label><item>Der Verfassungsgerichtshof entscheidet über<lb break="yes"/>Verfassungswidrigkeit von Landesgesehen auf Antrag
+<list><label>(1) </label><item>Der Verfassungsgerichtshof entscheidet über<lb break="yes"/>Verfassungswidrigkeit von Landesgesehen auf Antrag
       <lb break="yes"/>der Bundesregierung, über Verfassungswidrigkeit von
       <lb break="yes"/>Hundesgesehzen auf Antrag einer Landegregierung.
       </item>
@@ -1935,15 +1935,15 @@
       <lb break="yes"/>Der Verfassungsgerichtshof entscheidet über An
 <lb break="no"/>rechtungen von Wahsen zum Nationalrat, zu den
       <lb break="yes"/>Landtagen und allen anderen allgemeinen Vertretungs-</item>
-</p><p>körpern und über den Antrag eines dieser Ver
+</list></p><p>körpern und über den Antrag eines dieser Ver
 <lb break="no"/>tretungskörper auf Erklärung des Mandatsverlustes
       <lb break="yes"/>eines seiner Mitglieder.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Artikel 152.
       </head>
 <p>
-<label>1) </label><item>Der Verfassungsgerichtshof entscheidet über die<lb break="yes"/>Veranwortlichkeit:
+<list><label>1) </label><item>Der Verfassungsgerichtshof entscheidet über die<lb break="yes"/>Veranwortlichkeit:
       <lb break="yes"/>a. des Bundespräsidenten:
       <lb break="yes"/>b. der Mitglieder der Bundesregierung und der
       <lb break="yes"/>hnen hinsichtlich der Verantwortlichkeit gleichgestellten
@@ -1991,16 +1991,16 @@
       <lb break="yes"/>Verfügung an die Rechtsanschauung des Verfassungs
 <lb break="no"/>gerichtshofes gebunden.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Artikel 154.
       </head>
 <p>Die Grefution der Erkenntnisse des Verfassungs
 <lb break="no"/>gerichtshofes liegt dem Bundespräsidenten ob.
       <lb break="yes"/>Artifel 155.
-      <label>(1) </label><item>Der Verfassungsgerichtshof hat seinen Sitz in <lb break="yes"/>Wien.</item>
-</p><p>
-      <label>(2) </label><item>Er besteht aus einem Präsidenten, einem<lb break="yes"/>Bizepräsidenten, vierzebn Mitgliedern und acht Ersab
+      <list><label>(1) </label><item>Der Verfassungsgerichtshof hat seinen Sitz in <lb break="yes"/>Wien.</item>
+</list></p><p>
+      <list><label>(2) </label><item>Er besteht aus einem Präsidenten, einem<lb break="yes"/>Bizepräsidenten, vierzebn Mitgliedern und acht Ersab
 <lb break="no"/>mitgliedern.
       </item>
 <label>(3) </label><item>Der Präsident der Vizepräsident sieben Mit
@@ -2058,7 +2058,7 @@
 <lb break="no"/>läusige Ausgestaltung der dermäsigen Beyütsverwal
       <lb break="yes"/>tung nach Artikel x ist Sache der Bundesgesetzgebung;
       <lb break="yes"/>ihre Ausführung liegt den Landchgesehen ob</item>
-</p></div>
+</list></p></div>
 </div></body>
     </text>
 </TEI>

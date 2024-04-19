@@ -105,7 +105,7 @@
     <text type="Verfassungsentwurf">
         <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>Erster Abschnitt.
       <lb break="yes"/>Allgemeine Bestimmungen.
-      </p><div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      </p><div type="article">
 <head>Art. 1.
       </head>
 <p>Die Republik Oesterreich ist ein
@@ -114,7 +114,7 @@
 <lb break="no"/>österreich, Steiermark etz. und der
       <lb break="yes"/>Bundeshauptstadt Wien, die die Stellung
       <lb break="yes"/>eines selbständigen Landes hat.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 2.
       </head>
 <p>Oesterreich ist eine demokrati
@@ -122,7 +122,7 @@
       <lb break="yes"/>Alle öffentlichen Gewalten werden
       <lb break="yes"/>vom Volke eingesetzt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 3.
       </head>
 <p>Das Bundesgebiet umfasst die
@@ -131,7 +131,7 @@
       <lb break="yes"/>Oberösterreich: . . . 
       <lb break="yes"/>etz.
       <lb break="yes"/>Wien:</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 4.
       </head>
 <p>Das Bundesgebiet bildet ein ein
@@ -140,7 +140,7 @@
       <lb break="yes"/>dürfen keinerlei Zwischenzollinien
       <lb break="yes"/>errichtet werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 5.
       </head>
 <p>Eine Aenderung des Bundesgebietes,<pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>- 2 -</p><p>die zugleich eine Aenderung eines Lan
@@ -151,7 +151,7 @@
       <lb break="yes"/>desjenigen Landes erfolgen, dessen
       <lb break="yes"/>Gebiet eine Veränderung erfährt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 6.
       </head>
 <p>Jeder Landesbürger ist Bürger des
@@ -159,7 +159,7 @@
       <lb break="yes"/>Die Landesbürgerschaft ist an die
       <lb break="yes"/>Heimatsberechtigung in der Gemeinde
       <lb break="yes"/>eines Landes gebunden.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 7.
       </head>
 <p>Jeder Bundesangehörige hat in
@@ -167,14 +167,14 @@
       <lb break="yes"/>Rechte und Pflichten wie die Angehö
 <lb break="no"/>rigen der Länder selbst.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 8.
       </head>
 <p>Die selbständigen Länder Nieder
 <lb break="no"/>österreich etz. übertragen dem Bunde
       <lb break="yes"/>ihre Staatsgewalt in den folgenden
       <lb break="yes"/>Angelegenheiten:</p><p>
-      <label>1) </label><item>Die auswärtigen Angelegenheiten</item>
+      <list><label>1) </label><item>Die auswärtigen Angelegenheiten</item>
 <label>2) </label><item>das Militärwesen,</item>
 <label>3) </label><item>die Sicherheitspolizei in<lb break="yes"/>Gemeinden bis zu . . . . Einwohnern;
       <lb break="yes"/>die Fremdenpolizei und das Passwesen,
@@ -185,8 +185,8 @@
       </item>
 <label>5) </label><item>das Zollwesen, Geld- und Bank
 <lb break="no"/>wesen; Handel, Gewerbe, Industrie und</item>
-<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>- 3 -</p><p>Verkehr, Bergwesen,
-      <label>6) </label><item>Mass- und Gewichtswesen,<lb break="yes"/>Punzierungswesen,
+</list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>- 3 -</p><p>Verkehr, Bergwesen,
+      <list><label>6) </label><item>Mass- und Gewichtswesen,<lb break="yes"/>Punzierungswesen,
       </item>
 <label>7) </label><item>Zivil- und Strafjustiz,</item>
 <label>8) </label><item>Kultus und Hochschulwesen,</item>
@@ -195,21 +195,21 @@
       <lb break="yes"/>dem Bunde die Gesetzgebung und Vollzie
 <lb break="no"/>hung zu.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Art. 9.
       </head>
 <p>Der Gesetzgebung des Bundes ist
       <lb break="yes"/>übertragen:
-      <label>1) </label><item>die Aenderung der Bundesver-</item>
-</p><p>fassung, insbesondere auch hinsicht
+      <list><label>1) </label><item>die Aenderung der Bundesver-</item>
+</list></p><p>fassung, insbesondere auch hinsicht
 <lb break="no"/>lich des Verhältnisses der souveränen
       <lb break="yes"/>Länder zum Bunde,
-      <label>2) </label><item>die Bestimmung der Art und des<lb break="yes"/>Umfanges des den Ländern zustehenden
+      <list><label>2) </label><item>die Bestimmung der Art und des<lb break="yes"/>Umfanges des den Ländern zustehenden
       <lb break="yes"/>Rechtes öffentliche Abgaben abzuschrei
 <lb break="no"/>ben und einzuheben,</item>
-</p><p>
-      <label>3) </label><item>die Regelung des Staatsbürger-<lb break="yes"/>und Heimatrechtes,
+</list></p><p>
+      <list><label>3) </label><item>die Regelung des Staatsbürger-<lb break="yes"/>und Heimatrechtes,
       </item>
 <label>4) </label><item>die Regelung des Bevölkerungs
 <lb break="no"/>wesens,
@@ -221,13 +221,13 @@
       <lb break="yes"/>des Verwaltungsstrafrechtes,
       </item>
 <label>6) </label><item>die Feststellung der Grundsätze<lb break="yes"/>des Wasser und Elektrizitätsrechtes.</item>
-<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>- 4 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>- 4 -</p></div>
+<div type="article">
 <head>Art. 10.
       </head>
 <p>Bundesrecht bricht Landesrecht.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 11.
       </head>
 <p>Soferne eine Angelegenheit nicht
@@ -245,13 +245,13 @@
       <lb break="yes"/>Von der Gesetzgebung des Bundes.
       <lb break="yes"/>a) Der Bundestag.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 12.</head>
 <p>Der vom ganzen Bundesvolk ge
 <lb break="no"/>wählte Bundestag ist das höchste Organ
       <lb break="yes"/>des Bundes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 13.
       </head>
 <p>Der Sitz des Bundestages ist die
@@ -262,7 +262,7 @@
       <lb break="yes"/>in einen anderen Ort des Bundesgebietes
       <lb break="yes"/>berufen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 14.
       </head>
 <p>Dem Bundestag obliegt die Gesetzge
@@ -274,7 +274,7 @@
       <lb break="yes"/>Verwaltungsverträge geringerer Bedeu
 <lb break="no"/>tung (Regierungsübereinkommen) hat die
       <lb break="yes"/>Bundesregierung zu genehmigen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 15.
       </head>
 <p>Dem Bundestag allein obliegt die
@@ -284,7 +284,7 @@
 <lb break="no"/>lutoriums an die Bundesregierung auf
       <lb break="yes"/>Grund des geprüften und gebilligten Bun
 <lb break="no"/>desrechnungsabschlusses.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 16.
       </head>
 <p>Zum Bundestag werden in dem gesamten
@@ -308,7 +308,7 @@
       <lb break="yes"/>erlassen. Sie bildet einen Bestandteil der
       <lb break="yes"/>Bundesverfassung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 17.
       </head>
 <p>Die Legislaturperiode des Bundestages
@@ -319,7 +319,7 @@
       <lb break="yes"/>einzuberufen.
       <lb break="yes"/>Eine Sitzungsperiode des Bundestages
       <lb break="yes"/>darf nicht länger als ein Jahr betragen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 18.
       </head>
 <p>Während der Sitzungsperiode kann der
@@ -332,7 +332,7 @@
       <lb break="yes"/>des Bundestages gestellt haben. Der Präsi
 <lb break="no"/>dent des Bundestages hat von dem erfolgten
       <lb break="yes"/>Antrag die Bundesregierung zu verständigen.<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>- 7 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 19.
       </head>
 <p>Auf Antrag der Bundesregierung kann
@@ -345,7 +345,7 @@
       <lb break="yes"/>Wochen nach durchgeführter Wahl einzube
 <lb break="no"/>rufen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 20.
       </head>
 <p>Der Bundestag wählt aus seiner Mitte
@@ -363,7 +363,7 @@
       <lb break="yes"/>dieses Gesetzes von dem Bundestag zu be
 <lb break="no"/>schließenden autonomen Geschäftsordnung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 21.
       </head>
 <p>Die Sitzungen des Bundestages sind
@@ -374,7 +374,7 @@
 <lb break="no"/>se nach Entfernung der Zuhörer beschlos
 <lb break="no"/>sen wird.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 22.
       </head>
 <p>Die Mitglieder des Bundestages können
@@ -396,7 +396,7 @@
       <lb break="yes"/>der Verhaft aufgehoben oder die Verfol
 <lb break="no"/>gung für die ganze Sitzungsperiode aufge
 <lb break="no"/>schoben werden.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 23.
       </head>
 <p>Wahrheitsgetreue Berichte über die
@@ -404,14 +404,14 @@
 <lb break="no"/>gen des Bundestages und seiner Ausschüsse
       <lb break="yes"/>bleiben von jeder Verantwortung frei.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 24.
       </head>
 <p>Die dem Bundestage angehörenden öf
 <lb break="no"/>fentlichen Angestellten und Funktionäre<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>- 9 -</p><p>bedürfen zur Ausübung ihres Mandates
       <lb break="yes"/>keines Urlaubes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 25.
       </head>
 <p>Die Mitglieder der Bundesregierung
@@ -423,7 +423,7 @@
 <lb break="no"/>gierung verlangen.
       <lb break="yes"/>b) Der Weg der Gesetzgebung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 26.
       </head>
 <p>Gesetzesvorschläge gelangen an den
@@ -443,7 +443,7 @@
 <lb break="no"/>rung einem solchen Antrage nicht zu, so
       <lb break="yes"/>hat sie ihren abweichenden Standpunkt
       <lb break="yes"/>bei Einbringung der Vorlage darzulegen.<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>- 10 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 27.
       </head>
 <p>Zu einem Beschluß des Bundestages
@@ -456,7 +456,7 @@
       <lb break="yes"/>mit einer Mehrheit von drei Viertel aller
       <lb break="yes"/>abgegebenen Stimmen beschlossen werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 28.
       </head>
 <p>Jede Gesamtänderung der Bundesverfas
@@ -467,18 +467,18 @@
       <lb break="yes"/>vor der Beurkundung durch den Bundesprä
 <lb break="no"/>sidenten einer Abstimmung des gesamten
       <lb break="yes"/>Bundesvolkeszu unterziehen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 29.
       </head>
 <p>Einer solchen Volksabstimmung ist
       <lb break="yes"/>ferner jedes Bundesgesetz unterworfen,
       <lb break="yes"/>hinsichtlich dessen dies von wenigstens
-      <label>400.000 </label><item>Stimmberechtigten oder von der<lb break="yes"/>Mehrheit der Stimmberechtigten dreier
+      <list><label>400.000 </label><item>Stimmberechtigten oder von der<lb break="yes"/>Mehrheit der Stimmberechtigten dreier
       <lb break="yes"/>Länder innerhalb 6 Wochen nach erfolgter
       <lb break="yes"/>Kundmachung des Gesetzes gefordert wird.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Art. 30.
       </head>
 <p>Stimmberechtigt ist jeder zum Bundes
@@ -490,7 +490,7 @@
       <lb break="yes"/>die Verfassungsänderung oder gegen das
       <lb break="yes"/>Bundesgesetz ausgesprochen hat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 31.
       </head>
 <p>Das Ergebnis der Volksabstimmung ist
@@ -499,7 +499,7 @@
 <lb break="no"/>lehnt wurde, ist seine Außerkraftsetzung
       <lb break="yes"/>im Bundesgesetzblatt kundzumachen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 32.</head>
 <p>Ist eine Gesamtänderung der Bundes
 <lb break="no"/>verfassung durch Volksabstimmung abge
@@ -508,7 +508,7 @@
       <lb break="yes"/>. . der Bundesverfassung Neuwahlen auszu
 <lb break="no"/>schreiben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 33.
       </head>
 <p>Das Verfahren für die Volksabstim
@@ -516,7 +516,7 @@
 <lb break="no"/>schriebene lnitiative ist in dem Gesetz
       <lb break="yes"/>über die Wahlordnung für die Wahl zum
       <lb break="yes"/>Bundestag geregelt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 34.
       </head>
 <p>Alle Gesetzesbeschlüsse des Bundes
@@ -540,7 +540,7 @@
 <lb break="no"/>mung finden die Vorschriften der Art. 
       <lb break="yes"/>. . . . Anwendung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 35.
       </head>
 <p>Der Bundespräsident hat die verfas
@@ -570,7 +570,7 @@
       <lb break="yes"/>ist.
       <lb break="yes"/>Ueber das Bundesgesetzblatt ergeht
       <lb break="yes"/>ein besonderes Bundesgesetz.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 36.
       </head>
 <p>Der Bundestag ist befugt, die Ge
@@ -581,7 +581,7 @@
 <lb break="no"/>langen sowie ihren Wünschen über die
       <lb break="yes"/>Ausübung der Regierung- und Vollzugsge
 <lb break="no"/>walt in Entschließung Ausdruck zu geben.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 37.
       </head>
 <p>Auf Antrag von mindestens . . . Mit
@@ -601,9 +601,9 @@
       <lb break="yes"/>III. Abschnitt.
       <lb break="yes"/>Von der Vollziehung des Bundes.
       <lb break="yes"/>a) Von der Regierungsgewalt des Bundes.
-      <label>1.) </label><item>Der Bundespräsident.</item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      <list><label>1.) </label><item>Der Bundespräsident.</item>
+</list></p></div>
+<div type="article">
 <head>Art. 38.</head>
 <p>Der Bundespräsident wird durch den
       <lb break="yes"/>Bundestag gewählt. Wählbar ist jeder
@@ -613,7 +613,7 @@
       <lb break="yes"/>die Wahl stattfindet, das 40. Lebensjahr
       <lb break="yes"/>vollendet hat. 
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 39.
       </head>
 <p>Der Bundespräsident leistet bei An
@@ -624,13 +624,13 @@
       <lb break="yes"/>Pflichten nach bestem Wissen und Gewis
 <lb break="no"/>sen erfüllen werde."
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 40.
       </head>
 <p>Das Amt des Bundespräsidenten dauert
       <lb break="yes"/> . . .  Jahre. Eine Wiederwahl ist zuläs
 <lb break="no"/>sig.<pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>- 15 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 41.
       </head>
 <p>Der Bundespräsident darf während sei
@@ -638,7 +638,7 @@
 <lb break="no"/>perschaft angehören und keinen anderen Be
 <lb break="no"/>ruf ausüben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 42.
       </head>
 <p>Eine strafgerichtliche Verfolgung des
@@ -650,7 +650,7 @@
 <lb break="no"/>wesenheit von zwei Drittel aller Mitglie
 <lb break="no"/>der und eine Mehrheit von drei Viertel der
       <lb break="yes"/>Abstimmenden erforderlich.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 43.
       </head>
 <p>Der Bundespräsident vertritt die Repu
@@ -658,7 +658,7 @@
       <lb break="yes"/>die Gesandten und ratifiziert die Staats
 <lb break="no"/>verträge.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 44.
       </head>
 <p>Dem Bundespräsidenten obliegt:
@@ -678,14 +678,14 @@
       <lb break="yes"/>strafgerichtlichen Verfahren.
       <lb break="yes"/>Diese Akte der Bundespräsidenten er
 <lb break="no"/>folgen auf Vorschlag der Bundesregierung.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 45.
       </head>
 <p>Der Bundespräsident ernennt auf Vor
 <lb break="no"/>schlag der zuständigen Landesregierung die
       <lb break="yes"/>Landesbeamten.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 46.
       </head>
 <p>Der Bundespräsident kann das ihm zu
@@ -695,7 +695,7 @@
       <lb break="yes"/>ressortmäßig zustehenden Mitgliedern der
       <lb break="yes"/>Bundesregierung (bezw. den Landerregierun
 <lb break="no"/>gen) delegieren.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 47.
       </head>
 <p>Alle Akte des Bundespräsidenten bedür
@@ -705,7 +705,7 @@
 <lb break="no"/>nung von Landesbeamten der Gegenzeichnung
       <lb break="yes"/>des zuständigen Landeshauptmannes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 48.
       </head>
 <p>Wenn der Bundespräsident verhindert
@@ -718,9 +718,9 @@
 <lb break="no"/>gung der Stelle des Bundespräsidenten so
 <lb break="no"/>fort eine Neuwahl auszuschreiben und
       <lb break="yes"/>durchzuführen.
-      <label>2.) </label><item>Die Bundesregierung.</item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      <list><label>2.) </label><item>Die Bundesregierung.</item>
+</list></p></div>
+<div type="article">
 <head>Art. 49.
       </head>
 <p>Mit der Ausübung der Regierungs- und
@@ -738,7 +738,7 @@
 <lb break="no"/>setze innerhalb ihres Wirkungskreises
       <lb break="yes"/>Vollzugsanweisungen erlassen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 50.
       </head>
 <p>Die Bundesregierung wird von der
@@ -754,7 +754,7 @@
       <lb break="yes"/>von dem neu bestellten Bundeskanzler
       <lb break="yes"/>gegengezeichnet.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 51.
       </head>
 <p>Bis die neue Bundesregierung gebil
@@ -768,7 +768,7 @@
 <lb break="no"/>zu bestellten Beamten mit der einstwei
 <lb break="no"/>ligen Leitung der Verwaltung zu betrauen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 52.
       </head>
 <p>Versagt der Bundestag der Bundesre
@@ -792,7 +792,7 @@
       <lb break="yes"/>in den gesetzlich bestimmten Fällen oder
       <lb break="yes"/>über ihren Wunsch vom Bundespräsidenten
       <lb break="yes"/>ihres Amtes enthoben.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 53.
       </head>
 <p>Der Bundespräsident und die Mitglie
@@ -800,7 +800,7 @@
 <lb break="no"/>be des Art. . . . der Bundesverfassung,
       <lb break="yes"/>dem Bundestage verantwortlich.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 54.</head>
 <p>Zur Durchführung der Aufgaben der
       <lb break="yes"/>Bundesverwaltung sind die Bundeskanzlei
@@ -813,13 +813,13 @@
       <lb break="yes"/>der Zahl der Bundesämter erfolgt durch
       <lb break="yes"/>einfaches Gesetz.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 55.
       </head>
 <p>Zur Vertretung des Bundeskanzlers
       <lb break="yes"/>ist ein Vizekanzler berufen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 56.
       </head>
 <p>Der Bundeskanzler, der Vizekanzler<pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>- 20 -
@@ -836,7 +836,7 @@
       <lb break="yes"/>der den Amtstitel eines Bundesamtsdi
 <lb break="no"/>rektors führt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 57.
       </head>
 <p>Ueber das Bundesheer verfügt die
@@ -844,16 +844,16 @@
 <lb break="no"/>walt ausschlieälich durch die Befehls
 <lb break="no"/>haber aus, welche ihr verantwortlich
       <lb break="yes"/>sind.</p><p>
-      <label>3.) </label><item>Der Bundesrat.</item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+      <list><label>3.) </label><item>Der Bundesrat.</item>
+</list></p></div>
+<div type="article">
 <head>Art. 58.
       </head>
 <p>Im Bundesrat üben die Länder ihren
       <lb break="yes"/>verfassungsmäßigen Einfluß auf die Ge
 <lb break="no"/>setzgebung und Verwaltung des Bundes aus.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 59.
       </head>
 <p>Im Bundesrat hat jedes Land minde
@@ -866,14 +866,14 @@
 <lb break="no"/>rat nach jeder allgemeinen Volkszählung
       <lb break="yes"/>neu festgesetzt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 60.
       </head>
 <p>In den Ausschüssen, die der Bundesrat
       <lb break="yes"/>aus seiner Mitte bildet, hat jedes Land
       <lb break="yes"/>nur eine Stimme.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 61.</head>
 <p>Jedes Land ist im Bundesrat durch sei
 <lb break="no"/>nen Landeshauptmann oder - in dessen Stell
@@ -886,7 +886,7 @@
       <lb break="yes"/>Stimmen hat.
       <lb break="yes"/>Die Abstimmung kann für jedes Land nur
       <lb break="yes"/>einheitlich erfolgen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 62.
       </head>
 <p>Der Bundesrat tritt mindestens einmal
@@ -901,7 +901,7 @@
 <lb break="no"/>sen während der Beratung jederzeit gehört
       <lb break="yes"/>werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 63.
       </head>
 <p>Die Bundesregierung sowie jedes Mit-<pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>- 22 
@@ -912,7 +912,7 @@
       <lb break="yes"/>Bundesrates sind nicht öffentlich.
       <lb break="yes"/>Der Bundesrat faßt einen Beschluß mit
       <lb break="yes"/>einfacher Mehrheit der abgegebenen Stimmen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 64.
       </head>
 <p>Der Bundesrat ist von der Bundesre
@@ -923,7 +923,7 @@
       <lb break="yes"/>hören.
       <lb break="yes"/>b) Von der Gerichtsbarkeit des Bundes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 65.
       </head>
 <p>Alle Gerichtsbarkeit geht vom Bunde
@@ -931,7 +931,7 @@
       <lb break="yes"/>Die Urteile und Erkenntnisse werden
       <lb break="yes"/>im Namen der Republik Oesterreich ausge
 <lb break="no"/>fertigt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 66.
       </head>
 <p>Die Verfassung und Zuständigkeit der
@@ -951,25 +951,25 @@
 <lb break="no"/>schluß eines der beiden Vertretungskörper
       <lb break="yes"/>sofort außer Kraft zu setzen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 67.
       </head>
 <p>Die Militärgerichtsbarkeit ist - aus
 <lb break="no"/>ser für Kriegszeiten - aufzuheben. Das
       <lb break="yes"/>nähere regelt ein Bundesgesetz.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 68.
       </head>
 <p>Die Gerichtsbarkeit in Polizei- und
       <lb break="yes"/>Gefällstrafsachen wird durch Gesetz ge
 <lb break="no"/>regelt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 69.
       </head>
 <p>Die Todesstrafe ist abgeschafft.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 70.
       </head>
 <p>Die Richter werden - soferne nichts
@@ -990,7 +990,7 @@
 <lb break="no"/>wendung ist von ihrer Einteilung in Ge
 <lb break="no"/>haltsklassem unabhängig.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 71.
       </head>
 <p>Die Richter sind in Ausübung ihres
@@ -1004,7 +1004,7 @@
       <lb break="yes"/>der Justizverwaltungssachen, die nach
       <lb break="yes"/>Vorschrift des Gesetzes durch Senate oder
       <lb break="yes"/>Kommissionen zu erledigen sind.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 72.
       </head>
 <p>Vor Erreichung der im Gerichtsorga
@@ -1030,7 +1030,7 @@
 <lb break="no"/>benen Förmlichkeiten übersetzt und in den
       <lb break="yes"/>Ruhestand versetzt werden können.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 73.</head>
 <p>Die Prüfung der Giltigkeit gehörig
       <lb break="yes"/>kundgemachter Gesetze steht den Gerichten
@@ -1042,7 +1042,7 @@
 <lb break="no"/>tig den Antrag auf Kassation dieses Ge
 <lb break="no"/>setzes oder dieser Vollzugsanweisung beim
       <lb break="yes"/>Bundesverfassungsgerichte zu stellen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 74.
       </head>
 <p>Wegen der von einem Richter in Ausü
@@ -1058,7 +1058,7 @@
 <lb break="no"/>satz oder grobe Fahrlässigkeit zur Last
       <lb break="yes"/>fällt.<pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>- 26 -
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 75.
       </head>
 <p>Die Verhandlungen vor dem erkennenden
@@ -1068,7 +1068,7 @@
       <lb break="yes"/>Im Strafverfahren gilt der Anklage
 <lb break="no"/>prozeß.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 76.
       </head>
 <p>Bei den mit schweren Strafen bedroh
@@ -1078,20 +1078,20 @@
       <lb break="yes"/>verübten Verbrechen und Vergehen ent
 <lb break="no"/>scheiden Geschworene über die Schuld des
       <lb break="yes"/>Angeklagten.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 77.
       </head>
 <p>Als oberste Instanz in Zivil- und
       <lb break="yes"/>Strafrechtssachen besteht das Oberste
       <lb break="yes"/>Bundesgericht in Wien.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 78.
       </head>
 <p>Die Erteilung von Amnestien erfolgt
       <lb break="yes"/>durch Bundesgesetz.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 79.
       </head>
 <p>Die Rechtspflege wird von der Ver
@@ -1099,7 +1099,7 @@
       <lb break="yes"/>Staatsanwaltschaft gilt als Verwaltungs
 <lb break="no"/>behörde.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 80.
       </head>
 <p>In allen Fällen, wo eine Verwaltungs-<pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>- 27 
@@ -1114,7 +1114,7 @@
       <lb break="yes"/>Von der Gesetzgebung und Vollziehung der
       <lb break="yes"/>Länder.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 81.
       </head>
 <p>Die gesetzgebende Gewalt der Länder
@@ -1130,7 +1130,7 @@
       <lb break="yes"/>in der Wahlordnung zum Bundestag der Fall
       <lb break="yes"/>ist.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 82.
       </head>
 <p>Die Mitglieder des Landtages genießen
@@ -1142,7 +1142,7 @@
       <lb break="yes"/>auch für die öffentlichen Sitzungen der
       <lb break="yes"/>Landtage und ihrer Ausschüsse.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 83.
       </head>
 <p>Zu einem Landesgesetz ist erforder
@@ -1150,7 +1150,7 @@
 <lb break="no"/>urkundung durch deren Präsidenten und die
       <lb break="yes"/>Kundmachung durch die Landesregierung im
       <lb break="yes"/>Landesgesetzblatt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 84.
       </head>
 <p>Alle Gesetzesbeschlüsse der Landtage
@@ -1169,7 +1169,7 @@
       <lb break="yes"/>Dreiviertel aller abgegebenen Stimmen
       <lb break="yes"/>wiederholt wird.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 85.
       </head>
 <p>Die durch Landesgesetz zu erlassende
@@ -1181,7 +1181,7 @@
 <lb break="no"/>glieder des Landtages mit einer Mehrheit
       <lb break="yes"/>von Dreitviertel aller abgegebenen Stim
 <lb break="no"/>men beschlossen werden.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 86.
       </head>
 <p>Die Kundmachung der Landesgesetze
@@ -1197,7 +1197,7 @@
       <lb break="yes"/>Eine Abkürzung dieses Termines bedarf der
       <lb break="yes"/>Zustimmung der Bundesregierung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 87.</head>
 <p>Jeder Landtag kann auf Antrag der Bun
 <lb break="no"/>desregierung vom Bundespräsidenten aufge
@@ -1207,7 +1207,7 @@
 <lb break="no"/>schreiben und binnen weiteren . . . Wochen
       <lb break="yes"/>den neugewählten Landtag einzuberufen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 88.
       </head>
 <p>Die vollziehende Gewalt jedes Landes
@@ -1222,7 +1222,7 @@
       <lb break="yes"/>seiner Stellvertreter bedarf der Bestä
 <lb break="no"/>tigung durch die Bundesregierung.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 89.</head>
 <p>Der Landeshauptmann bezw. sein Stell
 <lb break="no"/>vertreter vertritt das Land. Er trägt in
@@ -1236,7 +1236,7 @@
       <lb break="yes"/>Dem Landtage sind die Mitglieder der
       <lb break="yes"/>Landesregierung gemäß Art. . . . der Bundes
 <lb break="no"/>verfassung verantwortlich.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 90.
       </head>
 <p>Zur Leitung des gesamten inneren Dienst
@@ -1246,7 +1246,7 @@
 <lb break="no"/>stellten und hat für einen einheitlichen
       <lb break="yes"/>und geregelten Geschäftsgang in sämtlichen
       <lb break="yes"/>Zweigen der Landesverwaltung zu sorgen.<pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>- 31 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 91.
       </head>
 <p>In dem der Landesregierung vom Bunde
@@ -1262,7 +1262,7 @@
       <lb break="yes"/>Verantwortung gelten dieselben Bestimmun
 <lb break="no"/>gen wie für jene des Landeshauptmannes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 92.
       </head>
 <p>Die Bestellung des Landesamtsdirek
@@ -1273,7 +1273,7 @@
       <lb break="yes"/>auch die Bestimmungen des Art. . . . Anwen
 <lb break="no"/>dung finden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 93.
       </head>
 <p>Die vollziehende Gewalt des Bundes
@@ -1297,7 +1297,7 @@
       <lb break="yes"/>Bundesregierung bezw. den ressortmäßig
       <lb break="yes"/>zustehenden Bundesämtern.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 94.
       </head>
 <p>Aus besonderen Gründen kann auf Be
@@ -1313,7 +1313,7 @@
       <lb break="yes"/>V. Abschnitt.
       <lb break="yes"/>Von der Rechnungskontrolle des Bundes.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 95.
       </head>
 <p>Zur Ueberprüfung der Gebarung in der
@@ -1329,7 +1329,7 @@
 <lb break="no"/>mittelbar der Bundesversammlung und dem
       <lb break="yes"/>Bundesrat.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 96.
       </head>
 <p>Der Bundesrechnungshof besteht aus
@@ -1339,7 +1339,7 @@
 <lb break="no"/>fes wird vom Bundestag gewählt. Die Wahl
       <lb break="yes"/>bedarf der Genehmigung des Bundesrates.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 97.</head>
 <p>Der Präsident des Bundesrechnungsho
 <lb break="no"/>fes ist den Staatssekretären - auch in
@@ -1349,7 +1349,7 @@
       <lb break="yes"/>Jahren weder Mitglied der Bundesregierung.
       <lb break="yes"/>noch einer Landesregierung gewesen sein.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 98.
       </head>
 <p>Dem Präsidenten des Bundesrechnungs
@@ -1365,7 +1365,7 @@
       <lb break="yes"/>diese Beschlüsse finden die Bestimmungen
       <lb break="yes"/>des Art. . . .  der Bundesverfassung analo
 <lb break="no"/>ge Anwendung.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 99.
       </head>
 <p>Der Präsident des Bundesrechnungsho
@@ -1386,7 +1386,7 @@
 <lb break="no"/>kungskreises muß der Präsident auf Ver
 <lb break="no"/>langen jedesmal gehört werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 100.
       </head>
 <p>Bei vorübergehender Verhinderung
@@ -1403,7 +1403,7 @@
 <lb break="no"/>rechnungshofes betraut werden. In diesem
       <lb break="yes"/>Falle finden auch auf den Stellvertreter
       <lb break="yes"/>die Bestimmungen des Art. . .  .Anwendung.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 101.
       </head>
 <p>Die Beamten des Bundesrechnungshofes
@@ -1416,7 +1416,7 @@
       <lb break="yes"/>Auf die letzterwähnte Weise sind
       <lb break="yes"/>alle übrigen Stellen zu besetzen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 102.</head>
 <p>Kein Mitglied des Bundesrechnungs
 <lb break="no"/>hofes darf an der Leitung und Verwaltung
@@ -1431,7 +1431,7 @@
 <lb break="no"/>lichen Beamten oder deren Angehörigen zum
       <lb break="yes"/>Zwecke haben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 103.
       </head>
 <p>Alle Urkunden über Staatsschulden
@@ -1442,7 +1442,7 @@
       <lb break="yes"/>und rechnungsmäßige Richtigkeit der Ge
 <lb break="no"/>barung bekräftigt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 104.</head>
 <p>Bei der Ueberprüfung der seiner Kon
 <lb break="no"/>trolle unterstellten Gebarung hat der
@@ -1454,7 +1454,7 @@
       <lb break="yes"/>auf eine ziffernmäßige Nachprüfung be
 <lb break="no"/>schränken.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 105.
       </head>
 <p>Der Bundesrechnungshof ist gegenüber
@@ -1474,7 +1474,7 @@
 <lb break="no"/>nen und an diesen Amtshandlungen durch
       <lb break="yes"/>Beauftragte teilzunehmen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 106.
       </head>
 <p>Die der Bundesregierung sowie den
@@ -1488,7 +1488,7 @@
 <lb break="no"/>hof mit diesen Behörden das Einvernehmen
       <lb break="yes"/>zu pflegen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 107.
       </head>
 <p>Der Bundesrechnungshof hat für ein
@@ -1505,7 +1505,7 @@
 <lb break="no"/>nungs- und Kassenwesen dürfen nur im Ein
 <lb break="no"/>vernehmen mit dem Bundesrechnungshofe ge
 <lb break="no"/>troffen werden.<pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/>- 38 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 108.
       </head>
 <p>Lassen sich Meinungsverschiedenhei
@@ -1517,7 +1517,7 @@
       <lb break="yes"/>Landesregierungen, die sich im Einver
 <lb break="no"/>nehmen nicht austragen lassen, entschei
 <lb break="no"/>det der Bundesrat.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 109.
       </head>
 <p>Die anweisenden Behörden haben nach
@@ -1525,7 +1525,7 @@
 <lb break="no"/>nungsabschlüsse dem Bundesrechnungshofe
       <lb break="yes"/>nach dessen Anordnung vorzulegen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 110.
       </head>
 <p>Der Bundesrechnungshof verfaßt den
@@ -1537,7 +1537,7 @@
 <lb break="no"/>desrechnungsabschlüsse den zuständigen
       <lb break="yes"/>Landtagen zur verfassungsmäßigen Behand
 <lb break="no"/>lung.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 111.
       </head>
 <p>Die näheren Bestimmungen über die in
@@ -1550,14 +1550,14 @@
       <lb break="yes"/>VI. Abschnitt.
       <lb break="yes"/>Von den Grund- und Freiheitsrechten.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 112.
       </head>
 <p>Vor dem Gesetze sind alle Staatsbür
 <lb break="no"/>ger gleich. Vorrechte der Geburt, der Na
 <lb break="no"/>tionalität und der Konfession sind für
       <lb break="yes"/>immer ausgeschlossen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 113.
       </head>
 <p>Der Adel, seine äußeren Ehrenvorzüge
@@ -1573,14 +1573,14 @@
       <lb break="yes"/>neue Ehrenzeichen können durch Bundesge
 <lb break="no"/>setz geschaffen werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 114.
       </head>
 <p>Die öffentlichen Aemter und Funktio
 <lb break="no"/>nen sind für alle Staatsbürger ohne Un
 <lb break="no"/>terschied gleich zugänglich.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 115.
       </head>
 <p>Die Freizügigkeit der Personen und<pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"/>- 40 
@@ -1588,7 +1588,7 @@
       <lb break="yes"/>gewährleistet. Einschränkungen können
       <lb break="yes"/>nur durch Bundesgesetz bestimmt werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 116.
       </head>
 <p>Die Auswanderungsfreiheit ist nur
@@ -1597,7 +1597,7 @@
       <lb break="yes"/>Der Verlust der Staatsbürgerschaft
       <lb break="yes"/>infolge Auswanderung wird durch beson
 <lb break="no"/>dere Gesetze geregelt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 117.
       </head>
 <p>Jedermann kann an jedem Orte des
@@ -1610,7 +1610,7 @@
       <lb break="yes"/>Berufswahl ist nur durch das Familien
 <lb break="no"/>recht beschränkt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 118.</head>
 <p>Jedermann genießt die persönliche
       <lb break="yes"/>Freineit. Die zum Schutze von Staat und
@@ -1627,14 +1627,14 @@
       <lb break="yes"/>gegen ihre Freiheitsentzienung vorzubrin
 <lb break="no"/>gen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 119.
       </head>
 <p>Jedermann genießt das Hausrecht. Wann
       <lb break="yes"/>eine Hausdurchsuchung zulässig ist, be
 <lb break="no"/>stimmt das Gesetz.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 120.</head>
 <p>Das Brief-, Post-, Telegraphen und
       <lb break="yes"/>Fernsprechgeheimnis ist jedermann gewähr
@@ -1643,7 +1643,7 @@
 <lb break="no"/>fall können nur durch Bundesgesetz be
 <lb break="no"/>stimmt werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 121.
       </head>
 <p>Die Freiheit der Meinungsäußerung ist
@@ -1661,7 +1661,7 @@
 <lb break="no"/>nen für Lichtspiele abweichende Bestimmun
 <lb break="no"/>gen getroffen werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 122.
       </head>
 <p>Alle Staatsbürger haben das nur durch<pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/>- 42 
@@ -1676,7 +1676,7 @@
       <lb break="yes"/>Ueber die Rechtsfähigkeit von Verei
 <lb break="no"/>nen bestimmen die Vorschriften des bür
 <lb break="no"/>gerlichen Rechts.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 123.
       </head>
 <p>Alle Staatsbürger haben das Recht,
@@ -1691,7 +1691,7 @@
 <lb break="no"/>tages, des Bundesrates oder der Landtage,
       <lb break="yes"/>wenn diese versammelt sind, überhaupt
       <lb break="yes"/>nicht stattfinden.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 124.
       </head>
 <p>Die volle Glaubens- und Gewissens
@@ -1701,7 +1701,7 @@
       <lb break="yes"/>Einschränkungen sind nur durch das
       <lb break="yes"/>Strafgesetz zulässig.<pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/>- 43 -
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 125.
       </head>
 <p>Der Genuß der bürgerlichen und po
@@ -1726,7 +1726,7 @@
       <lb break="yes"/>Uebungen oder zur Benützung einer reli
 <lb break="no"/>giösen Eidesformel gezwungen werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 126.
       </head>
 <p>Es besteht keine Staatskirche.
@@ -1765,7 +1765,7 @@
       <lb break="yes"/>die gemeinschaftliche Pflege einer Welt
 <lb break="no"/>anschauung zur Aufgabe machen.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 127.
       </head>
 <p>Die auf Gesetz, Vertrag oder besonde
@@ -1779,7 +1779,7 @@
 <lb break="no"/>ten Anstalten, Stiftungen und sonstigen
       <lb break="yes"/>Vermögen werden gewährleistet.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 128.
       </head>
 <p>Soweit das Bedürfnis nach Gottes
@@ -1789,21 +1789,21 @@
 <lb break="no"/>lungen zuzulassen, wobei jeder Zwang fern
 <lb break="no"/>zuhalten ist.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 129.
       </head>
 <p>Die nähere Durchführung der Bestimmun
 <lb break="no"/>gen der Art. . . .  erfolgt durch Bundesge
 <lb break="no"/>setz.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 130.
       </head>
 <p>Die Kunst, die Wissenschaft und ihre
       <lb break="yes"/>Lehrer sind frei und stehen unter dem
       <lb break="yes"/>Schutz des Staates.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 131.</head>
 <p>Das gesamte Schulwesen steht unter
       <lb break="yes"/>der Aufsicht des Staates.
@@ -1812,7 +1812,7 @@
       <lb break="yes"/>Volksschule mit mindestens . . . .  Schuljah
 <lb break="no"/>ren. Der Unterricht und die Lehrmittel
       <lb break="yes"/>in den Volksschulen sind unentgeltlich.<pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/></p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 132.
       </head>
 <p>Der Religionsunterricht ist ordent
@@ -1838,7 +1838,7 @@
       <lb break="yes"/>Die theologischen Fakultäten an den
       <lb break="yes"/>Hochschulen bleiben erhalten.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 133.
       </head>
 <p>Wo Staatsbürger, die eine andere als
@@ -1852,7 +1852,7 @@
 <lb break="no"/>che ist jedoch auch in solchen Schulen
       <lb break="yes"/>stets Pflichtgegenstand.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 134.
       </head>
 <p>Die Denkmäler der Kunst, der Geschich
@@ -1862,7 +1862,7 @@
       <lb break="yes"/>Der Bund hat die Abwanderung der Kunst
 <lb break="no"/>schätze in das Ausland zu verhüten.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 135.
       </head>
 <p>Die Staatssprache in der Republik
@@ -1882,7 +1882,7 @@
       <lb break="yes"/>ihrer Sprache in Wort und Schrift bei den
       <lb break="yes"/>Behörden geboten werden.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 136.
       </head>
 <p>Oesterreichische Staatsbürger, die
@@ -1893,7 +1893,7 @@
       <lb break="yes"/>Anstalten ihre eigene Sprache nach Be
 <lb break="no"/>lieben zu gebrauchen und ihre Religion
       <lb break="yes"/>frei auszuüben.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 137.
       </head>
 <p>Wo eine verhältnismäßig beträchtli
@@ -1905,14 +1905,14 @@
       <lb break="yes"/>öffentlichen Mitteln zugewendet werden,
       <lb break="yes"/>diese Minderheiten mit einem angemessenen
       <lb break="yes"/>Teil zu beteilen.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 138.
       </head>
 <p>Das Eigentum ist gewährleistet, inso
 <lb break="no"/>weit nicht das Gesetz Beschränkungen und
       <lb break="yes"/>Enteignungen vorsieht.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 139.
       </head>
 <p>Enteignungen gegen den Willen des
@@ -1925,7 +1925,7 @@
       <lb break="yes"/>Die Zwecke, zu denen enteignet werden
       <lb break="yes"/>kann sowie das Enteignungsverfahren werden
       <lb break="yes"/>in besonderen Gesetzen geregelt.<pb facs="#facs_50" n="50" xml:id="img_0050" break="yes"/>- 49 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 140.
       </head>
 <p>Das Erbrecht wird gewährleistet, so
@@ -1933,7 +1933,7 @@
       <lb break="yes"/>ein Anteil am Erbgute vorbehalten wird.
       <lb break="yes"/>Alle Fideikommisse sind aufzuheben.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 141.
       </head>
 <p>Der Bund kann durch Gesetz gegen Ent
@@ -1959,7 +1959,7 @@
       <lb break="yes"/>Wirtschaftsgüter nach gemeinschaftlichen
       <lb break="yes"/>Grundsätzen zu regeln.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 142.
       </head>
 <p>Wer durch rechtswidrige Ausübung der
@@ -1972,7 +1972,7 @@
 <lb break="no"/>gefügt wurde.
       <lb break="yes"/>Die nähere Regelung erfolgt durch
       <lb break="yes"/>Bundesgesetz.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 143.
       </head>
 <p>Die Arbeitskraft steht unter dem be
@@ -1986,7 +1986,7 @@
       <lb break="yes"/>Maßnahmen, welche diese Freiheit einzu
 <lb break="no"/>schränken oder zu behindern suchen, sind
       <lb break="yes"/>rechtswidrig.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 144.
       </head>
 <p>Im Falle einer dringenden Gefahr für
@@ -2008,7 +2008,7 @@
 <lb break="no"/>waltung.
       <lb break="yes"/>A) Die Verwaltungsgerichte.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 145.
       </head>
 <p>Wegen Rechtsverletzung durch die Ent
@@ -2022,7 +2022,7 @@
       <lb break="yes"/>b) in Angelegenheiten der Bundesver
 <lb break="no"/>waltung, das Bundesverwaltungsgericht.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 146.</head>
 <p>In jeder Landeshauptstadt wird ein
       <lb break="yes"/>Landesverwaltungsgericht errichtet. Sei
@@ -2038,7 +2038,7 @@
 <lb break="no"/>denten, auf Vorschlag der Landesregierung
       <lb break="yes"/>den Vizepräsidenten des Landesverwaltungs
 <lb break="no"/>gerichtes.<pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/>- 52 -</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 147.
       </head>
 <p>Das Bundesverwaltungsgericht in Wien
@@ -2049,7 +2049,7 @@
 <lb break="no"/>regierung, der Vizepräsident und die
       <lb break="yes"/>Hälfte der Mitglieder auf Vorschlag des
       <lb break="yes"/>Bundesrates vom Bundespräsidenten ernannt.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 148.
       </head>
 <p>Das Bundesverwaltungsgericht und die
@@ -2062,7 +2062,7 @@
 <lb break="no"/>verwaltung verletzt werden, auch die Bun
 <lb break="no"/>desregierung vor einem Landesverwaltungs
 <lb break="no"/>gerichte Beschwerde erheben.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 149.
       </head>
 <p>Die Organisation der Landesverwal
@@ -2071,7 +2071,7 @@
       <lb break="yes"/>wird durch ein besonderes Bundesgesetz
       <lb break="yes"/>geregelt.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 150.
       </head>
 <p>Von der Zuständigkeit der Verwaltungs
@@ -2086,7 +2086,7 @@
 <lb break="no"/>soweit die Verwaltungsbehörden nach frei
 <lb break="no"/>em Ermessen vorzugehen haben;
       <lb break="yes"/>d) Disziplinarangelegenheiten.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 151.
       </head>
 <p>Durch Landesgesetz bezw. durch Bun
@@ -2101,7 +2101,7 @@
 <lb break="no"/>regierung bezw. des zuständigen Bundesam
 <lb break="no"/>tes beendet sei.
       <lb break="yes"/>B) Das Bundesverfassungsgericht.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 152.
       </head>
 <p>Das Bundesverfassungsgericht in Wien
@@ -2109,7 +2109,7 @@
       <lb break="yes"/>zwischen den Ländern, sowie zwisehen
       <lb break="yes"/>einem Lande und dem Bund.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 153.
       </head>
 <p>Es entscheidet ferner:
@@ -2120,7 +2120,7 @@
 <lb break="no"/>tereinander, sowie zwischen einer Lan
 <lb break="no"/>desregierung und der Bundesregieruug.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 154.
       </head>
 <p>Das Bundesverfassungsgericht ent
@@ -2137,7 +2137,7 @@
 <lb break="no"/>tion der gesetzwidrigen Vollzugsanweisung
       <lb break="yes"/>und verpflichtet die erlassende Behörde
       <lb break="yes"/>zur Kundmachung der erfolgten Aufhebung.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 155.
       </head>
 <p>Das Bundesverfassungsgericht entschei
@@ -2155,7 +2155,7 @@
       <lb break="yes"/>Landesregierung zur Verlautbarung der er
 <lb break="no"/>folgten Aufhebung im Landesgesetzblatte.<pb facs="#facs_56" n="56" xml:id="img_0056" break="yes"/>- 55 -
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 156.
       </head>
 <p>Das Bundesverfassungsgericht entschei
@@ -2165,7 +2165,7 @@
       <lb break="yes"/>auf Erklärung des Mandatsverlustes eines
       <lb break="yes"/>ihrer Mitglieder.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 157.
       </head>
 <p>Das Bundesverfassungsgericht entschei
@@ -2201,14 +2201,14 @@
       <lb break="yes"/>Bundesverfassungsgerichtes hat auf Ver
 <lb break="no"/>lust des Amtes, eventuell auch der poli
 <lb break="no"/>tischen Rechte zu lauten.</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 158.
       </head>
 <p>Die Exekution der Erkenntnisse des
       <lb break="yes"/>Bundesverfassungsgerichtes obliegt dem
       <lb break="yes"/>Bundespräsidenten.
       </p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 159.
       </head>
 <p>Das Bundesverfassungsgericht in Wien
@@ -2216,13 +2216,13 @@
       <lb break="yes"/>Vizepräsidenten, 14 Mitgliedern und 8
       <lb break="yes"/>Ersatzmitgliedern.
       <lb break="yes"/>Der Präsident, der Vizepräsdent,
-      <label>7 </label><item>Mitglieder und 4 Ersatzmitgliedner wer
+      <list><label>7 </label><item>Mitglieder und 4 Ersatzmitgliedner wer
 <lb break="no"/>den vom Bundestag, 7 Mitglieder und 4
       <lb break="yes"/>Ersatzmitglieder vom Bundesrat auf Le
 <lb break="no"/>bensdauer gewählt.
       </item>
-</p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+</list></p></div>
+<div type="article">
 <head>Art. 160.</head>
 <p>Der Präsident des Bundesverfassungs
 <lb break="no"/>gerichtes steht im Range des Bundeskanz
@@ -2235,7 +2235,7 @@
 <lb break="no"/>versammlung des Bundesverfassungsgerich
 <lb break="no"/>tes aus der Mitte seiner Mitglieder ge
 <lb break="no"/>wählt.<pb facs="#facs_58" n="58" xml:id="img_0058" break="yes"/></p></div>
-<div xmlns:mets="http://www.loc.gov/METS/" type="article">
+<div type="article">
 <head>Art. 161.
       </head>
 <p>Die nähere Organisation des Bundesver
