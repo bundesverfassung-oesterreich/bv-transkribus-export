@@ -34,12 +34,10 @@ template = templateEnv.get_template("tei_template.j2")
 file_rename_errors = 0
 nsmap = {
     "mets" : "http://www.loc.gov/METS/",
-    "xml" : "http://www.tei-c.org/ns/1.0"
+    "tei" : "http://www.tei-c.org/ns/1.0"
 }
 # # xml factory
-
-NewElement = builder.ElementMaker()
-
+teiMaker = builder.ElementMaker(namespace = "http://www.tei-c.org/ns/1.0", nsmap = nsmap)
 # logfile for defective docs
 malformed_xml_docs = []
 
@@ -129,7 +127,7 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
                 head_element.tag = "head"
                 head_element.text = head_str
                 head_element.tail = "\n"
-                section_div = NewElement.div("\n", type=type_val)
+                section_div = teiMaker.div("\n", type=type_val)
                 section_div.tail = "\n"
                 head_element.addprevious(section_div)
                 section_div.append(head_element)
@@ -137,11 +135,39 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
     return reverse_ordered_div_elements
 
 
+def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
+    reverse_ordered_item_elements = []
+    start_strings = parent_element.xpath(xpath_expr,namespaces=nsmap)
+    start_strings.reverse()
+    for start_string in start_strings:
+        start_string: ET._ElementUnicodeResult
+        if re.match(regex_test, start_string.strip()):
+            parent_element = start_string.getparent()
+            if start_string.is_tail:
+                item_element = parent_element
+                item_element.tag = "item"
+                item_element.text = start_string
+                item_element.tail = "\n"
+                item_element.attrib.clear()
+            else:
+                item_element = teiMaker.item(start_string)
+                parent_element.insert(0, item_element)
+            reverse_ordered_item_elements.append(item_element)
+    return reverse_ordered_item_elements
+
+def expand_item_element(item_element: ET._Element):
+    next_element = item_element.getnext()
+    while bool(
+        next_element is not None and next_element.tag != 'item'
+    ):
+        item_element.append(next_element)
+        next_element = item_element.getnext()
+
 def raise_div_element(section_div: ET._Element):
     parent_element = section_div.getparent()
     while parent_element.xpath("local-name()") != "div":
         if section_div.getprevious() is not None:
-            parent_split_element = NewElement.stuff("\n")
+            parent_split_element = teiMaker.stuff("\n")
             parent_split_element.tag = parent_element.tag
             siblings = section_div.xpath("following-sibling::*")
             for element in siblings:
@@ -150,7 +176,7 @@ def raise_div_element(section_div: ET._Element):
             parent_element.addnext(section_div)
         else:
             if parent_element.text and parent_element.text.strip():
-                parent_split_element = NewElement.randomTagShouldntExist("\n")
+                parent_split_element = teiMaker.randomTagShouldntExist("\n")
                 parent_split_element.tag = parent_element.tag
                 parent_split_element.text = parent_element.text
                 parent_element.text = ""
@@ -191,6 +217,13 @@ def expand_div_element(section_div: ET._Element, append_test):
         next_element = section_div.getnext()
 
 
+def make_lists(div: ET._Element):
+    string = str(ET.tostring(div))
+    if "item" in string:
+        input(string)
+        input(div.xpath(".//*item", namespaces=nsmap))
+
+
 def make_all_section_divs(doc):
     article_type = "article"
     # # make artikel-divs
@@ -214,6 +247,33 @@ def make_all_section_divs(doc):
                 next_element is not None and next_element.xpath("local-name()!='div'")
             ),
         )
+        make_items_in_article(div)
+        #make_lists(div)
+
+
+def make_label(item: ET._Element):
+    if item.text is None:
+        return
+    match = re.match("^([ \[\]().0-9]+)(.*)", item.text)
+    if match:
+        label = teiMaker.label(
+            match.group(1)
+        )
+        item.text = match.group(2)
+        item.addprevious(label)
+
+contains_number_xpath = "boolean(translate(., '1234567890', '') != .)"
+
+def make_items_in_article(article_div: ET._Element):
+    items = seed_item_elements(
+        article_div,
+        xpath_expr=f".//tei:lb/following-sibling::text()[{contains_number_xpath}]|.//tei:p/*[1][self::text() and {contains_number_xpath}]",
+        regex_test=r"^ *[(\]]* ?[0-9]{1,2} *[.)\]]*.*?[a-zA-Z].*"
+    )
+    for item in items:
+        expand_item_element(item)
+    for item in items:
+        make_label(item)
 
 def substitute_useless_elements(doc: TeiReader, substitution_dict:dict):
     for substituted_element_name, substitution_element_name in substitution_dict.items():
@@ -240,7 +300,7 @@ def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
 
 def replace_unleserlichs(doc):
     for text_node in doc.any_xpath('//tei:div[@type="main"]//text()[normalize-space()="unleserlich" or normalize-space()="Unleserlich"]'):
-        gap = NewElement.gap(reason="illegible")
+        gap = teiMaker.gap(reason="illegible")
         parent = text_node.getparent()
         if text_node.is_text:
             if len(parent) == 0 and parent.xpath("local-name()") == "hi":
