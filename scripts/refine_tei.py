@@ -33,7 +33,6 @@ templateEnv = jinja2.Environment(
 template = templateEnv.get_template("tei_template.j2")
 file_rename_errors = 0
 nsmap = {
-    "mets" : "http://www.loc.gov/METS/",
     "tei" : "http://www.tei-c.org/ns/1.0"
 }
 # # xml factory
