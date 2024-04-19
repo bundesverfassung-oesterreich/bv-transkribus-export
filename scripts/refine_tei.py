@@ -216,12 +216,25 @@ def expand_div_element(section_div: ET._Element, append_test):
         next_element = section_div.getnext()
 
 
-def make_lists(div: ET._Element):
-    string = str(ET.tostring(div))
-    if "item" in string:
-        input(string)
-        input(div.xpath(".//*item", namespaces=nsmap))
+def expand_list_element(list_element: ET._Element):
+    next_element = list_element.getnext()
+    while bool(
+        next_element is not None and next_element.tag != 'list' and next_element.tag != 'div'
+    ):
+        list_element.append(next_element)
+        next_element = list_element.getnext()
 
+def make_lists(div: ET._Element):
+    labels = div.xpath(".//*/tei:label[1]", namespaces=nsmap)
+    list_elements = []
+    for label in labels:
+        list_element = teiMaker.list()
+        label.addprevious(
+            list_element
+        )
+        list_elements.append(list_element)
+    for list_element in list_elements:
+        expand_list_element(list_element)
 
 def make_all_section_divs(doc):
     article_type = "article"
@@ -247,7 +260,7 @@ def make_all_section_divs(doc):
             ),
         )
         make_items_in_article(div)
-        #make_lists(div)
+        make_lists(div)
 
 
 def make_label(item: ET._Element):
@@ -278,8 +291,6 @@ def substitute_useless_elements(doc: TeiReader, substitution_dict:dict):
     for substituted_element_name, substitution_element_name in substitution_dict.items():
         for substituted in doc.any_xpath(f"//tei:{substituted_element_name}"):
             substituted.tag = substituted.tag.rstrip(substituted_element_name)+substitution_element_name
-
-
 
 def remove_useless_atributes(doc: TeiReader):
     elements = doc.any_xpath(
@@ -485,17 +496,17 @@ def create_new_xml_data(
         print("writing", tei_file_path)
         doc.tree_to_file(tei_file_path)
 
-def return_image_urls(mets_doc):
-    """
-    returns image links from mets file in doc order
-    """
-    return mets_doc.tree.xpath(
-        "//ns3:fileGrp[@ID='IMG']/ns3:file/ns3:FLocat/@ns2:href",
-        namespaces={
-            "ns3": "http://www.loc.gov/METS/",
-            "ns2": "http://www.w3.org/1999/xlink",
-        },
-    )
+# def return_image_urls(mets_doc):
+#     """
+#     returns image links from mets file in doc order
+#     """
+#     return mets_doc.tree.xpath(
+#         "//ns3:fileGrp[@ID='IMG']/ns3:file/ns3:FLocat/@ns2:href",
+#         namespaces={
+#             "ns3": "http://www.loc.gov/METS/",
+#             "ns2": "http://www.w3.org/1999/xlink",
+#         },
+#     )
 
 
 def return_transkribus_doc_id(xml_file_path):
