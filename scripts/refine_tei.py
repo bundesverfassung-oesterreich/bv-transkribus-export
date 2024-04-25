@@ -150,6 +150,7 @@ def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
                 item_element.attrib.clear()
             else:
                 item_element = teiMaker.item(start_string)
+                parent_element.text = ""
                 parent_element.insert(0, item_element)
             reverse_ordered_item_elements.append(item_element)
     return reverse_ordered_item_elements
@@ -269,9 +270,11 @@ def make_label(item: ET._Element):
     match = re.match("^([ \[\]().0-9]+)(.*)", item.text)
     if match:
         label = teiMaker.label(
-            match.group(1)
+            match.group(1).strip()
         )
-        item.text = match.group(2)
+        item.text = item.text.removeprefix(
+            match.group(1)
+        ).strip()
         item.addprevious(label)
 
 contains_number_xpath = "boolean(translate(., '1234567890', '') != .)"
@@ -279,7 +282,7 @@ contains_number_xpath = "boolean(translate(., '1234567890', '') != .)"
 def make_items_in_article(article_div: ET._Element):
     items = seed_item_elements(
         article_div,
-        xpath_expr=f".//tei:lb/following-sibling::text()[{contains_number_xpath}]|.//tei:p/*[1][self::text() and {contains_number_xpath}]",
+        xpath_expr=f".//tei:lb/following-sibling::text()[{contains_number_xpath}]|.//tei:p/node()[1][self::text() and {contains_number_xpath}]",
         regex_test=r"^ *[(\]]* ?[0-9]{1,2} *[.)\]]*.*?[a-zA-Z].*"
     )
     for item in items:
@@ -427,10 +430,17 @@ def remove_lbs_as_first_child_of_p_without_text(doc):
         parent.text = parent[0].tail
         parent.remove(parent[0])
 
+def remove_paras_with_only_list(doc):
+    for p in doc.any_xpath("//tei:body//tei:p[count(node()[not(boolean(self::text() and normalize-space(.)='')or local-name()='list')])=0]"):
+        for child in p:
+            p.addprevious(child)
+        p.getparent().remove(p)
+    
 
 def remove_useless_elements(doc: TeiReader):
     remove_calibration_page(doc)
     remove_empty_paras(doc)
+    remove_paras_with_only_list(doc)
     remove_lbs_as_first_child_of_p_without_text(doc)
 
 
