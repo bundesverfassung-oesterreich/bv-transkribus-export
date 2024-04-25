@@ -2,7 +2,7 @@ name: Download and process
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 21 * * *'
+    - cron:  '0 21 */2 * *'
 
 jobs:
   build_pages:
