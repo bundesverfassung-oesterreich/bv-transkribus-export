@@ -260,8 +260,9 @@ def make_all_section_divs(doc):
                 next_element is not None and next_element.xpath("local-name()!='div'")
             ),
         )
-        make_items_in_article(div)
-        make_lists(div)
+        # make juristical articles
+        #make_items_in_article(div)
+        #make_lists(div)
 
 
 def make_label(item: ET._Element):
@@ -440,7 +441,7 @@ def remove_paras_with_only_list(doc):
 def remove_useless_elements(doc: TeiReader):
     remove_calibration_page(doc)
     remove_empty_paras(doc)
-    remove_paras_with_only_list(doc)
+    #remove_paras_with_only_list(doc)
     remove_lbs_as_first_child_of_p_without_text(doc)
 
 
