@@ -98,7 +98,7 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2024-04-25" who="#cfh">document automatically created</change>
+            <change when="2024-04-27" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3071" lry="4477" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00002/full/full/0/default.jpg" width="3071px" height="4477px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4472" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00003/full/full/0/default.jpg" width="3035px" height="4472px"/></surface><surface ulx="0" uly="0" lrx="2997" lry="4480" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00004/full/full/0/default.jpg" width="2997px" height="4480px"/></surface><surface ulx="0" uly="0" lrx="3019" lry="4464" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00005/full/full/0/default.jpg" width="3019px" height="4464px"/></surface><surface ulx="0" uly="0" lrx="2978" lry="4454" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00006/full/full/0/default.jpg" width="2978px" height="4454px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4451" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00007/full/full/0/default.jpg" width="3023px" height="4451px"/></surface><surface ulx="0" uly="0" lrx="3003" lry="4478" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00008/full/full/0/default.jpg" width="3003px" height="4478px"/></surface><surface ulx="0" uly="0" lrx="2983" lry="4463" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00009/full/full/0/default.jpg" width="2983px" height="4463px"/></surface><surface ulx="0" uly="0" lrx="3016" lry="4462" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00010/full/full/0/default.jpg" width="3016px" height="4462px"/></surface><surface ulx="0" uly="0" lrx="2986" lry="4455" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00011/full/full/0/default.jpg" width="2986px" height="4455px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4457" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00012/full/full/0/default.jpg" width="3029px" height="4457px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4440" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00013/full/full/0/default.jpg" width="2976px" height="4440px"/></surface><surface ulx="0" uly="0" lrx="3030" lry="4466" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00014/full/full/0/default.jpg" width="3030px" height="4466px"/></surface></facsimile>
@@ -148,22 +148,21 @@
       </p><div type="article">
 <head>Artikel 1.
       </head>
-<list><label>(1)</label><item>Österreich ist eine demokratische Republik.</item>
-<label>(2)</label><item>Alle öffentlichen Gewalten werden vom Volk<lb break="yes"/>eingesetzt und in seinem Namen ausgeübt.
-      </item>
-</list></div>
+<p>(1) Österreich ist eine demokratische Republik.
+      <lb break="yes"/>(2) Alle öffentlichen Gewalten werden vom Volk
+      <lb break="yes"/>eingesetzt und in seinem Namen ausgeübt.
+      </p></div>
 <div type="article">
 <head>Artikel 2.
       </head>
-<list><label>(1)</label><item>Die Republik Österreich ist ein freier<lb break="yes"/>Bundesstaat.
-      </item>
-<label>(2)</label><item>Der Bund wird gebildet durch die selb
+<p>(1) Die Republik Österreich ist ein freier
+      <lb break="yes"/>Bundesstaat.
+      <lb break="yes"/>(2) Der Bund wird gebildet durch die selb
 <lb break="no"/>ständigen Länder: Burgenland, Kärnten, Nieder
 <lb break="no"/>österreich, OberösterReich, Salzburg, Steiermark,
       <lb break="yes"/>Tirol, Vorarlberg und Wien.
-      </item>
-<label>(3)</label><item>Bundeshauptstadt und Sitz der obersten<lb break="yes"/>Organe des Bundes ist Wien.</item>
-</list></div>
+      <lb break="yes"/>(3) Bundeshauptstadt und Sitz der obersten
+      <lb break="yes"/>Organe des Bundes ist Wien.</p></div>
 <div type="article">
 <head>Artikel 3.
       </head>
@@ -173,13 +172,12 @@
 <div type="article">
 <head>Artikel 4.
       </head>
-<list><label>(1)</label><item>Jeder Landesbürger ist Angehöriger des<lb break="yes"/>Bundes.
-      </item>
-<label>(2)</label><item>Die Landesbürgerschaft ist an die Heimats
+<p>(1) Jeder Landesbürger ist Angehöriger des
+      <lb break="yes"/>Bundes.
+      <lb break="yes"/>(2) Die Landesbürgerschaft ist an die Heimats
 <lb break="no"/>berechtigung in der Gemeinde eines Landes ge
-<lb break="no"/>bunden.</item>
-</list><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/><list><label>988</label><item>der Beilagen. — Konstituierende Nationalversammlung. 4</item>
-</list></div>
+<lb break="no"/>bunden.<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>988 der Beilagen. — Konstituierende Nationalversammlung. 4
+      </p></div>
 <div type="article">
 <head>Artikel 5.
       </head>
@@ -190,13 +188,13 @@
 <div type="article">
 <head>Artikel 6.
       </head>
-<list><label>(1)</label><item>Alle Bundesangehörigen sind vor dem Gesetze<lb break="yes"/>gleich. Vorrechte der Geburt, des Standes und des
+<p>(1) Alle Bundesangehörigen sind vor dem Gesetze
+      <lb break="yes"/>gleich. Vorrechte der Geburt, des Standes und des
       <lb break="yes"/>Bekenntnisses sind für immer ausgeschlossen.
-      </item>
-<label>(2)</label><item>Die politischen Rechte und Freiheiten des<lb break="yes"/>Volkes werden durch die Bundesverfassung gewähr
+      <lb break="yes"/>(2) Die politischen Rechte und Freiheiten des
+      <lb break="yes"/>Volkes werden durch die Bundesverfassung gewähr
 <lb break="no"/>leistet.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 7.
       </head>
@@ -208,77 +206,77 @@
       </p></div>
 <div type="article">
 <head>Artikel 8.</head>
-<list><label>(1)</label><item>Der oberste Träger der öffentlichen Gewalt<lb break="yes"/>der Republik ist die Bundesversammlung.
-      </item>
-<label>(2)</label><item>Die Bundesversammlung besteht aus einem<lb break="yes"/>Volkshaus, dem Bundestag und aus einem Länder
+<p>(1) Der oberste Träger der öffentlichen Gewalt
+      <lb break="yes"/>der Republik ist die Bundesversammlung.
+      <lb break="yes"/>(2) Die Bundesversammlung besteht aus einem
+      <lb break="yes"/>Volkshaus, dem Bundestag und aus einem Länder
 <lb break="no"/>haus, dem Bundesrat.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 9.
       </head>
-<list><label>(1)</label><item>Der Bundestag wird auf Grund des gleichen<lb break="yes"/>direkten, geheimen und persönlichen Wahlrechtes
+<p>(1) Der Bundestag wird auf Grund des gleichen
+      <lb break="yes"/>direkten, geheimen und persönlichen Wahlrechtes
       <lb break="yes"/>aller erwachsenen Männer und Frauen nach den
       <lb break="yes"/>Grundsätzen der Verhältniswahl vom ganzen Bundes
 <lb break="no"/>volk gewählt.
-      </item>
-<label>(2)</label><item>Seine Wahlperiode beträgt fünf Jahre.</item>
-</list></div>
+      <lb break="yes"/>(2) Seine Wahlperiode beträgt fünf Jahre.
+      </p></div>
 <div type="article">
 <head>Artikel 10.</head>
-<list><label>(1)</label><item>Der Bundesrat wird aus Vertretern der<lb break="yes"/>Bundesländer gebildet, die von den Landtagen aus
+<p>(1) Der Bundesrat wird aus Vertretern der
+      <lb break="yes"/>Bundesländer gebildet, die von den Landtagen aus
       <lb break="yes"/>ihrer Mitte durch Verhältniswahl entsendet werden;
       <lb break="yes"/>jedes Bundesland wird grundsätzlich durch drei
       <lb break="yes"/>Mitglieder vertreten, die Bundesländer mit mindestens
-      </item>
-<label>800.000</label><item>Einwohnern entsenden vier Mitglieder und<lb break="yes"/>für je weitere 400.000 Einwohner noch ein weiteres
+      <lb break="yes"/>800.000 Einwohnern entsenden vier Mitglieder und
+      <lb break="yes"/>für je weitere 400.000 Einwohner noch ein weiteres
       <lb break="yes"/>Mitglied, doch darf auf kein Land mehr als ein
       <lb break="yes"/>Fünftel der Gesamtzahl der Mitglieder entfallen.
-      </item>
-<label>(2)</label><item>Die Landtage selbst werden nach denselben<lb break="yes"/>Grundsätzen wie der Bundestag von den im Lande
-      <lb break="yes"/>wohnhaften Bundesangehörigen gewählt.</item>
-</list><pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/><list><label>888</label><item>der Beilagen. — Konstituierende Nationalversammlung. 5</item>
-</list></div>
+      <lb break="yes"/>(2) Die Landtage selbst werden nach denselben
+      <lb break="yes"/>Grundsätzen wie der Bundestag von den im Lande
+      <lb break="yes"/>wohnhaften Bundesangehörigen gewählt.<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>888 der Beilagen. — Konstituierende Nationalversammlung. 5
+      </p></div>
 <div type="article">
 <head>Artikel 11.
       </head>
-<list><label>(1)</label><item>Die Bundesversamlung entscheidet über Krieg<lb break="yes"/>und Frieden und verfügt über die bewaffnete Macht
+<p>(1) Die Bundesversamlung entscheidet über Krieg
+      <lb break="yes"/>und Frieden und verfügt über die bewaffnete Macht
       <lb break="yes"/>der Republik.
-      </item>
-<label>(2)</label><item>Ihr obliegt auch die Wahl der obersten<lb break="yes"/>Funktionäre des Bundes.
-      </item>
-</list></div>
+      <lb break="yes"/>(2) Ihr obliegt auch die Wahl der obersten
+      <lb break="yes"/>Funktionäre des Bundes.
+      </p></div>
 <div type="article">
 <head>Artikel 12.
       </head>
-<list><label>(1)</label><item>Die gesetzgebende Gewalt ist zum Teile dem<lb break="yes"/>Bunde, zum Teile den Bundesländern übertragen.
-      </item>
-<label>(2)</label><item>Das gesetzgebende Organ des Bundes ist der<lb break="yes"/>Bundestag in Gemeinschaft mit dem Bundesrat.
-      </item>
-<label>(3)</label><item>Die gesetzgebenden Organe der Bundesländer<lb break="yes"/>sind die Landtage.</item>
-</list></div>
+<p>(1) Die gesetzgebende Gewalt ist zum Teile dem
+      <lb break="yes"/>Bunde, zum Teile den Bundesländern übertragen.
+      <lb break="yes"/>(2) Das gesetzgebende Organ des Bundes ist der
+      <lb break="yes"/>Bundestag in Gemeinschaft mit dem Bundesrat.
+      <lb break="yes"/>(3) Die gesetzgebenden Organe der Bundesländer
+      <lb break="yes"/>sind die Landtage.</p></div>
 <div type="article">
 <head>Artikel 13.
       </head>
-<list><label>(1)</label><item>Vorschläge für Bundesgesetze werden im<lb break="yes"/>Bundestag eingebracht.
-      </item>
-<label>(2)</label><item>Auch aus der Mitte des Bundesvolkes kann<lb break="yes"/>von 300.000 Wahlberechtigten oder von der Hälfte
+<p>(1) Vorschläge für Bundesgesetze werden im
+      <lb break="yes"/>Bundestag eingebracht.
+      <lb break="yes"/>(2) Auch aus der Mitte des Bundesvolkes kann
+      <lb break="yes"/>von 300.000 Wahlberechtigten oder von der Hälfte
       <lb break="yes"/>der Wahlberechtigten dreier Bundesländer das Ver
 <lb break="no"/>langen nach Einbringung eines Gesetzesvorschlages
       <lb break="yes"/>gestellt werden.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 14.</head>
-<list><label>(1)</label><item>Jeder Gesetzesbeschluß des Bundestages bedars.<lb break="yes"/>grundsätzlich der Zustimmung des Bundesrates.
-      </item>
-<label>(2)</label><item>Versagt der Bundesrat die Zustimmung, so<lb break="yes"/>gelangt der Gesetzesbeschluß neuerlich vor den
+<p>(1) Jeder Gesetzesbeschluß des Bundestages bedars.
+      <lb break="yes"/>grundsätzlich der Zustimmung des Bundesrates.
+      <lb break="yes"/>(2) Versagt der Bundesrat die Zustimmung, so
+      <lb break="yes"/>gelangt der Gesetzesbeschluß neuerlich vor den
       <lb break="yes"/>Bundestag; wird der erste Beschluß vom Bundes
 <lb break="no"/>tag bei Anwesenheit der Hälfte der Mitglieder mit
       <lb break="yes"/>Zweidrittelmehrheit wiederholt, so ist er ohne weiteres
       <lb break="yes"/>Verfahren als Gesetz kundzumachen.
-      </item>
-<label>(3)</label><item>Verfassungsänderungen, Änderüngen des Wehr
+      <lb break="yes"/>(3) Verfassungsänderungen, Änderüngen des Wehr
 <lb break="no"/>gesetzes und Staatsverträge können jedoch auf Grund
       <lb break="yes"/>der Beschlüsse des Bundestages allein ohne Zu
 <lb break="no"/>stimmung des Bundesrates niemals Gesetz werden.
@@ -289,39 +287,38 @@
       <lb break="yes"/>eine endgültige Entscheidung durch Volksabstimmung
       <lb break="yes"/>herbeigeführt werden, wenn diese vom Bundestag
       <lb break="yes"/>oder vom Bundesrat mit Mehrheit verlangt wird.
-      </item>
-<label>(4)</label><item>Eine Gesamtänderung der Verfassung muß<lb break="yes"/>auch im Falle der Zustimmung des Bundesrates
+      <lb break="yes"/>(4) Eine Gesamtänderung der Verfassung muß
+      <lb break="yes"/>auch im Falle der Zustimmung des Bundesrates
       <lb break="yes"/>noch einer Volksabstimmung unterzogen werden.
-      </item>
-<label>(5)</label><item>Die jährliche Bewilligung des Bundes
-<lb break="no"/>budgets und die jährliche Genehmigung der</item>
-</list><pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/><list><label>888</label><item>der Beilagen. - Konstituierende Nationalversammlung. 6<lb break="yes"/>Rechnungsabschlüsse, die Aufnahme und Konvertie
+      <lb break="yes"/>(5) Die jährliche Bewilligung des Bundes
+<lb break="no"/>budgets und die jährliche Genehmigung der<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>888 der Beilagen. - Konstituierende Nationalversammlung. 6
+      <lb break="yes"/>Rechnungsabschlüsse, die Aufnahme und Konvertie
 <lb break="no"/>rung von Bundesanleihen und die Verfügung über
       <lb break="yes"/>das Bundesvermögen sind ausschließlich Sache des
       <lb break="yes"/>Bundestages.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 15.
       </head>
-<list><label>(1)</label><item>Die vollziehende Gewalt wird teils vom<lb break="yes"/>Bunde, teils von den Bundesländern ausgeübt.
-      </item>
-<label>(2)</label><item>Mit der Ausübung der vollziehenden Gewalt<lb break="yes"/>sind Volksbeauftragte betraut, die auf jederzeitigen
+<p>(1) Die vollziehende Gewalt wird teils vom
+      <lb break="yes"/>Bunde, teils von den Bundesländern ausgeübt.
+      <lb break="yes"/>(2) Mit der Ausübung der vollziehenden Gewalt
+      <lb break="yes"/>sind Volksbeauftragte betraut, die auf jederzeitigen
       <lb break="yes"/>Widerruf von den Vertretungen des Volkes bestellt
       <lb break="yes"/>werden und diesen verantwortlich sind.
-      </item>
-<label>(3)</label><item>Unter Leitung der Volksbeauftragten und<lb break="yes"/>nach ihren Weisungen obliegt die Durchführung der
+      <lb break="yes"/>(3) Unter Leitung der Volksbeauftragten und
+      <lb break="yes"/>nach ihren Weisungen obliegt die Durchführung der
       <lb break="yes"/>Gesetze und Verordnungen berufsmäßig angestellten
       <lb break="yes"/>Organen, die für ihre Tätigkeit den Volksbeauf
-<lb break="no"/>tragten verantwortlich sind.</item>
-</list></div>
+<lb break="no"/>tragten verantwortlich sind.</p></div>
 <div type="article">
 <head>Artikel 16.
       </head>
-<list><label>(1)</label><item>Die vollziehenden Organe des Bundes sind<lb break="yes"/>der Bundespräsident und die Bundesregierung
+<p>(1) Die vollziehenden Organe des Bundes sind
+      <lb break="yes"/>der Bundespräsident und die Bundesregierung
       <lb break="yes"/>samt den ihr unterstehenden Ämtern.
-      </item>
-<label>(2)</label><item>Bundespräsident und Bundesregierung werden<lb break="yes"/>von der Bundesversammlung gewählt; zum Bundes
+      <lb break="yes"/>(2) Bundespräsident und Bundesregierung werden
+      <lb break="yes"/>von der Bundesversammlung gewählt; zum Bundes
 <lb break="no"/>präsidenten kann nur ein Bundesangehöriger gewählt
       <lb break="yes"/>werden, der das aktive Wahlrecht zum Bundestage
       <lb break="yes"/>hat und am 1. Jänner des Jahres, in welchem
@@ -332,35 +329,34 @@
       <lb break="yes"/>Bundesregierung besteht aus dem Bundeskanzler,
       <lb break="yes"/>seinem Stellvertreter (Vizekanzler) und den Bundes
 <lb break="no"/>ministern.
-      </item>
-<label>(3)</label><item>Dit Bundesämter werden durch Bundesgesetz<lb break="yes"/>eingerichtet.</item>
-</list></div>
+      <lb break="yes"/>(3) Dit Bundesämter werden durch Bundesgesetz
+      <lb break="yes"/>eingerichtet.</p></div>
 <div type="article">
 <head>Artikel 17.
       </head>
-<list><label>(1)</label><item>Die vollziehenden Organe der Länder sind<lb break="yes"/>die Landesregierungen samt den ihnen unter
+<p>(1) Die vollziehenden Organe der Länder sind
+      <lb break="yes"/>die Landesregierungen samt den ihnen unter
 <lb break="no"/>stehenden Ämtern.
-      </item>
-<label>(2)</label><item>Die Landesregierungen werden von den<lb break="yes"/>Landtagen gewählt; sie bestehen aus dem Landes
+      <lb break="yes"/>(2) Die Landesregierungen werden von den
+      <lb break="yes"/>Landtagen gewählt; sie bestehen aus dem Landes
 <lb break="no"/>hauptmann, seinem Stellvertreter und einer an
 <lb break="no"/>gemessenen Zahl von weiteren Mitgliedern.
-      </item>
-<label>(3)</label><item>Die Landesämter werden im Rahmen der<lb break="yes"/>durch Bundesgesetz erlassenen grundsätzlichen Be
+      <lb break="yes"/>(3) Die Landesämter werden im Rahmen der
+      <lb break="yes"/>durch Bundesgesetz erlassenen grundsätzlichen Be
 <lb break="no"/>stimmungen durch Landesgesetze eingerichtet.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 18.
       </head>
-<list><label>(1)</label><item>Gemeinden und Gemeindeverbände haben<lb break="yes"/>das Recht der Selbstverwaltung innerhalb der
-      <lb break="yes"/>Schranken der Gesetze.</item>
-</list><pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><list><label>888</label><item>der Beilagen. — Konstituierende Nationalversammlung. 7</item>
-<label>(2)</label><item>Auch ihre Vertretungen müssen auf Grund<lb break="yes"/>des gleichen, direkten, geheimen und persönlichen
+<p>(1) Gemeinden und Gemeindeverbände haben
+      <lb break="yes"/>das Recht der Selbstverwaltung innerhalb der
+      <lb break="yes"/>Schranken der Gesetze.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>888 der Beilagen. — Konstituierende Nationalversammlung. 7
+      <lb break="yes"/>(2) Auch ihre Vertretungen müssen auf Grund
+      <lb break="yes"/>des gleichen, direkten, geheimen und persönlichen
       <lb break="yes"/>Wahlrechtes der in ihrem Bereiche wohnhaften
       <lb break="yes"/>männlichen und weiblichen Bundesangehörigen
       <lb break="yes"/>gewählt werden.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 19.
       </head>
@@ -386,38 +382,35 @@
       </head>
 <p>Bundessache sind hinsichtlich Gesetzgebung und
       <lb break="yes"/>Vollziehung:
-      <list><label>1.</label><item>Die Bundesversassung und die Verfassungs
+      <lb break="yes"/>1. Die Bundesversassung und die Verfassungs
 <lb break="no"/>gerichtsbarkeit; die Organisation der Bundesbehörden
       <lb break="yes"/>und das Dienstrecht der Bundesangestellten ein
 <lb break="no"/>schließlich der Regelung des im Einvernehmen
-      <lb break="yes"/>mit dem in Betracht kommenden Land zu vollzie¬</item>
-</list></p><p>henden Wechsels zwischen Bundes= und Landes
+      <lb break="yes"/>mit dem in Betracht kommenden Land zu vollzie¬</p><p>henden Wechsels zwischen Bundes= und Landes
 <lb break="no"/>dienst; das Volkszählungswesen sowie die sonstige
       <lb break="yes"/>Statistik, soweit sie nicht nur den Interessen eines
       <lb break="yes"/>einzelnen Landes dient; die Regelung des wissen
 <lb break="no"/>schaftlichen und sachtechnischen Archiv- und Biblio
 <lb break="no"/>theksdienstes;
-      <list><label>2.</label><item>die auswärtigen Angelegenheiten mit Ein
+      <lb break="yes"/>2. die auswärtigen Angelegenheiten mit Ein
 <lb break="no"/>schluß der politischen und wirtschaftlichen Ver
 <lb break="no"/>tretung gegenüber dem Auslande, insbesondere der
       <lb break="yes"/>Abschluß aller Staatsverträge; die Grenzvermarkung;
       <lb break="yes"/>die Regelung des Waren= und Viehverkehres mit
       <lb break="yes"/>dem Auslande; das Zollwesen;
-      </item>
-<label>3.</label><item>die militärischen Angelegenheiten mit Ein
+      <lb break="yes"/>3. die militärischen Angelegenheiten mit Ein
 <lb break="no"/>schluß der Kriegsschadenangelegenheiten;
-      </item>
-<label>4.</label><item>Die Bundesfinanzen, insbesondere die öffent
+      <lb break="yes"/>4. Die Bundesfinanzen, insbesondere die öffent
 <lb break="no"/>lichen Abgaben, die ausschließlich oder teilweise für
       <lb break="yes"/>den Bund einzuheben sind; das Monopolwesen. Die
       <lb break="yes"/>Regelung, welche Abgaben dem Bunde und den
-      <lb break="yes"/>Ländern zustehen; die Regelung der Anteilnahme</item>
-</list><pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/></p><list><label>888</label><item>der Beilagen. - Konstituierende Nationalversammlung. 8<lb break="yes"/>der Länder an den Einnahmen des Bundes und
+      <lb break="yes"/>Ländern zustehen; die Regelung der Anteilnahme<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/> 888 der Beilagen. - Konstituierende Nationalversammlung. 8
+      <lb break="yes"/>der Länder an den Einnahmen des Bundes und
       <lb break="yes"/>die Regelung der Beiträge und Zuschüsse aus
       <lb break="yes"/>Bundesmitteln zu den Ausgaben der Länder erfolgt
       <lb break="yes"/>durch Bundesgesetz.
-      </item>
-<label>5.</label><item>Die innere Einrichtung, Ausrüstung und<lb break="yes"/>Ausbildung der Gendarmerie, einschließlich der
+      <lb break="yes"/>5. Die innere Einrichtung, Ausrüstung und
+      <lb break="yes"/>Ausbildung der Gendarmerie, einschließlich der
       <lb break="yes"/>Dienstvorschriften, das Verfügungsrecht über die
       <lb break="yes"/>Gendarmerie, jedoch nur insoweit, als es sich bei
       <lb break="yes"/>Notstand und Unruhen um die zeitweilige Ver
@@ -433,22 +426,19 @@
       <lb break="yes"/>es sich um Stiftungen und Fonds handelt, die nach
       <lb break="yes"/>ihren Zwecken über den Interessenbereich eines
       <lb break="yes"/>Landes hinausgehen und nicht schon bisher von
-      <lb break="yes"/>den Ländern autonom verwaltet wurden;</item>
-</list><list><label>6.</label><item>das Zivil= und Strafrechtswesen einschließ
+      <lb break="yes"/>den Ländern autonom verwaltet wurden;</p><p>6. das Zivil= und Strafrechtswesen einschließ
 <lb break="no"/>lich des Verwaltungsstrafrechtes in Angelegenheiten,
       <lb break="yes"/>deren Vollziehung dem Bunde zusteht; die Ver
 <lb break="no"/>waltungsgerichtsbarkeit; die Enteignung, soweit sie
       <lb break="yes"/>nicht Angelegenheiten betrifft, die in den Wirkungs
 <lb break="no"/>kreis der Länder fallen; die Angelegenheiten der
       <lb break="yes"/>Notare, der Rechtsanwälte und verwandter Berufe;
-      </item>
-<label>7.</label><item>das Hochschulwesen; die fachlichen Zentral
+      <lb break="yes"/>7. das Hochschulwesen; die fachlichen Zentral
 <lb break="no"/>lebranstalten; die Angelegenheiten der künstlerischen
       <lb break="yes"/>und wissenschaftlichen Sammlungen und Einrich
 <lb break="no"/>tungen; den Denkmalschutz; die Angelegenheiten
       <lb break="yes"/>des Kultus;
-      </item>
-<label>8.</label><item>das Bergwesen; die Ausführung der Re
+      <lb break="yes"/>8. das Bergwesen; die Ausführung der Re
 <lb break="no"/>gulierung und die Instandhaltung der schiffbaren
       <lb break="yes"/>und flößbaren Gewässer, dann solcher Gewisser,
       <lb break="yes"/>welche die Grenze gegen das Ausland oder zwischen
@@ -456,8 +446,8 @@
       <lb break="yes"/>durchfließen, den Bau derjenigen Wasserstraßen die
       <lb break="yes"/>das Inland mit dem Ausland oder die mehrere
       <lb break="yes"/>Länder verbinden; die Bekämpfung übertragbarer
-      <lb break="yes"/>Krankheiten von Tieren;</item>
-</list><list><label>9.</label><item>das Gewerbewesen, die öffentlichen Agentien<lb break="yes"/>und die Privatgeschäftsvermittlung; das Dampf
+      <lb break="yes"/>Krankheiten von Tieren;</p><p>9. das Gewerbewesen, die öffentlichen Agentien
+      <lb break="yes"/>und die Privatgeschäftsvermittlung; das Dampf
 <lb break="no"/>kessel= und Kraftmaschinenwesen; das Vermessungs
 <lb break="no"/>wesen; das Ingenieur= und Ziviltechnikerwesin; dass
       <lb break="yes"/>Maß=, Gewichts=, Normen= und Punzierungswesen;
@@ -467,18 +457,16 @@
 <lb break="no"/>wesen; die Handels= und Gewerbekammern; das
       <lb break="yes"/>Vertragsversicherungswesen; das Geld=, Kredit=
       <lb break="yes"/>Börse= und Bankwesen;
-      </item>
-<label>10.</label><item>das Verkehrswesen bezüglich der Eisen
-<lb break="no"/>bahnen, der Schiffahrt und der Luftschiffahrt; die</item>
-</list><pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/><list><label>988</label><item>der Beilagen. — Konstituierende Nationalversammlung. 9<lb break="yes"/>Angelegenheiten der wegen ihrer Bedeutung für den
+      <lb break="yes"/>10. das Verkehrswesen bezüglich der Eisen
+<lb break="no"/>bahnen, der Schiffahrt und der Luftschiffahrt; die<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>988 der Beilagen. — Konstituierende Nationalversammlung. 9
+      <lb break="yes"/>Angelegenheiten der wegen ihrer Bedeutung für den
       <lb break="yes"/>Durchzugsverkehr durch Bundesgesetz als Bundes
 <lb break="no"/>straßen erklärten Straßenzüge; die Strom= und
       <lb break="yes"/>Schiffahrtspolizei; das Post-, Telegraphen- und
       <lb break="yes"/>Fernsprechwesen;
-      </item>
-<label>11.</label><item>die Bekämpfung übertragbarer Krankheiten<lb break="yes"/>von Menschen;
-      </item>
-<label>12.</label><item>das gesamte Arbeiterrecht und den Ar
+      <lb break="yes"/>11. die Bekämpfung übertragbarer Krankheiten
+      <lb break="yes"/>von Menschen;
+      <lb break="yes"/>12. das gesamte Arbeiterrecht und den Ar
 <lb break="no"/>beiter= und Angestelltenschutz sowie das Sozial
 <lb break="no"/>versicherungswesen, soweit es sich nicht um land-
       <lb break="yes"/>und forstwirtschaftliche Arbeiter und Angestellte
@@ -486,14 +474,14 @@
       <lb break="yes"/>deren Hinterbliebene; das Kriegsgräberwesen; die
       <lb break="yes"/>aus Anlaß eines Krieges oder im Gefolge eines
       <lb break="yes"/>solchen zur Sicherung der einheitlichen Führung der
-      <lb break="yes"/>Wirtschaft notwendig erscheinenden Maßnahmen.</item>
-</list></div>
+      <lb break="yes"/>Wirtschaft notwendig erscheinenden Maßnahmen.</p></div>
 <div type="article">
 <head>Artikel 22.
       </head>
 <p>Bundessache sind hinsichtlich Gesetzgebung,
       <lb break="yes"/>Landessache hinsichtlich Vollziehung:
-      <list><label>1.</label><item>hinsichtlich der öffentlichen Abgaben, die<lb break="yes"/>nicht ausschließlich oder teilweise für den Bund
+      <lb break="yes"/>1. hinsichtlich der öffentlichen Abgaben, die
+      <lb break="yes"/>nicht ausschließlich oder teilweise für den Bund
       <lb break="yes"/>eingehoben werden: die Anordnungen zur Verhin
 <lb break="no"/>derung von Doppelbesteuerungen oder sonstigen
       <lb break="yes"/>übermäßigen Belastungen, zur Verhinderung von
@@ -505,117 +493,104 @@
       <lb break="yes"/>Verkehrswege und Einrichtungen mit Gebühren
       <lb break="yes"/>und zur Verhinderung der Schädigung der Bundes
 <lb break="no"/>finanzen;
-      </item>
-<label>2.</label><item>die Staatsbürgerschaft und das Heimat
+      <lb break="yes"/>2. die Staatsbürgerschaft und das Heimat
 <lb break="no"/>recht: das Vereins= und Versammlungsrecht; die
       <lb break="yes"/>Angelegenheiten der Presse; die Personenstands
 <lb break="no"/>angelegenheiten einschließlich des Matrikenwesens
       <lb break="yes"/>und der Namensänderung; das Paßwesen und die
       <lb break="yes"/>Fremdenpolizei;
-      </item>
-<label>3.</label><item>das Verwaltungs= und Verwattungsstraf¬</item>
-</list></p><p>verfahren einschließlich der Zwangsvollstreckung sowie
+      <lb break="yes"/>3. das Verwaltungs= und Verwattungsstraf¬</p><p>verfahren einschließlich der Zwangsvollstreckung sowie
       <lb break="yes"/>die allgemeinen Bestimmungen des Verwaltungs
 <lb break="no"/>strafrechtes in Angelegenheiten, deren Vollziehung
       <lb break="yes"/>den Ländern zusteht;
-      <list><label>4.</label><item>die Festsetzung des Lehrzieles bei den mitt
+      <lb break="yes"/>4. die Festsetzung des Lehrzieles bei den mitt
 <lb break="no"/>leren und niederen Schulen;
-      </item>
-<label>5.</label><item>das Veterinärwesen;</item>
-<label>6.</label><item>das Munitions=, Schieß= und Spreng
+      <lb break="yes"/>5. das Veterinärwesen;
+      <lb break="yes"/>6. das Munitions=, Schieß= und Spreng
 <lb break="no"/>mittelwesen, soweit es nicht dem Monopol unter
 <lb break="no"/>liegt, sowie das Waffenwesen:
-      </item>
-<label>7.</label><item>die betriebstechnischen Vorschriften bezüg
+      <lb break="yes"/>7. die betriebstechnischen Vorschriften bezüg
 <lb break="no"/>lich des Kraftfahrwesens;
-      </item>
-<label>8.</label><item>die Ausbildung, Fort bildung und Berufs
-<lb break="no"/>ausübung von Heilpersonen; das Heilmittelwesen;</item>
-</list><pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/></p><list><label>888</label><item>der Beilagen. — Konstituierende Nationalversammlung. 10<lb break="yes"/>das Gesundheitswesen mit Ausnahme der Heil= und
+      <lb break="yes"/>8. die Ausbildung, Fort bildung und Berufs
+<lb break="no"/>ausübung von Heilpersonen; das Heilmittelwesen;<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>888 der Beilagen. — Konstituierende Nationalversammlung. 10
+      <lb break="yes"/>das Gesundheitswesen mit Ausnahme der Heil= und
       <lb break="yes"/>Pflegeanstalten und Ambularien, des Kurorte-,
       <lb break="yes"/>Leichen= und Begräbniswesens sowie des Gemeinde
 <lb break="no"/>sanitätsdienstes und Reitungswesens;
-      </item>
-<label>9.</label><item>das Volkswohnungs= und Volkspflege
+      <lb break="yes"/>9. das Volkswohnungs= und Volkspflege
 <lb break="no"/>stättenwesen;
-      </item>
-<label>10.</label><item>die beruflichen Vertretungen mit Aus
+      <lb break="yes"/>10. die beruflichen Vertretungen mit Aus
 <lb break="no"/>nahme jener auf land= und forstwirtschaftlichem
       <lb break="yes"/>Gebiete.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 23.
       </head>
 <p>Bundessache sind hinsichtlich der grundsätz
 <lb break="no"/>lichen Gesetzgebung, Landessache hinsichtlich der
       <lb break="yes"/>Durchführungsgesetzgebung und der Vollziehung:
-      <list><label>1.</label><item>Die Organisation der Verwaltung in den<lb break="yes"/>Ländern; das Dienstrecht der Lehrpersonen an mitt
+      <lb break="yes"/>1. Die Organisation der Verwaltung in den
+      <lb break="yes"/>Ländern; das Dienstrecht der Lehrpersonen an mitt
 <lb break="no"/>leren Unterrichtsanstalten und jener Angestellten des
       <lb break="yes"/>Landes, die behördliche Aufgaben zu besorgen haben,
       <lb break="yes"/>einschließlich der Regelung des im Einvernehmen
       <lb break="yes"/>der in Betracht kommenden Länder zu vollziehenden
-      <lb break="yes"/>Dienstwechsels von Land zu Land;</item>
-</list></p><list><label>2.</label><item>die Einrichtungen zum Schutze der Gesell
+      <lb break="yes"/>Dienstwechsels von Land zu Land;</p><p>2. die Einrichtungen zum Schutze der Gesell
 <lb break="no"/>schaft gegen verbrecherische, verwahrloste oder sonst
       <lb break="yes"/>gefährliche Personen, wie Zwangsarbeits= und ähnliche
       <lb break="yes"/>Anstalten; die Abschiebung und Abschaffung aus
       <lb break="yes"/>einem in ein anderes Land;
-      </item>
-<label>3.</label><item>das Wasserrecht und das Elektrizitäts
+      <lb break="yes"/>3. das Wasserrecht und das Elektrizitäts
 <lb break="no"/>wesen; die Bodenreform (agrarische Operationen,
       <lb break="yes"/>Wiederbesiedelung usw.); und die Bodenentschuldung;
       <lb break="yes"/>das Forstwesen, einschließlich des Triftwesens, jedoch
       <lb break="yes"/>mit Ausnahme der Forst= und Weideservituten:
       <lb break="yes"/>den Schutz der Pflanzen gegen Krankheiten und
-      <lb break="yes"/>Schädlinge;</item>
-</list><list><label>4.</label><item>das Heil= und Pflegeanstaltenwesen ein
+      <lb break="yes"/>Schädlinge;</p><p>4. das Heil= und Pflegeanstaltenwesen ein
 <lb break="no"/>schließlich der Ambularien; die Ausgrabung und
       <lb break="yes"/>Überführung von Leichen;
-      </item>
-<label>5.</label><item>dasArbeiterrecht und den Arbeiter= und<lb break="yes"/>Angestelltenschutz sowie das Sozialversicherungswesen,
+      <lb break="yes"/>5. dasArbeiterrecht und den Arbeiter= und
+      <lb break="yes"/>Angestelltenschutz sowie das Sozialversicherungswesen,
       <lb break="yes"/>soweit es sich um land= und forstwirtschaftliche
       <lb break="yes"/>Arbeiter und Angestellte handelt; das Armenwesen;
       <lb break="yes"/>die Bevölkerungspolitik; die Mutterschafts-, Säug
 <lb break="no"/>lings= und Jugendfürsorge; die öffentlichen Einrich
 <lb break="no"/>tungen zur außergerichtlichen Vermittlung von
       <lb break="yes"/>Streitigkeiten;
-      </item>
-<label>6.</label><item>die beruflichen Vertretungen aus land= und<lb break="yes"/>forstwirtschaftlichem Gebiete.
-      </item>
-</list></div>
+      <lb break="yes"/>6. die beruflichen Vertretungen aus land= und
+      <lb break="yes"/>forstwirtschaftlichem Gebiete.
+      </p></div>
 <div type="article">
 <head>Artikel 24.
       </head>
-<list><label>(1)</label><item>Wenn eine Angelegenheit nicht ausdrücklich<lb break="yes"/>durch die Bundesverfassung der Gesetzgebung oder
+<p>(1) Wenn eine Angelegenheit nicht ausdrücklich
+      <lb break="yes"/>durch die Bundesverfassung der Gesetzgebung oder
       <lb break="yes"/>auch der Vollziehung des Bundes übertragen ist,
       <lb break="yes"/>verbleibt sie im Wirkungsbereiche der Länder. In
-<lb break="no"/>soweit der Bundesgesetzgebung bloß die Regelung</item>
-</list><pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/><list><label>888</label><item>der Beilagen. — Konstituierende Nationalversammlung.<lb break="yes"/>der Grundzüge vorbehalten ist, obliegt die nähere
+<lb break="no"/>soweit der Bundesgesetzgebung bloß die Regelung<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>888 der Beilagen. — Konstituierende Nationalversammlung.
+      <lb break="yes"/>der Grundzüge vorbehalten ist, obliegt die nähere
       <lb break="yes"/>Durchführung der Landesgesetzgebung innerhalb des
       <lb break="yes"/>bundesgesetzlich festgelegten Rahmens.
-      </item>
-<label>(2)</label><item>Sofern in Angelegenheiten der Artikel 22<lb break="yes"/>und 23 ein Akt der vollziehenden Gewalt für
+      <lb break="yes"/>(2) Sofern in Angelegenheiten der Artikel 22
+      <lb break="yes"/>und 23 ein Akt der vollziehenden Gewalt für
       <lb break="yes"/>mehrere Länder Rechtswirksamkeit äußern soll, geht
       <lb break="yes"/>die Zuständigkeit für diesen Vollzugsakt, wenn die
       <lb break="yes"/>beteiligten Länder sich nicht selbst einigen, auf den
       <lb break="yes"/>Bund über.
-      </item>
-<label>(3)</label><item>Die auf Grund der Artikel 22 und 23 zu<lb break="yes"/>erlassenden Bundesgesetze haben vorzusehen, ob und
+      <lb break="yes"/>(3) Die auf Grund der Artikel 22 und 23 zu
+      <lb break="yes"/>erlassenden Bundesgesetze haben vorzusehen, ob und
       <lb break="yes"/>inwiefern über Antrag einer beteiligten Landes
 <lb break="no"/>regierung der Vollzug auf den Bund übergeht, wenn
       <lb break="yes"/>ein Akt der vollziehenden Gewalt eines Landes
       <lb break="yes"/>Rückwirkungen auf ein anderes Land zu äußern
       <lb break="yes"/>geeignet ist, sofern sich die beteiligten Länder nicht
       <lb break="yes"/>einigen können.
-      </item>
-<label>(4)</label><item>In jenen Angelegenheiten, die nach Artikel 22<lb break="yes"/>und 23 zur Gänze oder der Regelung der Grund
+      <lb break="yes"/>(4) In jenen Angelegenheiten, die nach Artikel 22
+      <lb break="yes"/>und 23 zur Gänze oder der Regelung der Grund
 <lb break="no"/>sätze nach der Bundesgesetzgebung vorbehalten sind,
       <lb break="yes"/>steht dem Bunde das Recht zu, die Einhaltung der
       <lb break="yes"/>von ihm erlassenen Vorschriften wahrzunehmen.
-      </item>
-<label>(5)</label><item>Die Länder sind im Bereiche ihres Gesetz¬</item>
-</list><p>gebungsrechtes befugt, die zur Regelung des Gegen
+      <lb break="yes"/>(5) Die Länder sind im Bereiche ihres Gesetz¬</p><p>gebungsrechtes befugt, die zur Regelung des Gegen
 <lb break="no"/>standes erforderlichen Bestimmungen auch auf dem
       <lb break="yes"/>Gebiete des Straf und Zivilrechtes zu treffen. Ins
 <lb break="no"/>besondere gilt dies auch für die Angelegenheiten
@@ -627,30 +602,30 @@
 <div type="article">
 <head>Artikel 25.
       </head>
-<list><label>(1)</label><item>Durch die Bestimmungen der Artikel 21<lb break="yes"/>bis 24 über die Zuständigkeit in Gesetzgebung und
+<p>(1) Durch die Bestimmungen der Artikel 21
+      <lb break="yes"/>bis 24 über die Zuständigkeit in Gesetzgebung und
       <lb break="yes"/>Vollziehung wird die Stellung des Bundes als
       <lb break="yes"/>Träger von Privatrechten (Eigentümer, Unternehmer,
       <lb break="yes"/>Pächter usw.) in keiner Weise berührt.
-      </item>
-<label>(2)</label><item>Der Bund kann in allen diesen Rechts
+      <lb break="yes"/>(2) Der Bund kann in allen diesen Rechts
 <lb break="no"/>beziehungen durch die Landesgesetzgebung niemals
       <lb break="yes"/>ungünstiger gestellt werden als das betreffende Land
       <lb break="yes"/>selbst.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 26.</head>
-<list><label>(1)</label><item>Im Bereiche der Bundesländer wird die<lb break="yes"/>vollziehende Gewalt des Bundes entweder durch
+<p>(1) Im Bereiche der Bundesländer wird die
+      <lb break="yes"/>vollziehende Gewalt des Bundes entweder durch
       <lb break="yes"/>eigene Bundesbehörden (unmittelbare Bundesverwal
 <lb break="no"/>tung) oder durch die Landesregierungen und die
       <lb break="yes"/>ihnen unterstellten Landesbehörden im Bundes
 <lb break="no"/>auftrag (mittelbare Bundesverwaltung) ausgeübt.
-      </item>
-<label>(2)</label><item>Eigene Bundesbehörden können für folgende<lb break="yes"/>Angelegenheiten errichtet werden: Regelung des
+      <lb break="yes"/>(2) Eigene Bundesbehörden können für folgende
+      <lb break="yes"/>Angelegenheiten errichtet werden: Regelung des
       <lb break="yes"/>Waren= und Viehverkehres mit dem Ausland, Zoll
 <lb break="no"/>wesen, Bundessinanzen und Regelung der Finanz
-<lb break="no"/>angelegenheiten zwischen Bund und Bundesländern,</item>
-</list><pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/><list><label>988</label><item>der Beilagen. — Konstituierende Nationalversammlung. 12<lb break="yes"/>Monopolwesen, Maß=, Gewichts=, Normen= und
+<lb break="no"/>angelegenheiten zwischen Bund und Bundesländern,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>988 der Beilagen. — Konstituierende Nationalversammlung. 12
+      <lb break="yes"/>Monopolwesen, Maß=, Gewichts=, Normen= und
       <lb break="yes"/>Punzierungswesen, Justizpflege, Verkehrswesen be
 <lb break="no"/>züglich der Eisenbahnen, der Schiffahrt und der
       <lb break="yes"/>Luftschiffahrt, Strom= und Schiffahrtspolizei, Post=,
@@ -662,23 +637,21 @@
 <lb break="no"/>behalten, auch in diesen Angelegenheiten die Landes
 <lb break="no"/>regierungen mit der Ausübung der vollziehenden
       <lb break="yes"/>Gewalt des Bundes zu beauftragen.
-      </item>
-<label>(3)</label><item>Soweit die Landesregierungen Bundes
+      <lb break="yes"/>(3) Soweit die Landesregierungen Bundes
 <lb break="no"/>angelegenheiten durchzuführen haben, sind sie an die
       <lb break="yes"/>Weisungen der Bundesregierung sowie der einzelnen
       <lb break="yes"/>Bundesämter gebunden und ist für die Durch
 <lb break="no"/>führung der Landeshauptmann der Bundesregierung
-      <lb break="yes"/>verantwortlich</item>
-</list></div>
+      <lb break="yes"/>verantwortlich</p></div>
 <div type="article">
 <head>Artikel 27.
       </head>
-<list><label>(1)</label><item>Alle Gesetzesbeschlüsse der Landtage sind un
+<p>(1) Alle Gesetzesbeschlüsse der Landtage sind un
 <lb break="no"/>mittelbar nach erfolgter Beschlußfassung des Land
 <lb break="no"/>tages und vor ihrer Kundmachung vom Landes
 <lb break="no"/>hauptmann der Bundesregierung bekanntzugeben.
-      </item>
-<label>(2)</label><item>Wegen Gefährdung von Bundesinteressen kann<lb break="yes"/>die Bundesregierung unter gleichzeitiger Mitteilung
+      <lb break="yes"/>(2) Wegen Gefährdung von Bundesinteressen kann
+      <lb break="yes"/>die Bundesregierung unter gleichzeitiger Mitteilung
       <lb break="yes"/>an den Bundesrat binnen vier Wochen vom Tage
       <lb break="yes"/>der eingelangten Beganntmachung an gegen den
       <lb break="yes"/>Gesetzesbeschluß des Landtages Einspruch erheben.
@@ -686,38 +659,35 @@
 <lb break="no"/>spruch der Bundesregierung und der etwaigen
       <lb break="yes"/>Äußerung des Bundesrates im Landtage neuerlich
       <lb break="yes"/>zur Verhandlung zu stellen.
-      </item>
-<label>(3)</label><item>Wiederholt der Landtag seinen Gesetzes
+      <lb break="yes"/>(3) Wiederholt der Landtag seinen Gesetzes
 <lb break="no"/>beschluß, so ist dieser kundzumachen. Hat jedoch der
       <lb break="yes"/>Einspruch der Bundesregierung die Zustimmung des
       <lb break="yes"/>Bundesrates erhalten, so kann ein solcher Gesetzes
 <lb break="no"/>beschluß nur kundgemacht werden, wenn er bei
       <lb break="yes"/>Anwesenheit der Hälfte aller Mitglieder des Land
 <lb break="no"/>tages mit einer Mehrheit von zwei Dritteln aller
-      <lb break="yes"/>abgegebenen Stimmen wiederholt wird.</item>
-</list><p>IV. Abschnitt.
+      <lb break="yes"/>abgegebenen Stimmen wiederholt wird.</p><p>IV. Abschnitt.
       <lb break="yes"/>Die dem Bunde und den Bundesländern gemein
 <lb break="no"/>samen Einrichtungen.
       </p></div>
 <div type="article">
 <head>Artikel 28.
       </head>
-<list><label>(1)</label><item>Zur Überprüfung der Gebarung in der ge
+<p>(1) Zur Überprüfung der Gebarung in der ge
 <lb break="no"/>samten Staatswirtschaft des Bundes und der
       <lb break="yes"/>Länder, ferner die Gebarung der von Organen des
       <lb break="yes"/>Bundes oder der Länder verwalteten Stiftungen.
-      <lb break="yes"/>Fonds und Anstalten ist der Rechnungshof berufen.</item>
-</list><pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/><list><label>888</label><item>der Beilagen. — Konstituierende Nationalversammlung. 13<lb break="yes"/>Er kann auch die Gebarung von Unternehmungen
+      <lb break="yes"/>Fonds und Anstalten ist der Rechnungshof berufen.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/> 888 der Beilagen. — Konstituierende Nationalversammlung. 13
+      <lb break="yes"/>Er kann auch die Gebarung von Unternehmungen
       <lb break="yes"/>überprüfen, an denen der Bund finanziell be
       <lb break="yes"/>teiligt ist.
-      </item>
-<label>(2)</label><item>Der Rechnungshof untersteht unmittelbar der<lb break="yes"/>Bundesversammlung.
-      </item>
-<label>(3)</label><item>Der Präsident des Rechnungshofes wird von<lb break="yes"/>der Bundesversammlung gewählt und ist in bezug auf
+      <lb break="yes"/>(2) Der Rechnungshof untersteht unmittelbar der
+      <lb break="yes"/>Bundesversammlung.
+      <lb break="yes"/>(3) Der Präsident des Rechnungshofes wird von
+      <lb break="yes"/>der Bundesversammlung gewählt und ist in bezug auf
       <lb break="yes"/>Verantwortlichkeit den Mitgliedern der Bundes
 <lb break="no"/>regierung gleichgestellt.
-      </item>
-</list></div>
+      </p></div>
 <div type="article">
 <head>Artikel 29.
       </head>
@@ -731,27 +701,26 @@
 <div type="article">
 <head>Artikel 30.
       </head>
-<list><label>(1)</label><item>Wegen Rechtsverletzung durch die Entscheidung<lb break="yes"/>oder Verfügung einer Verwaltungsbehörde des
+<p>(1) Wegen Rechtsverletzung durch die Entscheidung
+      <lb break="yes"/>oder Verfügung einer Verwaltungsbehörde des
       <lb break="yes"/>Bundes oder eines Bundeslandes entscheidet nach
       <lb break="yes"/>Erschöpfung des administrativen Instanzenzuges der
       <lb break="yes"/>Verwaltungsgerichtshof in Wien.
-      </item>
-<label>(2)</label><item>Der Präsident und die eine Hälfte der Mit
+      <lb break="yes"/>(2) Der Präsident und die eine Hälfte der Mit
 <lb break="no"/>glieder werden auf Vorschlag der Bundesregierung,
       <lb break="yes"/>der Vizepräsident und die andere Hälfte der Mit
 <lb break="no"/>glieder auf Vorschlag des Bundesrates vom Bundes
       <lb break="yes"/>präsidenten ernannt.
-      </item>
-<label>(3)</label><item>Wenigstens die Hälfte der Mitglieder muß<lb break="yes"/>die Eignung zum Richteramte haben.</item>
-</list></div>
+      <lb break="yes"/>(3) Wenigstens die Hälfte der Mitglieder muß
+      <lb break="yes"/>die Eignung zum Richteramte haben.</p></div>
 <div type="article">
 <head>Artikel 31.
       </head>
-<list><label>(1)</label><item>Als oberster Hüter der Verfassung und<lb break="yes"/>Schiedsrichter zwischen dem Bunde und den
+<p>(1) Als oberster Hüter der Verfassung und
+      <lb break="yes"/>Schiedsrichter zwischen dem Bunde und den
       <lb break="yes"/>Bundesländern fungiert der Verfassungsgerichtshof
       <lb break="yes"/>in Wien.
-      </item>
-<label>(2)</label><item>Dem Verfassungsgerichtshof obliegt die Ent
+      <lb break="yes"/>(2) Dem Verfassungsgerichtshof obliegt die Ent
 <lb break="no"/>erscheidung über
       <lb break="yes"/>a) Verfassungswidrigkeit von Gesetzen;
       <lb break="yes"/>b) Gesetzwidrigkeit von Verordnungen;
@@ -764,43 +733,41 @@
       <lb break="yes"/>der Bundesregierung und den Landesregie
 <lb break="no"/>rungen oder zwischen diesen untereinander;
       <lb break="yes"/>e) Gesetzwidrigkeit von Wahlen zu den allgemeinen
-      <lb break="yes"/>Vertretungskörpern;</item>
-</list><pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/><list><label>888</label><item>der Beilagen. - Konstituierende Nationalversammlung. 14<lb break="yes"/>f) Verantwortlichkeit des Bundespräsidenten, der
+      <lb break="yes"/>Vertretungskörpern;<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>888 der Beilagen. - Konstituierende Nationalversammlung. 14
+      <lb break="yes"/>f) Verantwortlichkeit des Bundespräsidenten, der
       <lb break="yes"/>Mitglieder der Bundesregierung, des Präsi
 <lb break="no"/>denten des Rechnungshofes und der Mit
 <lb break="no"/>glieder der Landesregierungen, insbesondere
       <lb break="yes"/>auch der Landeshauptmänner;
       <lb break="yes"/>g) Verletzung der verfassungsmäßig gewähr
 <lb break="no"/>leisteten Rechte.
-      </item>
-<label>(3)</label><item>Der Präsident und der Vizepräsideut des<lb break="yes"/>Verfassungsgerichtshofes werden von der Bundes
+      <lb break="yes"/>(3) Der Präsident und der Vizepräsideut des
+      <lb break="yes"/>Verfassungsgerichtshofes werden von der Bundes
 <lb break="no"/>versammlung, je die Hälfte der Mitglieder vom
-      <lb break="yes"/>Bundestag und vom Bundesrat gewählt.</item>
-</list><p>V. Abschnitt.
+      <lb break="yes"/>Bundestag und vom Bundesrat gewählt.</p><p>V. Abschnitt.
       <lb break="yes"/>Schlußbestimmungen für die endgültige Regelung
       <lb break="yes"/>der Verfassung.
       </p></div>
 <div type="article">
 <head>Artikel 32.
       </head>
-<list><label>(1)</label><item>Die Bestimmungen dieses Gesetzes sind für<lb break="yes"/>die von der neuen Nationalversammlung zu be
+<p>(1) Die Bestimmungen dieses Gesetzes sind für
+      <lb break="yes"/>die von der neuen Nationalversammlung zu be
 <lb break="no"/>schließende Bundesverfassung grundlegend.
-      </item>
-<label>(2)</label><item>Eine Änderung dieser Bestimmungen ist inso
+      <lb break="yes"/>(2) Eine Änderung dieser Bestimmungen ist inso
 <lb break="no"/>ferne zulässig, als sie von der neuen National
 <lb break="no"/>versammlung mit Zweidrittelmehrheit bei Anwesenheit
       <lb break="yes"/>von mindestens zwei Dritteln aller Mitglieder
       <lb break="yes"/>beschlossen wird.
-      </item>
-<label>(3)</label><item>Zu einer Änderung der Bestimmung des<lb break="yes"/>Artikels 10, Absatz 1, ist überdies auch notwendig,
+      <lb break="yes"/>(3) Zu einer Änderung der Bestimmung des
+      <lb break="yes"/>Artikels 10, Absatz 1, ist überdies auch notwendig,
       <lb break="yes"/>daß von den Abgeordneten jedes einzelnen Bundes
 <lb break="no"/>landes die Mehrheit für die Abänderung ge
 <lb break="no"/>stimmt hat.
-      </item>
-<label>(4)</label><item>Im Rahmen der künftigen Bundesverfassung<lb break="yes"/>wird sich jedes Bundesland selbst seine eigene Ver
+      <lb break="yes"/>(4) Im Rahmen der künftigen Bundesverfassung
+      <lb break="yes"/>wird sich jedes Bundesland selbst seine eigene Ver
 <lb break="no"/>fassung zu geben haben.
-      <lb break="yes"/>Österreichische Staatsdruckerei. 524620</item>
-</list></div>
+      <lb break="yes"/>Österreichische Staatsdruckerei. 524620</p></div>
 </div></body>
     </text>
 </TEI>
