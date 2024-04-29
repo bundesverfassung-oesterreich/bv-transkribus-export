@@ -123,7 +123,7 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
         if re.match(regex_test, head_str.strip()):
             head_element = head_str.getparent()
             if head_str.is_tail:
-                head_element.tag = "head"
+                head_element.tag = f"{{{nsmap['tei']}}}head"
                 head_element.text = head_str
                 head_element.tail = "\n"
                 section_div = teiMaker.div("\n", type=type_val)
@@ -144,7 +144,7 @@ def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
             parent_element = start_string.getparent()
             if start_string.is_tail:
                 item_element = parent_element
-                item_element.tag = "item"
+                item_element.tag = f"{{{nsmap['tei']}}}item"
                 item_element.text = start_string
                 item_element.tail = "\n"
                 item_element.attrib.clear()
@@ -165,7 +165,7 @@ def seed_jur_p_elements(parent_element: ET._Element, xpath_expr, regex_test):
             parent_element = start_string.getparent()
             if start_string.is_tail:
                 item_element = parent_element
-                item_element.tag = "p"
+                item_element.tag = f"{{{nsmap['tei']}}}p"
                 item_element.text = start_string
                 item_element.tail = "\n"
                 item_element.attrib.clear()
@@ -344,7 +344,7 @@ def denest_p_elements(article_div: ET._Element, ps_with_subs: list):
             following_sibling = sub_p.getnext()
             if following_sibling is None:
                 p_with_subs.addnext(sub_p)
-    return article_div.xpath("./tei:p[./*[local-name()='p' and not(following-sibling::*)]]", namespaces=nsmap)
+    return article_div.xpath("./tei:p[./tei:p[not(following-sibling::*)]]", namespaces=nsmap)
 
 
 def make_jur_sections_in_article(article_div: ET._Element):
@@ -357,10 +357,10 @@ def make_jur_sections_in_article(article_div: ET._Element):
         expand_jur_p_element(p)
     for p in reverse_ordered_ps:
         make_p_label(p)
-    ps_with_subs = article_div.xpath("./tei:p[./*[local-name()='p' and not(following-sibling::*)]]", namespaces=nsmap)
+    ps_with_subs = article_div.xpath("./tei:p[./tei:p[not(following-sibling::*)]]", namespaces=nsmap)
     while ps_with_subs:
         ps_with_subs = denest_p_elements(article_div, ps_with_subs)
-    for p in article_div.xpath("./*[local-name()='p' and not(@type)]"):
+    for p in article_div.xpath("./tei:p[not(@type)]", namespaces=nsmap):
         p.set("type", "legal_section")
 
 
@@ -404,20 +404,9 @@ def replace_unleserlichs(doc):
 
 def replace_hi(doc: TeiReader):
     for hi_element in doc.any_xpath("//tei:hi"):
-        # if span.xpath("@rend='strikethrough:true;'"):
-        #     span.tag = "del"
-        #     _ = span.attrib.pop("rend")
-        # elif span.xpath("@rend='underlined:true;'"):
-        #     span.tag = "ul"
-        #     _ = span.attrib.pop("rend")
-        # elif span.xpath("@rend='italic:true;'"):
-        #     span.attrib["rend"] = "emphasis"
-        # elif span.xpath("@rend='bold:true;'"):
-        #     span.attrib["rend"] = "emphasis"
-        # else:
         #     span.attrib["rend"] = ""
         hi_element.attrib.clear()
-        hi_element.tag = "emph"
+        hi_element.tag = f"{{{nsmap['tei']}}}emph"
 
 lb_encoders = ["-", "¬"]
 def type_lb_elements(doc: TeiReader):
@@ -551,10 +540,6 @@ def create_new_xml_data(
     print(f"processing {bv_doc_id}")
     body_node = doc.any_xpath(".//tei:body")[0]
     article_divs = make_article_divs(doc)
-    for x in doc.anyxpath(".//*"):
-        x: ET._Element
-        if "None" in x.nsmap:
-            input(x.tag)
     substitute_useless_elements(
         doc=doc,
         substitution_dict={
