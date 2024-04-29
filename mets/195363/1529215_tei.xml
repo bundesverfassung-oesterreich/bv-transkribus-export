@@ -184,6 +184,8 @@
         <zone points="2164,3959 2291,3947 2379,3982 2537,3976 2537,3891 2164,3897" rendition="Line" xml:id="facs_4_tr_3_tl_14"/>
         <zone points="1346,3990 1460,4000 1490,3974 1628,4008 1765,3976 2169,4000 2169,3914 2091,3920 2050,3891 1926,3894 1888,3923 1803,3898 1346,3909" rendition="Line" xml:id="facs_4_tr_3_tl_15"/>
         <zone points="2164,3985 2191,3976 2226,3977 2255,3990 2290,3977 2349,3982 2349,3956 2272,3955 2258,3947 2250,3956 2225,3952 2216,3959 2199,3952 2190,3955 2178,3944 2164,3949" rendition="Line" xml:id="facs_4_tr_3_tl_16"/>
+      </zone><zone points="1474,4042 2711,4042 2711,4080 1474,4080" rendition="TextRegion" xml:id="facs_4_r">
+        <zone points="1474,4072 2711,4080 2711,4050 1475,4042" rendition="Line" xml:id="facs_4_l"/>
       </zone></surface><surface ulx="0" uly="0" lrx="3098" lry="4524" xml:id="facs_5"><graphic url="%2Ffiles.jpeg" width="3098px" height="4524px"/><zone points="188,442 1668,442 1668,1657 188,1657" rendition="TextRegion" xml:id="facs_5_tr_5">
         <zone points="253,545 336,511 1571,513 1571,437 1392,449 1247,386 985,463 837,414 623,462 492,412 433,447 255,433" rendition="Line" xml:id="facs_5_tr_5_tl_1"/>
         <zone points="264,591 485,630 614,587 715,631 844,577 1040,575 1100,631 1185,578 1259,610 1374,568 1436,614 1505,573 1574,596 1576,515 1275,501 1121,538 1019,502 688,548 393,516 265,554" rendition="Line" xml:id="facs_5_tr_5_tl_2"/>
@@ -748,6 +750,7 @@
         <zone points="1249,2659 2455,2652 2455,2588 2359,2581 2079,2610 1249,2587" rendition="Line" xml:id="facs_12_tr_1_tl_23"/>
         <zone points="390,2659 432,2675 454,2664 546,2709 607,2715 640,2700 667,2715 689,2697 736,2717 748,2713 752,2577 700,2603 620,2597 580,2619 535,2590 502,2606 461,2592 390,2596" rendition="Line" xml:id="facs_12_tr_1_tl_24"/>
         <zone points="1245,2711 2455,2715 2456,2653 2373,2639 1247,2659" rendition="Line" xml:id="facs_12_tr_1_tl_25"/>
+        <zone points="731,2708 1060,2692 1059,2669 730,2686" rendition="Line" xml:id="facs_12_l_2262"/>
         <zone points="1253,2780 1580,2816 1892,2762 1958,2791 2455,2760 2418,2702 1788,2731 1748,2699 1683,2737 1253,2711" rendition="Line" xml:id="facs_12_tr_1_tl_26"/>
         <zone points="1253,2859 1278,2852 1285,2859 1292,2856 1316,2867 1327,2861 1343,2872 1357,2861 1368,2867 1394,2852 1410,2850 1412,2785 1383,2789 1354,2782 1345,2789 1312,2782 1305,2775 1287,2785 1269,2775 1254,2778" rendition="Line" xml:id="facs_12_tr_1_tl_27"/>
       </zone><zone points="292,3022 1179,3022 1179,4061 292,4061" rendition="TextRegion" xml:id="facs_12_tr_4">
@@ -1215,7 +1218,6 @@
         <zone points="1355,1550 2407,1523 2488,1556 2501,1477 2217,1514 1896,1471 1355,1503" rendition="Line" xml:id="facs_20_tr_2_tl_6"/>
         <zone points="1288,1613 2396,1603 2435,1596 2436,1532 1741,1530 1698,1564 1289,1541" rendition="Line" xml:id="facs_20_tr_2_tl_7"/>
         <zone points="809,1728 837,1715 850,1725 870,1705 901,1725 927,1707 970,1727 1051,1731 1093,1747 1088,1616 1035,1641 995,1644 978,1630 926,1629 895,1609 864,1632 807,1649" rendition="Line" xml:id="facs_20_tr_2_tl_8"/>
-        <zone points="645,1719 697,1708 714,1716 725,1710 731,1716 744,1707 761,1721 769,1716 781,1722 784,1619 758,1626 746,1622 721,1641 703,1646 680,1638 648,1642" rendition="Line" xml:id="facs_20_tr_2_tl_9"/>
         <zone points="1738,1759 1761,1748 1827,1759 1891,1747 1925,1765 2025,1764 2058,1748 2058,1662 1989,1672 1968,1661 1868,1693 1821,1669 1774,1695 1765,1687 1738,1699" rendition="Line" xml:id="facs_20_tr_2_tl_10"/>
         <zone points="1358,1868 2501,1842 2502,1779 2442,1762 1911,1808 1360,1776" rendition="Line" xml:id="facs_20_tr_2_tl_11"/>
         <zone points="1277,1925 2497,1914 2497,1859 2413,1834 1279,1874" rendition="Line" xml:id="facs_20_tr_2_tl_12"/>
@@ -1225,6 +1227,8 @@
         <zone points="1286,2194 2499,2167 2482,2104 1288,2138" rendition="Line" xml:id="facs_20_tr_2_tl_16"/>
         <zone points="1288,2261 1739,2227 2164,2253 2302,2217 2496,2247 2497,2167 2243,2164 2095,2215 1917,2174 1289,2194" rendition="Line" xml:id="facs_20_tr_2_tl_17"/>
         <zone points="1292,2302 1443,2333 1520,2302 1641,2345 1727,2315 1796,2344 1925,2309 2058,2329 2060,2252 1997,2233 1692,2261 1352,2238 1294,2267" rendition="Line" xml:id="facs_20_tr_2_tl_18"/>
+      </zone><zone points="2524,1467 2594,1467 2594,1505 2524,1505" rendition="TextRegion" xml:id="facs_20_r_1521">
+        <zone points="2527,1505 2594,1497 2590,1467 2524,1475" rendition="Line" xml:id="facs_20_l_1513"/>
       </zone><zone points="1298,2383 2517,2383 2517,3972 1298,3972" rendition="TextRegion" xml:id="facs_20_tr_1">
         <zone points="1738,2458 1794,2476 1828,2470 1845,2454 1874,2456 1899,2435 1928,2454 2002,2441 2062,2454 2063,2381 2005,2376 1988,2364 1942,2378 1888,2359 1807,2393 1739,2390" rendition="Line" xml:id="facs_20_tr_1_tl_1"/>
         <zone points="1443,2543 2454,2539 2497,2527 2499,2474 2278,2445 2085,2481 2014,2438 1753,2493 1443,2487" rendition="Line" xml:id="facs_20_tr_1_tl_2"/>
@@ -1618,7 +1622,6 @@
         <zone points="484,237 498,232 513,242 519,236 529,243 541,237 555,250 563,242 572,243 572,155 550,155 546,160 535,157 527,149 513,155 504,155 499,150 493,155 484,155" rendition="Line" xml:id="facs_27_tr_2_tl_1"/>
         <zone points="1716,381 2940,358 2940,307 2824,287 1717,318" rendition="Line" xml:id="facs_27_tr_2_tl_2"/>
         <zone points="1716,446 2892,422 2925,374 1717,381" rendition="Line" xml:id="facs_27_tr_2_tl_3"/>
-        <zone points="1362,488 1392,485 1434,494 1457,479 1463,484 1469,479 1474,484 1488,477 1497,480 1504,394 1479,394 1472,386 1466,391 1448,372 1429,378 1421,367 1393,377 1380,391 1369,391" rendition="Line" xml:id="facs_27_tr_2_tl_4"/>
         <zone points="639,498 736,498 772,522 1074,476 1187,532 1308,524 1324,370 1186,352 1018,414 925,414 876,378 800,412 645,336" rendition="Line" xml:id="facs_27_tr_2_tl_5"/>
         <zone points="1719,507 2469,471 2533,512 2695,474 2920,507 2933,409 1720,448" rendition="Line" xml:id="facs_27_tr_2_tl_6"/>
         <zone points="1716,570 1824,553 2142,598 2587,538 2587,505 2531,512 2471,471 2392,502 2328,482 2246,507 1716,502" rendition="Line" xml:id="facs_27_tr_2_tl_7"/>
@@ -2291,7 +2294,7 @@
 
       <lb facs="#facs_2_l_3816" n="N003"/>der b. wird gebildet aus den
 
-      <lb facs="#facs_2_l_3822" n="N004"/>selbständig.[ß] Ländern
+      <lb facs="#facs_2_l_3822" n="N004"/>selbständig.[?] Ländern
 
       <lb facs="#facs_2_l_3828" n="N005"/>3. unleserlich
 
@@ -2304,7 +2307,7 @@
       <lb facs="#facs_2_l_3858" n="N010"/>10[?] steht unter dem Schutze
 </ab><ab facs="#facs_2_tr_1" type="">
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>Zweite Fassung.
-      <lb facs="#facs_2_tr_1_tl_2" n="N002"/>mit ...[?] der Ergebnisse der Linzer
+      <lb facs="#facs_2_tr_1_tl_2" n="N002"/>mit Ersichtlichmachung der Ergebnisse der Linzer
 
       <lb facs="#facs_2_tr_1_tl_3" n="N003"/>Länderkonferenz.
 
@@ -2314,7 +2317,7 @@
 
       <lb facs="#facs_2_tr_1_tl_6" n="N006"/>Tinte angegeben :|
 
-      <lb facs="#facs_2_tr_1_tl_7" n="N007"/>N3[?] berücksichtigt
+      <lb facs="#facs_2_tr_1_tl_7" n="N007"/>NB Berücksichtigt
       <lb facs="#facs_2_tr_1_tl_8" n="N008"/>Vorentwurf
       <lb facs="#facs_2_tr_1_tl_9" n="N009"/>Siehe die Seiten
 
@@ -2340,7 +2343,7 @@
       <lb facs="#facs_2_tr_1_tl_23" n="N024"/>Gesetz über die Verfassung
 
       <lb facs="#facs_2_tr_1_tl_24" n="N025"/>Erster Abschnitt.
-      <lb facs="#facs_2_tr_1_tl_25" n="N026"/>der ...[?]
+      <lb facs="#facs_2_tr_1_tl_25" n="N026"/>der Republik Oesterreich.
 
       <lb facs="#facs_2_tr_1_tl_26" n="N027"/>Allgemeine Bestimmungen.
       <lb facs="#facs_2_tr_1_tl_27" n="N028"/>Artikel 1.
@@ -2488,9 +2491,11 @@
       <lb facs="#facs_4_tr_3_tl_13" n="N013"/>und Angestelltenschuß, soweit es sich nicht um la¬
       <lb facs="#facs_4_tr_3_tl_14" n="N014"/>und Angestellte
       <lb facs="#facs_4_tr_3_tl_15" n="N015"/>und forstwirtschaftliche Arbeiter -
-      <lb facs="#facs_4_tr_3_tl_16" n="N016"/>— —</ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_tr_5" type="">
+      <lb facs="#facs_4_tr_3_tl_16" n="N016"/>— —</ab><ab facs="#facs_4_r" type="">
+      <lb facs="#facs_4_l" n="N001"/>Mayr als größeren[? Teil in ...
+</ab><pb facs="#facs_5" n="5" xml:id="img_0005"/><ab facs="#facs_5_tr_5" type="">
       <lb facs="#facs_5_tr_5_tl_1" n="N001"/>9a das Vereins- und Versamm¬
-      <lb facs="#facs_5_tr_5_tl_2" n="N002"/>llungsrecht; die Angelegenhei¬
+      <lb facs="#facs_5_tr_5_tl_2" n="N002"/>lungsrecht; die Angelegenhei¬
       <lb facs="#facs_5_l" n="N003"/>Presserecht[?]
 
       <lb facs="#facs_5_tr_5_tl_3" n="N004"/>ten der Presse,
@@ -3045,11 +3050,14 @@
       <lb facs="#facs_12_tr_1_tl_21" n="N023"/>des Bundesrates verlangt wird, ist nach erfolgter
       <lb facs="#facs_12_tr_1_tl_22" n="N024"/>Beschlußfassung durch den Bundestag und Ge¬
       <lb facs="#facs_12_tr_1_tl_23" n="N025"/>nehmigung durch den Bundesrat, jedoch vor der
-      <lb facs="#facs_12_tr_1_tl_24" n="N026"/>jedoch geh
+      <lb facs="#facs_12_tr_1_tl_24" n="N026"/>jedoch gehört nach Art.
+
       <lb facs="#facs_12_tr_1_tl_25" n="N027"/>Beurkundung durch den Bundespräsidenten einer
-      <lb facs="#facs_12_tr_1_tl_26" n="N028"/>Abstimmung des gesamten Bundesvolkes zu unter¬
-      <lb facs="#facs_12_tr_1_tl_27" n="N029"/>ziehen.</ab><ab facs="#facs_12_tr_4" type="">
-      <lb facs="#facs_12_tr_4_tl_1" n="N001"/>von der bewirkung
+      <lb facs="#facs_12_l_2262" n="N028"/>33 ...[?]
+
+      <lb facs="#facs_12_tr_1_tl_26" n="N029"/>Abstimmung des gesamten Bundesvolkes zu unter¬
+      <lb facs="#facs_12_tr_1_tl_27" n="N030"/>ziehen.</ab><ab facs="#facs_12_tr_4" type="">
+      <lb facs="#facs_12_tr_4_tl_1" n="N001"/>vor der Beurkundung
       <lb facs="#facs_12_tr_4_tl_2" n="N002"/>seyn unterziehen wäre der Stadt
       <lb facs="#facs_12_tr_4_tl_3" n="N003"/>Blint
       <lb facs="#facs_12_tr_4_tl_4" n="N004"/>des Nationalrates
@@ -3089,13 +3097,13 @@
       <lb facs="#facs_13_tr_2_tl_14" n="N014"/>D. mich
       <lb facs="#facs_13_tr_2_tl_15" n="N015"/>auszuschreiben.
       <lb facs="#facs_13_tr_2_tl_16" n="N016"/>Artikel 37.
-      <lb facs="#facs_13_tr_2_tl_17" n="N017"/>Das Verfahren für Dele
+      <lb facs="#facs_13_tr_2_tl_17" n="N017"/>Das Verfahren für das
       <lb facs="#facs_13_tr_2_tl_18" n="N018"/>(1) Das Verfahren für die Volksabstimmung
-      <lb facs="#facs_13_tr_2_tl_19" n="N019"/>erster begehren u. für in An¬
+      <lb facs="#facs_13_tr_2_tl_19" n="N019"/>Volksbegehren u. für in den
       <lb facs="#facs_13_tr_2_tl_20" n="N020"/>sowie für die in den Artikeln 30 und 33 vorgesehene
-      <lb facs="#facs_13_tr_2_tl_21" n="N021"/>Artikeln
+      <lb facs="#facs_13_tr_2_tl_21" n="N021"/>Artikeln[?]
       <lb facs="#facs_13_tr_2_tl_22" n="N022"/>Volksinitiative wird durch Bundesgesetz geregelt.
-      <lb facs="#facs_13_tr_2_tl_23" n="N023"/>Begehren
+      <lb facs="#facs_13_tr_2_tl_23" n="N023"/>begehren
       <lb facs="#facs_13_tr_2_tl_24" n="N024"/>(2) Stimmberechtigt ist jeder zum Bundestag
       <lb facs="#facs_13_tr_2_tl_25" n="N025"/>D
       <lb facs="#facs_13_tr_2_tl_26" n="N026"/>wahlberechtigte Bundesangehörige.
@@ -3103,16 +3111,18 @@
       <lb facs="#facs_13_tr_2_tl_28" n="N028"/>(3) Der Bundespräsident ordnet die Volks¬
       <lb facs="#facs_13_tr_2_tl_29" n="N029"/>abstimmung an.</ab><ab facs="#facs_13_tr_1" type="">
       <lb facs="#facs_13_tr_1_tl_1" n="N001"/>D. singenreiß
-      <lb facs="#facs_13_tr_1_tl_2" n="N002"/>Mein
-      <lb facs="#facs_13_tr_1_tl_3" n="N003"/>D kam. Einternes
-      <lb facs="#facs_13_tr_1_tl_4" n="N004"/>Hassung
+      <lb facs="#facs_13_tr_1_tl_2" n="N002"/>Meine
+      <lb facs="#facs_13_tr_1_tl_3" n="N003"/>D kann Einspruch
+      <lb facs="#facs_13_tr_1_tl_4" n="N004"/>Hoffnung des
+
       <lb facs="#facs_13_tr_1_tl_5" n="N005"/>erheben.
-      <lb facs="#facs_13_tr_1_tl_6" n="N006"/>Stankb.
+      <lb facs="#facs_13_tr_1_tl_6" n="N006"/>Staates.
       <lb facs="#facs_13_tr_1_tl_7" n="N007"/>Art. 38
       <lb facs="#facs_13_tr_1_tl_8" n="N008"/>D das zweite
-      <lb facs="#facs_13_tr_1_tl_9" n="N009"/>M mal nach Lüsselin
-      <lb facs="#facs_13_tr_1_tl_10" n="N010"/>Vie le messil
-      <lb facs="#facs_13_tr_1_tl_11" n="N011"/>publizier!</ab><ab facs="#facs_13_tr_3" type="">
+      <lb facs="#facs_13_tr_1_tl_9" n="N009"/>mal nach L...
+      <lb facs="#facs_13_tr_1_tl_10" n="N010"/>der Landes...
+
+      <lb facs="#facs_13_tr_1_tl_11" n="N011"/>publiziert</ab><ab facs="#facs_13_tr_3" type="">
       <lb facs="#facs_13_tr_3_tl_1" n="N001"/>Artikel 38.
       <lb facs="#facs_13_tr_3_tl_2" n="N002"/>(1) Jeder Gesetzesbeschluß des Bundestages ist
       <lb facs="#facs_13_tr_3_tl_3" n="N003"/>unverzüglich durch den Präsidenten des Bundes¬
@@ -3157,11 +3167,13 @@
       <lb facs="#facs_14_tr_1_tl_10" n="N010"/>Artikel 40.
       <lb facs="#facs_14_tr_1_tl_11" n="N011"/>(1) Das verfassungsmäßige Zustandekommen der
       <lb facs="#facs_14_tr_1_tl_12" n="N012"/>Bundesgesetze sowie der im Artikel 17, Absatz 1
-      <lb facs="#facs_14_tr_1_tl_13" n="N013"/>Stene
+      <lb facs="#facs_14_tr_1_tl_13" n="N013"/>Neue[?]
+
       <lb facs="#facs_14_tr_1_tl_14" n="N014"/>und 2, und Artikel 18 erwähnten Beschlüsse des
       <lb facs="#facs_14_tr_1_tl_15" n="N015"/>Bundestages und des Bundesrates wird durch die
       <lb facs="#facs_14_tr_1_tl_16" n="N016"/>D.
-      <lb facs="#facs_14_tr_1_tl_17" n="N017"/>Gesserung
+      <lb facs="#facs_14_tr_1_tl_17" n="N017"/>Hoffnung
+
       <lb facs="#facs_14_tr_1_tl_18" n="N018"/>Unterschrift des Bundespräsidenten beurkundet.
       <lb facs="#facs_14_tr_1_tl_19" n="N019"/>(2) Diese Beurkundung ist vom Bundeskanzler
       <lb facs="#facs_14_tr_1_tl_20" n="N020"/>und von den zuständigen Bundesministern gegen¬
@@ -3175,7 +3187,8 @@
       <lb facs="#facs_14_tr_3_tl_7" n="N007"/>auf deren Ergebnis, im Falle des Artikels 39, Ab¬
       <lb facs="#facs_14_tr_3_tl_8" n="N008"/>satz 4, lediglich mit Berufung auf den Beschluß des
       <lb facs="#facs_14_tr_3_tl_9" n="N009"/>Bundestages unter Anführung dieser Gesetzesstelle;
-      <lb facs="#facs_14_tr_3_tl_10" n="N010"/>Puginnet
+      <lb facs="#facs_14_tr_3_tl_10" n="N010"/>D sinngemäß
+
       <lb facs="#facs_14_tr_3_tl_11" n="N011"/>die Kundmachung der in Artikel 17, Absatz 1 und
       <lb facs="#facs_14_tr_3_tl_12" n="N012"/>Artikel 18 erwähnten Beschlüsse des Bundestages
       <lb facs="#facs_14_tr_3_tl_13" n="N013"/>mit ausdrücklicher Berufung auf den Beschluß des
@@ -3263,9 +3276,9 @@
       <lb facs="#facs_16_tr_1_tl_2" n="N002"/>Bundesrates sowie deren Ausschüsse teilzunehmen,
       <lb facs="#facs_16_tr_1_tl_3" n="N003"/>jedoch mit Ausnahme des im Artikel 60 vor¬
       <lb facs="#facs_16_tr_1_tl_4" n="N004"/>gesehenen besonderen Ausschusses, an dessen Be¬
-      <lb facs="#facs_16_tr_1_tl_5" n="N005"/>Hauptunschichster
+      <lb facs="#facs_16_tr_1_tl_5" n="N005"/>Hauptausschusses
       <lb facs="#facs_16_tr_1_tl_6" n="N006"/>ratungen sie nur auf besondere Einladung teilnehmen
-      <lb facs="#facs_16_tr_1_tl_7" n="N007"/>Derselbe
+      <lb facs="#facs_16_tr_1_tl_7" n="N007"/>dürfen
       <lb facs="#facs_16_tr_1_tl_8" n="N008"/>können. Sie müssen auf ihr Verlangen jedesmal
       <lb facs="#facs_16_tr_1_tl_9" n="N009"/>gehört werden. Der Bundestag sowie der Bundes¬
       <lb facs="#facs_16_tr_1_tl_10" n="N010"/>rat kann die Anwesenheit der Mitglieder der Bundes¬
@@ -3481,20 +3494,21 @@
       <lb facs="#facs_20_tr_2_tl_2" n="N002"/>verwaltung sind die Bundesämter, und zwar das
       <lb facs="#facs_20_tr_2_tl_3" n="N003"/>Bundeskanzleramt, und die Bundesministerien und die
       <lb facs="#facs_20_tr_2_tl_4" n="N004"/>ihnen unterstellten Organe berufen.
-      <lb facs="#facs_20_tr_2_tl_5" n="N005"/>Ministenren
+      <lb facs="#facs_20_tr_2_tl_5" n="N005"/>Ministerien
       <lb facs="#facs_20_tr_2_tl_6" n="N006"/>(2) Die Zahl der Bundesämter und deren
       <lb facs="#facs_20_tr_2_tl_7" n="N007"/>Wirkungskreis wird durch Bundesgesetz bestimmt.
-      <lb facs="#facs_20_tr_2_tl_8" n="N008"/>Die Einrichts
-      <lb facs="#facs_20_tr_2_tl_9" n="N009"/>a ih
-      <lb facs="#facs_20_tr_2_tl_10" n="N010"/>Artikel 65.
-      <lb facs="#facs_20_tr_2_tl_11" n="N011"/>(1) Das Bundeskanzleramt wird vom Bundes¬
-      <lb facs="#facs_20_tr_2_tl_12" n="N012"/>kanzler geleitet; jedes Bundesministerium steht unter
-      <lb facs="#facs_20_tr_2_tl_13" n="N013"/>der Leitung eines Bundesministers.
-      <lb facs="#facs_20_tr_2_tl_14" n="N014"/>(2) Der Bundeskanzler und die Bundesminister
-      <lb facs="#facs_20_tr_2_tl_15" n="N015"/>können ausnahmsweise auch mit der Führung eines
-      <lb facs="#facs_20_tr_2_tl_16" n="N016"/>zweiten Bundesamtes betraut werden. Ebenso kann
-      <lb facs="#facs_20_tr_2_tl_17" n="N017"/>dem Vizekanzler die Leitung eines Bundes¬
-      <lb facs="#facs_20_tr_2_tl_18" n="N018"/>ministeriums übertragen werden.</ab><ab facs="#facs_20_tr_1" type="">
+      <lb facs="#facs_20_tr_2_tl_8" n="N008"/>u ihre ...richtigung[?]
+
+      <lb facs="#facs_20_tr_2_tl_10" n="N009"/>Artikel 65.
+      <lb facs="#facs_20_tr_2_tl_11" n="N010"/>(1) Das Bundeskanzleramt wird vom Bundes¬
+      <lb facs="#facs_20_tr_2_tl_12" n="N011"/>kanzler geleitet; jedes Bundesministerium steht unter
+      <lb facs="#facs_20_tr_2_tl_13" n="N012"/>der Leitung eines Bundesministers.
+      <lb facs="#facs_20_tr_2_tl_14" n="N013"/>(2) Der Bundeskanzler und die Bundesminister
+      <lb facs="#facs_20_tr_2_tl_15" n="N014"/>können ausnahmsweise auch mit der Führung eines
+      <lb facs="#facs_20_tr_2_tl_16" n="N015"/>zweiten Bundesamtes betraut werden. Ebenso kann
+      <lb facs="#facs_20_tr_2_tl_17" n="N016"/>dem Vizekanzler die Leitung eines Bundes¬
+      <lb facs="#facs_20_tr_2_tl_18" n="N017"/>ministeriums übertragen werden.</ab><ab facs="#facs_20_r_1521" type="">
+      <lb facs="#facs_20_l_1513" n="N001"/>ihr</ab><ab facs="#facs_20_tr_1" type="">
       <lb facs="#facs_20_tr_1_tl_1" n="N001"/>Artikel 66.
       <lb facs="#facs_20_tr_1_tl_2" n="N002"/>In besonderen Fällen kann die Bestellung von
       <lb facs="#facs_20_tr_1_tl_3" n="N003"/>Bundesministern auch ohne gleichzeitige Betrauung
@@ -3523,7 +3537,7 @@
       <lb facs="#facs_21_tr_1_tl_6" n="N006"/>(2) Ferner obliegt dem Bundesheer der Schutz
       <lb facs="#facs_21_tr_1_tl_7" n="N007"/>der Grenzen der Republik.
       <lb facs="#facs_21_tr_1_tl_8" n="N008"/>Artikel 70.
-      <lb facs="#facs_21_tr_1_tl_9" n="N009"/> ustionals
+      <lb facs="#facs_21_tr_1_tl_9" n="N009"/>Nationale
       <lb facs="#facs_21_tr_1_tl_10" n="N010"/>(1) Über das Heer verfügt der Bundestag. In¬
       <lb facs="#facs_21_tr_1_tl_11" n="N011"/>soweit diesem nicht durch das Wehrgesetz die un¬
       <lb facs="#facs_21_tr_1_tl_12" n="N012"/>mittelbare Verfügung vorbehalten ist, wird mit der
@@ -3564,7 +3578,8 @@
       <lb facs="#facs_21_tr_2_tl_15" n="N015"/>zu setzen.
       <lb facs="#facs_21_tr_2_tl_16" n="N016"/>(4) Das Verfahren wegen Delikten gegen das
       <lb facs="#facs_21_tr_2_tl_17" n="N017"/>Völkerrecht wird dem Verfassungsgerichtshofe über¬
-      <lb facs="#facs_21_tr_2_tl_18" n="N018"/>Gegen Verlohungen
+      <lb facs="#facs_21_tr_2_tl_18" n="N018"/>Gegen Verletzungen [?]
+
       <lb facs="#facs_21_tr_2_tl_19" n="N019"/>tragen.</ab><pb facs="#facs_22" n="22" xml:id="img_0022"/><ab facs="#facs_22_tr_3" type="">
       <lb facs="#facs_22_tr_3_tl_1" n="N001"/>21
       <lb facs="#facs_22_tr_3_tl_2" n="N002"/>Artikel 74.
@@ -3638,9 +3653,9 @@
       <lb facs="#facs_23_tr_2_tl_16" n="N016"/>des Verfassungsgerichtshofes enthält der siebente Ab¬
       <lb facs="#facs_23_tr_2_tl_17" n="N017"/>schnitt.</ab><ab facs="#facs_23_tr_4" type="">
       <lb facs="#facs_23_tr_4_tl_1" n="N001"/>In Strafverfahren über
-      <lb facs="#facs_23_tr_4_tl_2" n="N002"/>andere Verbrechen v Vergehen
-      <lb facs="#facs_23_tr_4_tl_3" n="N003"/>nehmen Schöffmann der Recht
-      <lb facs="#facs_23_tr_4_tl_4" n="N004"/>sprehung teil.</ab><ab facs="#facs_23_tr_3" type="">
+      <lb facs="#facs_23_tr_4_tl_2" n="N002"/>andere Verbrechen u Vergehen
+      <lb facs="#facs_23_tr_4_tl_3" n="N003"/>nehmen Schöffen an der Recht-
+      <lb facs="#facs_23_tr_4_tl_4" n="N004"/>sprechung teil.</ab><ab facs="#facs_23_tr_3" type="">
       <lb facs="#facs_23_tr_3_tl_1" n="N001"/>Artikel 80.
       <lb facs="#facs_23_tr_3_tl_2" n="N002"/>(1) Die Verhandlungen in Zivil= und Straf¬
       <lb facs="#facs_23_tr_3_tl_3" n="N003"/>rechtssachen vor dem erkennenden Gericht sind
@@ -3684,7 +3699,7 @@
       <lb facs="#facs_24_tr_1_tl_10" n="N010"/>tagswahlordnungen wahlberechtigten männlichen und
       <lb facs="#facs_24_tr_1_tl_11" n="N011"/>weiblichen Bundesangehörigen gewählt werden.
       <lb facs="#facs_24_tr_1_tl_12" n="N012"/>(2) Die Landtagswahlordnungen dürfen die Be¬
-      <lb facs="#facs_24_tr_1_tl_13" n="N013"/>+ Die Wahlordungen
+      <lb facs="#facs_24_tr_1_tl_13" n="N013"/>Die Wahlordungen
       <lb facs="#facs_24_tr_1_tl_14" n="N014"/>dingungen des aktiven und passiven Wahlrechtes
       <lb facs="#facs_24_tr_1_tl_15" n="N015"/>nicht enger ziehen, als dies in der Wahlordnung
       <lb facs="#facs_24_tr_1_tl_16" n="N016"/>für alle Wahlen zu öffent¬
@@ -3704,31 +3719,31 @@
       <lb facs="#facs_24_tr_1_tl_30" n="N030"/>(1) Zu einem Landesgesetz ist der Beschluß des
       <lb facs="#facs_24_tr_1_tl_31" n="N031"/>"Präsidenten" und des
       <lb facs="#facs_24_tr_1_tl_32" n="N032"/>Landtages, die Beurkundung durch dessen Präsidenten,
-      <lb facs="#facs_24_tr_1_tl_33" n="N033"/>Landeshauptmannes" nur
+      <lb facs="#facs_24_tr_1_tl_33" n="N033"/>"Landeshauptmannes" nur
       <lb facs="#facs_24_tr_1_tl_34" n="N034"/>die Gegenzeichnung durch den Landeshauptmann
       <lb facs="#facs_24_tr_1_tl_35" n="N035"/>und die Kundmachung durch die Landesregierung im
-      <lb facs="#facs_24_tr_1_tl_36" n="N036"/>Erkultativ :/
+      <lb facs="#facs_24_tr_1_tl_36" n="N036"/>fakultativ :/
       <lb facs="#facs_24_tr_1_tl_37" n="N037"/>Landesgesetzblatte erforderlich.
       <lb facs="#facs_24_tr_1_tl_38" n="N038"/>(2) Insoweit ein Landesgesetz bei der Vollziehung
       <lb facs="#facs_24_tr_1_tl_39" n="N039"/>die Mitwirkung von Bundesbehörden vorsieht, muß zu
-      <lb facs="#facs_24_tr_1_tl_40" n="N040"/>1. Sür obligatorische Treu¬
+      <lb facs="#facs_24_tr_1_tl_40" n="N040"/>1. Für obligatorische Tren¬
       <lb facs="#facs_24_tr_1_tl_41" n="N041"/>dieser Mitwirkung die Zustimmung der Bundes¬
       <lb facs="#facs_24_tr_1_tl_42" n="N042"/>nung :/
       <lb facs="#facs_24_tr_1_tl_43" n="N043"/>regierung eingeholt werden. Vor Erteilung der Zu¬
       <lb facs="#facs_24_tr_1_tl_44" n="N044"/>stimmung kann ein solches Landesgesetz nicht kund¬
       <lb facs="#facs_24_tr_1_tl_45" n="N045"/>1. Nähere Umschreibung
       <lb facs="#facs_24_tr_1_tl_46" n="N046"/>gemacht werden.
-      <lb facs="#facs_24_tr_1_tl_47" n="N047"/>der Begriffes dem, Mitwir¬
+      <lb facs="#facs_24_tr_1_tl_47" n="N047"/>des Begriffes der ,Mitwir¬
       <lb facs="#facs_24_tr_1_tl_48" n="N048"/>Artikel 88.
       <lb facs="#facs_24_tr_1_tl_49" n="N049"/>kung :/</ab><ab facs="#facs_24_tr_2" type="">
-      <lb facs="#facs_24_tr_2_tl_1" n="N001"/>vierzehn Tagen (wen
+      <lb facs="#facs_24_tr_2_tl_1" n="N001"/>vierzehn Tagen /: even-
       <lb facs="#facs_24_tr_2_tl_2" n="N002"/>tuell vier Wochen, falls
-      <lb facs="#facs_24_tr_2_tl_3" n="N003"/>die ausdrückliche Vorscheift
-      <lb facs="#facs_24_tr_2_tl_4" n="N004"/>aufgenommen wird Jahr,
+      <lb facs="#facs_24_tr_2_tl_3" n="N003"/>die ausdrückliche Vorschrift
+      <lb facs="#facs_24_tr_2_tl_4" n="N004"/>aufgenommen wird, daß
       <lb facs="#facs_24_tr_2_tl_5" n="N005"/>binnen dieser Frist auch
-      <lb facs="#facs_24_tr_2_tl_6" n="N006"/>schon die Begeindung be¬
-      <lb facs="#facs_24_tr_2_tl_7" n="N007"/>kanntgegeben worden.
-      <lb facs="#facs_24_tr_2_tl_8" n="N008"/>wäre)</ab><ab facs="#facs_24_tr_3" type="">
+      <lb facs="#facs_24_tr_2_tl_6" n="N006"/>schon die Begründung be¬
+      <lb facs="#facs_24_tr_2_tl_7" n="N007"/>kanntgegeben worden
+      <lb facs="#facs_24_tr_2_tl_8" n="N008"/>wäre:/</ab><ab facs="#facs_24_tr_3" type="">
       <lb facs="#facs_24_tr_3_tl_1" n="N001"/>(1) Alle Gesetzesbeschlüsse der Landtage sind un¬
       <lb facs="#facs_24_tr_3_tl_2" n="N002"/>mittelbar nach erfolgter Beschlußfassung des Land¬
       <lb facs="#facs_24_tr_3_tl_3" n="N003"/>tages und vor ihrer Kundmachung vom Landes¬
@@ -3747,7 +3762,7 @@
       <lb facs="#facs_25_tr_1_tl_3" n="N003"/>(1) Die Kundmachung der Landesgesetze erfolgt
       <lb facs="#facs_25_tr_1_tl_4" n="N004"/>mit Berufung auf den Beschluß des Landtages
       <lb facs="#facs_25_tr_1_tl_5" n="N005"/>durch die Landesregierung im Landesgesetzblatte.
-      <lb facs="#facs_25_tr_1_tl_6" n="N006"/>Füllt wird
+      <lb facs="#facs_25_tr_1_tl_6" n="N006"/>fällt weg
       <lb facs="#facs_25_tr_1_tl_7" n="N007"/>(2) Landesgesetze treten, wenn darin selbst nicht
       <lb facs="#facs_25_tr_1_tl_8" n="N008"/>ausdrücklich eine andere Bestimmung getroffen wird,
       <lb facs="#facs_25_tr_1_tl_9" n="N009"/>nach Ablauf des Tages der erfolgten Verlautbarung in
@@ -3756,11 +3771,11 @@
       <lb facs="#facs_25_tr_1_tl_12" n="N012"/>(1) Jeder Landtag kann auf Antrag der Bundes¬
       <lb facs="#facs_25_tr_1_tl_13" n="N013"/>/: Qualifizierter Beschluss des
       <lb facs="#facs_25_tr_1_tl_14" n="N014"/>regierung mit Zustimmung des Bundesrates vom
-      <lb facs="#facs_25_tr_1_tl_15" n="N015"/>Bundwater: 2/3 Majorität
+      <lb facs="#facs_25_tr_1_tl_15" n="N015"/>Bundrates: 2/3 Majorität
       <lb facs="#facs_25_tr_1_tl_16" n="N016"/>Bundespräsidenten aufgelöst werden.
       <lb facs="#facs_25_tr_1_tl_17" n="N017"/>bei Anwesenheit von mehr als
       <lb facs="#facs_25_tr_1_tl_18" n="N018"/>(2) In diesem Falle hat der Landeshauptmann
-      <lb facs="#facs_25_tr_1_tl_19" n="N019"/>der Hälfte der Mitglieder)
+      <lb facs="#facs_25_tr_1_tl_19" n="N019"/>der Hälfte der Mitglieder:/
       <lb facs="#facs_25_tr_1_tl_20" n="N020"/>binnen sechs Wochen Neuwahlen auszuschreiben und
       <lb facs="#facs_25_tr_1_tl_21" n="N021"/>binnen vier Wochen nach durchgeführter Wahl den
       <lb facs="#facs_25_tr_1_tl_22" n="N022"/>neugewählten Landtag einzuberufen.
@@ -3773,7 +3788,7 @@
       <lb facs="#facs_25_tr_1_tl_29" n="N029"/>der erforderlichen Zahl von
       <lb facs="#facs_25_tr_1_tl_30" n="N030"/>hauptmann, seinem Stellvertreter und
       <lb facs="#facs_25_tr_1_tl_31" n="N031"/>bis
-      <lb facs="#facs_25_tr_1_tl_32" n="N032"/>Stellvertertern und 4 bis 8
+      <lb facs="#facs_25_tr_1_tl_32" n="N032"/>Stellvertretern und 4 bis 8
       <lb facs="#facs_25_tr_1_tl_33" n="N033"/>weiteren Mitgliedern.
       <lb facs="#facs_25_tr_1_tl_34" n="N034"/>weiteren Mitgliedern.
       <lb facs="#facs_25_tr_1_tl_35" n="N035"/>(3) Der Landeshauptmann und sein Stellvertreter
@@ -3782,7 +3797,7 @@
       <lb facs="#facs_25_tr_1_tl_38" n="N038"/>Artikel 92.
       <lb facs="#facs_25_tr_1_tl_39" n="N039"/>(1) Die vollziehende Gewalt des Bundes wird
       <lb facs="#facs_25_tr_1_tl_40" n="N040"/>im Bereiche der Länder von den Landesregierungen
-      <lb facs="#facs_25_tr_1_tl_41" n="N041"/>1. Siehe den diesbezüglichen
+      <lb facs="#facs_25_tr_1_tl_41" n="N041"/>/: Siehe den diesbezüglichen
       <lb facs="#facs_25_tr_1_tl_42" n="N042"/>und den ihnen unterstellten Landesbehörden im über¬
       <lb facs="#facs_25_tr_1_tl_43" n="N043"/>besonderen Antrag :/
       <lb facs="#facs_25_tr_1_tl_44" n="N044"/>tragenen Wirkungskreis ausgeübt, soweit nicht für
@@ -3795,14 +3810,14 @@
       <lb facs="#facs_25_tr_1_tl_51" n="N051"/>(3) In den von den Landesbehörden als Bundes¬
       <lb facs="#facs_25_tr_1_tl_52" n="N052"/>organen zu führenden Angelegenheiten geht der
       <lb facs="#facs_25_tr_1_tl_53" n="N053"/>administative Instanzenzug — wenn nicht durch
-      <lb facs="#facs_25_tr_1_tl_54" n="N054"/>wie mittelbar
+      <lb facs="#facs_25_tr_1_tl_54" n="N054"/>unmittelbaren
       <lb facs="#facs_25_tr_1_tl_55" n="N055"/>Bundesgesetz ausdrücklich anders bestimmt ist
       <lb facs="#facs_25_tr_1_tl_56" n="N056"/>bis zu den zuständigen Bundesämtern.
       <lb facs="#facs_25_tr_1_tl_57" n="N057"/>Artikel 93.
       <lb facs="#facs_25_tr_1_tl_58" n="N058"/>(1) Der Landeshauptmann oder sein Stellvertreter
       <lb facs="#facs_25_tr_1_tl_59" n="N059"/>vertritt das Land. Er trägt in den Angelegenheiten
       <lb facs="#facs_25_tr_1_tl_60" n="N060"/>des der Landesregierung übertragenen Wirkung¬
-      <lb facs="#facs_25_tr_1_tl_61" n="N061"/>﻿Muh M. 20
+      <lb facs="#facs_25_tr_1_tl_61" n="N061"/>﻿.... 28[?]
       <lb facs="#facs_25_tr_1_tl_62" n="N062"/>kreises der Bundesgewalt die Verantwortung gegen¬
       <lb facs="#facs_25_tr_1_tl_63" n="N063"/>über der Bundesregierung gemäß Artikel 152. Der
       <lb facs="#facs_25_tr_1_tl_64" n="N064"/>Geltendmachung dieser Verantwortung steht die
@@ -3812,7 +3827,7 @@
       <lb facs="#facs_26_tr_3_tl_1" n="N001"/>25
       <lb facs="#facs_26_tr_3_tl_2" n="N002"/>Artikel 94.
       <lb facs="#facs_26_tr_3_tl_3" n="N003"/>Zur Leitung des gesamten inneren Dienst¬
-      <lb facs="#facs_26_tr_3_tl_4" n="N004"/>nochtkundiger Ver¬
+      <lb facs="#facs_26_tr_3_tl_4" n="N004"/>rechtskundiger Ver¬
       <lb facs="#facs_26_tr_3_tl_5" n="N005"/>betriebes der Landesregierung wird ein dem Stande
       <lb facs="#facs_26_tr_3_tl_6" n="N006"/>waltungsbeamter
       <lb facs="#facs_26_tr_3_tl_7" n="N007"/>der rechtskundigen Verwaltungsbeamten angehörender
@@ -3821,8 +3836,8 @@
       <lb facs="#facs_26_tr_3_tl_10" n="N010"/>einheitlichen und geregelten Geschäftsgang in sämt
       <lb facs="#facs_26_tr_3_tl_11" n="N011"/>lichen Zweigen der Landesverwaltung zu sorgen.
       <lb facs="#facs_26_tr_3_tl_12" n="N012"/>Artikel 95.</ab><ab facs="#facs_26_tr_4" type="">
-      <lb facs="#facs_26_tr_4_tl_1" n="N001"/>/: Bis zum Amtsanteitte
-      <lb facs="#facs_26_tr_4_tl_2" n="N002"/>des neuen Landeshaupt
+      <lb facs="#facs_26_tr_4_tl_1" n="N001"/>/: Bis zum Amtsantritte
+      <lb facs="#facs_26_tr_4_tl_2" n="N002"/>des neuen Landeshaupt-
       <lb facs="#facs_26_tr_4_tl_3" n="N003"/>mannes soll der alte
       <lb facs="#facs_26_tr_4_tl_4" n="N004"/>Landeshauptmann zur
       <lb facs="#facs_26_tr_4_tl_5" n="N005"/>Fortführung der Geschäfte
@@ -3868,29 +3883,31 @@
       <lb facs="#facs_27_tr_2_tl_1" n="N001"/>26
       <lb facs="#facs_27_tr_2_tl_2" n="N002"/>und Anstalten ist der Rechnungshof berufen. Er
       <lb facs="#facs_27_tr_2_tl_3" n="N003"/>kann auch die Gebarung von Unternehmungen über¬
-      <lb facs="#facs_27_tr_2_tl_4" n="N004"/>des
-      <lb facs="#facs_27_tr_2_tl_5" n="N005"/>Mein Unterprüfung
-      <lb facs="#facs_27_tr_2_tl_6" n="N006"/>prüfen, an denen der Bund oder die Länder
-      <lb facs="#facs_27_tr_2_tl_7" n="N007"/>finanziell beteiligt sind. ist über
-      <lb facs="#facs_27_tr_2_tl_8" n="N008"/>Gebührung
-      <lb facs="#facs_27_tr_2_tl_9" n="N009"/>Artikel 99.
-      <lb facs="#facs_27_tr_2_tl_10" n="N010"/>2 Bemdastrach
-      <lb facs="#facs_27_tr_2_tl_11" n="N011"/>(1) Der Rechnungshof untersteht unmittelbar dem
-      <lb facs="#facs_27_tr_2_tl_12" n="N012"/>3 Artck 104
-      <lb facs="#facs_27_tr_2_tl_13" n="N013"/>Bundestag und dem Bundesrat.
-      <lb facs="#facs_27_tr_2_tl_14" n="N014"/>Notivgeboren
-      <lb facs="#facs_27_tr_2_tl_15" n="N015"/>(2) Der Rechnungshof besteht aus einem Präsi¬
-      <lb facs="#facs_27_tr_2_tl_16" n="N016"/>denten und den erforderlichen Beamten und Hilfs¬
-      <lb facs="#facs_27_tr_2_tl_17" n="N017"/>kräften.
-      <lb facs="#facs_27_tr_2_tl_18" n="N018"/>(3) Der Präsident des Rechnungshofes wird
-      <lb facs="#facs_27_tr_2_tl_19" n="N019"/>vom Bundestag gewählt. Die Wahl bedarf der
-      <lb facs="#facs_27_tr_2_tl_20" n="N020"/>Worpfens Vis
-      <lb facs="#facs_27_tr_2_tl_21" n="N021"/>Genehmigung des Bundesrates.
-      <lb facs="#facs_27_tr_2_tl_22" n="N022"/>(4) Der Präsident des Rechnungshofes darf
-      <lb facs="#facs_27_tr_2_tl_23" n="N023"/>Hauptauschuß 1
-      <lb facs="#facs_27_tr_2_tl_24" n="N024"/>keiner politischen Körperschaft angehören und in den
-      <lb facs="#facs_27_tr_2_tl_25" n="N025"/>letzten fünf Jahren weder Mitglied der Bundes¬
-      <lb facs="#facs_27_tr_2_tl_26" n="N026"/>régierung noch einer Landesregierung gewesen sein.</ab><ab facs="#facs_27_tr_3" type="">
+      <lb facs="#facs_27_tr_2_tl_5" n="N004"/>...prüfung des
+
+      <lb facs="#facs_27_tr_2_tl_6" n="N005"/>prüfen, an denen der Bund oder die Länder
+      <lb facs="#facs_27_tr_2_tl_7" n="N006"/>finanziell beteiligt sind.
+
+      <lb facs="#facs_27_tr_2_tl_8" n="N007"/>Gebahrung
+      <lb facs="#facs_27_tr_2_tl_9" n="N008"/>Artikel 99.
+      <lb facs="#facs_27_tr_2_tl_10" n="N009"/>2 Bundesweg [?]
+      <lb facs="#facs_27_tr_2_tl_11" n="N010"/>(1) Der Rechnungshof untersteht unmittelbar dem
+      <lb facs="#facs_27_tr_2_tl_12" n="N011"/>3 Artik 104
+      <lb facs="#facs_27_tr_2_tl_13" n="N012"/>Bundestag und dem Bundesrat.
+      <lb facs="#facs_27_tr_2_tl_14" n="N013"/>Nationalrat
+      <lb facs="#facs_27_tr_2_tl_15" n="N014"/>(2) Der Rechnungshof besteht aus einem Präsi¬
+      <lb facs="#facs_27_tr_2_tl_16" n="N015"/>denten und den erforderlichen Beamten und Hilfs¬
+      <lb facs="#facs_27_tr_2_tl_17" n="N016"/>kräften.
+      <lb facs="#facs_27_tr_2_tl_18" n="N017"/>(3) Der Präsident des Rechnungshofes wird
+      <lb facs="#facs_27_tr_2_tl_19" n="N018"/>vom Bundestag gewählt. Die Wahl bedarf der
+      <lb facs="#facs_27_tr_2_tl_20" n="N019"/>...[?] bis[ß?]
+
+      <lb facs="#facs_27_tr_2_tl_21" n="N020"/>Genehmigung des Bundesrates.
+      <lb facs="#facs_27_tr_2_tl_22" n="N021"/>(4) Der Präsident des Rechnungshofes darf
+      <lb facs="#facs_27_tr_2_tl_23" n="N022"/>Hauptausschuß 1
+      <lb facs="#facs_27_tr_2_tl_24" n="N023"/>keiner politischen Körperschaft angehören und in den
+      <lb facs="#facs_27_tr_2_tl_25" n="N024"/>letzten fünf Jahren weder Mitglied der Bundes¬
+      <lb facs="#facs_27_tr_2_tl_26" n="N025"/>régierung noch einer Landesregierung gewesen sein.</ab><ab facs="#facs_27_tr_3" type="">
       <lb facs="#facs_27_tr_3_tl_1" n="N001"/>Artikel 100.
       <lb facs="#facs_27_tr_3_tl_2" n="N002"/>(1) Der Präsident des Rechnungshofes ist in
       <lb facs="#facs_27_tr_3_tl_3" n="N003"/>bezug auf Verantwortlichkeit den Mitgliedern der
@@ -3911,7 +3928,7 @@
       <lb facs="#facs_27_tr_1_tl_4" n="N004"/>das gleiche gilt für die Verleihung von Amtstiteln.
       <lb facs="#facs_27_tr_1_tl_5" n="N005"/>Doch kann der Bundespräsident den Präsistenten
       <lb facs="#facs_27_tr_1_tl_6" n="N006"/>des Rechnungshofes ermächtigen, Beamte bestimmter
-      <lb facs="#facs_27_tr_1_tl_7" n="N007"/>Ratagorien
+      <lb facs="#facs_27_tr_1_tl_7" n="N007"/>Kategorien
       <lb facs="#facs_27_tr_1_tl_8" n="N008"/>Rangsklassen nach Anhörung des Gremiums zu
       <lb facs="#facs_27_tr_1_tl_9" n="N009"/>ernennen.
       <lb facs="#facs_27_tr_1_tl_10" n="N010"/>(2) Die Hilfskräfte ernennt der Präsident des
@@ -4306,7 +4323,8 @@
       <lb facs="#facs_35_tr_1_tl_16" n="N016"/>fügung einer Landesbehörde die Interessen des
       <lb facs="#facs_35_tr_1_tl_17" n="N017"/>Bundes verletzt, auch die Bundesregierung den Ver¬
       <lb facs="#facs_35_tr_1_tl_18" n="N018"/>waltungsgerichtshof anrufen.
-      <lb facs="#facs_35_tr_1_tl_19" n="N019"/>gientetme</ab><pb facs="#facs_36" n="36" xml:id="img_0036"/><ab facs="#facs_36_tr_3" type="">
+      <lb facs="#facs_35_tr_1_tl_19" n="N019"/>Spdentwurf[?]
+</ab><pb facs="#facs_36" n="36" xml:id="img_0036"/><ab facs="#facs_36_tr_3" type="">
       <lb facs="#facs_36_tr_3_tl_1" n="N001"/>35
       <lb facs="#facs_36_tr_3_tl_2" n="N002"/>Artikel 140.
       <lb facs="#facs_36_tr_3_tl_3" n="N003"/>Von der Zuständigkeit des Verwaltungsgerichts¬
@@ -4442,10 +4460,10 @@
       <lb facs="#facs_38_tr_1_tl_11" n="N011"/>zuständigen Landtages;
       <lb facs="#facs_38_tr_1_tl_12" n="N012"/>3. über die Verantwortlichkeit des Landes¬
       <lb facs="#facs_38_tr_1_tl_13" n="N013"/>hauptmannes, seiner Stellvertreter und des Landes¬
-      <lb facs="#facs_38_tr_1_tl_14" n="N014"/>tsdirektors wegen vorsätzlicher und grobsahrlässiger
+      <lb facs="#facs_38_tr_1_tl_14" n="N014"/>amtsdirektors wegen vorsätzlicher und grobfahrlässiger
       <lb facs="#facs_38_tr_1_tl_15" n="N015"/>Rechtsverletzung durch ihre Amtstätigkeit auf Antrag
-      <lb facs="#facs_38_tr_1_tl_16" n="N016"/>Gesetzesweilung
-      <lb facs="#facs_38_tr_1_tl_17" n="N017"/>ender Bundesregierung.
+      <lb facs="#facs_38_tr_1_tl_16" n="N016"/>Gesetzesverletzung
+      <lb facs="#facs_38_tr_1_tl_17" n="N017"/>der Bundesregierung.
       <lb facs="#facs_38_tr_1_tl_18" n="N018"/>(2) Das verurteilende Erkenntnis des Verfassungs¬
       <lb facs="#facs_38_tr_1_tl_19" n="N019"/>gerichtshofes hat auf Verlust des Amtes, unter be¬
       <lb facs="#facs_38_tr_1_tl_20" n="N020"/>sonders erschwerenden Umständen auch auf Verlust
@@ -4458,10 +4476,10 @@
       <lb facs="#facs_39_tr_1_tl_2" n="N002"/>Artikel 153.
       <lb facs="#facs_39_tr_1_tl_3" n="N003"/>(1) Der Verfassungsgerichtshof entscheidet über
       <lb facs="#facs_39_tr_1_tl_4" n="N004"/>Beschwerden wegen Verletzung eines der in den
-      <lb facs="#facs_39_tr_1_tl_5" n="N005"/>Nur Verfassungsmäßung
+      <lb facs="#facs_39_tr_1_tl_5" n="N005"/>Nur verfassungsmäßig
       <lb facs="#facs_39_tr_1_tl_6" n="N006"/>Artikeln 108 bis 136 gewährleisteten Rechte durch
       <lb facs="#facs_39_tr_1_tl_7" n="N007"/>eine Behörde nach Erschöpfung des administrativen
-      <lb facs="#facs_39_tr_1_tl_8" n="N008"/>gewährleisteten Rechte
+      <lb facs="#facs_39_tr_1_tl_8" n="N008"/>gewährleistete Rechte
       <lb facs="#facs_39_tr_1_tl_9" n="N009"/>Instanzenzuges.
       <lb facs="#facs_39_tr_1_tl_10" n="N010"/>(2) Das stattgebende Erkenntnis des Verfassungs¬
       <lb facs="#facs_39_tr_1_tl_11" n="N011"/>gerichtshofes bewirkt die Aufhebung der verfassungs¬
