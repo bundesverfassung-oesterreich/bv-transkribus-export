@@ -155,6 +155,26 @@ def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
             reverse_ordered_item_elements.append(item_element)
     return reverse_ordered_item_elements
 
+def seed_jur_p_elements(parent_element: ET._Element, xpath_expr, regex_test):
+    reverse_ordered_ps = []
+    start_strings = parent_element.xpath(xpath_expr,namespaces=nsmap)
+    start_strings.reverse()
+    for start_string in start_strings:
+        start_string: ET._ElementUnicodeResult
+        if re.match(regex_test, start_string.strip()):
+            parent_element = start_string.getparent()
+            if start_string.is_tail:
+                item_element = parent_element
+                item_element.tag = "p"
+                item_element.text = start_string
+                item_element.tail = "\n"
+                item_element.attrib.clear()
+            else:
+                item_element = parent_element
+            item_element.set("type", "legal_section")
+            reverse_ordered_ps.append(item_element)
+    return reverse_ordered_ps
+
 def expand_item_element(item_element: ET._Element):
     next_element = item_element.getnext()
     while bool(
@@ -162,6 +182,14 @@ def expand_item_element(item_element: ET._Element):
     ):
         item_element.append(next_element)
         next_element = item_element.getnext()
+
+def expand_jur_p_element(p_element: ET._Element):
+    next_element = p_element.getnext()
+    while bool(
+        next_element is not None and next_element.tag != 'p'
+    ):
+        p_element.append(next_element)
+        next_element = p_element.getnext()
 
 def raise_div_element(section_div: ET._Element):
     parent_element = section_div.getparent()
@@ -237,7 +265,7 @@ def make_lists(div: ET._Element):
     for list_element in list_elements:
         expand_list_element(list_element)
 
-def make_all_section_divs(doc):
+def make_article_divs(doc):
     article_type = "article"
     # # make artikel-divs
     article_divs = seed_div_elements(
@@ -260,10 +288,7 @@ def make_all_section_divs(doc):
                 next_element is not None and next_element.xpath("local-name()!='div'")
             ),
         )
-        # make juristical articles
-        #make_items_in_article(div)
-        #make_lists(div)
-
+    return article_divs
 
 def make_label(item: ET._Element):
     if item.text is None:
@@ -278,6 +303,22 @@ def make_label(item: ET._Element):
         ).strip()
         item.addprevious(label)
 
+def make_p_label(p_element: ET._Element):
+    if p_element.text is None:
+        return
+    match = re.match("^([ \[\]().0-9]+)(.*)", p_element.text)
+    if match:
+        label_text = match.group(1).rstrip()
+        label = teiMaker.label(
+            label_text
+        )
+        p_element.text = p_element.text.removeprefix(
+            label_text
+        )
+        label.tail = p_element.text
+        p_element.text = ""
+        p_element.insert(0,label)
+
 contains_number_xpath = "boolean(translate(., '1234567890', '') != .)"
 
 def make_items_in_article(article_div: ET._Element):
@@ -290,6 +331,38 @@ def make_items_in_article(article_div: ET._Element):
         expand_item_element(item)
     for item in items:
         make_label(item)
+
+def denest_p_elements(article_div: ET._Element, ps_with_subs: list):
+    for p_with_subs in ps_with_subs:
+        sub_ps = reversed(
+            p_with_subs.xpath(
+                "./*[local-name()='p']",
+                namespaces=nsmap
+            )
+        )
+        for sub_p in sub_ps:
+            following_sibling = sub_p.getnext()
+            if following_sibling is None:
+                p_with_subs.addnext(sub_p)
+    return article_div.xpath("./tei:p[./*[local-name()='p' and not(following-sibling::*)]]", namespaces=nsmap)
+
+
+def make_jur_sections_in_article(article_div: ET._Element):
+    reverse_ordered_ps = seed_jur_p_elements(
+        article_div,
+        xpath_expr=f".//tei:lb/following-sibling::text()[{contains_number_xpath}]|.//tei:p/node()[1][self::text() and {contains_number_xpath}]",
+        regex_test=r"^ *[(\]]* ?[0-9]{1,2} *[.)\]]*.*?[a-zA-Z].*"
+    )
+    for p in reverse_ordered_ps:
+        expand_jur_p_element(p)
+    for p in reverse_ordered_ps:
+        make_p_label(p)
+    ps_with_subs = article_div.xpath("./tei:p[./*[local-name()='p' and not(following-sibling::*)]]", namespaces=nsmap)
+    while ps_with_subs:
+        ps_with_subs = denest_p_elements(article_div, ps_with_subs)
+    for p in article_div.xpath("./*[local-name()='p' and not(@type)]"):
+        p.set("type", "legal_section")
+
 
 def substitute_useless_elements(doc: TeiReader, substitution_dict:dict):
     for substituted_element_name, substitution_element_name in substitution_dict.items():
@@ -353,7 +426,11 @@ def type_lb_elements(doc: TeiReader):
         prev_element = lb.getprevious()
         parent_element = lb.getparent()
         test_tail:str = lb.tail.strip() if lb.tail else ""
-        prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
+        try:
+            prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
+        except AttributeError:
+            prev_text = ""
+            prev_element.tail = prev_text
         previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders and (not prev_text[-2].isnumeric() if len(prev_text)>1 else True)
         lb_sibling_text_node_implies_no_wordbreak = bool(test_tail) and (test_tail.startswith("und") or test_tail.startswith("oder"))
         if previous_text_node_implies_wordbreak and not lb_sibling_text_node_implies_no_wordbreak:
@@ -473,7 +550,11 @@ def create_new_xml_data(
     bv_doc_id = doc_metadata["bv_id"]
     print(f"processing {bv_doc_id}")
     body_node = doc.any_xpath(".//tei:body")[0]
-    make_all_section_divs(doc)
+    article_divs = make_article_divs(doc)
+    for x in doc.anyxpath(".//*"):
+        x: ET._Element
+        if "None" in x.nsmap:
+            input(x.tag)
     substitute_useless_elements(
         doc=doc,
         substitution_dict={
@@ -488,6 +569,8 @@ def create_new_xml_data(
     replace_hi(doc)
     replace_unleserlichs(doc)
     place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc)
+    for article_div in article_divs:
+        make_jur_sections_in_article(article_div)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
@@ -506,19 +589,6 @@ def create_new_xml_data(
         tei_file_path = os.path.join(TEI_DIR, bv_doc_id + ".xml")
         print("writing", tei_file_path)
         doc.tree_to_file(tei_file_path)
-
-# def return_image_urls(mets_doc):
-#     """
-#     returns image links from mets file in doc order
-#     """
-#     return mets_doc.tree.xpath(
-#         "//ns3:fileGrp[@ID='IMG']/ns3:file/ns3:FLocat/@ns2:href",
-#         namespaces={
-#             "ns3": "http://www.loc.gov/METS/",
-#             "ns2": "http://www.w3.org/1999/xlink",
-#         },
-#     )
-
 
 def return_transkribus_doc_id(xml_file_path):
     _, filename = os.path.split(xml_file_path)
