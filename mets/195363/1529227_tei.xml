@@ -1726,7 +1726,7 @@
         <zone points="1498,2375 2552,2375 2552,2323 1498,2328" rendition="Line" xml:id="facs_31_tr_3_tl_12"/>
         <zone points="1504,2428 2436,2433 2555,2412 2556,2377 1504,2375" rendition="Line" xml:id="facs_31_tr_3_tl_13"/>
         <zone points="1506,2477 2261,2495 2562,2467 2562,2433 2483,2414 1506,2430" rendition="Line" xml:id="facs_31_tr_3_tl_14"/>
-      </zone><zone points="1500,1819 62,1819 62,134 1500,134" rendition="TextRegion" xml:id="facs_31_r_1197">
+      </zone><zone points="1500,1819 850,1862 62,1819 62,134 1500,134" rendition="TextRegion" xml:id="facs_31_r_1197">
         <zone points="127,517 1528,257 1525,242 124,502" rendition="Line" xml:id="facs_31_l_1202"/>
         <zone points="144,743 1432,514 1421,514 1257,579 1262,593 1424,528 1403,516 141,728" rendition="Line" xml:id="facs_31_l_1206"/>
         <zone points="377,1014 1449,884 1447,869 375,999" rendition="Line" xml:id="facs_31_l_1212"/>
@@ -3587,8 +3587,9 @@
       <lb facs="#facs_31_l_1202" n="N001"/><hi rend="bold:true;">Unleserlich</hi>
       <lb facs="#facs_31_l_1206" n="N002"/>
       <lb facs="#facs_31_l_1212" n="N003"/>
-      <lb facs="#facs_31_l_1216" n="N004"/>
-      <lb facs="#facs_31_l_1220" n="N005"/></ab><ab facs="#facs_31_tr_2" type="">
+      <lb facs="#facs_31_l_1216" n="N004"/>separate
+      <lb facs="#facs_31_l_1220" n="N005"/>fehlt sl 5:
+</ab><ab facs="#facs_31_tr_2" type="">
       <lb facs="#facs_31_tr_2_tl_1" n="N001"/>Artikel 131.
       <lb facs="#facs_31_tr_2_tl_2" n="N002"/>Bundesangehörige, die nach Nationalität,
       <lb facs="#facs_31_tr_2_tl_3" n="N003"/>Sprache oder Religion einer Minderheit angehören,
