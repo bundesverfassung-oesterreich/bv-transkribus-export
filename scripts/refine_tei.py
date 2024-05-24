@@ -164,7 +164,17 @@ def seed_jur_p_elements(parent_element: ET._Element, xpath_expr, regex_test):
         if re.match(regex_test, start_string.strip()):
             parent_element = start_string.getparent()
             if start_string.is_tail:
-                item_element = parent_element
+                if not parent_element.xpath(
+                    "local-name()='p' or local-name()='lb'"
+                ):
+                    dummy_element = teiMaker.lb()
+                    # dummy_element.tail = parent_element.tail
+                    # parent_element.tail = ""
+                    parent_element.addnext(dummy_element)
+                    parent_element.tail = ""
+                    item_element = dummy_element
+                else:
+                    item_element = parent_element
                 item_element.tag = f"{{{nsmap['tei']}}}p"
                 item_element.text = start_string
                 item_element.tail = "\n"
