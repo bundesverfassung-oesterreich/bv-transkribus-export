@@ -419,6 +419,7 @@ def replace_hi(doc: TeiReader):
         hi_element.tag = f"{{{nsmap['tei']}}}emph"
 
 lb_encoders = ["-", "¬"]
+
 def type_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
@@ -455,32 +456,33 @@ def type_lb_elements(doc: TeiReader):
 
 
 
-def remove_lb_elements(doc: TeiReader):
+def remove_all_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
-        prev_element = lb.getprevious()
-        parent_element = lb.getparent()
-        test_tail:str = lb.tail.strip() if lb.tail else ""
-        lstrip_tail = lb.tail.lstrip() if lb.tail else test_tail
-        prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
-        if prev_text:
-            if prev_text.endswith("-"):
-                if test_tail:
-                    if test_tail[0].islower() and not test_tail.startswith("und") and not test_tail.startswith("oder"):
-                        new_text = prev_text.rstrip("-") + lstrip_tail
-                        remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
-                    else:
-                        # hyphen but probably not in a word
-                        new_text = prev_text + " " + lstrip_tail
-                        remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
-                else:
-                    parent_element.remove(lb)
+        prev_textnode_result = lb.xpath("./preceding-sibling::node()[1][boolean(self::text())]")
+        prev_textnode = prev_textnode_result[0] if prev_textnode_result else None
+        lb_parent = lb.getparent()
+        if prev_textnode is not None:
+            spacer = ""
+            if lb.tail is None:
+                lb.tail = ""
+            if lb.attrib["break"] == "yes":
+                # between words
+                spacer = " "
+            new_prev_textnode = prev_textnode.rstrip() + spacer + lb.tail.lstrip()
+            parent = prev_textnode.getparent()
+            if prev_textnode.is_tail:
+                parent.tail = new_prev_textnode
             else:
-                new_text = prev_text + " " + lstrip_tail
-                remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
+                parent.text = new_prev_textnode
+            lb.tail = ""
         else:
-            new_text = lb.tail
-            remove_lb_preserve_text(new_text, prev_element, parent_element, lb)
+            prev= lb.getprevious()
+            if prev is not None:
+                prev.tail = lb.tail
+            else:
+                lb_parent.text = lb.tail
+        lb_parent.remove(lb)
 
 
 def remove_calibration_page(doc: TeiReader):
@@ -566,6 +568,7 @@ def create_new_xml_data(
     place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc)
     for article_div in article_divs:
         make_jur_sections_in_article(article_div)
+    remove_all_lb_elements(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
     body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
