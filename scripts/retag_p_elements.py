@@ -1,4 +1,3 @@
-import refine_tei
 from acdh_tei_pyutils.tei import TeiReader
 
 def remove_all_lb_elements(doc: TeiReader):
@@ -54,6 +53,7 @@ def set_pb_break_attrib(doc: TeiReader):
 
 
 if __name__ == "__main__":
+    import refine_tei
     input_dir="../bv-working-data/data/editions/*.xml"
     print(f"loading xmls from {input_dir}")
     for fp in refine_tei.glob.glob(input_dir):
