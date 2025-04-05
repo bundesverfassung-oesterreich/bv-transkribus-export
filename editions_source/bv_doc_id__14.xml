@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__14">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CS II KNV Beilage</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529212</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="bv_data_set">Datenset A</idno>
+                <idno type="goobi">14524</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, Nachlasssammlung, E 1707 (Nachlass Mayr) Mappe 2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
+                            <title>CS II KNV Beilage</title>
+                            <note type="editor">CS II (Titel des Dokuments: "Antrag der Abgeordneten Dr. Mayr und Genossen betreffend die Schaffung einer Bundesverfassung für die Republik Österreich"), KNV Beilage 888, Zustand gut, wenige handschriftliche Anmerkungen, 32 Artikel</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Druck">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-06-25" notAfter-iso="1929-06-25">25. Juni 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-06-25" notAfter-iso="1929-06-25">
+                    25. Juni 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-04-05" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface ulx="0" uly="0" lrx="3071" lry="4477" xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00002/full/full/0/default.jpg" width="3071px" height="4477px"/></surface><surface ulx="0" uly="0" lrx="3035" lry="4472" xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00003/full/full/0/default.jpg" width="3035px" height="4472px"/></surface><surface ulx="0" uly="0" lrx="2997" lry="4480" xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00004/full/full/0/default.jpg" width="2997px" height="4480px"/></surface><surface ulx="0" uly="0" lrx="3019" lry="4464" xml:id="facs_5"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00005/full/full/0/default.jpg" width="3019px" height="4464px"/></surface><surface ulx="0" uly="0" lrx="2978" lry="4454" xml:id="facs_6"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00006/full/full/0/default.jpg" width="2978px" height="4454px"/></surface><surface ulx="0" uly="0" lrx="3023" lry="4451" xml:id="facs_7"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00007/full/full/0/default.jpg" width="3023px" height="4451px"/></surface><surface ulx="0" uly="0" lrx="3003" lry="4478" xml:id="facs_8"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00008/full/full/0/default.jpg" width="3003px" height="4478px"/></surface><surface ulx="0" uly="0" lrx="2983" lry="4463" xml:id="facs_9"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00009/full/full/0/default.jpg" width="2983px" height="4463px"/></surface><surface ulx="0" uly="0" lrx="3016" lry="4462" xml:id="facs_10"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00010/full/full/0/default.jpg" width="3016px" height="4462px"/></surface><surface ulx="0" uly="0" lrx="2986" lry="4455" xml:id="facs_11"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00011/full/full/0/default.jpg" width="2986px" height="4455px"/></surface><surface ulx="0" uly="0" lrx="3029" lry="4457" xml:id="facs_12"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00012/full/full/0/default.jpg" width="3029px" height="4457px"/></surface><surface ulx="0" uly="0" lrx="2976" lry="4440" xml:id="facs_13"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00013/full/full/0/default.jpg" width="2976px" height="4440px"/></surface><surface ulx="0" uly="0" lrx="3030" lry="4466" xml:id="facs_14"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__14/files/images/IMG_00014/full/full/0/default.jpg" width="3030px" height="4466px"/></surface></facsimile>
+    <text type="Verfassungsentwurf">
+        <body><div type="main"><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><p>25/6. 1920 888 der Beilagen. — Konstituierende Nationalversammlung. 1 Antrag Abgeordneten Dr. Michael Mayr und Genossen, betreffend die Schaffung einer Bundesverfassung für die Republik Österreich. Die Gefertigten stellen den Antrag: „Das Haus wolle den beigeschlossenen Gesetzentwurf zum Beschlusse erheben." In formaler Beziehung wolle dieser Antrag dem Verfassungsausschusse zugewiesen werden.</p><p>Wien, 25. Juni 1920. Dr. Mayr. Jutz. L. Kunschak. Parrer. Schönsteiner. Hollersbacher. Buchinger Lieschnegg Schoepfer. Dr. Gürtler, Hosch. Hans Steinegger. Fr. Kocher Dr. Anton Maier Miklas. Dr. Gimpl. Dr. Wagner Niedrist. Födermayr. Dr. Seipel. S. Geisler Dr. Waiß. Dr. Buresch. R. Weigl. Partik. <emph><gap reason="illegible"/></emph> <emph><gap reason="illegible"/></emph><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>888 der Beilagen. - Konstituierende Nationalversammlung. 3 Gesetz vom.. betreffend die Bundesverfassung der Republik Österreich.</p><p>I. Abschnitt. Der Bund, die Bundesländer, das Bundesgebiet und das Bundesvolk.
+      </p><div type="article">
+<head>Artikel 1.
+      </head>
+<p type="legal_section"><label>(1)</label> Österreich ist eine demokratische Republik.
+      </p><p type="legal_section"><label>(2)</label> Alle öffentlichen Gewalten werden vom Volk eingesetzt und in seinem Namen ausgeübt.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 2.
+      </head>
+<p type="legal_section"><label>(1)</label> Die Republik Österreich ist ein freier Bundesstaat.
+      </p><p type="legal_section"><label>(2)</label> Der Bund wird gebildet durch die selbständigen Länder: Burgenland, Kärnten, Niederösterreich, OberösterReich, Salzburg, Steiermark, Tirol, Vorarlberg und Wien.
+      </p>
+<p type="legal_section"><label>(3)</label> Bundeshauptstadt und Sitz der obersten Organe des Bundes ist Wien.</p>
+</div>
+<div type="article">
+<head>Artikel 3.
+      </head>
+<p type="legal_section">Das Bundesgebiet bildet ein einheitliches Währungs-, Wirtschafts= und Zollgebiet.
+      </p></div>
+<div type="article">
+<head>Artikel 4.
+      </head>
+<p type="legal_section"><label>(1)</label> Jeder Landesbürger ist Angehöriger des Bundes.
+      </p><p type="legal_section"><label>(2)</label> Die Landesbürgerschaft ist an die Heimatsberechtigung in der Gemeinde eines Landes gebunden.<pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/></p>
+<p type="legal_section"><label>988</label> der Beilagen. — Konstituierende Nationalversammlung. 4
+      </p>
+</div>
+<div type="article">
+<head>Artikel 5.
+      </head>
+<p type="legal_section">Jeder Bundesangehörige hat in jedem Lande des Bundes die gleichen Rechte und Pflichten wie die Bürger des Landes selbst.
+      </p></div>
+<div type="article">
+<head>Artikel 6.
+      </head>
+<p type="legal_section"><label>(1)</label> Alle Bundesangehörigen sind vor dem Gesetze gleich. Vorrechte der Geburt, des Standes und des Bekenntnisses sind für immer ausgeschlossen.
+      </p><p type="legal_section"><label>(2)</label> Die politischen Rechte und Freiheiten des Volkes werden durch die Bundesverfassung gewährleistet.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 7.
+      </head>
+<p type="legal_section">Die deutsche Sprache ist, unbeschadet der den sprachlichen Minderheiten gesetzlich eingeräumten Rechte, die Staatssprache der Republik. II. Abschnitt. Die öffentliche Gewalt im Bunde.
+      </p></div>
+<div type="article">
+<head>Artikel 8.</head>
+<p type="legal_section"><label>(1)</label> Der oberste Träger der öffentlichen Gewalt der Republik ist die Bundesversammlung.
+      </p><p type="legal_section"><label>(2)</label> Die Bundesversammlung besteht aus einem Volkshaus, dem Bundestag und aus einem Länderhaus, dem Bundesrat.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 9.
+      </head>
+<p type="legal_section"><label>(1)</label> Der Bundestag wird auf Grund des gleichen direkten, geheimen und persönlichen Wahlrechtes aller erwachsenen Männer und Frauen nach den Grundsätzen der Verhältniswahl vom ganzen Bundesvolk gewählt.
+      </p><p type="legal_section"><label>(2)</label> Seine Wahlperiode beträgt fünf Jahre.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 10.</head>
+<p type="legal_section"><label>(1)</label> Der Bundesrat wird aus Vertretern der Bundesländer gebildet, die von den Landtagen aus ihrer Mitte durch Verhältniswahl entsendet werden; jedes Bundesland wird grundsätzlich durch drei Mitglieder vertreten, die Bundesländer mit mindestens
+      </p><p type="legal_section"><label>800.000</label> Einwohnern entsenden vier Mitglieder und für je weitere 400.000 Einwohner noch ein weiteres Mitglied, doch darf auf kein Land mehr als ein Fünftel der Gesamtzahl der Mitglieder entfallen.
+      </p>
+<p type="legal_section"><label>(2)</label> Die Landtage selbst werden nach denselben Grundsätzen wie der Bundestag von den im Lande wohnhaften Bundesangehörigen gewählt.<pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/></p>
+<p type="legal_section"><label>888</label> der Beilagen. — Konstituierende Nationalversammlung. 5
+      </p>
+</div>
+<div type="article">
+<head>Artikel 11.
+      </head>
+<p type="legal_section"><label>(1)</label> Die Bundesversamlung entscheidet über Krieg und Frieden und verfügt über die bewaffnete Macht der Republik.
+      </p><p type="legal_section"><label>(2)</label> Ihr obliegt auch die Wahl der obersten Funktionäre des Bundes.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 12.
+      </head>
+<p type="legal_section"><label>(1)</label> Die gesetzgebende Gewalt ist zum Teile dem Bunde, zum Teile den Bundesländern übertragen.
+      </p><p type="legal_section"><label>(2)</label> Das gesetzgebende Organ des Bundes ist der Bundestag in Gemeinschaft mit dem Bundesrat.
+      </p>
+<p type="legal_section"><label>(3)</label> Die gesetzgebenden Organe der Bundesländer sind die Landtage.</p>
+</div>
+<div type="article">
+<head>Artikel 13.
+      </head>
+<p type="legal_section"><label>(1)</label> Vorschläge für Bundesgesetze werden im Bundestag eingebracht.
+      </p><p type="legal_section"><label>(2)</label> Auch aus der Mitte des Bundesvolkes kann von 300.000 Wahlberechtigten oder von der Hälfte der Wahlberechtigten dreier Bundesländer das Verlangen nach Einbringung eines Gesetzesvorschlages gestellt werden.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 14.</head>
+<p type="legal_section"><label>(1)</label> Jeder Gesetzesbeschluß des Bundestages bedars. grundsätzlich der Zustimmung des Bundesrates.
+      </p><p type="legal_section"><label>(2)</label> Versagt der Bundesrat die Zustimmung, so gelangt der Gesetzesbeschluß neuerlich vor den Bundestag; wird der erste Beschluß vom Bundestag bei Anwesenheit der Hälfte der Mitglieder mit Zweidrittelmehrheit wiederholt, so ist er ohne weiteres Verfahren als Gesetz kundzumachen.
+      </p>
+<p type="legal_section"><label>(3)</label> Verfassungsänderungen, Änderüngen des Wehrgesetzes und Staatsverträge können jedoch auf Grund der Beschlüsse des Bundestages allein ohne Zustimmung des Bundesrates niemals Gesetz werden. Versagt der Bundesrat auch dann seine Zustimmung nachdem der Bundestag zum zweitenmale über den Gegenstand Beschluß gefaßt hat, so kann bei Verfassungsänderungen und Änderunges des Wehrgesetzes eine endgültige Entscheidung durch Volksabstimmung herbeigeführt werden, wenn diese vom Bundestag oder vom Bundesrat mit Mehrheit verlangt wird.
+      </p>
+<p type="legal_section"><label>(4)</label> Eine Gesamtänderung der Verfassung muß auch im Falle der Zustimmung des Bundesrates noch einer Volksabstimmung unterzogen werden.
+      </p>
+<p type="legal_section"><label>(5)</label> Die jährliche Bewilligung des Bundesbudgets und die jährliche Genehmigung der<pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/></p>
+<p type="legal_section"><label>888</label> der Beilagen. - Konstituierende Nationalversammlung. 6 Rechnungsabschlüsse, die Aufnahme und Konvertierung von Bundesanleihen und die Verfügung über das Bundesvermögen sind ausschließlich Sache des Bundestages.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 15.
+      </head>
+<p type="legal_section"><label>(1)</label> Die vollziehende Gewalt wird teils vom Bunde, teils von den Bundesländern ausgeübt.
+      </p><p type="legal_section"><label>(2)</label> Mit der Ausübung der vollziehenden Gewalt sind Volksbeauftragte betraut, die auf jederzeitigen Widerruf von den Vertretungen des Volkes bestellt werden und diesen verantwortlich sind.
+      </p>
+<p type="legal_section"><label>(3)</label> Unter Leitung der Volksbeauftragten und nach ihren Weisungen obliegt die Durchführung der Gesetze und Verordnungen berufsmäßig angestellten Organen, die für ihre Tätigkeit den Volksbeauftragten verantwortlich sind.</p>
+</div>
+<div type="article">
+<head>Artikel 16.
+      </head>
+<p type="legal_section"><label>(1)</label> Die vollziehenden Organe des Bundes sind der Bundespräsident und die Bundesregierung samt den ihr unterstehenden Ämtern.
+      </p><p type="legal_section"><label>(2)</label> Bundespräsident und Bundesregierung werden von der Bundesversammlung gewählt; zum Bundespräsidenten kann nur ein Bundesangehöriger gewählt werden, der das aktive Wahlrecht zum Bundestage hat und am 1. Jänner des Jahres, in welchem die Wahl stattfindet das 35. Lebensjahr vollendet hat; der Bundespräsident darf während seiner Amtstätigkeit keiner politischen Körperschaft angehören und keinen anderen Beruf ausüben; die Bundesregierung besteht aus dem Bundeskanzler, seinem Stellvertreter (Vizekanzler) und den Bundesministern.
+      </p>
+<p type="legal_section"><label>(3)</label> Dit Bundesämter werden durch Bundesgesetz eingerichtet.</p>
+</div>
+<div type="article">
+<head>Artikel 17.
+      </head>
+<p type="legal_section"><label>(1)</label> Die vollziehenden Organe der Länder sind die Landesregierungen samt den ihnen unterstehenden Ämtern.
+      </p><p type="legal_section"><label>(2)</label> Die Landesregierungen werden von den Landtagen gewählt; sie bestehen aus dem Landeshauptmann, seinem Stellvertreter und einer angemessenen Zahl von weiteren Mitgliedern.
+      </p>
+<p type="legal_section"><label>(3)</label> Die Landesämter werden im Rahmen der durch Bundesgesetz erlassenen grundsätzlichen Bestimmungen durch Landesgesetze eingerichtet.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 18.
+      </head>
+<p type="legal_section"><label>(1)</label> Gemeinden und Gemeindeverbände haben das Recht der Selbstverwaltung innerhalb der Schranken der Gesetze.<pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/></p><p type="legal_section"><label>888</label> der Beilagen. — Konstituierende Nationalversammlung. 7
+      </p>
+<p type="legal_section"><label>(2)</label> Auch ihre Vertretungen müssen auf Grund des gleichen, direkten, geheimen und persönlichen Wahlrechtes der in ihrem Bereiche wohnhaften männlichen und weiblichen Bundesangehörigen gewählt werden.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 19.
+      </head>
+<p type="legal_section">Die Gerichtsbarkeit ist von der vollziehenden Gewalt getrennt und wird durch unabhängige Gerichte ausgeübt.
+      </p></div>
+<div type="article">
+<head>Artikel 20.
+      </head>
+<p type="legal_section">Alle mit der Ausübung der vollziehenden Gewalt oder der Gerichtsbarkeit betrauten Personen sind für jeden bei Ausübung ihrer Tätigkeit durch vorsätzliche oder grobfahrlässige Rechtsverletzung wem immer zugefügten Schaden nach den näheren Bestimmungen eines besonderen Bundesgesetzes haftbar.</p><p type="legal_section">III. Abschnitt. Die Verteilung der öffentlichen Gewalt zwischen dem Bund und den Bundesländern.
+      </p></div>
+<div type="article">
+<head>Artikel 21.
+      </head>
+<p type="legal_section">Bundessache sind hinsichtlich Gesetzgebung und Vollziehung:
+      </p><p type="legal_section"><label>1.</label> Die Bundesversassung und die Verfassungsgerichtsbarkeit; die Organisation der Bundesbehörden und das Dienstrecht der Bundesangestellten einschließlich der Regelung des im Einvernehmen mit dem in Betracht kommenden Land zu vollzie¬</p>
+<p type="legal_section">henden Wechsels zwischen Bundes= und Landesdienst; das Volkszählungswesen sowie die sonstige Statistik, soweit sie nicht nur den Interessen eines einzelnen Landes dient; die Regelung des wissenschaftlichen und sachtechnischen Archiv- und Bibliotheksdienstes;
+      </p><p type="legal_section"><label>2.</label> die auswärtigen Angelegenheiten mit Einschluß der politischen und wirtschaftlichen Vertretung gegenüber dem Auslande, insbesondere der Abschluß aller Staatsverträge; die Grenzvermarkung; die Regelung des Waren= und Viehverkehres mit dem Auslande; das Zollwesen;
+      </p>
+<p type="legal_section"><label>3.</label> die militärischen Angelegenheiten mit Einschluß der Kriegsschadenangelegenheiten;
+      </p>
+<p type="legal_section"><label>4.</label> Die Bundesfinanzen, insbesondere die öffentlichen Abgaben, die ausschließlich oder teilweise für den Bund einzuheben sind; das Monopolwesen. Die Regelung, welche Abgaben dem Bunde und den Ländern zustehen; die Regelung der Anteilnahme<pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/></p>
+<p type="legal_section"><label> 888</label> der Beilagen. - Konstituierende Nationalversammlung. 8 der Länder an den Einnahmen des Bundes und die Regelung der Beiträge und Zuschüsse aus Bundesmitteln zu den Ausgaben der Länder erfolgt durch Bundesgesetz.
+      </p>
+<p type="legal_section"><label>5.</label> Die innere Einrichtung, Ausrüstung und Ausbildung der Gendarmerie, einschließlich der Dienstvorschriften, das Verfügungsrecht über die Gendarmerie, jedoch nur insoweit, als es sich bei Notstand und Unruhen um die zeitweilige Verwendung von Teilen der Gendarmerie außerhalb des Landesbereiches handelt; die Sicherheitspolizei in der Bundeshauptstadt Wien und in den Landeshauptstädten; die Regelung und Überwachung des Eintrittes in das Bundesgebiet und des Austrüttes aus diesem; das Ein= und Auswanderungswesen, die Abschiebung, Abschaffung, Ausweisung und Auslieferung aus dem Bundesgebiet, sowie die Durchlieferung; das Stiftungs= und Fondswesen, soweit es sich um Stiftungen und Fonds handelt, die nach ihren Zwecken über den Interessenbereich eines Landes hinausgehen und nicht schon bisher von den Ländern autonom verwaltet wurden;</p>
+<p type="legal_section"><label>6.</label> das Zivil= und Strafrechtswesen einschließlich des Verwaltungsstrafrechtes in Angelegenheiten, deren Vollziehung dem Bunde zusteht; die Verwaltungsgerichtsbarkeit; die Enteignung, soweit sie nicht Angelegenheiten betrifft, die in den Wirkungskreis der Länder fallen; die Angelegenheiten der Notare, der Rechtsanwälte und verwandter Berufe;
+      </p><p type="legal_section"><label>7.</label> das Hochschulwesen; die fachlichen Zentrallebranstalten; die Angelegenheiten der künstlerischen und wissenschaftlichen Sammlungen und Einrichtungen; den Denkmalschutz; die Angelegenheiten des Kultus;
+      </p>
+<p type="legal_section"><label>8.</label> das Bergwesen; die Ausführung der Regulierung und die Instandhaltung der schiffbaren und flößbaren Gewässer, dann solcher Gewisser, welche die Grenze gegen das Ausland oder zwischen Ländern bilden oder die zwei oder mehrere Länder durchfließen, den Bau derjenigen Wasserstraßen die das Inland mit dem Ausland oder die mehrere Länder verbinden; die Bekämpfung übertragbarer Krankheiten von Tieren;</p>
+<p type="legal_section"><label>9.</label> das Gewerbewesen, die öffentlichen Agentien und die Privatgeschäftsvermittlung; das Dampfkessel= und Kraftmaschinenwesen; das Vermessungswesen; das Ingenieur= und Ziviltechnikerwesin; dass Maß=, Gewichts=, Normen= und Punzierungswesen; das Urheberrecht; die Bekämpfung des unlauteren Wettbewerbes; das Patentwesen, sowie den Marken- und Musterschutz; das wirtschaftliche Assoziationwesen; die Handels= und Gewerbekammern; das Vertragsversicherungswesen; das Geld=, Kredit= Börse= und Bankwesen;
+      </p><p type="legal_section"><label>10.</label> das Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der Luftschiffahrt; die<pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/></p>
+<p type="legal_section"><label>988</label> der Beilagen. — Konstituierende Nationalversammlung. 9 Angelegenheiten der wegen ihrer Bedeutung für den Durchzugsverkehr durch Bundesgesetz als Bundesstraßen erklärten Straßenzüge; die Strom= und Schiffahrtspolizei; das Post-, Telegraphen- und Fernsprechwesen;
+      </p>
+<p type="legal_section"><label>11.</label> die Bekämpfung übertragbarer Krankheiten von Menschen;
+      </p>
+<p type="legal_section"><label>12.</label> das gesamte Arbeiterrecht und den Arbeiter= und Angestelltenschutz sowie das Sozialversicherungswesen, soweit es sich nicht um land- und forstwirtschaftliche Arbeiter und Angestellte handelt; die Fürsorge für Kriegsteilnehmer und deren Hinterbliebene; das Kriegsgräberwesen; die aus Anlaß eines Krieges oder im Gefolge eines solchen zur Sicherung der einheitlichen Führung der Wirtschaft notwendig erscheinenden Maßnahmen.</p>
+</div>
+<div type="article">
+<head>Artikel 22.
+      </head>
+<p type="legal_section">Bundessache sind hinsichtlich Gesetzgebung, Landessache hinsichtlich Vollziehung:
+      </p><p type="legal_section"><label>1.</label> hinsichtlich der öffentlichen Abgaben, die nicht ausschließlich oder teilweise für den Bund eingehoben werden: die Anordnungen zur Verhinderung von Doppelbesteuerungen oder sonstigen übermäßigen Belastungen, zur Verhinderung von Erschwerungen des Verkehres oder der wirtschaftlichen Beziehungen im Verhältnis zum Ausland oder zwischen den Ländern und Landesteilen, zur Verhinderung der übermäßigen oder verkehrserschwerenden Belastung der Benutzung öffentlicher Verkehrswege und Einrichtungen mit Gebühren und zur Verhinderung der Schädigung der Bundesfinanzen;
+      </p>
+<p type="legal_section"><label>2.</label> die Staatsbürgerschaft und das Heimatrecht: das Vereins= und Versammlungsrecht; die Angelegenheiten der Presse; die Personenstandsangelegenheiten einschließlich des Matrikenwesens und der Namensänderung; das Paßwesen und die Fremdenpolizei;
+      </p>
+<p type="legal_section"><label>3.</label> das Verwaltungs= und Verwattungsstraf¬</p>
+<p type="legal_section">verfahren einschließlich der Zwangsvollstreckung sowie die allgemeinen Bestimmungen des Verwaltungsstrafrechtes in Angelegenheiten, deren Vollziehung den Ländern zusteht;
+      </p><p type="legal_section"><label>4.</label> die Festsetzung des Lehrzieles bei den mittleren und niederen Schulen;
+      </p>
+<p type="legal_section"><label>5.</label> das Veterinärwesen;
+      </p>
+<p type="legal_section"><label>6.</label> das Munitions=, Schieß= und Sprengmittelwesen, soweit es nicht dem Monopol unterliegt, sowie das Waffenwesen:
+      </p>
+<p type="legal_section"><label>7.</label> die betriebstechnischen Vorschriften bezüglich des Kraftfahrwesens;
+      </p>
+<p type="legal_section"><label>8.</label> die Ausbildung, Fort bildung und Berufsausübung von Heilpersonen; das Heilmittelwesen;<pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/></p>
+<p type="legal_section"><label>888</label> der Beilagen. — Konstituierende Nationalversammlung. 10 das Gesundheitswesen mit Ausnahme der Heil= und Pflegeanstalten und Ambularien, des Kurorte-, Leichen= und Begräbniswesens sowie des Gemeindesanitätsdienstes und Reitungswesens;
+      </p>
+<p type="legal_section"><label>9.</label> das Volkswohnungs= und Volkspflegestättenwesen;
+      </p>
+<p type="legal_section"><label>10.</label> die beruflichen Vertretungen mit Ausnahme jener auf land= und forstwirtschaftlichem Gebiete.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 23.
+      </head>
+<p type="legal_section">Bundessache sind hinsichtlich der grundsätzlichen Gesetzgebung, Landessache hinsichtlich der Durchführungsgesetzgebung und der Vollziehung:
+      </p><p type="legal_section"><label>1.</label> Die Organisation der Verwaltung in den Ländern; das Dienstrecht der Lehrpersonen an mittleren Unterrichtsanstalten und jener Angestellten des Landes, die behördliche Aufgaben zu besorgen haben, einschließlich der Regelung des im Einvernehmen der in Betracht kommenden Länder zu vollziehenden Dienstwechsels von Land zu Land;</p>
+<p type="legal_section"><label>2.</label> die Einrichtungen zum Schutze der Gesellschaft gegen verbrecherische, verwahrloste oder sonst gefährliche Personen, wie Zwangsarbeits= und ähnliche Anstalten; die Abschiebung und Abschaffung aus einem in ein anderes Land;
+      </p><p type="legal_section"><label>3.</label> das Wasserrecht und das Elektrizitätswesen; die Bodenreform (agrarische Operationen, Wiederbesiedelung usw.); und die Bodenentschuldung; das Forstwesen, einschließlich des Triftwesens, jedoch mit Ausnahme der Forst= und Weideservituten: den Schutz der Pflanzen gegen Krankheiten und Schädlinge;</p>
+<p type="legal_section"><label>4.</label> das Heil= und Pflegeanstaltenwesen einschließlich der Ambularien; die Ausgrabung und Überführung von Leichen;
+      </p><p type="legal_section"><label>5.</label> dasArbeiterrecht und den Arbeiter= und Angestelltenschutz sowie das Sozialversicherungswesen, soweit es sich um land= und forstwirtschaftliche Arbeiter und Angestellte handelt; das Armenwesen; die Bevölkerungspolitik; die Mutterschafts-, Säuglings= und Jugendfürsorge; die öffentlichen Einrichtungen zur außergerichtlichen Vermittlung von Streitigkeiten;
+      </p>
+<p type="legal_section"><label>6.</label> die beruflichen Vertretungen aus land= und forstwirtschaftlichem Gebiete.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 24.
+      </head>
+<p type="legal_section"><label>(1)</label> Wenn eine Angelegenheit nicht ausdrücklich durch die Bundesverfassung der Gesetzgebung oder auch der Vollziehung des Bundes übertragen ist, verbleibt sie im Wirkungsbereiche der Länder. Insoweit der Bundesgesetzgebung bloß die Regelung<pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/></p><p type="legal_section"><label>888</label> der Beilagen. — Konstituierende Nationalversammlung. der Grundzüge vorbehalten ist, obliegt die nähere Durchführung der Landesgesetzgebung innerhalb des bundesgesetzlich festgelegten Rahmens.
+      </p>
+<p type="legal_section"><label>(2)</label> Sofern in Angelegenheiten der Artikel 22 und 23 ein Akt der vollziehenden Gewalt für mehrere Länder Rechtswirksamkeit äußern soll, geht die Zuständigkeit für diesen Vollzugsakt, wenn die beteiligten Länder sich nicht selbst einigen, auf den Bund über.
+      </p>
+<p type="legal_section"><label>(3)</label> Die auf Grund der Artikel 22 und 23 zu erlassenden Bundesgesetze haben vorzusehen, ob und inwiefern über Antrag einer beteiligten Landesregierung der Vollzug auf den Bund übergeht, wenn ein Akt der vollziehenden Gewalt eines Landes Rückwirkungen auf ein anderes Land zu äußern geeignet ist, sofern sich die beteiligten Länder nicht einigen können.
+      </p>
+<p type="legal_section"><label>(4)</label> In jenen Angelegenheiten, die nach Artikel 22 und 23 zur Gänze oder der Regelung der Grundsätze nach der Bundesgesetzgebung vorbehalten sind, steht dem Bunde das Recht zu, die Einhaltung der von ihm erlassenen Vorschriften wahrzunehmen.
+      </p>
+<p type="legal_section"><label>(5)</label> Die Länder sind im Bereiche ihres Gesetz¬</p>
+<p type="legal_section">gebungsrechtes befugt, die zur Regelung des Gegenstandes erforderlichen Bestimmungen auch auf dem Gebiete des Straf und Zivilrechtes zu treffen. Insbesondere gilt dies auch für die Angelegenheiten der Landeskultur, wie Höferecht, Anerbenrecht, Jagd, Fischerei, landwirtschaftliche Dienstverträge und Zusammenlegung von Grundstücken und Neuordnung der Agrargemeinschaften.
+      </p></div>
+<div type="article">
+<head>Artikel 25.
+      </head>
+<p type="legal_section"><label>(1)</label> Durch die Bestimmungen der Artikel 21 bis 24 über die Zuständigkeit in Gesetzgebung und Vollziehung wird die Stellung des Bundes als Träger von Privatrechten (Eigentümer, Unternehmer, Pächter usw.) in keiner Weise berührt.
+      </p><p type="legal_section"><label>(2)</label> Der Bund kann in allen diesen Rechtsbeziehungen durch die Landesgesetzgebung niemals ungünstiger gestellt werden als das betreffende Land selbst.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 26.</head>
+<p type="legal_section"><label>(1)</label> Im Bereiche der Bundesländer wird die vollziehende Gewalt des Bundes entweder durch eigene Bundesbehörden (unmittelbare Bundesverwaltung) oder durch die Landesregierungen und die ihnen unterstellten Landesbehörden im Bundesauftrag (mittelbare Bundesverwaltung) ausgeübt.
+      </p><p type="legal_section"><label>(2)</label> Eigene Bundesbehörden können für folgende Angelegenheiten errichtet werden: Regelung des Waren= und Viehverkehres mit dem Ausland, Zollwesen, Bundessinanzen und Regelung der Finanzangelegenheiten zwischen Bund und Bundesländern,<pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/></p>
+<p type="legal_section"><label>988</label> der Beilagen. — Konstituierende Nationalversammlung. 12 Monopolwesen, Maß=, Gewichts=, Normen= und Punzierungswesen, Justizpflege, Verkehrswesen bezüglich der Eisenbahnen, der Schiffahrt und der Luftschiffahrt, Strom= und Schiffahrtspolizei, Post=, Telegraphen= und Fernsprechwesen, Bergwesin, militärische Angelegenheiten, innere Einrichtung, Ausrüstung und Ausbildung der Gendarmerie, Sicherheitspolizei in der Bundeshauptstadt Wien und in den Landeshauptstädten. Dem Bunde bleibt es vorbehalten, auch in diesen Angelegenheiten die Landesregierungen mit der Ausübung der vollziehenden Gewalt des Bundes zu beauftragen.
+      </p>
+<p type="legal_section"><label>(3)</label> Soweit die Landesregierungen Bundesangelegenheiten durchzuführen haben, sind sie an die Weisungen der Bundesregierung sowie der einzelnen Bundesämter gebunden und ist für die Durchführung der Landeshauptmann der Bundesregierung verantwortlich</p>
+</div>
+<div type="article">
+<head>Artikel 27.
+      </head>
+<p type="legal_section"><label>(1)</label> Alle Gesetzesbeschlüsse der Landtage sind unmittelbar nach erfolgter Beschlußfassung des Landtages und vor ihrer Kundmachung vom Landeshauptmann der Bundesregierung bekanntzugeben.
+      </p><p type="legal_section"><label>(2)</label> Wegen Gefährdung von Bundesinteressen kann die Bundesregierung unter gleichzeitiger Mitteilung an den Bundesrat binnen vier Wochen vom Tage der eingelangten Beganntmachung an gegen den Gesetzesbeschluß des Landtages Einspruch erheben. In diesem Falle sind der Beschluß samt dem Einspruch der Bundesregierung und der etwaigen Äußerung des Bundesrates im Landtage neuerlich zur Verhandlung zu stellen.
+      </p>
+<p type="legal_section"><label>(3)</label> Wiederholt der Landtag seinen Gesetzesbeschluß, so ist dieser kundzumachen. Hat jedoch der Einspruch der Bundesregierung die Zustimmung des Bundesrates erhalten, so kann ein solcher Gesetzesbeschluß nur kundgemacht werden, wenn er bei Anwesenheit der Hälfte aller Mitglieder des Landtages mit einer Mehrheit von zwei Dritteln aller abgegebenen Stimmen wiederholt wird.</p>
+<p type="legal_section">IV. Abschnitt. Die dem Bunde und den Bundesländern gemeinsamen Einrichtungen.
+      </p></div>
+<div type="article">
+<head>Artikel 28.
+      </head>
+<p type="legal_section"><label>(1)</label> Zur Überprüfung der Gebarung in der gesamten Staatswirtschaft des Bundes und der Länder, ferner die Gebarung der von Organen des Bundes oder der Länder verwalteten Stiftungen. Fonds und Anstalten ist der Rechnungshof berufen.<pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/></p><p type="legal_section"><label> 888</label> der Beilagen. — Konstituierende Nationalversammlung. 13 Er kann auch die Gebarung von Unternehmungen überprüfen, an denen der Bund finanziell be teiligt ist.
+      </p>
+<p type="legal_section"><label>(2)</label> Der Rechnungshof untersteht unmittelbar der Bundesversammlung.
+      </p>
+<p type="legal_section"><label>(3)</label> Der Präsident des Rechnungshofes wird von der Bundesversammlung gewählt und ist in bezug auf Verantwortlichkeit den Mitgliedern der Bundesregierung gleichgestellt.
+      </p>
+</div>
+<div type="article">
+<head>Artikel 29.
+      </head>
+<p type="legal_section">Alle Urkunden über Staatsschulden (Finanz- und Verwaltungsschulden), insoweit sie eine Verpflichtung des Bundes beinhalten, sind vom Präsidenten des Rechnungshofes gegenzuzeichnen; durch diese Gegenzeichnung wird lediglich die Gesetzmäßigkeit und rechnungsmäßige Richtigkelt der Gebarung bekräftigt.</p></div>
+<div type="article">
+<head>Artikel 30.
+      </head>
+<p type="legal_section"><label>(1)</label> Wegen Rechtsverletzung durch die Entscheidung oder Verfügung einer Verwaltungsbehörde des Bundes oder eines Bundeslandes entscheidet nach Erschöpfung des administrativen Instanzenzuges der Verwaltungsgerichtshof in Wien.
+      </p><p type="legal_section"><label>(2)</label> Der Präsident und die eine Hälfte der Mitglieder werden auf Vorschlag der Bundesregierung, der Vizepräsident und die andere Hälfte der Mitglieder auf Vorschlag des Bundesrates vom Bundes präsidenten ernannt.
+      </p>
+<p type="legal_section"><label>(3)</label> Wenigstens die Hälfte der Mitglieder muß die Eignung zum Richteramte haben.</p>
+</div>
+<div type="article">
+<head>Artikel 31.
+      </head>
+<p type="legal_section"><label>(1)</label> Als oberster Hüter der Verfassung und Schiedsrichter zwischen dem Bunde und den Bundesländern fungiert der Verfassungsgerichtshof in Wien.
+      </p><p type="legal_section"><label>(2)</label> Dem Verfassungsgerichtshof obliegt die Enterscheidung über a) Verfassungswidrigkeit von Gesetzen; b) Gesetzwidrigkeit von Verordnungen; c) Rechtsstreitigkeiten zwischen dem Bunde und den Bundesländern oder zwischen diesen untereinander; d) Kompetenzkonflikte zwischen den ordentlichen Gerichten und den Verwaltungsbehörden oder dem Verwaltungsgerichtshofe, ferner zwischen der Bundesregierung und den Landesregierungen oder zwischen diesen untereinander; e) Gesetzwidrigkeit von Wahlen zu den allgemeinen Vertretungskörpern;<pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/></p>
+<p type="legal_section"><label>888</label> der Beilagen. - Konstituierende Nationalversammlung. 14 f) Verantwortlichkeit des Bundespräsidenten, der Mitglieder der Bundesregierung, des Präsidenten des Rechnungshofes und der Mitglieder der Landesregierungen, insbesondere auch der Landeshauptmänner; g) Verletzung der verfassungsmäßig gewährleisteten Rechte.
+      </p>
+<p type="legal_section"><label>(3)</label> Der Präsident und der Vizepräsideut des Verfassungsgerichtshofes werden von der Bundesversammlung, je die Hälfte der Mitglieder vom Bundestag und vom Bundesrat gewählt.</p>
+<p type="legal_section">V. Abschnitt. Schlußbestimmungen für die endgültige Regelung der Verfassung.
+      </p></div>
+<div type="article">
+<head>Artikel 32.
+      </head>
+<p type="legal_section"><label>(1)</label> Die Bestimmungen dieses Gesetzes sind für die von der neuen Nationalversammlung zu beschließende Bundesverfassung grundlegend.
+      </p><p type="legal_section"><label>(2)</label> Eine Änderung dieser Bestimmungen ist insoferne zulässig, als sie von der neuen Nationalversammlung mit Zweidrittelmehrheit bei Anwesenheit von mindestens zwei Dritteln aller Mitglieder beschlossen wird.
+      </p>
+<p type="legal_section"><label>(3)</label> Zu einer Änderung der Bestimmung des Artikels 10, Absatz 1, ist überdies auch notwendig, daß von den Abgeordneten jedes einzelnen Bundeslandes die Mehrheit für die Abänderung gestimmt hat.
+      </p>
+<p type="legal_section"><label>(4)</label> Im Rahmen der künftigen Bundesverfassung wird sich jedes Bundesland selbst seine eigene Verfassung zu geben haben. Österreichische Staatsdruckerei. 524620</p>
+</div>
+</div></body>
+    </text>
+</TEI>
