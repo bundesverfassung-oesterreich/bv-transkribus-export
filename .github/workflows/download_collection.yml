@@ -28,9 +28,13 @@ jobs:
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
+        ls -la mets
+        ls -la mets/195363
     - name: Transform to TEI
       run: |
         ./scripts/transform.sh
+        ls -la mets
+        ls -la mets/195363
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Exported and Transformed B-VG-Transkribus Collections

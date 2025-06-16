@@ -728,9 +728,12 @@ def resolve_types(doc_metadata):
 def process_all_files():
     # # load metadata from baserow
     metadata = load_metadata_from_dump()
+    print(metadata)
     for transkribus_collection_id, collection_metadata in metadata.items():
+        print(transkribus_collection_id, collection_metadata)
         # # load sourcefiles from fetch / transform job
         source_files = glob.glob(f"{TMP_DIR}/{transkribus_collection_id}/*_tei.xml")
+        print(source_files)
         for xml_file_path in source_files:
             # # parsing doc to mem
             doc = get_xml_doc(xml_file_path)

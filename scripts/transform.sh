@@ -6,4 +6,4 @@ for file in ./mets/*/*_mets.xml
   done
 echo "done with xslt"
 echo "refining created tei"
-python ./scripts/refine_tei.py
+# python ./scripts/refine_tei.py
