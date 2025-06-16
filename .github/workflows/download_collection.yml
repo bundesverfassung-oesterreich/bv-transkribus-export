@@ -18,15 +18,7 @@ jobs:
     - name: Update page2tei
       run: git submodule update
     - name: manage folders
-      run:
-        EDITIONSPATH="./editions_source"
-        METSPATH="./mets"
-        LOGPATH="./logs/malformed_files.csv"
-        if [ -d "$EDITIONSPATH" ]; then rm -r "$EDITIONSPATH"; fi
-        if [ -d "$METSPATH" ]; then rm -r "$METSPATH"; fi
-        if [ -f "$LOGPATH" ]; then rm -r "$LOGPATH"; fi
-        mkdir -p "$METSPATH"
-        mkdir -p "$EDITIONSPATH"
+      run: ./scripts/manage_folders.sh
     - name: Install Saxon and Ant
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
