@@ -16,7 +16,12 @@ jobs:
     - name: Perform Checkout
       uses: actions/checkout@v3
     - name: Update page2tei
-      run: git submodule update
+      run: |
+        git submodule update
+        xsl_path="./page2tei/page2tei-0.xsl"
+        pwd
+        ls ./page2tei
+        if [ ! -f  $xsl_path ]; then echo "xsl script $xsl_path not found!" & exit 1; fi
     - name: manage folders
       run: ./scripts/manage_folders.sh
     - name: Install Saxon and Ant
