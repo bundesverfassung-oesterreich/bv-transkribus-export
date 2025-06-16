@@ -13,8 +13,11 @@ jobs:
       TR_USER: ${{ secrets.TR_USER }}
       TR_PW: ${{ secrets.TR_PW}}
     steps:
-    - name: Perform Checkout
-      uses: actions/checkout@v3
+    - name: Checkout repository with submodules
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
     - name: Update page2tei
       run: |
         git submodule update
