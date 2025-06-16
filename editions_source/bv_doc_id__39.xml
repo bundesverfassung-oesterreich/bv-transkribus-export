@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1715550</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">14588</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920</title>
+                            <note type="editor">Protokoll der 4. Sitzung des Subkomitees des Verfassungsausschusses vom 22. Juli 1920, beiliegend ein Communique betreffend die im UA geführte Diskussion der Artikel 10-12 des Linzer Entwurfes, Lithographie, Zustand: gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-07-22" notAfter-iso="1920-07-22">22. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-22" notAfter-iso="1920-07-22">
+                    22. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3270" lry="5253" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0002/full/full/0/default.jpg" width="3270px" height="5253px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0003/full/full/0/default.jpg" width="3270px" height="5253px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3268" lry="5239" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0004/full/full/0/default.jpg" width="3268px" height="5239px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0005/full/full/0/default.jpg" width="3268px" height="5239px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5263" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0006/full/full/0/default.jpg" width="3270px" height="5263px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0007/full/full/0/default.jpg" width="3270px" height="5263px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3257" lry="5232" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0008/full/full/0/default.jpg" width="3257px" height="5232px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0009/full/full/0/default.jpg" width="3257px" height="5232px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3264" lry="5221" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0010/full/full/0/default.jpg" width="3264px" height="5221px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__39/files/images/IMG_0011/full/full/0/default.jpg" width="3264px" height="5221px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3261" lry="5218" xml:id="facs_7">
+         <graphic url="62852704.jpeg" width="3261px" height="5218px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OTUFATRSODCDUDTKODSDNUER&amp;fileType=view" width="3261px" height="5218px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3282" lry="5245" xml:id="facs_8">
+         <graphic url="62852705.jpeg" width="3282px" height="5245px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XRPRSZASDBAWNLIYFJYAXOJS&amp;fileType=view" width="3282px" height="5245px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3273" lry="5218" xml:id="facs_9">
+         <graphic url="62852706.jpeg" width="3273px" height="5218px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SZVHIVEKVPGVTTUHPJVPFWQJ&amp;fileType=view" width="3273px" height="5218px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3260" lry="5261" xml:id="facs_10">
+         <graphic url="62852707.jpeg" width="3260px" height="5261px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GWUMQCIPFOKRGMZXSGGAUUWR&amp;fileType=view" width="3260px" height="5261px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>Protokoll der vierten Sitzung des Subkomitees des Verfassungeausschusses von 22. Juli 1920. Beginn 3 Uhr Nachmittag. Anwesend: Dr. Otto Bauer als Vorsitzender, Dr. Heinrich ol ess in als Berichterstatter. Dr. Josef Aignar, Dr. Rebert Danneberg. Dr. Arnold Fisler. Mathies Eldersch, Jodok Fink. Dr. Ignaz Seipel. Staatssekretär Prof. Dr. Michael Mayr. Von der Staatskanzlei: Hin. Rat Dr. Georg Froehlich, sektionsrat Dr. Egbert Mannlicher. Oberfinanzrat Dr. Karl Moser, Min. Vizesekretär Dr. Adolf le r kl als Schriftführer. Prof. Dr. Hans Kels en als Experte des Verfagsungsausschusses. Sektionschef Dr. Kaan, Z von St. A. F. 802. VorRegierungsrat Dr. Schronm waltung; der Beratung über den Punkt 9 des Art. 10 als versicherungstechnische Experten zugezogen.
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            -2-
+            </p>
+            
+            <p>Dr. Otto Bauer eröffhet die Sitzung und lädt die Vertreter der Versicherungssektion des Startsantes für soziale Verwaltung ein, sich im Sinne des in der Sitzung des Subkomitees vom 30. Juli 1920 gefassten. Beschlusses zur Frage der Trennung des Sozialversicherungswesens der land - und forstwirtschaftlichen Arbeiter und Angestellten vom übrigen Sozialversicherungswesen zu äussern. Sektionschef Dr. Kaan lest ausführlich die versicherungstechnischen Schwierigkeiten einer solchen Trennung dar und betont, dass abgesehen von den ausserordentlich gesteigerten Verwaltungskosten diese Trennung vom Standpunkte der Land - und Forstwirtschaft noch den schweren Nachteil habe, dass das Risike in der Land - und Forstwirtschaft infolge der ungünstigen Alterszusannensetzung ungleich grösser sei und dass dadurch selbstverständlich auch ungleich hohere Prämien bedingt wären, als bei einer für alle Erbeitskategorien gemeinganen Organisation der Versicherung. Auf Befragen des Vorsitzenden gibt Saktionschef Dr. Kaan bekannt, dass bei der Ausarbeitung der neuen Regiorungevorlage über die Krankenversicherung der Wegder Staatsgesetzgebung von landwirlschaftlicher Seite nicht in Frage gestellt wurde. Dr. Seipel bemerkt, dass mit der Frage der Organisation des Versicherungswesens auch die Frage der Resportzuständigkeit zusammenhängt: das organisatoriach von der übrigen öffentlichen Versicherung getrennte landwirtschaftliche Sozialversichsrungswesen misste naturgendes den St. A. Für Land - und Forstwirtschaft unterstehen. Auch sei nicht ausgeschles sen, dass sich die getrennten Organisationen der beiden Versicherungezweige in einen übergeordneten Zweckverbende vereinigen, wodurch die versicherungstechni-
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            -3-
+            </p>
+            
+            <p>schen längel der Deppelorganisation des Versicherungewesens paralysiert worden konnten. Der Vorgitzande bemerkt, dass genägs den jetzt zum Durchbruch gelangten Grundsatze, dass die Arbeiter nicht ein Zugehar des Produktionszweiges sind, in dem sie beschäftigt sind, das gesante Versicherungswesen aus dem Wirkungskreige des St. A. für Land - und Forstwirtschaft ausgegehaltet und den St.A. für soziale Verwaltung vorbehalten werden müsse. Staatesokretär Dr. Mayr bemerkt, dass der Arbeiterschaft selbst die vorgeschlagene Doppelorganisation des Versicherungewesens ernünscht sein dürfte. Auf Befragen des Vornitzenden gibt Sektienschef Dr. Kaan bekannt, dass in der vorerwähnten Regierungsvorlage die Kompetenz des Staatsantes für soziale Verwaltung ausgesprochen sei, webei allerdings lie den Hirkungskreis des St.1. für Land - und Forstwirtschaft berührenden Entscheidungen in Einvernehmen mit diesen Staatsante zu treffen sein werden. Der Vorsitzende bringt sodann den Punkt 9 zur Abstinmung; der Punkt wird in der Fassung des Linzer Entwurfes angenommen; der sozialdemokratische und der christlichsoziele Ahänderungsantrag bleiben in der Hinderheit. Hierauf stellt der Vorsitzende den ( in 3. Protokelle wiedergegebenen ) Antrag Drie. Dannaherg bezüglich des Schulwegens zur Verhandlung. Der BerichterstatZaz bemerkt, dass sich seine Partei dem Antrage in der Passung Amit dem Vorbehalte anschliegsn, dass die land - und foretwirtschaftlichen Fachschulen aus der Bundeskompetenz ausgenommen werden; anderenfalle sei erbereit, den Verschlag B anzunehnen. Stantssekratär Dr. Marr gibt zu bedenken, dass die vorgeschlagene Regolung der Schulnanene eine Tabiarung bedeute, die
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            -4-
+            </p>
+            
+            <p>reit über den gegenwärtigen Rechtszustand hinausgehe und aus diesem Grunde für die Länder unannehmbar sei. Dr. Eialer verweist auf das lebhafte Intäresse, das in Landstrichen mit einer fluktuierenden Bevölkerung an einer einheitlichen Regelung das Schulwesens bestehe und erörtert namentlich die Verhältnigss in Chersteier. Staatssekretär Dr. Mayr macht aufnerksan, dass dieselben Verhältnisse wohl auch in Tirel,namentlich in Vorarlberg in Beziehung zu den angrenzenden Teilen des deutschen Reiches bestünden, so dass nicht einmal eine gesantstaatlich einheitliche Regelung des Schulwesens den vom Antragsteller erstrebten Zweck voll erfüllen könnte. Dr. Seipel bemerkt, dass eine Ausgestaltung des Art.13. des Verfassungsentwurfes die Bedenken des Antragstellers zerstreuen könnte. Professor Kolsen macht aufmerksan, dass unter dem Titel der Schulaufsicht die erforderliche Einheitlichkeit des Schulwesens, soweit sie unabweislich ist. vielleicht genügend sicher gestellt werden konnte. EiAerach hält nicht dafür, dass eine besondere Formuliorung des Art. 13 oder der Vorbehalt der Schulaufsicht für den Bund die erforderliche Einheit des Schulwesens sicherstellen könne. In der nach längerer Lebatte erfolgenden Abstimmung wird der Antrag Tris. Danneberg in der Fassung A rdas gesante Schul - und Erziehungs wosen: das Volksbildungswesen:» angenomnen. Der Zusatzantrag Dris. Gleseinmit Ausnahme des forst - und landwirtschaftlichen Unterrichtswesene- wird abgelehnt. Der VorAitzende stellt fest, dass durch diese Abstimnung alle anderen Bestimmungen über das Schulwesen in den Artikeln 10- 12 eliminiert sind. Dr. Seipel behält sich ein Minderheitsvetum vor. 71
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            -5-
+            </p>
+            
+            <p>Der Vorsitzende gröffhet nunmehr die Dehatte über die Regelung der Gendarnerie und der Polizei und stellt fegt, dass zu diesem Punkte eine Fornulierung der Angigrung und ein Antrag des Abgeordneten Alderach vorliegt. Nach dem Vorschlage der Regierung hätte ein eigener Artikel folgenden Wortlautes das Gendarmeriewesen zu regeln: »(1) zur Unterstützung der zur Aufrechterhaltung der öffentlichen Ordnung, Ruhe und Sicherheit in Bundesgebiete berufenen Behörden dient die Gendarmeric. (2) Jedes Land bildet einen sigenen Gendarneriebereich. Die Gendarnerie wird jedoch für alle Länder nach einheitlichen Grundsätzen vom Bunde eingerichtet, ausgebildet, ausgerüstet und erhalten; dem Bunde steht auch die Leitung des inneren Diengtes der gesanten Gendarmerie und die Erlassung der Dienstvorschriften zu. (3) Zur Verfügung über die Gendarnerie für den äusseren Dienst zum Zwecke der Aufrechterhaltung der öffentlichen Ordung, Ruhe und Sicherheit sind grund sätzlich nur die zuständigen Landesregierungen und ihnon unterstellten Landesbehörden berufen. (4) Lediglich bei Motstand und Unruhen kann der Bund die zeitweilige Verwendung von Teilen der Gendarmerie ausserhalt das Landesbareiches anordnen. (5) Die Gerichte und Staatsanwaltschaften sind berechtigt, die Dienstleistung der Gendäruerie für Zwacke der Strafrechtspflege unmittalbar in Anspruch zu nehmen. (6) Das Nähere über das Gendarmeriewesen, inebesondere auch über die Dienst - und Rechtsverhältnisse der Gendarnerie regelt ein besonderes Bundesgesetz." 4
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            -6-
+            </p>
+            
+            <p>Dar Artikel 10. Pkt. 12,hätte nach den Vorschlage der Regierung folgendermangen zu lauten: »Geffentliche Ordnung, Ruhe und Sicherheit in der Bundeshauptstadt Wien und in den Landeshauptstädten." Der Antrag Elderach lautet: «zur Unterstützung der zur Aufrechterhaltung der öffentlichen Ordnung, Ruhe und Sicherheit in Gebiete der Bundeshauptstadt Wien und der Landeshauptstädte berufenen Behörden dient die Bundespolizei. Ihre Einrichtung, Ausbildung, Augrüstung und Erhaltung sowie die Leitung des inneren Dienstes und die Erlassung der Dienstvorschriften steht dem Bunde zu. Zur Verfügung über die Bundespolizei für den äusseren Dienst sind grundsätzlich nur die zuständigen Bürgerneister berufen. Lediglich bei Notstand und Unruhen kann der Bund die zeitweilige Verwendung von Teilen der Bundespolizei ausserhalb ihres ständigen Diensthereiches anordnen.» Es entspinnt sich zunächst eine länger- Debatte über die Regelung der Sicherheitspolizei in Mien. Dr. Seipel spricht sich gegen die mit den Atrage ElAerach beabsichtigte Kannunalisierung der Polizei aus und begründet die Sonderstellung der Polizei in Wien und ihre Orzanisation als Bundesorgan mit der Stellung Wiens als Hauptstadt und mit der Tätsache, dass Wien als politischer Gefahrenherd anzusehen sei. Das ergument, dass wien durch diese Regelung der Polizei im Vergleiche mit den Ländern und Landeshauptstädten entrechtet werde, trof fe auch schon deshalb nicht zu, weil diese Lösung der Frage der Bundeshauptstadt zugleich beträchtliche Vorteile bringe, inden sie namentlich von einer schweren finanziellen Last durch den Bund entlastet werde. Sektions116
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            -7-
+            </p>
+            
+            <p>rat Dr. Mannlicher macht darauf aufnerkean, dass gegenwärtig die Wiener Polizeidiraktion in gewissen Angelegenheiten einen über das Gebiet der Stadt hinaus reichenden. uu des satze stastsgebiet sich erstrochenden Nirkungskreis habe (Daktyloskopie, Spionagedienst u.s.w.). Profegger Kalsen bemerkt, dass die Bundeeregierung zufolge ihrer völkerrechtlichen Verpflichtung, für den Schutz der ausländischen Vertretungen zu sorgen, einer ihr unmittelbar unterstehenden Polizeigewalt bedürfe; es frage sich daher, oh nicht neben der Lokalpolizei für den vorerwähnten Zweck eine eigene Bundespolizei nötig sei. Elderach erklärt die zugunsten der Organisation der Wiener Polizei als Bundesorgan vorgebrachten Argumente für unstichhältig und betont, dass für seine Partei eine Differenzierung in dieser Hinsicht zwischen wien und den Ländern unannehmbar sei. Der Vorsilzende wendet sich insbesondern auch gegen die Bemerkung, dass Wien gewissermassen als politischer Gefahrenherd eine Sonderbehandlung erfordere, da dieselbe Erwägung von Standpunkte Wiens aus, auch über gewisse Länder oder Landesteile angestellt worden könne. Mit dem vorerwähnten Vorschlage der Regierung erklärt sich Elderach vorbehaltlich gerin,fügiger stilistischer Aenderungen grundsätzlich einverstanden. Nachden Minioterialrat Dr. Froehlich und Sektionsrat Dr. Kannlicher auf Befragen die vorliegende Textierung des überdie Gendarmerie handelnden Artikels in einzelnen begründet haben, bringt der Vorsitzende den Verhandlungsgegenstand zur Abstinnung. Der Antrag Elderach wird nach geringfügigen stilistischen Aenderungen in folgender Formutierung angenomnen: 717
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            -8-
+            </p>
+            
+            <p>„Zur Unterstützung der mit der Aufrechterhaltung der öffentlichen Ordnung, Ruhe und Sicherheit in Gebiete der Bundeshauptstadt Hien und der Landeshauptstadte betrauten Behörden dient die Bundespolizei. Ihre Einrichtung, Ausbildung, Ausrüstung und Erhaltung so ie die Leitung des inneren Dienstes und die Erlassung der Dienstvorschriften staht den Bunde zu. Zur Verfügung über die Bundespolizei für den äusseren Dienst sind grundsätzlich nur sie zustndigen Bürgermeister berufen. Bei Notstand und Unruhen kann der Bund die zeitweilige Verwendung von Teilen der Bundespolizei ausserhalb ihres ständigen Dienstbereiches anordnen.« Von christlichsozialer Seite wird hiezu ein Minoritätsvotum angemeldet. Der Vorschlag der Regierung,betreffend den die Gendarmerio rogelnden Artikel wurde in folgender Fassung angenommen. 1. Absatz: „(1) zur Untorstützung der mit der Aufrechterhaltung der öffentlichen Ordung, Ruhr und Sicherheit in Bundesgebiete betrauten Behörden dient die Gendarneric." 2. und Z. Absatz: unverändert. 4. Absatz wird in folgender Fassung angenommen: »(4) Bei Notstand und Unruhen kann der Bund die zeitweilige Verwandung von Teilen der Gendarnerie ausserhalb des Landesbereiches anordnen. 5. und 6. Absatz werden unverändert angenommen. Ein weiterer Antrag Dris. Einler auf Unstellung der Apsätze 3 und 4 wird abgelohnt. Der Vorsitzende stollt fest, dass infolge Annahme des Antrages Elderach die von der Regierung vorgeschlagene Formutierung des Funk-
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            -9- tes 47 des Art. 10 nicht mehr in Betracht konnt. Endlich wird im Sinne einer Anregung des linistorialrates Dr. Frochlich beschlossen,die Einreihung des über die Gendarmarie handelnden Artikels, (dem die Fornulierung hlAerach als letzter Absatz angefügt wird, seinem späteren Zeitpunkte vorzubehalten. Schluss der Sitzung: 5 Uhr 10 Kin. Die nächste Sitzung wird für Dienstag den 17. August 1920, 10 Uhr Vormittag anberaunt.
+            </p>
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__37">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1716130</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">14586</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920</title>
+                            <note type="editor">Protokoll der 2. Sitzung des Subkomitees des Verfassungsausschusses vom 12. Juli 1920, Lithographie auf dünnem Durchschlagpapier, Zustand mäßig, Papier stark gewellt, zum Teil Ränder ausgerissen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-07-12" notAfter-iso="1920-07-12">12. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-12" notAfter-iso="1920-07-12">
+                    12. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3232" lry="5155" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0045/full/full/0/default.jpg" width="3232px" height="5155px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0046/full/full/0/default.jpg" width="3232px" height="5155px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3264" lry="5169" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0047/full/full/0/default.jpg" width="3264px" height="5169px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0048/full/full/0/default.jpg" width="3264px" height="5169px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3264" lry="5183" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0049/full/full/0/default.jpg" width="3264px" height="5183px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0050/full/full/0/default.jpg" width="3264px" height="5183px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3242" lry="5182" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0051/full/full/0/default.jpg" width="3242px" height="5182px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0052/full/full/0/default.jpg" width="3242px" height="5182px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3237" lry="5177" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0053/full/full/0/default.jpg" width="3237px" height="5177px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0054/full/full/0/default.jpg" width="3237px" height="5177px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3239" lry="5176" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0055/full/full/0/default.jpg" width="3239px" height="5176px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0056/full/full/0/default.jpg" width="3239px" height="5176px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3238" lry="5172" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0057/full/full/0/default.jpg" width="3238px" height="5172px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0058/full/full/0/default.jpg" width="3238px" height="5172px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3251" lry="5182" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0059/full/full/0/default.jpg" width="3251px" height="5182px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0060/full/full/0/default.jpg" width="3251px" height="5182px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3243" lry="5168" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0061/full/full/0/default.jpg" width="3243px" height="5168px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0062/full/full/0/default.jpg" width="3243px" height="5168px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3231" lry="5167" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0063/full/full/0/default.jpg" width="3231px" height="5167px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__37/files/images/IMG_0064/full/full/0/default.jpg" width="3231px" height="5167px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3242" lry="5191" xml:id="facs_12">
+         <graphic url="62866764.jpeg" width="3242px" height="5191px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QJOUFADBECFKDRQHKOUMYBDB&amp;fileType=view" width="3242px" height="5191px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3235" lry="5173" xml:id="facs_13">
+         <graphic url="62866766.jpeg" width="3235px" height="5173px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TBEEEYUMJLSHUHYMRSNOWDBI&amp;fileType=view" width="3235px" height="5173px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3234" lry="5171" xml:id="facs_14">
+         <graphic url="62866768.jpeg" width="3234px" height="5171px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WXMOWRFIXIRVLGKFMRXRFKEK&amp;fileType=view" width="3234px" height="5171px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3230" lry="5171" xml:id="facs_15">
+         <graphic url="62866769.jpeg" width="3230px" height="5171px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AIELAQXUDNIHPIMIXLQFELCM&amp;fileType=view" width="3230px" height="5171px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3242" lry="5150" xml:id="facs_16">
+         <graphic url="62866771.jpeg" width="3242px" height="5150px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VOTXQDNUPZPYXEVNEUWXWFIV&amp;fileType=view" width="3242px" height="5150px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3241" lry="5176" xml:id="facs_17">
+         <graphic url="62866773.jpeg" width="3241px" height="5176px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PGVAWHTUEBVJGZXGRRQLGAPW&amp;fileType=view" width="3241px" height="5176px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3243" lry="5166" xml:id="facs_18">
+         <graphic url="62866774.jpeg" width="3243px" height="5166px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UECHUMGWZNTPFIHFXMBVMBZH&amp;fileType=view" width="3243px" height="5166px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3238" lry="5167" xml:id="facs_19">
+         <graphic url="62866776.jpeg" width="3238px" height="5167px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PSAUFQRJBELFOBPEMUXHXBRB&amp;fileType=view" width="3238px" height="5167px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3248" lry="5201" xml:id="facs_20">
+         <graphic url="62866778.jpeg" width="3248px" height="5201px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QOHIUIFNKWMRJXJEJEMZPVHA&amp;fileType=view" width="3248px" height="5201px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>Protokol1 der (zweiten)sitzung des Subkomitéen des Verfanaungsausschusses vom 12. Juli 1920. Beginn: 1020 Vormittag. Anwesend: Dr. Otto Bauer, als Vorsitzender, Dr. Josef Rigner, Heinrich Cl e &amp; s in, als Berichterstatter, Dr. Robert Danneberg, Mathias Eldersch, FodokFindk, Dr. Ignaz Seipel Staateoekretär Prof.Dr. Michael Mayr. §Prof. Dr. Hans Kels en aus Experte des Verfassungsausshuses. Von der Staatskanzlei: Min.Rat Dr. Georg Froehlich, Sektionsrat Dr. Egbert Mannlicher, Oberfinanzrat Dr. Karl Moser, Hin.Vizesekretär Dr. Kurt Frieberger, als Schriftführer. 1.
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            -2-
+            </p>
+            
+            <p>Nach eröffnung der Eitzung nacht Tr. Danneherg darauf aufmerksan, daß über die Kompetenz hinsichtlica, Zundesverfassung und Bundesgerichtsbarkelt, Einrichtung der Bundesgesetzgeburg'(art. 25, Mt.1 des Renner'schen Entwurfes) in Linzer Entwurfe nichts enthalten sei und Prot.Tr. Lelsen bemerkte ergänzend, daß diese iaterien wohl an die Spitze des Art.10 zu serzen und mit denen des Punktes 3 zu vereinigen wären. Desgleichen gehören hieher die Angelegenheiten der ahlen zum Bundestugs, der Tanl des Fundespräeidenten und die Volksabstinnungen, was mit der Früge der Bürgerlisten und der der Heubildung von Jändern zusammenhängs. allerdings wird durch eine solche Testlegung der Fundeszuständigkeit, wie Staatosekretür Dr.Mayr erwännt, ein Vorarlberger Landesgesetz über die Volkgabstimmung derogiert. Nuchdem Minshat Dr. frochlich die ausdrückliche Erwähnung der Wahlen zum Bundestage wegen der notwendigen Vorbereitung durch den Bund befürnortet und Dr. Seipel sich für eine klarere Stilisierung den bisherigen lunktes 3 ausspricht, beantragt der Vorsitzende in Art.19. an erster Stelle folgendes einzuseantten: Bundesverfassung, insbeson1.
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            -3-
+            </p>
+            
+            <p>dere Wahlen zum Bandestar, Volkschatin mungen in ganzen Bundeeerblete, NerLadsungegerichtsberkelt.“ Solite der Bundespräsident von ganzen Volke gewählt werden, so könne man die erforderlichen Bestimmungen später aufnenmen. Der Antrag wird in der vorzitierten Fassung angenommen. und festgestellt, daß der bieherige Punkt 1 (auswärtige Angelegenheiten) nunmenr Punkt 2, der bieherige Funktz (Regelung und Ueberwachung des Eintritte usw.) Ekt.3 wird, während der Punkt 3 in der Fagsung des Linzer Entwürfee entfällt. Nierauf wird die Beratung dort fortgesetzt, wo sie am Vortage abgebrochen wurde und seitene Dr. Danneberge beantragt, unter Abänderung des Punktes 6 der mit dem Worte „Urheberrecht" zu schließen hätte, Punkt 7 des Ert.11 an dieser Stelle des Art.10 einzufügen und im Sinne des Art.25, Pkt.9 (Entwurf Dr.Henner) auszugestalten. Staatesekretür Dr.Mayr schlägt auf gleichfalls vor, die Gewerbeangelegenheiten aus Art.11 hieher zu setzen, da sich die Interesdenten sümtlicher Länder für einhettliche Gesetzgebung und Vermaltung auf den Sebiste des stewerbes und der Industrie ausgesprochen hätten. Um diesen sunsche gerecht zu werden, müsse aber eine Zentralstelle
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            -4- in oberster Instanz entscheiden, Nach längerer Beratung über die Fornulierung, an der sich dr. Sannebere und u. Elderech mit dem unsche nach Uinbeziehung des Munttions-, Schles- und Sprengnittelwesens somie des geverblichen und technischen Vereuchswegene, ferner der Vorsitzende und J.Einck beteiligen, nacht Win,tat Dr.Frochlich darauf aufmerksam, daß das technische Versuchswnesen bisher keine eigene Gesetzgebung erfordert habe; soweit es sich bei Munitions-, Schieß- und Sprengnittelneeen um Konspolfragen hand. le, genüge die bezügliche Bestimmung des Art.10, im übrigen werde man mit Art. 11 das Zuslangen finden, weil Schwierigkeiten bei der Durchführung nicät zu gewärtigen sind. Dr. Denneberg zient hierauf seinen Antrag, betreffend das gewerbliche und tecunieene Vereuchswegen zurück. was die vorgeschlagene Fassung des Punktes 7 anlangt, schlägt Dr. zeipel anstelle der Angelegenheiten des Gewerben und der Industrie“ den Ausdruck „allgemeine Gewerbeordnung: vor, zieht aber nach einer Erläutet rung des Staatseckretärs Dr.Mayr, das die Geverbeordnung wohl de lege lata, nicht aber de lege ferenda ein geschlossenes canze bilde, diesen Antrag zurück. Auf eine Anfrage I. Dincks, wer
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            -5-
+            </p>
+            
+            
+            <p>die Teverbeinspektoren zu ernennen. haben werde, betort der Vorsitzende das diese Angelegenheit des Arbeiterrechtee unbedingt bundessache bleiben müsse. Eine Verfagsung, die diese Konpetenz den Lindern überläst, wird nie die Zustimnung der Sozialdenckraten erlangen. Art. 7 wird hierauf in der vorgeschlagenen Fassung (Angelegenheiten des Gewerbes und der Industrie; bekämpfung des unlängeren Uettbewerbee: Patentwesen sonie lerken- und Musterecantz; Ingenieur- und Zimlitschniker. wegen; Handels- und Gewerbekanmern) angenomnen, der intrag Dr. Denneberre das Waffen-, Muritions- und Sprenestoffwesen in diesen Punkt aufzunehmen wird abgelehnt. Dr.Seipel meldet ein Minoritätsrotun an. nach Ekt.7 wäre nach Ansicht dr. Dänneberge aus Ekt.11 des Entwurfes Dr. Nenner aufzuneumen: Ernährungewesen, Nahrungsmittelkontrolle; Gesundheitswesen einschließlich Mutterschafts-, Säuglings-, Jugend- und Alterefürsorge, jedoch mit Ausschluß des Leichenbestattungswesens, des Demeindesanitäteresens, des Milfs- und lettungswesens; Sohnungs resen. Der Berichterstätter meist nach, daß diese Belange in Art.12 zunfeil enthalten sind; die Sundeskompetenz in Ernährungsangelegenheiten durch drt.10.
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            -6-
+            </p>
+            
+            <p>Prt. Il gesichert (die aus Anlaß eines Krieges, insbesondere in Gefolge eines solchen zur Sicherung der einheitlichen Führung der Virtschaft notwendig erscheinenden Faßnannen, insbesondere auch hinsichtlich der Versorgung der Bevölkerung mit Bedarfsgegenständen), welche Formulierung, wie Staatesekretär Dr.Mayr erwähnt, auf Grund geneinsaner Beratungen in den Linderkonferenzen Festgelegt und mit Vertretern des Ernährungsantes vereintart worden sei. Jedenfalls geht der vorliegende Entwurf im einzelnen viel weiter ale alle übrigen Verfassungen; will man aber noch gründlicher sein, so kann man in die Uebergangebestimnungen das entsprechende aufneamen. Die Regelung des Ernährungewesens wird als vorübergehend angesehen, wie auch das Ernährungsamt nicht dauernd erhalten bleiben soll. Die nahrungewirtschaftlichen Beziehungen zum Ausland, auf deren Nichtigkeit WrEldersch verweist, fallen unter die Bundeskompetenz in auswärtigen angelegenheiten, der Schutz vor Fälschungen durch die Mahrungemittelkontrolle unter das Gesundheitswesen, vgl.Art.11, Ekt.11, dessen Kankung auf einen Vorschlag der zuständigen Fachlente zurückgeht. zur Forderung K.EIdersch, eigens dasbmänrungsnesen zu erwähnen, da in <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            -7-
+            </p>
+            
+            <p>Intwarf nur von der Versorgung der Bevölkerung mit Bedartsgegenständen die Tede set, bemerkt Min.Vizesekretür Dr. Frieberger, daß nach der das gesante Ernänrungewesen grundiegenden kais.Verordnung (die letzterlägsese, noch geltende von 21. März 1317, .G.Bl. 1o.131) der Begriff Bedarfegegenstand ausdrücklich auch lebens- und Futtermittel umfaßt. Von den die Debatte abschließenden Anträgen Dr. Danneberg wird der eine auf Einschaltung des sortes Ernährungswesen“ abgelehnt, der andere auf Einfägung der Mahrungenittelitontroller in Art.10, Mkt.10 nach befürwortung durch Tr. Seipel angenommen. De Dr.Danneberg auch das Oesundheitswesen in Ekt.10 verwiesen wünscht, der laut Erläuterung des Berichterstattere bereite die Bekämpfung übertragbarer Krankheiten von Menschen und Tieren enthält, wird schließlich die von ihm beantragte Formulierung im folgenden Vortlaute angenommen: „Das Gesundheits- und das Veterinärwesen, jedoch mit Ausnanme der Heil- und Pflegeanstalten und Ambulatorien, des Kürorteg, Leichen- und Degräbniewesens sowie des Gemeindesanitätadienstes und Lettungswesen.“ Auch das „Volkswohnunge- und Voltspflegestättenwesen“ wünscht r. 1.
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            -8- dannebeig in Gegensatz zu Tr.lasr, der die Kongestenzzaneigung des Ert.I1 für genügend eracatet, in drt.10 aufzunehnen. Seiusen Antrag unterstützt M.Elderech durch den Ninnels, daß wegen der Unmöglichkeit von Neubauten gerade auf diesen Rsbiete in nichster Zeit viel zu shn sein wird; auch der lchnungefürgergefond wird von einer Zentralstelle (St.1.f.s0z.Vermaltung) verwaltet. der (tersitzende) benerkt hiezu, das der Ausdruck lohnungenreen verschiedenes einschliese, so z.D. Laubrdnung, dieterschutz, etz., debiete auf denen der viedereEntritt voller Freiheit vielleieht ausgeschlossen ist. cekt. Jas Dr. Nännlicher Stellt fest, daß die Kempetenz für den Riftprecautz als Bestandteil des Zivistrechten, nunlich ale Kodiritation des Vertragsrechtes, durch sen Ikt.6 des ärt.10 gegegelt sei. Alle diesbezüglichen Wasnahneh genen von 5t.1. T. Justiz aus. In den Inschauungen der sozialdenokratischen farteivertreter erblieft. Dr. Seipel Zentralisiernngetendenzen, die unso weiter gelen, als die Sonnungefrage aufe innigete mit lotaten Verhältnissen zusammenhängt, weshald die Vollziehung der einschlägigen Fundesgesetze den Ländern gewahrt bleiben nus. Staatseekretür dr. Mayr richtet, unterstützt von Vorred/.
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            -9-
+            </p>
+            
+            
+            <p>der, bei diesen Anlat en das Sankonidie die Mannung, in diesen grundlegenden besetze keine Deteils regeln zu wollen, un die Gefahr einer baldigen Aufhebung der Verfassung möglichst zu vermeiden. Das Studiun der Schweizer Verfassung lehrt, daf sie fortwährend ergänzt wird, wie es der Zeit entspricnt. Man soll sich daher bei Singen, deren Entwicklung nicht abzusehen ist, nicht binden. Das St.“, f. soz.Verwaltung hat seinen irkungekreis genügend verteidigt und war der Anschauung, daß der Zondgeinneitlich verwaltpt werden muß, wie es die Bestimmungen des Art.10, ikt.10 ermöglichen. Hingichtlich der Inteignungegesetze muß aber den Ländern die DurchFührung usr. überlassen werden, da man ihnen donst Aipeheate ninnt, die ihnen nach beschlossenen Gesetzen zualehen. Bei der folgenden Abstinnung nerden die Anträge Elderech auf Einfigung des „Volkswonnunge- und Volkapflegestattenneserst in den 1rt.10 abgelennt; desgleichen der Antrag. Dr. Danneberge bezüglich des ohnungewegene. Der Vorgitzende geht hierauf zur Beratung des 4rt. 10, Ekt.9 über, inden Dr. Dannsbarg den Leisatz, soweit es sich nicht un land-und Forstwirtschaftliche arbeiten und angestellte nandeltr gestrichen wünscht. Nach sei-
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            -10-
+            </p>
+            
+            <p>nen Ausführungen wäre die Fornalierung, wie sie rach Angabe des Stastssekretdre Dr.layr auf der sinzer länderkonferenz und von den Landfirtschaftsrertretern in der Natibnatrer sannlung deretiert gezordert wurde. eine Zersplitterung des gesanten Versicherungewesent. Zahlfeiche Arbeiter sind je nach der Jäureszeit bald in gewerblichen Betrieben - ale Faparbeiter u.dgl. - beld in landwirtschaftlichen - Hübenzuckerfabrikation -(beschäftigt. Die wiederholte Unschreibung in den verschiedenen Krankehkassen würde außerordentliche Kosten vorursachen. Den Sinneise Dr. Seinele, das Art.12 Alofür die Rahnen,esetzgebung vorsehe, hält U-Eideroch entgegen, daß das Krankenversicherungsgesetz von die Regelung der Jahre 1880 xnkmm, ak die Krankenversicherung für die land- und fofstwirtschaftlichen Arbeiter duree drrf den Landtagen überlassen nate, dlie 32 faüre auf diesem Oebiete nichte setan haben. Auch der Vorsitzende wendst sich dagegen, daß biener reichergeetzlich geregelte Materien den Ländesen überlassen werden, wie z.B. das lecht der Güterbeanten. In angelegenheiten des Erbeitersphutzes läßt sich vielleicht ein Kompromiß erhoffen, so daß eventl. die angelegenheit von Art.12 in Art. I1 verlegt werden könnte. Die
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            -11- land- und forstwirtscinstlichen Arbeit legen auf diese Regelung besonderen wert. Auch der Zusannengang mit der Aliers- und Iuvaliditätsversicherung nacat die Einheitlichkeit unentbehrlich. Die Länder würden zugunsten der Städte wegen der Mickengemeinschaft schwer belastet, da die Arbeiter iüref Jugend in der Stadt, das Alter auf dem Lande zu verbringen truchten und überdies die Lebensdaner bei den landwirtschaftlichen Berufen größer sei, als bei den industriellen. Dr. Seivel ninnt dies zur Kenntnie, ohne jedoch die heutige Abstimmung davon beeinflassen zu lassen, vorauf ein Vertagungeantrag des Berichterstatters angenomnen wird. Als nächstfolgender Funkt hätte über Antrag der sozialdenokratischen Fartei „d a. Vereins- und Versammlungsrecht; Angelegenheiten der Presse" zu folgen, ferner wünscht Dr. Darneberchler auch aus Ekt.5 des Art. 25 (Entwurf Dr. Lenner), Staatsbürgerschaft und Heinatrecat; Personalstandes-angelegenheiten einzureihen. staatssekretär Dr.layr meint, das der bieherige Uirkungekreis der landesfürstlichen Behörden nunmehr, da die Linder staaten werden, auch in die Zustäntigkeit der Länder fallen wisse. ins Enfrage K.Ulderecht was zu eschenen habe, wenn sieh ein Verein über me-
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            -12-
+            </p>
+            
+            
+            <p>rere sander erstrecke, beantwortet der Staatsoekretär mit den Ainreise auf den Art.13, Abs.2 (,soferne ein akr der vollziehenden Gewalt fur nehrere Länder Rechtewirksamkeit äußern soll, geht die Euständigkeit für diesen Vollzichungespikt auf den Bund über.") Die Staatsbürgerschaft regelt Art.4 („(1) Jeder Landesbürger ist Angehöriger des Bundes. (2) Die Landesbürgerschart. ist an die leinatberechtigung in der Gemeinde einer Landes gebunden. ") Prof.Tr. Felsen hait zwar den Art.13 für anwendbar, doch müste er eine andere Fassung erhalten, weil er jetzt nur auf das lasserrecht abgestell sel. as die Angelegenheiten der kresss anlangt, schlagt jekt.lat Dr. üärnlicher den Ausdruck, Fressenesen? vor, da sonst nur die Angelegenheiten der Journalistik verstanden werden. könnten. Der Voreitzende ninnt diese Anregung zur Kenntnie und hält die Bundeskompstenz für notwendig, da in Staude dae Oegeneinanderwirken verschiedener Kräfte eine rein parteimäßige Handhabung der einschlägigen besetze auf die Dauer unvöglich nache, anders in Falie der Verländerung, wo im engeren Nahnen der parteinädige Einflug 1.
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            -13- überwiege. Iuch bei einheitlicher Gesetzgebung sei die dendrahung der Vollziehung durch die Länder eine Gefahr, da z.B. das objektive Verfahren noch nicht aufgehoben sei, aber derzeit nicht genandhabt werde; es könne daher in einzelnen Ländern wieder, aufleben. Man kann das Versanmlungsrecht als lokale Angelegenheit betrachten, aber das Presserecht ab noch mehr das Vereinsrecht müßten unbedingt in den frt.10 aufgenommen werden. Besondere eine andere Regelung der letzteren Naterle würde eine ungeneure Erregung in der Arbeiterschaft hervorrufen. Der Verband der letallarbeiter hat zufällig seinen Sitz in ien, der der Vergarbelter in Fraz, die Organisation selbet erstreckt sich jedoch über das ganze Reich. ie soll nun das Recht solcher Vereine lünderweisee geregelt werden. Staatesekretär Dr.Mayr gibt zu bedenken, dar die Vertreter der Länder in Salzburg und linz großen Jert darauf gelegt haben, das die in Verhandlung stehenden Materlen den Ländern Belassen bleibe, wogegen Dr. Tanneberg Feststellt, daß dies nicht der Standpunkt der sozialdenokratischen Ländervertreter gewesen sei. Der Vorsitzende erklärt, so grosen wert er auf die leinung der Mehrheit der Ländervertreter lege, dennoch von seiner tellungnehme nicht abrehen zu
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            -14-
+            </p>
+            
+            
+            <p>können und bringt die Entrüge zur 1bmmang. Die Einschaltung Kelgendee Angele genheiten in den Frz.10: Staatsbürgerschaft und Heinatrdcht) Vereinsmesen, Versammlungswesen, zersonenstandsangelegenheiten einschließlich des Matrikenwesen und der Namensänderung werden von Subkonitee abgelehnt, kingegen wird die aufnahne der Angelegenheiten der Fresse angenonnen und zuar wird der Lusdruck Tressewesen“ in den Funkt des Art.10 eingeschaltet. uf Antrag Dr. Danneberge werden. nunmehr Ekt. 11 und 13 durchberaten, Ekt. 10 hingegen einetweilen zurückgestellt, worauf ekt.11 nach kurzer Debastr, an der eich der Berichterstatter, dr. Danneberg und Stastssekretär Dr.Marr beteiligen, im folgenden Vortlaute angenommen, wird: lI. Die mititärischen Angelegenheiten; die Kriegsschadenangelegennelten und die Fürsorge für Kriegsteilnehner und deren Hinterbliebene; das Kruegsgräberwesen; die aus Anlaß eines Krieges oder infolge eines solchen zur Sicherungs der cinheiblienen Führung der Artschaft not wendig erscheinenden Maßnahmen, insbesondere auch hinsichtlich der Versorgung der Revölkerung mit bederfegegenständen; zu ekt. 12 bemerkt Gekt. Rat Dr.kann .
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            -15-
+            </p>
+            
+            <p>licher, das für die Vormulierutg di ses runkses die Anschauung nasgebend gewesen sel, in Dienstrechte sei auch das Dioziplinarrecht inbegriffen. Da aber die Otilisierung des Entwurfes sehr schwerfällig klinge, würde es sich emnpfehlen, ob nicht die Frage der Stellung der Beantenschaft in Burde einen eigenen Artikel vorzubehalten. wäre. Sonohl von Seiten der Staatsbeantenschaft als auch von Seiten der Ländervertreler wird fert daraufgelegt daß die Freizügigkeit der Beanten gewahrt bielben mus, nur gegen das iufoktrogieren eines Beanten nehmen die Linder Stellung. Auch hinsichtlich der Bezüge und Tensionen können sich Sehfirigkeiten ergeben. in Antrag Dr. Seivels, die Kerk rung zur Fornuliefing eines solcher Arbikele bie zur nächsten Sitzung eit zuladen, wird hifrauf angenommen.
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            -16-
+            </p>
+            
+            <p>der derutung des Lanktes 12 verweiet der Gerienteretetter aue dr. Konnere Eutwarf, der Folgendes unter ausschliefliche sundestamgetenz stellt Staata- und Sicherheitspolizst mit zusnahne der Ortspolizet, Sendarnerie. In gleicher seise spricht sich auch l. Alderech für die Einschaltung der dendarnerle an dieser Stelle aus, denn bei einer inschränkung des Verzugungsrecutes, wie sie der Enzer Entwart mit sicht brächte, gübe ee keinen Rechtszug mehr an das ituateant fur Inueres. Wan müßte gewärtigen, daß jeder Landerhauptmann jede Gendarmerieheistellung verweigere. Er entgeguete den Einwande Br.seipele, das ja für rotstand und daruhen das Verfügungerecht des Sundes für die zeitweilige Verwendung von Teilen der stendarnerie äußerhalb des Landeebereiches gewahrt sei, daß einzelne fänder sich schon jetzt in iugelegenneiten des inneren Dienstes einmengen; er befürchtet bei Inkrafttreten des Einzer Entwurfes eine Kinderung des Hertes der Gendarmerie. Er wendet sich aber vor allem nachdrücklion dagegen, das die sicherheitspolizet, die überall landeeaache ist, in tieh Reichesache sein soll. Fr.Seipel meint, daß man darin nur den anerikantscnen Leispiele folge, wänrend Nr.1arr betent, das die Fassung des vorliegenden Entwurfes mit austin-
+            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            -17-
+            </p>
+            
+            <p>nung der Fachnänner aus der sbautsäntern gewühlt werden sei, dn dan geltenden bestand turlichst aufrecht zu erneiter. der Rerichterstatter bewerkt kieze, daf nach der Tertierung des ert.10, 1kt. Iz erst ein sesetz erfließen müste, wie das Verfügungsrecht auszuüben sei. Bel beratung einer solchen Ssvetzes werde es an der Zeit sein, über die Einzelhelten des Verfügungerechtes zu verhandeln. Grundsützlich bestehe nach der Verfassung ein Verfügungsrecht des Bundes. Im Cegensatze zu disser Eutfassung sonließt jedoch i.Eldersch, daß dus Verrügungerecht ausgenomnen zut und nur bet Lotstand und Orrünen zugestanden iet. Zurückgreifend auf den Kennerschen Tatwurf ersucht der Vorritzende sich auf das eine oder andere Trinzip feetzulegen, das für ien ebenso wie für Die Länder zu gelten hätte: entweder verfutt der Landernauptmann über die Sicherheitsorgane aller Art oder aber se verfugt darüber der Staatseckretär. Derzeit ist die Sicherheitspolizei in ien Sache des Staatee und es bedarf eines Dosetzss, un diesen Zustand zu andern. Vor einer Behandlung kiene aber, die ungünstiger wire ais die der Lnder, misse genarnt werden. Die die Formalierung das Entwurfes anlangt, sei die Fassung Inuere inrichtung, Ausrästung
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            -18-
+            </p>
+            
+            <p>und Ausbildung der Sendarnerte einseulieslich der Dienstvorschritteer ricut gläcklich, ins Ernetnungerecht, das den Staatesekreter vorbleiben wese, falle unter keinen dieser Ausdrücke aueh die Verzigungerecht sel zuar juristisch wohl klargestellt, doch die düre de die praktiscns Handhabs auf schwlerigkeiten stossen. tr.ieipel Mätte nichts gegen eine bessere und unfessendere ttlieierung. kann eien aber den entweder-oderr der Vorsitzenden nieht anschliefen. Seine lartei hat wiederuolt erwogen, die stantliche Ticherheitepolizel auch auf die Landeehauptstidte auszudehnen, wie z.8. auf sinz. Innernin muste die sstilisterung zum Ausdruck bringen, dad ein willkürlieues Verlegen der Sendarnerls, z. B. eihe ausschließliche Dotierung Vorarlberge mit lener Wannschait, unzuläsrig ist.und nicht etwa zur hahlzeit plötzlich die „geante Sendarnerie ausgewecheelo wird. ien ist insoferne im Vorteil, daß seine Folizei, auch wenn eie staatlich lat, an Ort und Stelle bleibt, wüürend de Aendarmerie in den Lundern auch butdunken des Staatesckredüre dieloziert wird. der Vereitzende betont, daß sieh aie Bedenken nur gegen das Recht zum ninschicken der Sendarnerle wenden des .
+            <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            -19-
+            </p>
+            
+            <p>Recht die abzuzichen kann dem StaatzeArstär nicht genommen werden. Uebrigent kann mit Eustimmung den Bürgermeletere auch in den Sendernerie verwendet verden. Ueber erine unregung des Versitzen den wird die Ueglerung eingeladen, ein Formulierung des Inhalten vorzulegen, das die Gendarnerle grundeützlich der Koupstenz des Sundes unterstellt bleibt daß aber ein eigener irtikel in die Verfageung eingeschaltet wird, der die VerFugungegewalt innerhalb eines gewiesen gesetzlichen Sanmens sichert; andlog mußte auch die iener Sicherheitspolizel Bundsssache bleiben, nur das den dirverweleter das Verfügungsrecht zustünde, d.n. er müste in einer eigenen Ertikel bestimmt werden, ingeferne der Bürgermeister und der Staateeekret sir zu verfüren hätten. I Vertaguerg anrar dieses Gegenstands gelangt sehin zur Annahme. Miergk wird um 12 Und 30 iin. die itzung gechlogsen, Zeit und Stande der nuchden Verhandlung köfnen derzeit noch göht festgestellt ner den.
+            </p>
+         </div>
+      </body>
+   
+    </text>
+</TEI>

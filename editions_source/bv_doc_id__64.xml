@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__64">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">VfÜG Sonderdruck mit Unterschriften der Regierung</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529236</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="bv_data_set">Datenset A</idno>
+                <idno type="goobi">14620</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Konstituierende Nationalversammlung</author>
+                            <title>VfÜG Sonderdruck mit Unterschriften der Regierung</title>
+                            <note type="editor">VfÜG (Titel des Dokuments: "Verfassungsgesetz vom 1. Oktober 1920, Betreffend den Übergang zur bundesstaatlichen Verfassung"), Typ: Druck, Zustand: gut, keine Anmerkungen, Originalunterschriften der Bundesregierung, 43 Paragraphen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Druck">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">1. Oktober 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-10-01" notAfter-iso="1920-10-01">
+                    1. Oktober 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3241" lry="5213" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0033/full/full/0/default.jpg" width="3241px" height="5213px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0034/full/full/0/default.jpg" width="3241px" height="5213px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3233" lry="5213" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0035/full/full/0/default.jpg" width="3233px" height="5213px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0036/full/full/0/default.jpg" width="3233px" height="5213px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3252" lry="5283" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0037/full/full/0/default.jpg" width="3252px" height="5283px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0038/full/full/0/default.jpg" width="3252px" height="5283px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3257" lry="5265" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0039/full/full/0/default.jpg" width="3257px" height="5265px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__64/files/images/IMG_0040/full/full/0/default.jpg" width="3257px" height="5265px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3274" lry="5276" xml:id="facs_6">
+         <graphic url="58617579.jpeg" width="3274px" height="5276px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ISVVMZNFOXVBVDIKSQQJLCLF&amp;fileType=view" width="3274px" height="5276px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3245" lry="5211" xml:id="facs_7">
+         <graphic url="58617580.jpeg" width="3245px" height="5211px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ALNVDZQQUZDTPJKPOLBQVZUZ&amp;fileType=view" width="3245px" height="5211px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3243" lry="5194" xml:id="facs_8">
+         <graphic url="58617582.jpeg" width="3243px" height="5194px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XGHIKQLGSCMPHJKDNTDGUQIN&amp;fileType=view" width="3243px" height="5194px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Verfassungstext">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p> 102/99-St.K.-1920 </p>
+            <p>1
+            </p>
+            <p>Verfassungsgesetz vom 1. Oktober 1920, betreffend den Übergang zur bundesstaatlichen Verfassung. Die Nationalversammlung hat beichlossen: I. Allgemeine Bestimmungen. § 1. Alle Gesetze und Vollzugsanweisungen (Verordnungen) des Staates — einschließlich der Reichsgesetze des ehemaligen Staates Osterreich, die gemäß § 16 des Beschlusses über die grundlegenden Einrichtungen der Staatsgewalt vom 30. Oktober 1518, St. G. BI. Nr. 1, für die Republik in Geltung gesetzt wurden — sowie alle Gesetze und Vollzugsanweisungen (Verordnungen) der Länder gelten weiter, insoweit sie nicht mit den Bestimmungen des Gesetzes vom 1. Oktober 1920, St. B. BI. Nr. 450, womit die Republik Osterreich als Bundesstaat eingerichtet wird (BundesVerfassungsgesetz), in Widerspruch stehen. § 2 In den Angelegenheiten der Artikel 10 und 11 des Bundes-Verfassungsgesetzes werden die Staatsgesetze, einschließlich früherer Reichsgesetze, sowie die Landesgesetze - diese für das Land, in dem sie erlassen worden sind, — Bundesgesetze im Sinne des Bundes-Verfassungsgesches. § 3 (1) Die Landesgesetze, die die im Artikel 12 des Bundes-Verfassungsgesetzes aufgezählten Angelegenheiten regeln, bleiben weiter Landesgesetze im Sinne des Bundes-Verfassungsgesetzes. Sobald jedoch in diesen Angelegenheiten Grundsätze durch Bundesgesetz festgesetzt werden, sind solche Landesgesetze gemäß Artikel 15, Absatz 2, binnen der bundesgesetzlich festgelegten Frist abzuändern. (2) Sind aber die im Artikel 12 bezeichneten Angelegenheiten zur Gänze durch Staatsgesetze einschließlich früherer Reichsgesetze, geregelt, so bleibt ein solches Gesetz als Bundesgesetz noch durch drei Jahre, von dem im § 42, Absatz I, dieses Gesetzes bezeichneten Zeitpunkt an gerechnet, in Gültigkeit, soweit es nicht schon vorher durch ein die gleiche Angelegenheit im Sinne des Artikels 12 regelndes Bundesgesetz außer Kraft gesetzt wird. Mit Ablauf dieser drei Jahre erlischt die Wirksamkeit derartigen Gesetze; die Landesgesetzgebungen können sodann die Angelegenheit frei regeln, solange nicht der Bundvon dem ihm nach Artikel 12 zustehenden Gesetzgebungsrecht Gebrauch macht.
+            </p>
+            <p>§ 4 (1) Die Landesgesete in den Angelegenheiten, die nach Artitel 15, Absatz 1, des BundesVerfassungsgesetzes ausschließlich in die Gesetzgebung der Länder fallen, bleiben Landesgebiete im Sinne des Bundes-Verfassungsgesetzes. (2) Soweit solche Angelegenheiten bisher durch Staatsgesetze, einschließlich früherer Reichsgesetze, geregelt sind, gelten diese in jedem Land als Landesgesetze im Sinne des Bundes-Verfassungsgesetzes. § 5 Die Bestimmungen der §§ 2 bis 4 überGesetze gelten sinngemäß auch für die auf Grunddieser Gesetze ergangenen Vollzugsanweisungen (Verordnungen). § 6 (1) Die im § 1 bezeichneten Gesetze und Vollzugsanweisungen (Verordnungen) gelten, insoweit sie mit den organisatorischen Bestimmungen des BundesVerfassungsgesetzes in Widerspruch stehen — namentlich was Zuständigkeit und Zusammensetzung der Behörden sowie deren Eigenschaft als Bundes- oder Landesbehörden anlangt — als sinngemäß abgeändert. Insbesondere endet in den Angelegenheiten, die nunmehr in der Vollziehung der Länder stehen, der Instanzenzug beim Land. (2) Sofern sich auf Grund dieser Auslegungsregel Zweifel ergeben können, hat je nach den die Zuständigkeiten regelnden Bestimmungen des BundesVerfassungsgesetzes entweder die Bundesregierung oder die berufene Landesregierung diese Angelegenheit bis zur Erlassung einer gesetzlichen Bestimmung im Sinne des Bundes-Verfassungsgesetzes vorläufig durch Verordnung zu regeln. § 7 (1) Die gesetzlich den bisherigen Organen des Staates und der Länder übertragenen Befugnisse gehen auf die mit einem gleichartigen Wirkungsbereich betrauten Organe des Bundes und der Länder über, soweit nicht die Zuständigkeiten dieser Organe durch das Bundes-Verfassungsgesetz anders geregelt sind. Demnach treten namentlich an die Stelle der Nationalversammlung der Nationalrat, an die Stelle des Präsidenten der Nationalversammlung, soweit er mit Regierungsgeschäften betraut war, der Bundespräsident, an die Stelle der Staatsregierung die Bundesregierung, an die Stelle der Staatssekretäre die Bundesminister, an die Stelle der Unterstaatssekretäre die Staatssekretäre, an die Stelle des Staatsrechnungshofes der Rechnungshof (2) Die nach dem Gesetz vom 24. Juli 1917, R. G. Bl. Nr. 307, mit welchem die Regierung
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            2
+            </p>
+            
+            <p>ermächtigt wird, aus Anlaß der durch den Kriegszustand verursachten außerordentlichen Verhältnisse die notwendigen Verfügungen auf wirtschaftlichem Gebiete zu treffen, der Regierung zustehenden Befugnisse gehen sowohl auf die Bundesregierung als auch auf die einzelnen Bundesminister über. § 8 (1) Die staatlichen Behörden — mit Ausnahme jener der allgemeinen politischen Verwaltung in den Ländern (Landesregierungen, Bezirkshauptmann=, schaften) einschließlich der bei diesen Behörden vereinigten besonderen Dienstzweige (bau= und forsttechnischer Dienst, Gesundheitsdienst. Veterinärdienste, (Archiv= und Bibliotheksdienst, Rechnungsdienst) und der Agrarbehörden erster und zweiter Instanz (Agrarbezirksbehörden und Agrarlandesbehörden) — werden Behörden des Bundes (2) Die Stellung der im Absatz 1 ausgenommenen staatlichen Behörden wird durch das Verfassungsgesetz des Bundes über die Organisation der Verwaltung in den Ländern (Artikel 12, Z. 1 und Artikel 120, Absatz 1 des Bundes=Verfassungsgesetzes) geregelt. (3) Die Behörden und Ämter der bisherigen autonomen Verwaltung der Länder werden Behörden (Ämter) des Landes im Sinne des Bundes=Verfassungsgesetzes. (4) Die staatlichen Anstalten gehen an den Bund über, die Landesanstalten sind Anstalten der Länder; die Anstalten der Bezirke, Gemeinden und sonstigen öffentlich=rechtlichen Körperschaften sind Anstalten dieser Körperschaften. § 9 (1) Die Angestellten der staatlichen Behörden die nach § 8, Absatz 1, Bundesbehörden werden, werden Angestellte des Bundes. (2) Die Stellung der Angestellten der im § 8, Absatz 1, ausgenommenen staatlichen Behörden wird im Zusammenhang mit dem Verfassungsgesetz des Bundes über die Organisation der Verwaltung in den Ländern geregelt. § 10. (1) Die bestehenden staatlichen Polizeibehörden werden Bundesbehörden und führen ihre bisherigen Geschäfte als Bundesgeschäfte fort. (2) Die bisherige Gendarmerie wird Bundesgendarmerie. § 11. (1) Die den Ländern als ehemals autonomen Körperschaften gehörenden oder von ihnen verwalteten Vermögenschaften, einschließlich der Fonds und Anstalten, gehen in das Vermögen oder in die Verwaltung der Länder im Sinne des Bundes¬
+            </p>
+            <p>Verfassungsgesetzes über; hinsichtlich der von den Ländern verwalteten Schulfonds verbleibt es jedoch bis zur Erlassung des Verfassungsgesetzes des Bundes über den Wirkungsbereich des Bundes und der Länder auf dem Gebiet des Schul=, Erziehungs= und Volksbildungswesens (Artikel 14 des Bundes=Verfassungsgesetzes) beim bisherigen Zustand (2) Alles übrige staatliche Vermögen ist Vermögen des Bundes; die endgültige Auseinandersetzung über das staatliche Vermögen wird im Verfassungsgesetz des Bundes über die finanzielle Auseinandersetzung zwischen Bund und Ländern geregelt. II. Zu einzelnen Artikeln des Bundes=Verfassungs gesetzes. § 12 Zu Artikel 2. (1) Das Burgenland wird als selbständiges und gleichberechtigtes Land in den Bund aufgenommen, sobald es seinen Willen zum Ausdruck gebracht hat. (2) Die näheren Bestimmungen über die Stellung des Burgenlandes als selbständiges und gleichberechtigtes Land im Bund werden durch ein besonderes Verfassungsgesetz des Bundes festgesetzt. § 13. Zu Artikel 4. (1) Beschränkungen oder Erschwerungen des Verkehrs von Personen oder Waren zwischen den Ländern und innerhalb der Länder sind nur zulässig, insolange die im Artikel 10, Z. 15, erwähnten außerordentlichen Verhältnisse fortdauern (§ 17 dieses Gesetzes) und können nur von Bundes wegen verfügt werden. (2) Bestehende Verkehrsbeschränkungen, die nicht vom Staat ausgegangen sind, treten, soferne sie nicht vom Staat genehmigt wurden oder vom Bund nachträglich genehmigt werden, spätestens mit 30. Juni 1921 außer Kraft. § 14. Zu Artikel 6. (1) Jeder Staatsbürger der Republik ist Landesbürger des Landes, zu dem seine Heimatgemeinde gehört, und zugleich Bundesbürger. (2) Personen, die österreichische Staatsbürger sind, ohne in einer Gemeinde der Republik heimatberechtigt zu sein, werden Bundesbürger. In welcher Gemeinde sie das Heimatrecht und damit die Voraussetzung für eine Landesbürgerschaft erlangen, wird durch Bundesgesetz geregelt; bezüglich der Personen, die auf Grund des Staatsvertrages von Saint=Germain durch Option oder auf Grund einer bloßen Erklärung gemäß § 2 des Gesetzes vom
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            3
+            </p>
+            
+            <p>5. Dezember 1918, St. G. Bl. Nr. 91, über das Staatsbürgerrecht, die Staatsbürgerschaft ohne Erlangung eines Heimatrechtes erworben haben, steht auch die Vollziehung dem Bund zu. § 15. Zu Artikel 10, 3, 9. Die Verwaltung der Staatsstraßen (ehemaligen Reichsstraßen) ist bis zur Erlassung des im Artikel 10, 3. 9, vorgesehenen Bundesgesetzes über die Erklärung von Straßenzügen als Bundesstraßen nach den bestehenden Vorschriften durch die bisher mit dieser Verwaltung betrauten Organe aus Bundesmitteln zu besorgen. § 16. Zu Artikel 10, 3. 10. Die Feststellung jener Gewässer, deren Regulierung und Instandhaltung nach Artikel 10, Z. 10, Aufgabe des Bundes ist, erfolgt im Einvernehmen mit den einzelnen Ländern. Bis zu dieser Feststellung ist die Regulierung und Instandhaltung dieser Gewässer nach den bestehenden Vorschriften durch die bisher damit betrauten Organe vorbehaltlich einer nachträglichen Aufteilung der Kosten weiterzuführen. § 17. Zu Artikel 10, 3. 15. (1) Gemäß Artikel 10, 3. 15, steht für die Fortdauer der durch die kriegerischen Ereignisse der Jahre 1914 bis 1918 hervorgerufenen außerordentlichen Verhältnisse bezüglich der zur Sicherung der einheitlichen Führung der Wirtschaft notwendig erscheinenden Maßnahmen die Gesetzgebung und die Vollziehung dem Bund zu. (2) Der Zeitpunkt, von dem an die erwähnten außerordentlichen Verhältnisse als behoben anzusehen sind, wird durch Bundesgesetz festgestellt. § 18. Zu Artikel 15, Absatz 3. (1) In den Angelegenheiten der Artikel 11 und 12 bleiben, solange neue Bundesgesetze noch nicht erlassen sind, entgegen den Bestimmungen des § 6. die in den bisherigen Gesetzen und Vollzugsanweisungen (Verordnungen) enthaltenen besonderen Vorschriften über die Zuständigkeit der Zentralstellen für die im Artikel 15, Absatz 3, gedachten Fälle weiter in Geltung. (2) In Angelegenheiten der Artikel 11 und 12, in denen die bestehenden Gesetze und Vollzugsanweisungen (Verordnungen) derartige Fälle nicht regeln, tritt die Bestimmung des Artikels 15, Absatz 3, sofort in Kraft.
+            </p>
+            <p>§ 19. Zu Artikel 23. Die Bestimmungen des Gesetzes vom 12. Juli 1872, R. G. Bl. Nr. 112 (Syndikatsgesetz), bleiben mit den durch § 12, Absatz 2, des Grundgesetzes vom 22. November 1918, St. G. Bl. Nr. 38, über die richterliche Gewalt, vorgenommenen Änderungen bis zur Erlassung des zur Durchführung des Artikels 23 erforderlichen Gesetzes in Wirksamkeit. § 20. Zu Artikel 24. (1) Die auf Grund des Gesetzes über die Wahlordnung für die Nationalversammlung vom 20. Juli 1920, St. G. Bl. Nr. 316, gewählte Nationalversammlung ist der erste Nationalrat im Sinne des Bundes=Verfassungsgesetzes. (2) Die Gesetze vom 20. Juli 1920, St. G. Bl. Nr. 317, über die Wahl und Einberufung der Nationalversammlung, und vom 20. Juli 1920, St. G. Bl. Nr. 316, über die Wahlordnung für die Nationalversammlung, bleiben für den ersten Nationalrat in Kraft. Die Gesetzgebungsperiode des ersten Nationalrates bleibt demnach mit drei Jahren festgesetzt und beginnt mit dem Tag seines Zusammentrittes. (3) Die Mitglieder des Nationalrates haben, soweit nicht im Bundes=Verfassungsgesetz anderes bestimmt ist, bis zu neuer gesetzlicher Regelung die Rechte und Pflichten der Mitglieder der Nationalversammlung. Sie haben auf die Aufforderung des Präsidenten der Nationalversammlung über Namensaufruf durch die Worte: „Ich gelobe" unverbrüchliche Treue der Republik, dann stete und volle Beobachtung der Verfassungsgesetze und aller anderen Gesetze und gewissenhafte Erfüllung ihrer Pflichten anzugeloben. (4) Die Beamten und Diener der Nationalversammlung werden Angestellte der Kanzlei des Präsidenten des Nationalrates; sie sind hinsichtlich ihrer Stellung, ihrer Pflichten und Rechte den Bundesangestellten gleichgehalten. Zu Artikel 34 und 36. (1) In den ersten Bundesrat entsenden: Wien 12 Mitglieder. Niederösterreich=Land 10 Mitglieder, Steiermark 6 Mitglieder, Oberösterreich 6 Mitglieder, Tirol 3 Mitglieder, Kärnten 3 Mitglieder, Salzburg 3 Mitglieder, Vorarlberg 3 Mitglieder.
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            4
+            </p>
+            
+            <p>(2) Sobald das Burgenland einen Landtag gewählt hat, wird die Anzahl der vom Burgenland zu entsendenden Mitglieder vom Bundespräsidenten nach Artikel 34 ermittelt. (3) Der Bundesrat versammelt sich zu seiner ersten Sitzung am 21. Tag nach dem ersten Zusammentritt des Nationalrates in dem vom Bundeskanzler bezeichneten Sitzungsraum des Parlamentsgebäudes. Als erster Vorsitzender fungiert der von Wien an erster Stelle entsendete Vertreter. § 22. Zu Artikel 49. (1) Bis zur Erlassung des im Artikel 49, Absatz 2, vorgesehenen Gesetzes gelten die Bestimmungen des Gesetzes vom 12. November 1918, St. G. Bl. Nr. 7, über die Kundmachung von Gesetzen und Verordnungen durch das Staatsgesetzblatt, soweit sie nicht durch das Bundes=Verfassungsgesetz abgeändert sind, sinngemäß für das Bundesgesetzblatt, wobei § 6 dieses Gesetzes anzuwenden ist. (2) Als erste Verlautbarungen des Bundesgesetzblattes sind das Bundes=Verfassungsgesetz und dieses Gesetz sowie die im § 41 bezeichnete Kundmachung nen kundzumachen; die so neu verlautbarten Gesetzestexte sind maßgebend. § 23. Zu Artikel 54. Das Gesetz vom 13. April 1920, St. G. Bl. Nr. 180, über die Mitwirkung der Nationalversammlung an der Regelung von Eisenbahntarifen, Post-, Telegraphen= und Telephongebühren und Preisen der Monopolgegenstände sowie von Bezügen der in staatlichen Betrieben Beschäftigten, gilt als das im Artikel 54 vorgesehene Verfassungsgesetz des Bundes, wobei § 6 dieses Gesetzes anzuwenden ist. § 24. Zu Artikel 60 und 62. (1) Zur ersten Wahl eines Bundespräsidenten tritt die Bundesversammlung (Artikel 38) ohne besondere Einberufung am 28. Tag nach der ersten Sitzung des Nationalrates um 11 Uhr vormittags im Parlamentsgebäude zusammen. (2) Kann die Angelobung des neugewählten Bundespräsidenten nicht noch in derselben Sitzung der Bundesversammlung erfolgen, so hat der Bundeskanzler die Bundesversammlung auf den nächstmöglichen Zeitpunkt zur Angelobung des Bundespräsidenten einzuberufen. (3) Bis zur Angelobung des Bundespräsidenten versieht der bisherige Präsident der Konstituierenden Nationalversammlung alle dem Bundespräsidenten übertragenen Funktionen.
+            </p>
+            <p>§ 25. Zu Artikel 65, Absatz 3. (1) Das Gesetz vom 26. Februar 1920, St. G. Bl. Nr. 94, womit Artikel 7 des Gesetzes vom 14. März 1919, St. G. Bl. Nr. 180, über die Staatsregierung, ergänzt wird, gilt als einfaches Bundesgesetz im Sinne des Artikels 65, Absatz 3. (2) Die nach den bisher bestehenden Gesetzen dem Präsidenten der Nationalversammlung zustehenden Bestätigungsrechte gehen auf den Bundespräsidenten über, soweit nicht durch den Übergang zum Bundesstaat solche Bestimmungen als abgeändert anzusehen sind. (3) Unvorgreiflich der Neuregelung des Dienstrechtes der Bundesangestellten steht dem Bundespräsidenten auch das Recht zu, von den Disziplinarbehörden über Bundesangestellte verhängte Disziplinarstrafen zu erlassen und zu mildern, deren Rechtsfolgen nachzusehen, sowie anzuordnen, daß ein Disziplinarverfahren nicht eingeleitet oder das eingeleitete Disziplinarverfahren wieder eingestellt werde. § 26. Zu Artikel 69. (1) Die Staatskanzlei und die Staatsämter führen ihre Geschäfte vorläufig bis zur Erlassung des im Artikel 77, Absatz 2, vorgesehenen Bundesgesetzes mit ihren bisherigen Aufträgen und Vollmachten als Bundeskanzleramt und Bundesministerien fort. (2) Die Staatsregierung ist die erste Bundesregierung im Sinne des Bundes=Verfassungsgesetzes. § 27. Zu Artikel 79. Das auf Grund des Wehrgesetzes vom 18. März 1920, St. G. Bl. Nr. 122, gebildete Heer ist das Bundesheer im Sinne des BundesVerfassungsgesetzes. § 28. Zu Artikel 82 bis 94. Die geltenden Bestimmungen über die Zuständigkeit und Zusammensetzung der Zivil= und Strafgerichte bleiben bis ans weiteres in Kraft. § 29. Zu Artikel 95. Die bestehenden Volksvertretungen in den Ländern sind die ersten Landtage im Sinne des Bundes=Verfassungsgesetzes.
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            5
+            </p>
+            
+            <p>§ 30. Zu Artikel 98. (1) Der Artikel 99 wird auch auf Landesgesetze angewendet, die vor dem Inkrafttreten des BundesVerfassungsgesetzes beschlossen worden sind, sofern die Staatsregierung hiezu noch nicht im Sinne der Artikel 14 und 15 des Gesetzes vom 14. März 1919, St. G. Bl. Nr. 179, über die Volksvertretung, Stellung genommen hat oder die in den letztbezogenen Gesetzesstellen bestimmte Frist noch nicht verstrichen ist. Für die Berechnung der Frist des Artikels 98, Absatz 2, gilt der Tag des Einlangens des Gesetzes beim zuständigen Staatsamt als der Tag des Einlangens beim zuständigen Bundesministerium. (2) Vorstellungen der Staatsregierung gegen Landesgesetze, über die der Landtag im Zeitpunkt des Inkrafttretens des Bundes=Verfassungsgesetzes noch nicht neuerlich Beschluß gefaßt hat, gelten als Vorstellungen der Bundesregierung. § 31. Zu Artikel 99. Die in Wirksamkeit stehenden Landesverfassungen (Landesordnungen) gelten, soweit sie nicht durch das Bundes=Verfassungsgesetz als abgeändert anzusehen sind, vorläufig als die dort vorgesehenen Landesverfassungen. § 32. Zu Artikel 101. (1) Die bisherigen Landesregierungen sind die Landesregierungen im Sinne des Bundes=Verfassungsgesetzes. (2) Der Bundespräsident beruft binnen 14 Tagen nach seinem Amtsantritt die Landeshauptmänner zu ihrer Angelobung (Artikel 101, Absatz 4). Der bisherige Landeshauptmann führt jedoch auch schon vor der Angelobung die Geschäfte des Landeshauptmannes im Sinne des Bundes=Verfassungsgesetzes. (3) Die Bezüge der Mitglieder der Landesregie rungen, die nach dem im § 42, Absatz 1, bezeichneten Zeitpunkt fällig werden, tragen die Länder. § 33. Zu Artikel 108 bis 114. (1) Der jetzige Landtag von Niederösterreich ist der Landtag von Niederösterreich im Sinne des Bundes=Verfassungsgesetzes. Die aus dem Gemeindegebiet von Wien gewählten Landtagsabgeordneten bilden die Kurie Stadt, die übrigen Landtagsabgeordneten die Kurie Land. (2) Die Gesetzgebung und Vollziehung in den Angelegenheiten der ehemals autonomen Landes¬
+            </p>
+            <p>verwaltung sowie das sonstige bisherige Gesetzgebungsrecht des Landtages verbleiben den bisher hiefür zuständigen Organen, bis die in der gemeinsamen Landesverfassung vorgesehenen Organe bestellt sind. Insbesondere führt die jetzige Landesregierung die Geschäfte der Verwaltungskommission (Artikel 113) bis zu deren Wahl. Die in Artikel 111, Absatz 1 und 2, bezeichneten Angelegenheiten gehören aber hinsichtlich Gesetzgebung und Vollziehung sofort in die Zuständigkeit der beiden Landesteile. (3) Für Wien übernimmt im Sinne des Bundes=Verfassungsgesetzes der Gemeinderat auch die Funktionen des Landtages, der Stadtsenat auch die Funktionen der Landesregierung und der Bürgermeister auch die Funktionen des Landeshauptmannes. (4) Für Niederösterreich=Land führen bis zur Wahl der neuen Landesregierung vorläufig die nicht aus einem Wiener Wahlkreis gewählten Mitglieder der jetzigen Laudesregierung und des derzeitigen Landesrates die Geschäfte der Landesregierung und der nicht aus einem Wiener Wahlkreis gewählte Landeshauptmannstellvertreter die Geschäfte des Landeshauptmannes im Sinne des Bundes=Verfassungsgesetzes. (5) Bis zur Erlassung des Verfassungsgesetzes des Bundes über die Organisation der Verwaltung in den Ländern (Artikel 12, Zahl 1) werden die Geschäfte der mittelbaren Bundesverwaltung erster und zweiter Instanz für Wien in einer Instanz vereinigt. In allen jenen Angelegenheiten jedoch, in denen auf Grund besonderer gesetzlicher Bestimmungen der Instanzenzug beim Land endet, entscheidet in erster Instanz die zuständige Amtsstelle des Magistrate, in zweiter Instanz der Bürgermeister als Landeshauptmann. Diese Bestimmungen gelten bereits für die Entscheidung in den im Zeitpunkt des Inkrafttretens dieses Gesetzes anhängigen Rechtsmittelverfahren. (6) Die bestehenden gesetzlichen Bestimmungen über die Bezüge der Volksbeauftragten in den Ländern gelten nicht für Wien. § 34. Zu Artikel 115 bis 119. (1) Bis zur Einrichtung der allgemeinen staatlichen Verwaltung in den Ländern nach den Bestimmungen der Artikel 115 bis 119 bleibt die dermalige Bezirksverwaltung bestehen, jedoch wird im Sprengel jeder Bezirkshauptmannschaft eine Bezirksvertretung gewählt. Den Wirkungsbereich der Bezirksvertretung bestimmen die Bundesgesetzgebung und die Landesgesetzgebungen innerhalb ihrer verfassungsmäßigen Zuständigkeit. (2) In den Städten mit eigenem Statut übernimmt die Gemeindevertretung zugleich die Aufgaben der Bezirksvertretung. Diese Aufgaben können einem
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            6
+            </p>
+            
+            <p>besonderen Ausschuß der Gemeindevertretung, in Wien den dort bestehenden Bezirksvertretungen oder Ausschüssen dieser Bezirksvertretungen, übertragen werden. (3) Die Wahl der Bezirksvertretungen wird auf Grund des gleichen, unmittelbaren, geheimen und persönlichen Verhältniswahlrechtes aller Bundesbürger durchgeführt, die im Sprengel der Bezirkshauptmannschaft ihren ordentlichen Wohnsitz haben. Die Zahl der Mitglieder der Bezirksvertretungen wird auf die Gerichtsbezirke nach dem Verhältnis ihrer Bürgerzahl aufgeteilt. Die Bestimmungen des Artikels 119, Absatz 2, werden sinngemäß angewendet. (4) In die Bezirksvertretung sind nur Personen wählbar, die in deren Sprengel ihren ordentlichen Wohnsitz haben und zum Landtag wählbar sind. (5) Die näheren Bestimmungen für die Durchführung dieser Wahlen werden von der Landesgesetzgebung getroffen. (6) Die Festsetzung der weiteren Grundsätze für die Ausgestaltung der dermaligen Bezirksverwaltung nach den voranstehenden Bestimmungen ist Sache der Bundesgesetzgebung; ihre Ausführung liegt den Landesgesetzgebungen ob. Das Bundesgesetz ist binnen vier Monaten nach dem Inkrafttreten des BundesVerfassungsgesetzes, die Landesgesetze sind binnen weiteren vier Monaten nach Inkrafttreten des Bundesgesetzes zu erlassen § 35. Zu Artikel 122. (1) Der bisherige Staatsrechnungshof wird zum Rechnungshof im Sinne des Bundes=Verfassungsgesetzes. (2) Bis zur Wahl des Präsidenten des Rechnungshofes versieht der bisherige Präsident des Staatsrechnungshofes dessen Funktionen. § 36. Zu Artikel 131. (1) In Verwaltungsstrafsachen wird der Verwaltungsgerichtshof erst zuständig, sobald die allgemeinen Bestimmungen des Verwaltungsstrafrechtes und das Verwaltungsstrafverfahren neu geregelt sind. Diese Regelung hat bis 1. Juli 1921 zu erfolgen. (2) Die in einzelnen Verwaltungsgesetzen enthaltenen Bestimmungen, die die Zuständigkeit des Verwaltungsgerichtshofes für bestimmte Fälle ausdrücklich ausschließen, bleiben vorläufig in Wirksamkeit. § 37. Zu Artikel 134 und 135. (1) Der dermalige Verwaltungsgerichtshof wird zum Verwaltungsgerichtshof im Sinne des BundesVerfassungsgesetzes.
+            </p>
+            <p>(2) Sein Präsident und die Mitglieder bleiben bis zu der gemäß Artikel 135 erfolgenden Neubesetzung im Amt. Die Neubesetzung hat bis 1. Jänner 1921 zu erfolgen. (3) Innerhalb dieses Zeitraumes können der Präsident und die Mitglieder des Verwaltungsgerichtshofes im Sinne des Artikels 88, Absatz 2, auch ohne die sonst vorgeschriebenen Förmlichkeiten in den Ruhestand versetzt werden, sofern sie nicht gemäß Artikel 135 neu ernannt werden. § 38. Zu Artikel 136. Das Gesetz vom 6. Februar 1919, St. G. Bl. Nr. 88, über die Errichtung eines deutschösterreichischen Verwaltungsgerichtshofes, bleibt, soweit es nicht durch die Bestimmungen des Bundes=Verfassungsgesetzes und dieses Gesetzes abgeändert wird, bis auf weiteres als das im Artikel 136 vorgesehene Bundesgesetz in Kraft, wobei § 6 dieses Gesetzes anzuwenden ist. § 39. Zu Artikel 147. (1) Der dermalige Verfassungsgerichtshof wird zum Verfassungsgerichtshof im Sinne des BundesVerfassungsgesetzes (2) Sein Präsident, sein Vizepräsident, die Mitglieder und Ersatzmänner bleiben bis zu der gemäß Artikel 147 erfolgenden Neubesetzung im Amt. § 40. Zu Artikel 148. Die Gesetze, die die Organisation und das Verfahren des dermaligen Verfassungsgerichtshofes regeln, gelten bis auf weiteres als das im Artikel 148 vorgesehene Bundesgesetz. § 41. Zu Artikel 151. Sobald die am 17. Oktober 1920 zu wählende Nationalversammlung gemäß § 3 des Gesetzes vom 20. Juli 1920, St. G. Bl. Nr. 317, einberufen ist, hat die Staatskanzlei den damit bestimmten Tag, an dem das Bundes=Verfassungsgesetz und dieses Gesetz in Kraft treten, durch Kundmachung im Staatsgesetzblatt zu verlautbaren. III. Schlußbestimmungen. § 42. (1) Die Artikel 10 bis einschließlich 13 und der Artikel 15 des Bundes=Verfassungsgesetzes werden,
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            7
+            </p>
+            
+            <p>soweit es sich nicht um Angelegenheiten der ehemals autonomen Verwaltung der Länder handelt erst an dem Tag wirksam, an dem die folgenden Gesetze in Geltung getreten sind: 1. das Verfassungsgesetz des Bundes über die finanzielle Auseinandersetzung zwischen dem Bund- und den Ländern, beziehungsweise den Gemeinden 2. das Verfassungsgesetz des Bundes über den Wirkungsbereich des Bundes und der Länder auf dem Gebict des Schul-, Erziehungs- und Volkzbildungswesens (Artikel 14 des Bundes-Verfassungsgesetzes); 3. das Verfassungsgesetz des Bundes über die Organisation der Augemeinen staatlichen Verwaltung in den Ländern (Artifel 120 des BundesVerfassungsgesetztes). a) Auf dem Gebiet der Gesetzgebung und Vollziehung wird die Verteilung der Zuständigkeiten zwischen Bund und Ländern gegenüber der bestehenden zwischen Staat und Ländern nicht geändert. b) Alle Angelegenheiten der ehemals autonomen. Verwaltung werden von den Ländern im selbständigen Wirkungsbereich vollzogen. Alle übrigen Angelegenheiten der Vollziehung werden von den Ländern als Angelegenheiten. der mittelbaren Bundesverwaltung im Sinne des Bundes-Verfassungsgesetzes geführt, soweit sie nicht in den Wirkungsbereich der eigenen Bundesbehörden (Artikel 102 des BundesVerfassungsgesetzes) fallen; für die Führung
+            </p>
+            <p>dieser mittelbaren Bundesverwaltung in Wien gilt § 33 Absatz 5. d) Die im § 8, Absatz 1, ausgenommenen Behörden sind vorläufig Bundesbehörden, die im § 9, Absatz 1, bezeichneten Angestellten vorläufig Bundesangestellte. Die nach den bisherigen Vorschriften den Landeshauptmaniern und den Landesregierungen zustehenden Befugnisse in den Personalangelegenheiten der im § 9. Absatz 1, bezeichneten Angestellten bleiben bestehen. e) Die Bestimmungen des § 6, Absatz 1, werden nur insoweit angewendet, als sie nicht im Widerspruch mit den Bestimmungen dieses Absatzes stehen. f) Auf dem Gebiet des Schul- und Erziehungswejens können die Staatsgesetze, einschließlich der früheren Reichsgesetze, nur durch übereinstimmende Gerichte des Bundes und der beteiligten Länder abgeändert werden; hievon sind jene gesetzlichen Bestimmungen ausgenommen, die das Hochschulwesen oder das Ausmaß der Bezüge der Lehrpersonen betreffen. Änderungen der bestehenden Landesgesetze können nur durch übereinstimmende Gesetze des Landes und des Bundes erfolgen. § 43. (1) Dieses Gesetz tritt zugleich mit dem BundesVerfassungsgesetz in Kraft. (2) Mit seinem Vollzug ist die Staatsregierung betraut.
+            </p>
+            <p><gap reason="illegible"/> <gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/><gap reason="illegible"/></p>
+         </div>
+      </body>
+   
+    </text>
+</TEI>

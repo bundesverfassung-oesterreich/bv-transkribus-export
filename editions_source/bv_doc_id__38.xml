@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__38">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1716131</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">14587</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/70 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920</title>
+                            <note type="editor">Protokoll der 3. Sitzung des Subkomitees des Verfassungsausschusses vom 20. Juli 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-07-20" notAfter-iso="1920-07-20">20. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-20" notAfter-iso="1920-07-20">
+                    20. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3275" lry="5235" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0001/full/full/0/default.jpg" width="3275px" height="5235px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0002/full/full/0/default.jpg" width="3275px" height="5235px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3263" lry="5254" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0003/full/full/0/default.jpg" width="3263px" height="5254px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0004/full/full/0/default.jpg" width="3263px" height="5254px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3268" lry="5241" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0005/full/full/0/default.jpg" width="3268px" height="5241px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0006/full/full/0/default.jpg" width="3268px" height="5241px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3256" lry="5231" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0007/full/full/0/default.jpg" width="3256px" height="5231px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0008/full/full/0/default.jpg" width="3256px" height="5231px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3267" lry="5224" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0009/full/full/0/default.jpg" width="3267px" height="5224px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0010/full/full/0/default.jpg" width="3267px" height="5224px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5207" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__38/files/images/IMG_0011/full/full/0/default.jpg" width="3270px" height="5207px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZXNYMWWHGSIGFTCOMLDDSEOL&amp;fileType=view" width="3270px" height="5207px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3266" lry="5242" xml:id="facs_8">
+         <graphic url="62866708.jpeg" width="3266px" height="5242px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CBXOYLRQOJYFVFPHIEEEOPKE&amp;fileType=view" width="3266px" height="5242px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3264" lry="5252" xml:id="facs_9">
+         <graphic url="62866709.jpeg" width="3264px" height="5252px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TXXSSSZPFUWIWJWOSJMVKYAG&amp;fileType=view" width="3264px" height="5252px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3267" lry="5240" xml:id="facs_10">
+         <graphic url="62866711.jpeg" width="3267px" height="5240px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MGJPGDVOMVJYFGLUQWRJQHIT&amp;fileType=view" width="3267px" height="5240px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3260" lry="5219" xml:id="facs_11">
+         <graphic url="62866713.jpeg" width="3260px" height="5219px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AQKVQAHQXTEHKKVYALLLUDUU&amp;fileType=view" width="3260px" height="5219px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>Protokoll der dritten Sitzung des Subkemitees des Verfassungsausschusses vom 20. Juli 1920. Beginn 6 Uhr Nachmittag. Anwesend: Dr.Ignez Seipel als Versitzender. Dr. Heinrich Cl ess i a als Berichterstatter. Dr. Josef Aigner. Dr.Aebert Dennebers. tr. Arneld Eisler. Methies Eldersch. Jodck Fink. Stastssekretär Prof. Dr. Michael MaGr. Von der Stastskanzlei: Min. Rat Dr. Geerg Frcehlich. Sekt.Rat Dr. Egbert Wannlicher. Oberfinanzret Lr.Karl Weser. Min. Vizesekretar Dr.Adelf Merkl als Schriftführer. Prof. Dr. Hans kelsen als Ezperte des Verfassungsaußschusses.
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            -2- Der Vorsitzende stellt einleitend fest, daß die Abstimmung über die Punkte 9. 10, 12 und 13 des Art.10 des Linzer Entwurfes noch ausstehe. Stastssekreter fr. Meyr teilt mit, daß in der Staatskanzler ein eigener Artikel über die Gendarmerie ausgearbeitet wurde, der an die Stelle des Pkt.12 des Art.10 zu treten hätte. Vervielfältigungen der Neufermulierungen werden verteilt. Dr. Danneberg beantragt, den Pkt.12 erst in der nächsten Sitzung zu behandeln. (Angenommen). Hierauf leitet der Berichterstatter die Debatte zu Pkt. 9 des Art.10 ein. Eink beantregt, den Pkt.9 folgendermaßen zu formulieren: «Das gesamte Arbeiterrecht und der Arbeiter- und Angestelltenschutz sowie das Sozialversicherungswesen, soweit es sich nicht um land- und forstwirtschaftliche Arbeiter und Angestellten handelt; das Vertragsversicherungswesen. Eldersch beantragt, die Formulierung des Linzer Entwurfes unter Streichung des Passus über die Ausnehmung der land- und forstwirtschaftlichen Arbeiter und Angestellten beizubehalten. und betont zur Begründung seines Antrages insbesondere, daß die Sozialversicherung schon aus versicherungstechnischen Grinden nicht länderweise getrennt, sondern für das gesamte kleine Staatsgeviet gemeinsem organisiert sein müsse. Fink halt hingegen eine länderweise getrennte Orgenisation des Sozielversicherungewesens für möglich und erklärt, daß seine Parter auf die Ausscheidung der Sozialversicherung der land- und forstwirtschaftlichen Arbeiter aus dem übrigen Versicherungswesen großes Gewicht lege. Auf eine Anfrage des Varsitzenden gibt Eldersch die Erklärung ab, daß seine Partei auf ihrem gesamten Antrag zu Pkt.S beharre, sich jedoch aus sachlichen Gründen ganz besonders gegen eine länderweise Zerschlagung des Sozialversicherungswesens aussprechen müsse. Stastssekretär hr. Mayr verweist darauf, daß die verliegende Fassung des Pkt.9 in Linz die Zustimmung des überwiegenden Teiles der Ländervertreter gefunden habe und daß in ihr ein Kompromiß zwischen den
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            -3- beiden entgegengesetzten Parteistandpuakten gefunden werden. solle, indem sie das gesamte Sozialversicherungswesen dem Bunde vorbehalte, das Arbeiterrecht und den Arbeiterschutz jedoch soweit es sich um land- und forstwirtschaftliche Arbeiter und Angestellte handelt, den Ländern übertrege. Der Berichterstatter gibt der Meinung Ausdruck, daß das Material zur Beantwertung der Frage nur von einem Versicherungstechniker bekanntgegeben werden könne und beantragt, daß das Subkemitee einen solchen einvernehme. Der Antrag wird angenommen und zu seiner Durchführung Hi e Vertagung der Verhandlung des Pkt.9 beschlessen. Stastssekretär Dr. Meyr erklärt, die Stastskanzlei werde es übernehmen, einen versicherungstechnischen Fachmann zur nächsten Sitzung einzuladen. Der Berichterstatter leitet nunmehr die Debatte zum Ekt.10 des Art.10 ein. Eldersch und Danneberg beantregen an die Stelle der gegenwärtigen Bestimmungen der Art.10. 11 und 12 über das Schulwesen folgenden einzigen Punkt des Art.10 treten zu lassen: »P.10 Das gesante Schul- und Erziehungswesen; das Volksbildungswesen: Für den Fall der Nichtannahme dieses Verschlages werden folgende Punkte beantregt: Im Art.10 «P.10 Das Hochschulwesen einschließlich der Lehrerbildung: die padagegisch-didaktische Einrichtung des gesamten Schulwesens; das Dienstrecht einschließlich der Ernennung und Besoldung der Lehrer aller Schularten: die Einrichtung und Verwaltung von mittleren Schulen; die Schulakksicht über das gesamte Schul-, Erziehungs- und Bildungswesen: das Verfahren über die Zulässigkeit der Lehrbücher: die Staatserziehungsenstalten; die Erziehung und berufliche Ausbildung der Sorgenkinder (Bliade, Teubstumme, Schwachsinnige). Im Art.11: »nach Punkt §: das Privatschulwesen und der Trivatunterricht: der Denkmal-. Heimet- und Naturschutz. Im Art.12: «Die Regelung der Grundsätze obliegt der Bundesgesetzgebung für die Errichtung und Erhal-
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            4 tung der Pflichtschulen; das Velksbildungswesen: das Stiftungswesen. Eink ersucht um Vervielfältigung dieser Anträge und beantragt Vertagung der Beratung aller Bestimmungen über das Schulwesen, bis die Parteien Gezegenheit gehabt haben, die neuen Anträge näher kennen zu lernen. (Angenommen). Eldersch macht in diesem Zusammenhange aufmerksam, daß der Art.10. Pkt.10, auch die zentrale Behandlung des Kultuswesens vorsehe. Die sozialdemekratische Partei behalte sich vor, für das Hultuswesen die Gleichstellung mit den Angelegenheiten des Unterrichtes zu beantragen. Staetssekretär Dr. Mayr bemerkt, daß er eine Gleichbehandlung des Hultus mit dem Unterrichtswesen nicht für sachlich gebeten erachte; insbesende zentralg Behandlung re sei in Betracht zu ziehen, daß eine des Kultuswesens schon wegen des Uebergreifens der Sprengel der Episkopate über die Ländergrenzen kaum zu umgehen sei. Auch spreche für die Beibehaltung des Pessus über den Kultus im Punkte 10 die gegenwärtige Rechtslage, wogegen Eldersch bemerkt, daß unter diesem Gesichtspunkte auch das Unterrichtswesen nicht in dem von der christlichsrzialen Partei gewünschten lasse verländert werden dürfte. Nach kurzer Debatte wird vom Punkt 10 des Linzer Entwurkes der mit den Werten »die Regelung des wissenschaftlichen und fachtechnischen Archiv- und Bibliotheksdienstes. beginnende Teil mit den von christlichsezialer Seite beantrag ten Schlußwerten »und nicht schon bisher von den Ländern autonem verwaltet wurden", jedoch mit Ausnahme des Passus über des Kultuswesen zum Beschluß erheben. Min.Rat Dr. Frochlich macht aufmerksam, daß die Einschaltung der Nahrungsmittelkentrelle in den Art.10 grundsätzlich beschlessen wurde und nur die ortliche Stellung dieses Punktes fraglich geblieben ist. Es wird beschlossen, die Angelegenheit »Nahrungsmittelkentrolle in den das Heilmittelwesen behandelnden Punkt einzu-
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            -5-
+            </p>
+            
+            
+            
+            
+            <p>reihen. Der Berichterstetter eröffaet die Debatte über den Pkt. 13 und ersucht die Regierungsvertreter um Bekanntgabe der von ihnen ausgearbeiteten Foruulierung der Bestimmungen über das Dienstrecht der öffentlichen Angestellten. Sekt.Rat Dr.Kannlicher mecht auf Einladung des Herrn Staatssekretärs Dr.Mayr die Mitterlung, daß eine neue Formulierung der dienstrechtlichen Bestimmungen in der Stastskanzlei ausgearbeitet, in der Kurze der Zeit jedoch noch nicht über diesen Punkt der notige Einvernehmen mit dem Stastsamte für Finenzen hergestellt worden sei. Die zur Verteilung gebrachte Formulierung enthalte als Mindesterfordernis des Pkt.18 die Angelegenheiten »linrichtung der Buadesänter und soastiger Bundesbehorden. Dienst recht der Bundesangestellten", wozu jedoch nach den Absichten der Staatskanzlei ein eigener Artikel über das Dienstrecht, insbesondere zur Sicherung der Freizügigkeit zwischen Bundes- und Landesdienst und den verschiedenen Landesdiensten untereinander hinzutreten solle. Er stellt die Beibringung einer solchen Fermulierung für die nächste Zeit in Aussicht und schlägt ver, die Behandlung dieser Angelegenheit bis dahin zu vertagen. Inddiesem Sinne wird Beschluß gefaßt. Der Berichterstatter eroffnet auf Freuchen des Varsitzenden die Debatte über den Artikel ll. Fink beantragt Beibeheltung des Eingenges in der Fessung des Linzer Entwurfes mit der Begrundung, daß die Länder auf dem Standpunkte stünden, daß sie die Kempetenzen dem Bunde übertragen. Der Versitzende erinnert daren, daß im Eingang des Art.10 eine indifferente Formulierung gewählt wurde, stellt jedoch nach neuerlicher Stellungnahme Fink's fest, daß die christlichsoziale Partei auf einer dem Länderstandpunkte Rechnung tragenden Fermulierung beharre. Dr. Danneberg lehnt eine derartige Fermulierung sk, bemerkt jedoch, daß gegen den Ausdruck »selbständige Länder im Art. 2 von sczialdemekratischer Seite keine wesentli-
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            -6-
+            </p>
+            
+            <p>chen Schwierigkeiten erhoben wurden, wenn der Eingeng des Art.11 wie der des Art.10 in indifferenter Meisefermuliert wurde. Es wird sodann die Fassung: »Bundessache ist die Gesetzgebung. Landessache die Vollziehung in folgenden Angelegenheiten .... zum Beschluß erheben. Von christlichsszialer Seite wird die Fassung »Der Gesetzgebung des Bundes wird übertragen als Mineritätsvetum angemeldet. Zu Punkt 1 des Art.11 (Stastsbürgerschaft und Heimatrecht) konstatiert der Berichterstatter, daß durch die Abstimmung du Art.10 die Fassung des Linzer Entwurfes angenemmen erscheint. Auch Punkt 2 ist durch die Abstimmung zu Art. 1o erledigt und zwar in der Weise, daß »die Angelegenheiten der Presse" in den Artikel 10 eingeschaltet wurden. Punkt 3 des Art.11 soll nach einen Atrage P Danneberg folgendermaßen lauten: »die nicht im Artikel 10 angefuhrten beruflichen Vertretungen". Dr. Aigner erklärt sich mit dieser Formulierung einverstanden und beantragt den Zusatz (wie im Linzer Entwurf) rmit Ausnahme jener auf land- und ferstwirtschaftlichem Gebiete. Der Antrag D Danaeberg wird angenommen, der Antrag h22 Aigner abgelehnt und letzterer Antrag als Winderheitsvetum angemeldet. Zu Punkt 4 stellt der Berichterstatter fest, daß der Gegenstand durch die Abstimmung zu Art.10 erledigt ist. Puakt 6 wird in der Fassung des Linzer Entwurfes angencamen. Puakt 6 wird gemäß dem zu kunkt 10 des Art.10 gestellten sozialdemckratischen Antrage als Schulsache verläufig ausgeschieden. Punkt 7 wird in der Fassung röffentliche Agentien und Privatgeschäftsvermittlung angenommen. Zu Punkt &amp; wird ven christlichsozialer Seite ein Konnex mit Punkt 4 des Art.10 festgestellt. Der Punkt wird sodann nach längerer Debatte mit Ausnahme des Schlußpassus «Die Be106
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            -7-
+            </p>
+            
+            <p>stimmungen über die Besteuerung der Bundesunternehmungen engenommen. Dieser Pessus wird von soziallemekratischer Seite als Mineritatsvetum angeweldet. Zu funkt 9 beentragt Stastssekretür Dr.llayr den einschränkenden Zusatz »die betriebstechnischen Verschriften beim Kraftfahrwesen". kunkt s wird sodann in der Fassung des Linzer Entwurfes mit der vererwühnten Unlifikation zum Beschluß erhoben. Ven srzialdemckretischer Seite wird der Antrag auf Heibehaltung der Fassung des Linzer Entwurfes (ndes Kraftfahrwesen) als Ineritätsvotum angemeldet. zu Punkt 1o wird die Eliminierung des »Wasserrechtest.7 beschlessen. Bezuglich des «klektrizitätswesens beantragt der Berichterslatter Beibehaltung als funkt lo im Art.11. Der Antrag wird angenommen; von christlicherzieler Seite wird die Eliminierung des »Elektrizitätswesens als Mineritätsvxtum angemeldet. zu Punkt ll beantregt der Berichterstatter Beibehaltung des rleichen- und Begräbniswesens" an dieser Stelle mit der tertlichen Aenderung in rLeichen- und Bestattungswesen". Pkt. l1 wird gemäß dem Antrege in der Fassung »ias Volkswehnungs- und Eflegestättewesen: das Leichen- und Bestattungswesen“ zum Beschluß erheben. funkt 12 des Art.11 wiri in der Fessung des Linzer Entwurfes unverändert angenommen. zu Absetz 2 des Art.I1 beantregt Dr. Danneberg die Pernulierung gemäß dem sozialdemekratischen Verfassungsentwurf (xHinsichtlich der verangefuhrten Angelegenheiten steht dem Bunde des Verordaungsrecht zu"), eventuell Beibehaltung des Aosatzesz in der Fassung des Linzer Entwurfes. Dieser Antreg und Eventuslantrag werden abgelehnt. Von sozialdemekratischer Seite wird ein iineritätsvetum angeweldet. Zu Abs.3 beantragt Staatsaekretär Dr. Kayr die Aufnahme dieser Bestimmung in einen selbständigen auf Art.I1 folgenden 707
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            -8-
+            </p>
+            
+            <p>Artikel. Der Antrag wird mit der von Br. Danneberg beantragten Modifikaticn angenommen, wonach die Bestimmung über die Rezeption des Volkerrechtes als neuer Artikel dem gegenwärtigen Art. 12 angereiht werden soll. Der Berichterstatter erokknet die Dehatte über den Art. 22. Zu Absatzl wird von christlichsezialer Seite vor dem Worte -Grundsatz" die Fiaschaltung »allgemeinen beantragt. Der Antrag wird abgelehnt und als Mineritätsvetum angemeldet. Zu funkt 1 des Art.12 beantragen die sozialdemekratischen Vertreter die Beibehaltung, die christlichsezialen Vertreter Streichung dieser Bestimmung. Stastssekretär Dr.Mayr bemerkt. daß verschiedene Grunde fur die Beibehaltung dieses Passus sprächen. Die Grunde werden des Näheren von Sekt.Rat Br. Mannlicher und Professer Dr. Kelsen ausgeführt. Sektionsrat Dr.llannlicher verweist darauf, daß die verschiedenen materiellen Verwaltungsgesetze mit einem bestimntengegebenen Behördenergenignus rechnen. der nur schwerlich länderweise verschieden ergenisiert werden. könnte. Trofesser Kelsen betont, daß die Aufrechterhaltung der Bestimmung die Veraussetzung für das in Aussicht genommene Kempromiß über die Organisation der Geneinden sei, da nur auf Grund einer derartigen verfassungsrechtlichen Ermächtigung die Genxindeorganisation in ihren Grundsätzen durch ein Bundesgesetz geregelt werden könnte. Der Berichterstetter beantragt in diesem Zusammenhange die Einschaltung der „Gemeindegesetzgebung" als eigenen Punkt nach Pkt.l, zieht jedoch diesen Antrag nach der Feststellung Fink's, daß das Gemeindewesen vorderhand ausgeschaltet sein solle, zuruck. Funkt 1 wird sodann in der Fassung des Linzer Entwurfes angenommen; von christlichsezieler Seite wird der Antrag auf Streichung des Punktes als Mineritätsvotum angemeldet. Punkt 3 des Art.12 wird unter Streichung des Schlußpessus »Die Ausgrabung und Ueberführung von Leichen" – was durch Pkt.I1 des Art.11 des Linzer Eatwurfes geregelt ist - zum Beschluß er4
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            -9- hoben. Die Punkte 4 und 5 des Art.12 des Linzer Entwurfes nerden unverändert zum Beschluß erhoben. Professer Kelsen gibt in diesem Zusammenhang auf eine Anfrage 22 Danneberg die Aufklärung, daß es im Wesen eines Rahmengeselzes gelegen sei. daß der Rahmengesetzgeber auch jedwedes Ausführungsgesetz in der betreffenden Ueterie ausschließen kann, indem z.B. ein Rahmengesetz denkbar ist, das die Rechtsanstitute der Abschiebung oder Abschaffung überhaupt aufhebt. In diesem Zusemmenhange tauche die schwierige Frage der juristischen Qualifikation der bestehenden und rezipierten Gesetze in der Richtung auf, ob sie als Bundes- oder Landesgesetze, als Rahmen- oder Ausfuhrungsgeselze zu gelten hätten, eine Frage, die in den Uebergangsbestimmungen zu losen sein werde. Punkt 6 des Art.12 bleibt mit Rucksicht auf funkt 9 des Art.10 außer Betrecht: desgleichen Punkt 7 mit Rucksicht auf Punkt 3 des Artikels Il. Zu Punkt &amp; wird von christlichsrzieler Seite wegen Nichtübernahme des Flektrizitätswesens aus dem funkte 10 des Art.11 ein Mzacritätsvotum angemeldet. Der Berichterstatter beentragt ferner zu Punkt &amp; Eliminierung des Passus »die Bodenreform (egrarische Operstirnen. Niederbesiedlung u. s. w.) und die Bedenentschullung und Verlegung desselben in den Artikel l0. (Angenommen). Gemäß einem Antrage D22 Danneberg wird ferner im Punkt &amp; die Ausnahme der Ferst- und keideservituten gestrichen. (Christlichsoziales Macritätsvetum). Der Berichterstatter beantregt die Grundsütze des Hauwesens als eigenen Punkt in den Art.12 aufzunehmen. Stastssekretar Dr. Mayr spricht sich gegen den Antrag mit der Begründung aus, daß schen heute die Baugesetzgebung Landessache sei. Der Antrag DEgggin wird aogenemmen. (Christlichseziales Iiacritutsvotum). Der Pkt. wird in folgender Fassung angenommen: »Dienstrecht der Orgene der Länder, die behördliche Auf-
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            -10- gaben zu besorgen haben". Der Vorsitzende macht in diesem Zusammenhange auf den Vorbehalt einer besonderen Regelung des Dienstrechtes aufmerksam. Schluß der Sitzung 1/2 9 Uhr abends. Die nächste Sitzung wird für den 22. Juli anberaumt. </p>
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

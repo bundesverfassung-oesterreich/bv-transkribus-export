@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__41">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1529248</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">14590</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48, Zl. 102/78 ex 1920</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Unterausschuss des Verfassungsausschusses</author>
+                            <title>Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920</title>
+                            <note type="editor">Protokoll der 6. Sitzung des Subkomitees des Verfassungsausschusses vom 18. August 1920, Lithographie, Zustand gut, ohne Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-08-18" notAfter-iso="1920-08-18">18. August 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-08-18" notAfter-iso="1920-08-18">
+                    18. August 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="2884" lry="4793" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0001/full/full/0/default.jpg" width="2884px" height="4793px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0002/full/full/0/default.jpg" width="2884px" height="4793px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2885" lry="4812" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0003/full/full/0/default.jpg" width="2885px" height="4812px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0004/full/full/0/default.jpg" width="2885px" height="4812px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2870" lry="4804" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0005/full/full/0/default.jpg" width="2870px" height="4804px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0006/full/full/0/default.jpg" width="2870px" height="4804px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2870" lry="4806" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0007/full/full/0/default.jpg" width="2870px" height="4806px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0009/full/full/0/default.jpg" width="2870px" height="4806px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2884" lry="4763" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0010/full/full/0/default.jpg" width="2884px" height="4763px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0011/full/full/0/default.jpg" width="2884px" height="4763px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2881" lry="4731" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0012/full/full/0/default.jpg" width="2881px" height="4731px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0013/full/full/0/default.jpg" width="2881px" height="4731px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2881" lry="4769" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0015/full/full/0/default.jpg" width="2881px" height="4769px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0016/full/full/0/default.jpg" width="2881px" height="4769px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2842" lry="4766" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0017/full/full/0/default.jpg" width="2842px" height="4766px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0018/full/full/0/default.jpg" width="2842px" height="4766px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2851" lry="4765" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__41/files/images/IMG_0019/full/full/0/default.jpg" width="2851px" height="4765px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YGAPZXZACKFQTJJUJAGOCWPW&amp;fileType=view" width="2851px" height="4765px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2865" lry="4744" xml:id="facs_11">
+         <graphic url="58617813.jpeg" width="2865px" height="4744px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YJVVXXQHLPGFELTZHYDDNHDA&amp;fileType=view" width="2865px" height="4744px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2903" lry="4735" xml:id="facs_12">
+         <graphic url="58617814.jpeg" width="2903px" height="4735px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KWYOYATIMHWXHUMVUZZHMSSD&amp;fileType=view" width="2903px" height="4735px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2866" lry="4714" xml:id="facs_13">
+         <graphic url="58617815.jpeg" width="2866px" height="4714px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CTAYIYSOSIIMUVYMTOKMRZWH&amp;fileType=view" width="2866px" height="4714px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2839" lry="4726" xml:id="facs_14">
+         <graphic url="58617816.jpeg" width="2839px" height="4726px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AOBAXFPHKHUWYQXSSROQMEFT&amp;fileType=view" width="2839px" height="4726px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2863" lry="4739" xml:id="facs_15">
+         <graphic url="58617817.jpeg" width="2863px" height="4739px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WBPOQSXZOQGPYTLDBEGRIYYJ&amp;fileType=view" width="2863px" height="4739px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2879" lry="4742" xml:id="facs_16">
+         <graphic url="58617818.jpeg" width="2879px" height="4742px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LBGJUSGXSQYWAMOBPJSMCFPB&amp;fileType=view" width="2879px" height="4742px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="2812" lry="4720" xml:id="facs_17">
+         <graphic url="58617819.jpeg" width="2812px" height="4720px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YAXZTDGIGBUIMZGTSGPUISNX&amp;fileType=view" width="2812px" height="4720px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>e 1 der sechsten Sitzung des Unterausschusses des Verfassungsausschusses vom 18. August 1920. Beginn 2 Uhr Nachmittag. eresens: Abgserdaster Dr. Obto Rauer als Vorsitzeoder Eiden Zeil der Verhandlungen schate der Präsident korl Seiti ber. Abgeerdneter Sinen Abram Heinrich Clessin Dr. Robert Dennebers Jedck Fiak Korl beuthoer Stostssekretür Prof. Dr. Uichael Mayr. von der Stastskanzler: Urn. Ret Dr. Ceere Freehlich. Sekt.Ret Dr. Auge Jackl. Sekt.Rat Dr. Egbert Mannlicher. din. V. Sehr. Dr. Furt Frieberger als Schriftführer. Prof. Dr. Hans Kelsea als Experte des Verfassungsausschusses.
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            2 Der Varsitzende verliest die von der Staatskanzlei vorgelegte Formulierung des "Art. 13 (1) wenn eine Angelegenheit nicht ausdrücklich durck die Bundesverfaszunz der Gesetzgebung oder auch der Vellzichung des Bundes übertragen ist. vertleibt sie in Wirkungs bereich der Jänser. (2) Zrscwert der Bundesgesetzgebung bleß die Regelung der Grundsätze verbehalten ist, obliegt die nähere Ausführung der Jondesgesetzgebung innermalb des bundesgesetzlich festgelerten Kanmens. Das Bindesgesetz kann für die Erlassung der Ausführungsgesetze eine Frist bestimmen, die nicht kirzer als drei Arnete und nicht länger als ein Jahr sein derf. Wird diese Frist um einer landengesetzgebung nicht eingehalten, so geht die Zuständigkert zur Erlessung des Ausführungsgesetzes für dieses Land auf den Bund über. (3) Soll. ein Akt der vollziehenden Gewalt für mehre. re länder Rechtswirksankert äußern und ist in dem die Nagelegenheit regelnden Bundesgesetz nicht ein anderer Vergang vergesehen, so feht die Zuständigkert für diesen Mt der Vellziehung auf den Bund über. (4) Die auf Grind der Art. II und 12 zu erlassenden bundesgesetze haben verzwsehen, eb und inniefern über Hatrag einer der beteiligten londesregierungen der Ntllzug auf den Bund übergeht, wenn ein Mt der vollziehenden Gewalt eines Landes Ruckwirkungen auf ein anderes land zu äußern geeignet ist, sofera sich die beteiligten Länder nicht einigen können. (5) In Angelegenheiten die nach Art. 11 und 12 zur Gänze oder nur zur Regelung der Grundsätze der Bundesgesetzgebung verbehalten sind, steht dem Bunde das Recht zu. die Einhaltung der von ihm erlassenen Verschriften wahrzu nehnen.«
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            -3- Der Artikel wird in dieser Fassung augenomnen, obwohl der Versitzende den Asicht Ausdruck gibt, dass es legistisch richtiger wäre den Artikel zu terlen: auf Bekurwortung Dr. Se ipe Is entscheidet sich der Unterausschuss aus politisch - taktischen Gründen für die ungeteilte Annahme. Im Hrablicke auf die verausgegangent gestrige Besprechung belent Dr. Se ipe 1, dass das gestern angemeldéde Uincritatsvotum nicht in Fera des Abs. 3. Art. 14 des Antrags Dr. May r (888 d.B.) zu fassen sei, vielmehr halte seine Parter am Mertlaute des Linzer Untwurfes fest. kei der folgenden Abstimmung über einen von der Stastskanzlei formulierten Antikel wird Abs.l unverändert. angenommen, Abs.2 ebenfalls, nur wird über Antrag des Abg. Fin k nach dem Werte einnerhalbe: nacht Mechen« eingesetzt. Abs. 4 des vorgelegten Entwurfes entfällt auf Grund der gestern gefassten beschlüsse, wahrend die Absätze 3 und 3 des Katwurkes in geänderter Form angenommen werden. Der Artikel leutet aufmehr: »(1) Ein Gesetzesbeschluss des Nationalrates kann, someit nicht in diesem Ortikel anderes bestimmt ist, nur dann kundgemacht werden, wenn der Bundesrat gegen diesen Beschlus- keinen Einspruch erheben hät. (21 Der Einspruch muss den Natignalrat innerhalb acht Wochen nach Einlangen des Gepetzesbeschlusses beim Bundesrat mitgeteilt werden und mit Grunden versehen sern. (3) Wiederholt der Bundeörgt seinen ursprünglichen Beschluss, so ist dieser zu beurkunden und kundzumachen. Reschliesst der Bundesrat keinen Eiaspruch zu erheben oder wird ingerhalb der im zweiten Asatz festgesetzten Frist kein mit Begrundung versehener Einspruch erhaben, so ist der Geselzesteschlus zu beurkunden und kundzumachen.
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            4 (4) Die Bewilligung des Bundesvoranschlages und die Genehmigung der Rechnungsabschlüsse, die Aufnahme und Konvertierung von Bundesadleihen und die Verkügung über das Bundesvermögen sind ausschließlich Sache des Natienelrates. Hiebei erklärt es der fereitzende als unznerkelhaft. daß auch jedes Nachtragsbudgets als Veranschlag bezeichnet werden kann. Der Unterausschuß berät sodenn die Festsetzung der Mitgliederzahl des Bundesretes. Die Fassung lr. Mayrs erklärt Dr. Daaneberg als unannehmbar vom Standpunkte seiner Partei: er bittet um priazipielle Abstimmung über die einschlägigen Bestimmungen des sozialdemskratischen Verfessungsantrages. Niegegen wendet sich jedoch unter Hinneis auf den beschränkten Wirkungskreis des Kundes Verfflr. Seipel. Abg. Clesdin meint dem sozieldemekratischen Standpunkte bei Wahrung des foderslistischen Grundgedankens entgegenzukommen, indem er die Erhohung der Grundzohl der Kandate eines Krealandes von drei auf vier Stimmen beantragt. Die Zählung der feslstimmen wäre zu unterlassen. Im allgemeinen dürke kein land mehr ale zwei Fünftel aller Stimmen besitzen. Dr. Deaneberg sieht in diesem Antrag eher eine Verschärfung der Gegensätze, de Verarlberg im kundesret scviel Abgeerdnete hätte als in der heutigen Nationalversammlung. Nach Anschauung seiner Partei bedeuten die drei Vertreter schon eine außerordentliche Begünstigung der kleinsten Länder gegenüber den größeren und namentlich gegenüber kien. Er mochte unterscheiden: Eine Cruppe unter400-000 Einwehnern: Verarlberge Solzburk. Tirel und das heutige Käraten, wozu noch das Burgenland käme: eine Gruppe mit wesentlich höherer Einwehnerzahl: Oberösterreich mit dreimal so viel Einwehaern als Tirel, Steiermark mit noch 90.d00 Einwohnera mehr und Niederösterreich, ehne
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            Hien 1. 600. 000 Franchaer und Wien selbst mit 1.800.000 Eia wohnern. Die scziale Zusammensetzung der Bevölkerung sei in den Ländern grundverschieden. Die Bauernschaft habe allenthalben ihre gefestigte Position, während die übrigen Bevolkerungsklassen in Wien zusaumengedrängt sind und sich hochstens noch in Niederosterreich und Steiermark zur Geltung bringen können. Der Proporz sellte auch innerhalb der Länder gewahrt bleiben. Dr. Seipel meint, daß die Zustimmung seiner Partei, auch wenn sie bereit wäre, den Vorschlag des Vorredaers zu berücksichtigen beim Widerstande der Länder keiden Wert hätte. Der Versitzende wendet gegen die befurchtete Magerisierung Wiens durch die Länder ein, daß ievon nicht die Rede sein könne, da die Hauptstadt bestenfalle ein Viertel der Kandate erhalte. Wien hätte nicht einmal vier Vertreter mehr als Verarlberg, obwohl es dreizehn mal mehr Einwohner zähle. Das die Trengung Kiens von Niederosterreich anlange, so wäre dieses administratib sehr schmierige Problem einstweilen zurückzustellen. Dien und Niedervi4 österreich wärensbei der Vermögensabgabe als getrennt zu betrachten, die Durchführung der Trennung aber einem späteren Zeitpunkte vorzubehalten. Prof. Dr. Kelsen schlägt ver grundsätzlich am Froporzgedanken festzuhalten, bei Festsetzung der liffer aber mit dem grobten Lande zu beginnen, die übrigen verhaltnismassig zu beteilen, weber jedoch jedes Land mindestens drei Vertreter erhalten mußte. Abg. Fi n k meint, daß die Zehlen bei dieser Art der Bestimmung nach jeder Volkszählung varzieren müßten. Der Varsitzände gibt dies zu und meidärt, daß sich dies nur vermeiden ließe, indem man die Zahl der Mandate in der Verfassung festlege, was jedoch im Lauf der Zeit zu ähnlichen Ungerechtigkeiten kühre, wie in der alt-österreichischen Delegation. Dort
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            war die Zahl der Vertreter jedes Kronlandes, wie Abg. Clessin ernähnt, auf Grund der Volkszählung von 1866 berechnet, so daß zuletzt Mähren noch immer mehr Dele gierte entsandte, als das mittlerweile meit dichter bevolkerte Niederosterreich. Nachdem Dr. Seip«1 erklärt, daß seine Fartei prinzipiell zustimme, sich aber die Formulierung für die nächste Sitzung vorbehalte, stellt, der Vorsitzende fest: « Es besteht Einverständnis über das Frinzip properticnaler Vertretung mit der Abweichung, daß keines der Länder weniger als irer, keines mehr als zwölf Mandate haben dürfe, während die Fermulierung der nächsten Sitzung derbehalten ist." Der Unterausschuß behandelt weiters die Frage, ob die Kahl der Bundesratsmitglieder aus der Mitte der Landtage oder durch die Landtage erfolgen soll. Nach Stellungs nohme des Staatssekretärs Dr. Ma yr und der Abgeerdneten Dr. Danneterg, Fink und Dr. Seipel führt Drof. Dr. Kelsea folgende Grunde für die Kahl aus der Mitte der Landtage an: Dam Bundesrate sollenunur vom Velk genählte Mitglieder angehoren (indirekte Valkswahl): es sollen nicht neue Organe geschaffen werden, die mangels scastiger Betätigung, den Staat belasten: die Mitglieder des Hundesrates sollen in enger Fühlung mit den Landesregierungen sein: die Landtage sollen gewissermaßen im Bundesrate an der Gesetzgebung mitwirken. während Abg. Eless in die Absicht Selzburgs erortert keine Landtagsmitglieder zu entsenden, da diese zu sehr im Lande selbst beschäftigt seien und bei der intensiven Gesetzungsgebungsarbeiten der Netionalversammlung ständig in Men tagen mußten, sieht der Versitzende den
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            1. dortselost Wert des Hundesrates vor allen darin, dabsdie an der Patstehung der Gesetze urtwirken, die auch mit ihrer späteren Durchführung betraut sind. Der Antrag, daß die Mitglieder des Bundesrates von den Landtagen -aus- ihrer Mitter gewählt werden, wird darau schliedlich abgelennt und Abs.4 des Art. 26 (Linzer Ertnurf) nach einem Zusatzantrage Dr. Dannebergs in felgender Fassung angenemnen: (4) Die Urtglieder des Bundesretes und deren Ersatznäner werden von den Landtagen nach dem Grundsatze der Verhältnismahl gewählt, daß jedenfalls eines der Mandste der zweitstärksten Parter zufallen muß." Gegen den Zusatzentrag: „daß jedenfalls einesusn.meldet Abg. Dr. Seipel ein Mineritätsvotum an. Als strittiger Punkt des Linzer Katnurfes gelangt hiierauf Abs.6 Art. 26 zur Beratung, gegen den sich Abg. Dr. Daaneberg ausspricht. Der Vorsitzende hält je doch eine derartige Festlegung einer Verfossungsbestimmung unter Hinweis auf ähnliche Fälle in der Verfsssungsgesetzgebung der Vereinigten Stasten keineswegs für bedeutungslesMährend Prof. Dr. kels en befurchtet, daß die Starrheit sich auf die ganze Verfassung erstrecken könnte, verweist Dr. Seipel auf die Leichtigkeit, mit der die Verfessung durch den Nationalret ohne Bundesrat und ohne Volkeabstimmung geändert werden kann, und hält daher eine stärkere siarantie für diese Poderelistischen Bestimmungen für unbedingt geboten. Während der Versitzende noch ausdrücklich feststellt, daß die Volksabstimmung in diesem Absatze abgelehnt wurde, mochte sie Dr. Sei pel hier denasch erhalten wissen und Abg. Cles s in behält sich die Stelluag eines diesbezüglichen Antrages gelegentlich der Beretung über die Velksabstinnung ver. Üeber seinen Antrag wird folgende Fassung des Absetzes 6 Art. 26 angenomment " Die Bestimmungen dieses Artikels können aur abge31.
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            8
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            <p>äodert werden, wene die Konderung von der Mehrheit der Vertreter von nenigstens vier ländern angenonmen wird. Der Versuch einer endgiltigen Frraulierung des ges2s1 Artikels wird von der Stastskeozler in der nächsten Sitzung vorgelegt. Kinsicrtlich der Geschäftserdnng wird uter Antrag des Agecrincten Glessin folgender Beschluss gefesst: »Der Bünsseret gibt sich eine eigene Geschäftserdnung. seine Sitzungen sind öffentlich. Die deffentlichkeit kann gemäss der Geschäftserdnung auf beschluse des Rusiesrates aufgeneren werden. Art. Id des linzer Entmirfes wird in Vertlaute angenommen. wober jedoch die Frage der Funktzen des Bundespräsidenten okfen bleibt. Dr leutet: »(1) der Bindesrat wird von Ruindespräsikaten alljährlich an den Sitz des Fundestages einberufen. (2) Er fasst seine Beschlisse mit einfachr Stimmennehrhert der Anresenden. (3) Die Sitzungen des Bunfesrates sind öffentlich. doch kann die Oeffeitlichkert auf Beschluse des Fundesrates aufgenoben werden. Die Bestimmungen des Art. 23 gelten auch für die öffertlichen Sitzungen des Kundeerates und serder Ausschusse. Der Unterausschuss berät sodenn die Mahl und den Kirkungskreis des künftigen Bundespräsidenten, weber deg. Dr. Dsansberg bericht erstattet. Er gibt der Aesicht seiner Fartei Ausdruck, dass der gegeowärtize Zustand nicht nur zulänglich sei, sondern sich auch als sehr nutzlich erwiesen habe. Die Mehl eines eigenen Fundesprässdenten bedeute fir unseren notlerdenden Stast die Schaffung einer neuen besonderen Stelle. Mas die Mehl durch das gssante Rundesuelk anlange, so scheine sie sehr denckra-
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            9
+            </p>
+            
+            <p>tisch. beinhalte jedoch in unserem wenig konsulitierten Stastsresen die Gefehr monarchistischer Eiperinarte. Abg. Clessin ist der Anschauung, dass der Bundespräsident vom Volke gewählt werden soll; damit er nicht nur eine Farter hinter sich habe, sondern einen tstsächliche Macht besitzt. Der Versitzende weist darauf hin, dass mir den Gedanken der parlamentarischen Rexublik weiter gefunrt haben als soast ein Stast. Wir stehen heute nicht mehr allern mit dieser Konstruktioa; eine Rerhe von deutschen Bundesstasten u.s. Preussen sind diesem Beispiele gefolgt. Man muss berücksichtigen, dass schon die Mahl durch das Farlament den Präsidenten wie in Frankreich und in der Tschechoslevsker eine sehr tarke Stellung gibt; wird er vom Gesamtvelke gewählt, so überwiekt seine Macht wie das Beispiel der Verernigten Staaten erweist. Mah möfe auch die Abnerzung der Bevölkerung gegen alles zeremeniell in Rechnuak ziehen. Statssekretar Dr. Aa Ir un Abg. Dr. Geipel finden allerdings den gegenwürtigen Wirkungskreis als etwas zu gering für einen besonderen Bundespräsidenten. doch meint letzterer, dass bei der jetzigen GepfloRenleit, nach der ein Mitglied der stärksten fartei Präsident wird, dieser einerseits seiner Parter entzegen, andererseits durch seine parter,olitische Tätigkeit überaus stark belastet wird. Nach der Verstellung unserer Bevolherune sollte der Präsident dem Parteigetriebe entzexen sein. Schon die Fuhrung der fermalen Geschäfte im Hause der Naticaalversammlung und die Funktica als Ordner bei den Sitzunken widerspricht der Wurde eines Präsidenten. Die Wahl musste ganz anders durchgeführt werden als sensties Rehlen. Abe. Leutaer hält eine bescadege Hehl fur Geterr
+            </p>
+            <p>121
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            10- den schlechtesten kex um eine Persca zu suchen, die nicht im politischen Leben sicht. Der Unterausschuss entscheidet sich auf Grund prinzipzeller Abstianung dafur, das: ein besanderer Bundeepräsident gewanlt werden sel) Der Varsitzende warnt nochmals unr Einfuhrung der Volkswehl und kundigt im Namen seiner Partei beschränkende Bestimmungen hinsichtlich des passiven Mahlrechtes eines vom Volke gerählten Präsidenten an, so müsste die Familie Habsburk, mussten Generale und Offiziere von der Wählberkeit ausgeschlossen sein. Da er nochmals darauf aufmerksan nacht, dass die jetzike Kempetenz zu gerink sei, für eine mit so grossem Apparat gewählte Personlichkert, wird über Antraf des Abx. Fi n k zuerst der Wirkungsheis des Bundesprasidenten besprochen. AbR. Dr. Daaneberg referiert hierauf über die einschlägigen Artikel des Linzer Entwirfes und berücksichtigt hieber auch die Forderungen der anderen Partezen. Die Bestimmungen des grossdeutschen Entwurfes, nach denen der Bundespräsident den Oberbefehl zu fuhren hätte, mit Zustimmunk des Bundestages den Kriex zu erklären und auf Grund eines Kelksentscheides Frieden zu schliessen hätte, werden ebense abgelehnt wie Artikel 63 des gressdeutschen Entwurfs, sodass der Unterausschuss die übereinstimmenden Anträke der christlichsozielen und sczialdemokratischen Entwürke in Beratung zieht. Art.54 des Linzer Patwurfes werd hierauf absalzweise besprechen und zur Abstimmung gebracht: Abs. 1 wird unverändert angenommen: Zu Abs. 2 bemerkt Mzn. Rat Dr. Frrenlich erläuternt, dass unter »Bundesfuaktioaären, der Präsident des Patentantes. stastliche Kommssäre, ein etwaiger Präsident der Akademie der Wissenschaften oder einer staatlichen Bank zu verstehen wären.
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            11
+            </p>
+            
+            
+            <p>Präsident Seitz stellt mer bereits einen Unterschied fest. da noch der neutigen Textierung der Präsident nicht alle Bundesangestellten, soidern nur die von der VI. Rangsklasse aufwärts eruenst. Dach den dortlaute des Linzer Entwurfes wäre es angezeigt, dass der Präsident genäss Art. bo das Ernennungsrecht für die niedrigen Beenten überträgt, doch kann er es, wenn er will. auch selbst ausühen. Eine schwierige Interpretatienskrage ergibt sich auch sis der Erfugnis zur Schaftung von Ants- und Ferufstiteln. Aut diesem Gebiete stellen die Stastsanter kanz besondere Forderungen nach Schaffung neuer Iitel. z.B. Gestutsrat. Übergestutsret. Obermagszissur u.8. Der derzeitige Präsident habe die Schaffung des Titels dem Stestsante überlassen und den zum Gestutsrat Vorgeschlaxenen nur zum Bearten der VI. Kangsklasse ernanst. Stastssetetär Dr. Kayr fände es gut. wenn diese Azenden konzentriert wiren. Bei krorterung des Ergnadigungsrechtes hett Präsident Se it z die Artwendigkert herver, auch die Begnaligung in Sachen des Dieziflinerstrafverfahrens zu regeln. Kin.Rst dr. fr cehlich findet dieses Recht drch die Bestimmung des Abs.5 -genstige Befugnisse in Verscnalengelegenhertenn gedecht, man müsse wegen der Schnierigkert einer tanstiven Aufzählung solche Frexen durch Sondergesetzgebung regeln. Auch Prof. Kel s en ist der Inschauung, dass dies in den so dringend notixen folizerstrefverfahrasgesetze zu regeln wäre. Es xehe nicht en, den trasidenten mit solchen geringfugigen Fallen zu belasten; das Begnadigungsrecht könne ebense aut von der odersten ressertnässigen Stelle zusgeubt verden.
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            22 In Abs. 4 beanständen die sozialdenekrstischen Vertreter die Fiedereinführung des Titels Minister- und sprechen sich für Eerbenattung der Bereichtung -Startssekretär- sus. Träsident S e it z nacht auch auf die Frege dd der Urlautserteilung an die Fräsrlenten der höcsten Gerichte und des Stestsrechnungshofes aufnerksan, da diese Funktjrnäre Nert daraut legen, ihre Unarhängigkeit von der Rexierung zu denen. Kin.Ret dr. Freehlich meint. das derlei ebenfalls unter »Hefugnisse in Personalangelegenheiten« zu verstehen asi, da ausfürrlichere Einzelbestimmungen die Verfassung zu sehr telseten wurden. der Unteratsschuss ninnt nierauf die Artikel 64. 60, 56. 57 im Werkleute des Linzer Entnurtes an. Desgleichen wird Artikel 53 chne ferderung angenomnen. In Art. bl ist im ersten Aosetze anstatt »Fundestagen allstirnalreten zu setzen: zu übrigen wird der Artikel unter Streichung des Wortes „besterreiche im zwerten Msstze (Gelöbnis Frruel) angenomnen. In Art. 52 ist enstett des „Bundestsges- »der Bundesversammlunge zu setzen. Der erste Asetz dieses Artikels wird angenommen, der zuerte Meatz über Antrag des Asgeordaeten Fink gestrichen. Präsident Se itz ernähnt, dass wiedernolt die Fede ist vennerschlage der Stestsregierunge. In der gegenwärtigen Verfassung ist en weder der Ausdruck »Gesantregierunge oder rStsstöregierunge gewählt. Ist von Stastsregierung die Rede, so haben wiederhelt einzelie Stastssekretäre Verschläge erstattet, wührend es bei „Gesantregierunge klar war, dass ein Beschluss des Kabinettsrates erforderlich ist. la der neuen Verfessung wäre grössere Klar sert ermunscnt.
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            13 Hin.Ret Dr. Freehlich: Nach dem Gesetz über die Stastsrexierung ist unter Staatsregierung dasselbe wie unter Gesantregierung zu verstehen. Leider ist im Art. 14 des Gesetzes über die Velksvertretung ein Redaktionsfehler unterlaufen, indem dezt von der ngesamten Stactsregie Haraus runf« die Rede ist. hiedurch ist zu folgern versucht werden, dass unter Staatsregierung nicht die Gesantregerung zu verstehen sei. den als latten osterreichischen Gesetzen ist unter der Rexierung nicht die Ge.antrexierung verstanden werden, sondern der einzelne Urnister, also ein Ergen der Regierung. Daraus leitet sich die Fakultät einzelner Winisterien ab. Verordnungen auf Grund des ErmächtigungsgesetzesVellzuksenweisungen zu erlessen. Präsident Seitz misst dem besondere Bedeutung bei, de sehr viele Verschläge einzelner Steatssekretäre einlaufen und zwer im Verfelx der Franis, die in Altosterreich bestanden. Der einzelne Staatsaekretär betrachtet sich als Nachfolger des früheren Ministers. Ohne Rücksicht darauf. ob es praktisch ist, jeden Verschlag von der Gesamtregierunk erstatten zu lassen, müsse dies doch an irgend einer Stelle kenau umschrieben werden. Allerdings wäre es eine schwere Belastung für den Kabinettsret und die Verlesung der zahlreichen Verschläge wurde zu einer Fermalität herabsinken. worten Der Versitzende findet, dass mit denf weder des von dieser niezu ermächtigten zuständigen kundesministersin Abs. 4 des Art. o5 hinreichende Klarhert geschaffen sei. Nachdem nunmenr der Wirkungskreis des Bundespräsidenten festgestellt ist, erklärt Prof. Dr. Seipel dass er zwar prinzipiell für die Velksabstimmung sei, aber mit Rucksicht auf die Kompetenz des Prasidenten davon ab-
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            -14 stehen konne. Der Unterausschuss beschliesst hierauf nach einem Referste Dr. Dannebergs, dass der Prusident durch Zusammentretung des Kundesrstes und des Bundestages (Naticnalrätes) gewählt wird. Zwecks Vermeidung der Unklarheit, die durch den Gieichklaag der Werte Fundestax und Bundesrat entsteht. beschliesst der Unterausschles nach längerer Rechselrede. an der sich Stagtssekretur Dr. Me yr, die Abgeersaeten Fink und Seipel, sewie Prof. Fr. Felsen beteiligen, den Namen Bundesrat beizubehalten. jedoch die aus dem Gesantvelke gewählte Körperschaft nicht Bundesrat. sondern»Nationalrat« zu benennen. Bei Eeratung des zweiten Abschaittes des Linzer Entmrfes: Von der Gesetzgebung des Lundes. wfrdler Naticnalrat, wird Art.15 in folgendem Wertleut angenommen: „Die gesetzgebende Gewalt des Bundes übt der vom ganzen Bundesvelk gewählte Natienelrat gemeinsam mit dem von den Landtagen gewählten Bundesrate sus." Art. 16 wird ebenfalls im Vertlaute des Linzer Entwurfes mit Abänderung des Hortes Bundestax in Natienalrat angenommen, jedrch melden die Bezialdemekratischen Abxeordaeten zegen den zweiten Absatz ein Uineritätsvetum an. Zur Besprechung des Wirkungskreises der Bundesversammlunz wählt Dr. Danneberg als Grundlaxe den Art.70 des Entwurfes Dr. Kenners, webei Aog. Dr. Seipel darauf aufmerksam macht, dass bei den Linzer Berstungen von einer „Bundesversenmlunge noch nicht lie feie gewesen sei. swisss seine fartei erst jetzt hiezu Stellung nehmen könne. Die Fassunk des Abs. 1, Puakt l wird in folgender Farmulierung angenomnen: allatienalrat und Runsserst treten zu geneinkamer Sitzung an dem Sitze des Nationalrates zusamnen: 1. zur Wahl des Bundespräsidenten und dessen Aagelobung.
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            -13 da sich, wie Abg. Dr. Seipel betort. die Henl des Bundespräsidenten von jeder anderen Wahl unter scheiden soll. wird Frt. 2 des Frt.70 ( Fr. Reaner) gestrichen. Die dahl des trasidenten des Stastsrechnungshefes hier zu erwähnen, erklärt log. Fin k als unnötig. ds es in Krt. 95 des Linzer Entwurfes heisst: Der Rechnungshof untersteht unmittelber dem Fundserate und dem Matzonalrete. Der Präsident wird vom Nationalrate gewählt. die Maul bedert der Genehnigung des Bindesrates. Dies wird als genugend befunden. In weiterer Krorterung des Renner'schen Entwirfes erklärt Dr. Seiuel. dass die Kriegerklärung aus optischen Grunden möglichst zu erschweren sei. Innerhin bedarf die Frap einer Kegelung in der Verfassung. Der Unterausschuss ninnt deraufnin den prinzzpiellen Antrer en. dass die Fundestersennlung zur Beschluspfassung über des Kriexserklärung kempetent sei. Die Frage der Oeffentlichkst der Verhandlungen der Bundesversaumlung ist laut Beschluss des Unterausschusses wie dein Kindesrate zu regeln. Ferner wird beschlossen: Der Astionstret und der Zundeeret bersten die zu entscherdenden Dinge gesondert und treten bless zum Zwecke der Astinmung zu annen. Die Staatskenzler wird ersucht. die Arnulierunx vorzulegen, über folgende Fragen: Wer beruft die Bundesversammlung ein ? Sind die Beratungen öffentlich? Geschäftserding (stus des Astionslrates). abrechselnder Versitz der beiden Prasidenten. Die Einterufung erfelat fur den Fall der Hahl durch den Bundeskanzler: für den Fell der Aberufung oder einer Verfolgung des Frisidenten musste die Einberufung auf Beschluss eines der beideh Häuser, im Falle der Kriegserklärung über Auftrag des Bundespriadenten erfolgen.
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            16- der Verschlsk des Berichterstatters dr. Danne berg. die Kahl des Bundespräsidenten im Sinne des Art. 71 des Antrex Dr. Kenner zu regeln, wird abgelehnt. Angenannen wird die Passung des Art.43 (lanzer Intnurdt: (l) der Fundesprändent wird von der Bundesversannlung genählt. (2) Sers tat dawert ..... Ichre. Einuslier Niederuahl ist zuläsiz.« die Lsut kr Jehre bleibt uer Intrax Dr. Dsnneverg offen: über seinen Antraf wird das Nart weinmaliken ver Niedermehl eingeschaltet. Die Veraussetzungen des passiden Kehlrechtes wird die Stastskamles eis zur nächsten Sitzung fornulieren. eine Fassung über den Ausschlurs der Urtrlieder des Hauses Aansburz - Letnringen von der Mähltarkeit zum Bindespräsidenten wird dr. Denneberg verlegen. Aus. 3 des Art. 45 wird gestrichen. Die Startskamler wrd ferner eraucht, die Frage der Kanl (usjeritälspriozif. Systen der nehweren Nahlgänee? )in einem Entwrfe zu benardeln. Art. O wird in der Rassung des Einzer Itnurfes anwacmnen. Ds Abg. Dr. Eisler das Referst über die Frade des Veraltnisses zunichen Lindern und Geneinde und über die Verwaltungsrefern niedergeleet het, wird über Verschlaf des Verartzenden Abg. ABram mit den Referate zu die näcnste Situnz betraut. Die nienste Sitzung findet Freitsg. den 20. August. W.Utr Vermittag statt.
+            </p>
+            
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

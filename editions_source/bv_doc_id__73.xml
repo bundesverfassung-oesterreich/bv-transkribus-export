@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__73">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll Zwischenamtliche Sitzung 11. Oktober 1919</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1840232</idno>
+                <idno type="transkribus_collection">196429</idno>
+                <idno type="bv_data_set">Datenset C</idno>
+                <idno type="goobi">17665</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AVA, JM I-VI-1 Kt 1816</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Staatsamt für Justiz</author>
+                            <title>Protokoll Zwischenamtliche Sitzung 11. Oktober 1919</title>
+                            <note type="editor">Protokoll der zwischenamtlichen Sitzung am 11. Oktober 1919, aufgenommen von dem zur Sitzung entsendeten Vertreter des Staatssekrätariats für Justiz. Typ: Typoskript. Zustand: gut, wenige handschritliche Anmerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1919-10-14" notAfter-iso="1919-10-14">14. Oktober 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1919-10-14" notAfter-iso="1919-10-14">
+                    14. Oktober 1919
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-16" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3250" lry="5166" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0001/full/full/0/default.jpg" width="3250px" height="5166px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0002/full/full/0/default.jpg" width="3250px" height="5166px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3206" lry="5192" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0003/full/full/0/default.jpg" width="3206px" height="5192px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0004/full/full/0/default.jpg" width="3206px" height="5192px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3207" lry="5163" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0005/full/full/0/default.jpg" width="3207px" height="5163px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0006/full/full/0/default.jpg" width="3207px" height="5163px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3248" lry="5163" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0007/full/full/0/default.jpg" width="3248px" height="5163px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0008/full/full/0/default.jpg" width="3248px" height="5163px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3205" lry="5172" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0009/full/full/0/default.jpg" width="3205px" height="5172px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0010/full/full/0/default.jpg" width="3205px" height="5172px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3187" lry="5189" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0011/full/full/0/default.jpg" width="3187px" height="5189px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0012/full/full/0/default.jpg" width="3187px" height="5189px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3222" lry="5169" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0013/full/full/0/default.jpg" width="3222px" height="5169px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0014/full/full/0/default.jpg" width="3222px" height="5169px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3209" lry="5191" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0015/full/full/0/default.jpg" width="3209px" height="5191px"/>
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__73/files/images/IMG_0016/full/full/0/default.jpg" width="3209px" height="5191px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3236" lry="5216" xml:id="facs_10">
+         <graphic url="65705645.jpeg" width="3236px" height="5216px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IUVGTQQRMGBLORWNMEPSISTV&amp;fileType=view" width="3236px" height="5216px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3198" lry="5157" xml:id="facs_11">
+         <graphic url="65705646.jpeg" width="3198px" height="5157px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XGCASBCIFCMNGYTVAQJZHCRO&amp;fileType=view" width="3198px" height="5157px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3266" lry="5172" xml:id="facs_12">
+         <graphic url="65705647.jpeg" width="3266px" height="5172px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GMWMABFAJNUSYSDHRSJMBSDX&amp;fileType=view" width="3266px" height="5172px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3206" lry="5223" xml:id="facs_13">
+         <graphic url="65705648.jpeg" width="3206px" height="5223px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FWSYZDXQJPGWDWHMAUVIKOEU&amp;fileType=view" width="3206px" height="5223px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3249" lry="5277" xml:id="facs_14">
+         <graphic url="65705650.jpeg" width="3249px" height="5277px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JALCIMGFKZXBUMSTGUHFTKKE&amp;fileType=view" width="3249px" height="5277px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3207" lry="5220" xml:id="facs_15">
+         <graphic url="65705651.jpeg" width="3207px" height="5220px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FSQNIYYXULYCOMVCEKGCLSIX&amp;fileType=view" width="3207px" height="5220px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3402" lry="5189" xml:id="facs_16">
+         <graphic url="65705653.jpeg" width="3402px" height="5189px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GRTGGOVRHZJHNVDMSBUGIOCS&amp;fileType=view" width="3402px" height="5189px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>110 19 Fortl. 3.4. Deuiu)-Opeli. Duisui ui Jug. Z. 20031 Votuiien77583 452 89 Datum 14/10 19.2 5. eingel. Bgena Zur Abfertigung Bezeichnung Reingeschrieben von Verglichen I. Bestellt 10 Verzeichnis BundesVerfassung. 1/3 2inzumelden 10. Amtsvortreg Bericht über die Besprechung in der Stastskanzlei vom 11. Okt. Zur Einsicht 1919 über die Orgenisierung der genehmigung, Hinterlegung 0t d8r Vorarbeiten zur Verfassungsreform. nach Abfertigung Stastskanzler Dr. Renner hielt. an die versammelten Verträter der Staatsämter nachstehende Rede: Die Nat.Vers. wird in dieser Session wahrscheinlich mit der künftigen Konstitutionsukkunde befasst sein. Der Gesetzgebungsdienst der Staatskanzeli hat pflichtgemäss die Entwürfe einer Verfessungsurkunde ausgearbeitet, die jedoch nur Vorentwürfe sind und als Beratungsbehelfe, dienen sollen. Es sind jehrere Entwürfe, die das Troblen nach
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            verschiedenen Richtungen behandeln. Bevor diese Entwürfe reif sind zur parlementarischen Verhandlung, müssen sie noch zwei Städien passieren. Zunächst müssen elle Stestsämter mit dem Entwurfe befasst werden und sie müssen in die Lege kommen, sich darüber zu äussern, wie sie die ihr Ressort betreffenden Angelegenheiten behandelt zu wissen wünschen. Das zweite Stadium ist, dass die Entwürfe den Lendesregierungen in vertreulicher Weise mitgeteilt werden, damit auch diese sich äussern können, ob sie bei einer sogearteten Auseinanderlegung der Kompetenzen mit Erfolg die Verweltung zu führen in der Lege sein werden. Erst wenn diese Innenarbeiten beendet sind, werden die parlementerischen Körperschaften damit befasst werden. können, man wird aber noch vorher an die Hlubs herehtreten, um vielleicht eine grundsätzliche Einigung zu erzielen und die Anssichten auf die parlementarische Annahme festzustellen. Ueber eines sind alle Parteien einig. D.Oe., oder wie es künftig heissen wird, Oesterreich, soll eine bundesstastliche Verfassung erhalten. Diese bundesstentliche Verfassung wird ihr Muster mehr in der deutschen Verfassungsurkunde als in der schweizerischen zu nehmen heben. Bei einer Bundesverfassung
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            1. Einlegebogen zu Ixz.L00g1) ist die Hauptsache die Auseinandersetzung zwischen der Bundesgewalt, die je die heutige Stastsgewalt beerben wird, und der Landesgewalt, die die heutige sutonome Landesverwaltung beerben wird. Niemand ist mehr berufen als die zuständigen Staatsämter zu segen, in welcher Weise eine Auseinandersetzung der Kompetenzen stattfinden soll. Es müssten sich also heute schon alle Stestsämter darüber kler werden, welche Kompetenzen sie den Ländern abzutreten im Stände sind, welche Kompetenzen sie im Interesse einer geordneten und sicheren Verwaltung der Bundesgewelt vorbehalten müssen. Dabei müssen in formaler, gesetztechnischer Beziehung folgende Unterschiede im Auge behalten werden. Zunächst giht es Angelegenheiten, die sonoht in der Gesetzgebung, als such in der Verwaltung durchaus vom Bunde geführt werden müssen, wo also die Bundesgewalt sowohl auf dem Boden der Gesetzgebung wie der Verweltung, hinab bis zur Lckelverweltung der Gemeinde, eintreten muss. Diesen absdlhten- Reservaten der Bundesgewalt werden absolute Reservate der Ländergewalt gegenüberstehen, Zuständigkeiten, wo die Länder sowohl die Gesetzgebung als auch die Verwaltung heben, wo ein Rechtszug
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            von den Ländern zur Bundesgewalt überhaupt nicht möglich ist. Es wird daren festzuhalten sein, dass die Auseinandersetzung zwischen diesen absoluten Rechtssphären in der Bundesverfassung selbst verankert. wird. Zwischen diesen beiden Reserveten liegt nun ein weites Gebiet, wo die Bundes- und Ländergewalt zusemmen wird wirken müssen. Das kenn in verschiedener leise geschehen. In Bezug auf die Gesetzgebung kenn es so sein, dass die Bundesgewalt ein Rehmengesetz gibt und die Durchführugs den Ländern überlässt, so dass Bundes- und Landesgesetz zusemmenwirken. Es kann aber such so gedacht werden, dass ein einziges Bundesgesetz entscheidet, die Lendesregierungen aber das Recht heben, Vhen herauszugeben. Endlich kann es sein, dessder Bund das Gesetz erlässt, das Land ausschliesslich die Durfhführung übernimmt. Was nun diese Abstufungen betrifft, so müchte die Stastskanzlei bitten, dass dabei das Scheme der Beteiligungsformen der Bundes- und Lendesgewelt in der neuen deutschen Bundesverfessung zugrunde. gelegt werde, wobei natürlich nicht die wirkliche Kompetenzverteilung übernommen. werden müsste. Im übrigen würde die StK. bitten, dess jedes Stl. einen einzigen Funktionär seinen Kron- oder Amtsjuristen, mit der
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            führung der verfassunggrechtlichen Auseinandersetzungen betraut. Dieses Orgsn wäre der StR. bekenntzugeben und der Verfassungddienst der Stk., Sektionsrat Dr. Fröhlich, würde dann mit diesen Orgenen in ständiger Verbindung arbeiten. und auch bereit sein, jederzeit weiftere Aufklärungen über die formele Aufnschung der genzen Arbeit zu erteilen. In der Stk. würden Besprechungen der Funktionäre der Staatsämter abgehalten werden, wobei die Vertreter der Stestsämter fortlaufend über die Ientionen der StX. informiert würden. Die Arbeit ist dringlich, es wird notwendig sein, dass die Stestsämter ihr Gutachten möglichst bald erstatten. Als oberster Grundsetz wäre festzuhalten. Wird können den Standpunkt eines engherzigen Zentrelismus prektisch nicht. festhalten. Der Stastskenzler will den Streit gar nicht aufwerfen, ob vermehrter Zentrelismus oder vermehrte Autonomie en sich das bessere ist. Wir müssen uns en die Tatsache halten, dass-wir einen beträchtlichen Teil der Prärogstiven der Zentralregierung an die Länder abzugeben haben werden. Wir sind dazu gezwungen, infolgedessen haben viele Erörterungen über die Zwecknässigkeit eines solchen Vorgangs keinen Sinn. Eg nützt nichts, din zu klegen über Dings, die unsbänderlich sind.
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            Debei müsse freilich auch der Gesichtspunkt einer wirklich wirksamen. Stestsverwaltung im Auge behalten werden. Jedes StA. muss sich die Frage vorlegen, was ist das Aeusserste, was ich abgeben kann, ohne die Einheitlichkeit der Stastsmeschine zu zerstören. Die Gutgchten der Stestsämter können also nicht se aufgebeut sein, dass sie von dem elten zentralistischen Gedenken ausgehen. Es ist selbstverständlich, dass wir heute ohne eine besondere Unterlege, insbesondere ohne Vorlege der Entwürfe der künftigen Verfessung, nicht in Deteilberetungen eingehen können. Es hat sich heute nur darum gehandelt, die künftigen Arbeiten zu orgenisieren. Deshalb ist es dum wesentlich Mtn, dass jedes StA. die Verfassungsarbeit in einer Person konzentriert, im übrigen netürlich innerhelb des Amtes so organisiert, dass alle Abteilungen ihre Willensmeinung zur Geltung bringen können. Die Stastssekretäre werden also zunächst. im Rahmen des StA. Besprechungen mit allen Abteilungen einseiten müssen. Wenn denn Fregen auftauchen, die Gegensätze zwischen den Stestsämterh aufzeigen, wird in der StK. zu entscheiden sein, wo ein erhöhtes Gewicht hinter eine Meinung zu stellen sein wird. In einem späteren Stadium werden die Stastssekretäre die Sache
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            2. Einlegebogen zu IrZ.Wori, in die Hand nehmen müssen. Bei den Vorbereitungsarbeiten wird die zwischenstegtsamtliche Organisstion in der Stk. genügen. Im Anschluss daren möchte der Staatskanzler noch einige Worte über die Grundlinien der Verfassung, wie sie mutmasslich sein wird, mitteilen. Wie schon angedeutet, soll die Bundesverfessung sich im sllgemeinen an das deutsche Muster anlehnen. Wir werden in der Gesetzgebung nicht eigentlich des Zweikemmersystem in dem typischen Sinn des Wortes heben. Wir werden en Stelle der jetzigen Nat.Vers. den Bundesteg heben, daneben wahrscheinlich den Bundesrst, d.i. aber nicht eigentlich eine erste Kommer, sondern entsprechend dem Deutschen Reichsrat eine Vertretung oder Zusemmenfassung aller Landesregierungen durch kompetente Orgene, eine kleine Körperschaft, die im wesentlichen die Funktionen haben wird, die Gesetzesbeschlüsse des Bundestages dahin zu prüfen, ob die Exekutive im Stande ist, die beschlossenen Gesetze durchzuführen. Es wird also eine Nachprüfung der Gesetzesbeschlüsse des Bundestages stattfinden, die zum Ergebnis kommen kann, dasf Gesetz kenn durchgeführt werden, oder zur Feststellung zukingt, das Gesetz müsse mit der
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            Aeusserung zurückgeleitet werden, es sei undurchführbar, worauf der Bundesteg sich zu entschliessen hat, es entsprechend abzuändern, andernfalls aber den Gesetzesbeschluss einerVolksabstimmung unterwerfen muss. Ein Bundesverfassungsgerichtshof wird berufen sein, die Kompetenzabgrenzung zwischen Gesetzgebung des Bundes und der Länder zu sichern. Wenn die Landesgesetzgebung ein Gebiet in Anspruch nimmt, das dem Bundesteg zusteht, so wird der Bundesstast in der Lage sein, Einsprache zu erheben, und der Gerichtshof wird darüber entscheiden, ebenso umgekehrt. Ein Stestsoberhaupt, das über Gesetzgebung und Verweltung steht, wird wahrscheinlich nicht vorgesehen werden, sondern wirk werden bei der keutigen Regelung verbleiben, dass der Bundestag der eigentliche Vextreter despouveränen Volkes ist, und dass sich diese Vertretung in der Person des Präsidenten verkörgert. Die Bundesämter werden im wesentlichen die heutigen Stastsämter sein, dabei mimmi wäre aber der Gedanke der Verschmelzung der staxtsämter und der Verminderung aufrecht zu halten. Einzelne Ressorts werden auch ein Interesse nehmen an der Regelung der Grundrechte. In dieser Hinsicht kenn als einstweilige Richtschnur dienen, dass such die Grundrechte wahrscheinlich in ähn-
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            1icher Weise abgegrenzt sein werden, wie in der neuen deutschen Verfassung. Im grossen und ganzen wird also die deutsche Verfassung uns das Muster abgeben, dstürlich kann sie nicht in jederEingelheit für uns bindend sein. Denn unsere Rechtsentrichlung und Gestaltung macht es in vieden Punkten ganz unmöglich, diesem Beispiele zu folgen. Die Auseinandersetzung zwischen der Reichsgewelt und der einzelnen Landesgewalt hat bei uns andere historische Voraussetzungen und es wäre auch anderseits eine Vergewaltigung der bestehenden Einrichtungen, wenn wir diese alle nech dem deutschen Muster zwangsweise fonmm wollten. Ausgegangen soll siso doch von dem werden, was heute ist, von dem Gedanken, dass die sachlichen und Vermaltungseinrichtungen sowie die Personenstände, die die diesen Vermeltungseinrichtungen dienen, nicht durch einen geweltsamen Eingriff geredezu desorgenisiert. werden sollen. Wo eine Neuordnung getroffen. werden muss, wäre dafür zu sorgen, dass eine allmähliche Ueberleitung in neue Verhältnisse möglich ist. SR. Dr. Fröhlich stellt die Zusendung je eines Abdrucks der neuen deutschen Verfassungsurkunde in Aussicht. Diese Drucksachen müssen erst in Berlin beschafft werden.
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            Auf eine Anfrage des Sekt.Chef Riedl gibt der Stantskanzler noch folgende Aufklärungen über die künftige Bundesverfassung. Einige Verwaltungszweige, die schon jetzt gesamtstgatlich sind, werden weiter bundesstaatlich bleiben, dazu gehören die Heeresverwaltung, die Finenzverwaltung, und zwar werden wehrscheinlich die bundesstastlichen Finenzorgane auch berufen sein, die Ageaden der Lendesfinanzverweltung zu besorgen, damit diese nicht einen eigenen Apperet einrichten muss. Beispielsweise würde die Grundsteuer, auch wenn sie an die Länder abgegeben werden sollte, durch Bundesorgene eingehoben werden. weiters wird Bundesssche bleiben die Justiz, insbesondere die gesamte Rechtsgflege und zwar auch die Verwaltungsrechtspflege, dann Verkehr (Eisenbahn Post, Telegraph, Telephon ) voraussichtlich unter Einbeziehung des Landeseisenbahnwesens, endlich die öffentliche Sicherheit (Poltzei, Gendarmerie). In diesen Angelegenheiten wird die Bundesverwaltung vollkommen selbständig bleiben; im übrigen wird das bürokratische System von dem System der Selbstregierung abgelöst. Es ist sehr wahrscheinlich, dass die Landesverwaltungen von den Landtegen bestellt werden, wobei noch
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            3. Einlegebogen zu Idz.Wtxil dehin geställt bleibt, ob in den Ländern auch die Gesetzgebung von der Verwaltung vollständig getrennt sein wird, ob das Präsidium des Landtages also von der eigentlichen Landesregierung abgesondert sein wird. Es ist höchst wahrscheinlich, dass unsere Bezirkshauptmennschaften durch lokele Vertretungen ersetzt werden, Kreistage, die die Kreisregierung ebenso führen, wie die von den Lendtagen eingesetzten Landesregierungen. Diese letzteren Angelegenheiten befinden sich noch im Stadium der Beratung zwischen den Perteien, deshalb ist es notwendig, darüber absolutes Amtsgeheimnis zu bewahren, denn der Stand der Verhandlungen kann sich jeden Teg ändern. Insbesondere ist das Problen der Wirtschaftsverwaltung im höchsten Grede ektuell und es wird sich erst zeigen, ob men in Bezug auf Volksernährung und auf die Aufrechthaltung der Einheitlichkeit des Wirtschaftsverkehres nicht zu anderen Auswegen wird greifen müssen, vielleicht provisorische Vorkehrungen zu treffen haben. wird. Von grösster Wichtigkeit ist, dass die Verweltungsgerichtsbarkeit ganz bestimmt auf neue Grundlegen gestellt werden wird. Wir haben heute nur den Verweltungsgsgerichtshof, der noch Erschöpfung des
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            Instanzenzuges bloss kassstorisch urteilt. Dieses System hat uns sehr gute Dienste getan, hat unsere Verweltung verrechtlicht, aber bei der Selbstregierung genügt dieses System absolut nicht. Es wird demnach eine instanzmässige Verweltungsgerichtsbarkeit eingeführt, man wird gegen eine Verfügung der Unterbehörde en das Lendesverwaltungsgericht, gegen die Oberbehörde sofort an den Verwaltungsgerichtshof sich wenden können und diese Instanzen werden nicht bloss kasestorisch, sondern meritorisch entscheiden, Dadurch wird ein Hauptteil der bürokretischen Verwaltung in unserem Sinne einfsch wiederhergestellt. Die Statthaltereien und Steatsänter sind heute vielfach nicht Verweltungs-, sondern Verweltungsrechtsstellen. Das wird aufhören und die bürokratischen Organe weiden dadurch aus ihrer bisherigen, etwas zweideutigen Lage herauskommen. Ein grosser Teil der heutigen Orgene der Lendesregierungen und der Stastsämter wird in die Verwaltungsgerichte übergiedeln, der Rest wird denn die Verwaltung im eigentlichen Sinne zu führen heben. Die Orgenisation der Verwaltungsrechtspflege in Preussen und des System der englischen Selbstregierung der Kommunen wird für unsere Zwecke mehr oder weniger
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            das Vorbild geben müssen. Alle diese Dinge sind noch im Fluss. Mit Ausnahme der Konstitutionsurkunde liegen Entwürfe nicht vor, und die erstere gibt nur einen Grundriss. Welche Gestalt die weiteren Gesetze annehmen werden, hängt ebenso sehr von der Arbeit der Stastsämter wie vom Perlemente sb. Jede vorzeitige Mitteilung an die Oeffehtlichkeit, insbesondere die Presse, wäre im Stande, einseitig zu beeinflussen und frühzeitig Gegnerschaften heraufzubeschwören. Es muss also mit der grössten Verschwiegenheit vorgegangen werden. Die stastliche Bürokratie hat ein Interesse deren, sich bei diesem Werke zu bewahren. und bei den Vorarbeiten gehört zu werden, damit ihre Argumente zur Geltung kommen. Das würde aber geradezu aufs Spiel gesetzt werden, wenn aus ihren Kreise irgend eine Agitation oder Propsgende. sich entwickeln würde. Die Landesregierengen würden dies sofort zu ihren Gunsten ausnützen. Erst wenn die Stestsämter untereinander einig sind, soll die Oeffentlichkeit dazu Stellung nehmen. Der Stestskanzler sppelliert am Schlüsse nochmals an die anwesenden Vertreter der Stastsämter, des beste zu leisten, ihre eigenen Erfahrungen und die Literatur zu Hilfe zu nehmen, dabei die Bestrebungen des Volkes mit Wohlwollen
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            zu betrachten, ohne die Notwendigkeiten eines geordneten Dienstes äusser Auge zu lassen. Bei allen Arbeiten ist die Pflicht der Amtsverschwiegenheit zu bewehren. Schliesslich bemerkt der Stostskanzler auf eine diesbezügliche Anfrege, man werde such den Versuch machen, an die Beamtenorganisstionen herenzutreten, dess sie mithelfen, dem Staste und dem Volke das zu geben, was ihnen gebührt. Der Staatskanzler glaube, dass in diesen Kreisen die Ueberzeugung überwiegt, die Bürokretie sei für das Volk de und dürfe nicht von dem Geiste beherrscht sein, durch das Amt alles zu beherrschen. Von vornherein sei dagegen aber auch auszuschliessen, dass die Organisationen irgend eine Aptshoheit auszuüben haben. In Bezug auf die Diensthoheit sind die Orgehisationen eben nur ein Teil des Ganzen. Der Stastskenzler hoffe, in dieser Bezieeinen ung mit entsprechenden Einfluss auf die Orgsnisstionen ausüben zu können. Nach dem Mitgeteilten, ist zunächst abzuwarten, bis die Stastsämter in den Besitz der deutschen Verfessungsurkunde gesetzt werden. Dann wird es voraussichtlich zu einer Zusammenkunft der Vertreter der Stastsämter in der Stastskanzlei kommen. Hiebei wird es
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            Bitte Herrn M. Rat Dermann um Bericht nach gute Sizung an Wett Aehbar, und auch
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>sich wohl ergeben, ob von den Staatsämtern ein schriftliches Gutachten zu erstatten sein wird oder ob ihre Wünsche und Anträge unmittelbar zur Kenntnis genommen werden. Für das IA. ist die Sache verhältnismässig einfach, zumal die Aufrechthaltung des gegenwärtigen Besitzstandes der Justiz anscheinend keinem Widerspruch der Länder begegnet. Eine innere Besprechung ist schon. abgehelten worden (I1Z. 19818/19) ihre Ergebnisse können von dem zu designierenden Vertreter des IA. für seine weiteren Aufgeben verwertet werden. die Steatskanzleih (staatsrechtlicher Dient) Der Staatssekretär für Justiz beehrt sich mitzuteilen, dass er als Vertreter des StA.f.J. für die Berstungen über die Scheidung der Zuständigkeiten der Bundes- und der Landesgewalt den Herrn Ministeriabat Dudolf Hermann bestellt hat, Wien, am /( Okt. 1919. W H. Magl Eermann
+            </p>
+         </div>
+      </body>
+   
+    </text>
+</TEI>
