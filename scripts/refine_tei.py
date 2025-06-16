@@ -226,6 +226,8 @@ def raise_div_element(section_div: ET._Element):
 def place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc):
     for pb in doc.any_xpath(f"//tei:div/tei:pb[preceding-sibling::*[1][local-name()='p']]"):
         p = pb.getprevious()
+        if p.tail is None:
+            p.tail = ""
         next_element = pb.getnext()
         if next_element is not None and next_element.xpath("local-name()='p'"):
             if next_element.tail:
@@ -239,7 +241,7 @@ def place_the_goddam_pb_inside_of_last_p_sibling_element_if_there_is_one(doc):
             p.append(pb)
             for childelement in next_element:
                 p.append(childelement)
-            if (next_element.text or next_element.tail) and (next_element.text.strip() or next_element.tail.strip()):
+            if (next_element.text and next_element.text.strip()) or (next_element.tail and next_element.tail.strip()):
                 print(ET.tostring(next_element))
                 raise ValueError
             else:
@@ -303,7 +305,7 @@ def make_article_divs(doc):
 def make_label(item: ET._Element):
     if item.text is None:
         return
-    match = re.match("^([ \[\]().0-9]+)(.*)", item.text)
+    match = re.match(r"^([ \[\]().0-9]+)(.*)", item.text)
     if match:
         label = teiMaker.label(
             match.group(1).strip()
@@ -316,7 +318,7 @@ def make_label(item: ET._Element):
 def make_p_label(p_element: ET._Element):
     if p_element.text is None:
         return
-    match = re.match("^([ \[\]().0-9]+)(.*)", p_element.text)
+    match = re.match(r"^([ \[\]().0-9]+)(.*)", p_element.text)
     if match:
         label_text = match.group(1).rstrip()
         label = teiMaker.label(
