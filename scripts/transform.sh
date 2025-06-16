@@ -1,4 +1,6 @@
 xsl_path="./page2tei/page2tei-0.xsl"
+pwd
+ls ./
 if [ ! -f  $xsl_path ]; then echo "xsl script $xsl_path not found!" & exit 1; fi
 for file in ./mets/*/*_mets.xml
   do
