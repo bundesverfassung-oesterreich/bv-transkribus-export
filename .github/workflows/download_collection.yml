@@ -15,8 +15,10 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v3
-    - name: Install Saxon and Ant
-      run: |
+    - name: Update page2tei
+      run: git submodule update
+    - name: manage folders
+      run:
         EDITIONSPATH="./editions_source"
         METSPATH="./mets"
         LOGPATH="./logs/malformed_files.csv"
@@ -25,11 +27,12 @@ jobs:
         if [ -f "$LOGPATH" ]; then rm -r "$LOGPATH"; fi
         mkdir -p "$METSPATH"
         mkdir -p "$EDITIONSPATH"
+    - name: Install Saxon and Ant
+      run: |
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
         python -m pip config set global.break-system-packages true
         pip install -r requirements.txt
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip -o download -d saxon && rm -rf download
-        git submodule update
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
