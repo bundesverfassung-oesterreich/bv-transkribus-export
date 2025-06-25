@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__96">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CS Entwurf I Textvariante</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9199218</idno>
+                <idno type="transkribus_collection">196429</idno>
+                <idno type="bv_data_set">Datenset C</idno>
+                <idno type="goobi">18760</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
+                            <title>CS Entwurf I Textvariante</title>
+                            <note type="editor">CS Entwurf I Textvariante (Titel des Dokuments: "Bundesverfassung des deutschen Freistaates Österreich"), Typ: Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG: Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere textliche Abweichungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">Vor dem 14. Mai 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">
+                    Vor dem 14. Mai 1919
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-06-25" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0118/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0119/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0120/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0121/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0122/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0123/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0124/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0125/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0126/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0127/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0128/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0129/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0130/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0131/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0132/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0133/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__96/files/images/IMG_0134/full/full/0/default.jpg" width="3840px" height="5120px"/>
+      </surface>
+   </facsimile>
+   
+    <text type="Verfassungsentwurf">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+         </div>
+      </body>
+   
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Protokoll der 22. Sitzung des Verfassungsausschusses</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Österreichische Bundesverfassung: Datenset B</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+            <title type="main">Protokoll der 22. Sitzung des Verfassungsausschusses</title>
+               <idno type="Transkribus">9217598</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="FILE_0001_DEFAULT.jpeg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="FILE_0002_DEFAULT.jpeg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="FILE_0003_DEFAULT.jpeg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="FILE_0004_DEFAULT.jpeg" width="3840px" height="5120px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="FILE_0005_DEFAULT.jpeg" width="3840px" height="5120px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+         </div>
+      </body>
+   </text>
+</TEI>
