@@ -524,9 +524,14 @@ def remove_useless_elements(doc: TeiReader):
     #remove_paras_with_only_list(doc)
     remove_lbs_as_first_child_of_p_without_text(doc)
 
-
+def get_graphic_elements(doc: TeiReader):
+    # delete irrelevant graphic elements
+    for graph_el in doc.any_xpath(".//tei:graphic[not(contains(@url, '/'))]"):
+        graph_el.getparent().remove(graph_el)
+    return doc.any_xpath(".//tei:graphic")
+    # No code needed here; the namespace is already handled correctly in the get_graphic_elements function.
 def get_faksimile_element(doc: TeiReader, bv_doc_id:str):
-    graphic_elements = doc.any_xpath(".//tei:graphic")
+    graphic_elements = get_graphic_elements(doc)
     replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id)
     #for graphic_element in graphic_elements:
     #    graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
