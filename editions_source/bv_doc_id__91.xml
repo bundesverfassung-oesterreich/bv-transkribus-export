@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__91">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 26. Sitzung des Verfassungsausschusses</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217648</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">18745</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">Parlamentsarchiv, Ausschussprotokolle</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                            <title>Protokoll der 26. Sitzung des Verfassungsausschusses</title>
+                            <note type="editor">Protokoll der 26. Sitzung des Verfassungsausschusses vom 27. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-09-27" notAfter-iso="1920-09-27">27. September 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-09-27" notAfter-iso="1920-09-27">
+                    27. September 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-11" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0253/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0255/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0256/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0257/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0258/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0259/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__91/files/images/IMG_0260/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p> 26. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            Konstituierende Nationalversammlung der Republik Österreich.Verfasungs-Ausschuss Protokoll Über die Sitzung am 27. September 1920Anwesende:Seitens der Regierung: Staatsamt für Finanzen[?]: Oberfinanzrat[?] Dr. Ofudler[?], Staatsamt für Inneres u. Unterricht[?]: …staatsrat Dr.[?] Prüges[?] [?], Staatsamt für Handel etc.[?], Ministerialrat[?] Dr[?] Soforg[?][?], Sektionsrat[?] Dr. Friedrich[?], Staatskanzlei: Ministerialrat Dr. Fröhlich, Sektionsrat[?] Dr. Kaulukei[?], Experte[?]: Professor Dr. Kelsen[?]Obmann: Dr. Otto BauerObmann-Stellvertreter: Prof. SeipelSchriftführer: Adese[?] Papp[?]Mitglieder: Eidersch, Gürtler[?], Seipel[?], Rirges[?], Danneberg, Fink, [?], Leutner, Papp[?], Schirgel[?], Weishiefues[?], Dr.[?] Weber, Kunakok[?] .
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            Staatsamt für Finanzen:Oberfinanzrat[?] D. Theundler[?]Staatsamt für Inenres u. Unterricht:Ministerialrat D. Tringer[?]Staatsamt für Handel etc.Ministerialrat D Tokony[?]Sektionsrat D FriedrichStaatskanzleiMinisterialrat D FroehlichSektionsrat D MannlicherExperte:Professor D Kelsen. 2 <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            Protokoll vom 27/9 1920Beginn 11 ¼ VormittagVertreter der Staatskanzlei Hofrat Fröhlich regt an einen Beschluß der vorigen Sitzung über die Zusammentretung der Kurien aufzuheben. BeschlossenZweck[?] Sitzung[?] des Übergangsgesetzes[?].Artikel 3 Abs. II regt Staatsrat Fröhlich an anstatt des festen[?] Turnus[?] von[?] 3 Jahren zu sagen: „Von dem Zeitpunkt an …“ BeschlossenProfessor Kelsen[?] schlägt vor anstatt „welche“ „die“ zu sagenBeschlossen nach Aufnahme durch die BerichterstatterAbs. 5 Abg. Fink wünscht[?] aufmerksam[?] gemacht[?] zu werden, wenn bei A einem[?] Artikel Aenderungen gegen den letzten …[?] sind[?]. Der Obmann[?] beantwortet dass[?] die Aenderungen bei Artikel 4 schon[?] in letzter Sitzung beschlossen wurden. Hofrat Fröhlich wird gebeten, im [?] Sinne[?] Fink zu handeln[?].Artikel 6 [?] [?]Artikel 7 Aenderung[?] auf den Worten: „der [?]“Artikel 8 und 9: Fassung Ebena[?] Artikel 10Artikel 11. Staatskanzlei „[?] schlägt[?] …[?] Unterrichtsamt[?] neue Fassung vor[?]Artikel 13 Aenderung des II. Satzes.Artikel 16  [?] [?] vom Staatsamt  für Handel[?], [?] für[?] neue Fassung [?]. Ist nicht der Fall.Artikel 10 Schluß[?] des II Absatzes wird gestrichenArtikel 21 Antrag Wenkerfues[?] Wien mit dem Vorsitze zu betrauen wird angenommen.Über Vorschlag Kelsen[?] wird beschlossen, statt „Zusammentritt“ zu <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            sagen: Bundesrat versammelt[?] sich“.22 stilistische Aenderung23 stilistisch24 wird beschlossen „ist am 28[.] Tage [nach] der ersten Sitzung“26 [?] nach Beschluß[?] des …[?]29. Das Wort „Landtag“ wird gestrichen30 statt „welche“ „die“31 im[?] Antrag Guertler beschlossen32 im Sinne des Ausschußes[?] gründet[?] Antrag Fink [?] Bestimmungen über Bezüge des Volksbeauftragten[?]33 wird zurückgestellt34 Aenderung: In Wien die dort bestehenden Bezirksvertretungen oder AusschüsseAbsatz 3: Aenderungen nach AuschußbeschlussAbsatz 4: Sprengel statt BereichFestsetzung über Beginn der 4 MonateBG …[?] zurückgestellt41 neu: Sobald die am 17 Oktober gewählte Nationalver. einberufen istSitzung wird um 12 ½ einberufen[?] und um 2 1/4[?] wird aufgenommen[?]Bindung[?] über Artikel 42 die Artikel 10 bis 13 und 15 werden an dem Tag wirksam …[?] ersten Absatz BeschlossenAbsatz 3 einige Werte[?] gestrichen[?] 4-5 wird gestrichenDr. Bauer regt neuen Satz an:Abg. Kunschak[?] sagt an über Wortlaut Artikel 9x[?] betreffend Landesregierung[?] und Bürgermeister[?]. Neue Formulierung <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            Neues[?] beschlossenArtikel 91 Abs. 3 gilt für Wien nicht36 Abs. 2 neue Fassung beschlossenArtikel 38[?] wird geändert.Dr Danneberg regt an das ganze Gesetz als Verfassungsgesetz zu erklären! Wird beschlossenProf. Seipel erbittet Ergänzung, dass II Absatz bei 151[?] auszufallen hat. Beschlossen…[?] Ergänzung[?] beschlossen.Bauer ObmannAdreser[?] SappSchriftführerin[?] <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            Präsenzliste des Verfassungs[-]Ausschusses vom 27. September 1920SeipelPapp [?][?]Rieger[?]DannebergWir[?]FinkSchlrigl[?]Schlesinger [?][?]Leutner[?]Papp[?] </p>
+            
+            
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

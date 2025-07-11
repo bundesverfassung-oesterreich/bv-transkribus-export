@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__90">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 25. Sitzung des Verfassungsausschusses</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217647</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">18742</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">Parlamentsarchiv, Ausschussprotokolle</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                            <title>Protokoll der 25. Sitzung des Verfassungsausschusses</title>
+                            <note type="editor">Protokoll der 25. Sitzung des Verfassungsausschusses vom 25. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-09-25" notAfter-iso="1920-09-25">25. September 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-09-25" notAfter-iso="1920-09-25">
+                    25. September 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-11" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0225/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0227/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0228/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0229/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0230/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0231/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0232/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0233/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0234/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0235/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0236/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0237/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0238/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0239/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0240/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0241/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0242/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0243/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_19">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0244/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_20">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0245/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_21">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0246/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_22">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0247/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_23">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0248/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_24">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0249/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_25">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0250/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_26">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0251/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_27">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__90/files/images/IMG_0252/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>. 25. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            
+            </p>
+            
+            <p>Konstituierende Nationalversammlung der Republik Österreich. Verfassungs-Ausschuss Protokoll über die Sitzung am 25. September 1920 /:nachm. 3h:/Anwesende: Seitens der Regierung: Obmann: BauerObmann Stellvertreter: Schriftführer: Mitglieder: <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            25.9.1920 Sitzung des Verfassungsausschusses.Bundesverfassungsgesetz.Mit Mehrheitsbeschluß Einleitung Art. 10 angenommen.al. 1, 2 beschlossen. 2a mit Anfügung des Wortes „Fremdenpolizei“ in art. 11 einzufügen beschlossen.3, 4, 5 statt Justizwesen „Justizpflege“, 6a, 7, 8[,] [eingefügt: Beschlossen In al. [?]] 9 „Ausführung des“ gestrichen[,] „die“ in 3. letzter Zeile gestrichen. Vor „Dampfkessel“ einzuschalten ein Zusatzantrag Dr. Seipel über Elektrizitätswesen. Beschlossen.al. 10 gestrichen: In Art 12 als Punkt 5a eingestellt.Hinzufügung eines al. 2 in Art. 12 u.[?] al. 3 in Art. 84. Beschlossen.al. 11 die Einfügung „soweit es sich nicht um land- und forstw. Arbeiter u.[?] Angestellte handelt“ abgelehnt. Wird als Minoritätsvotum Fink und Gen. angemeldet.al. 12 in der Fassung Dr. Seipels beschlossen.Art. 11 P. 7, Art 12 P. 2 in Seipels Fassung beschlossen.al. 13 Danneberg gibt eine Erklärung namens der sozialdem. Partei ab betreffend das Schulwesen.Antrag auf Einschaltung eines diesbezüglichen Art. 12b.Seipel gibt namens der christl. soz. eine Erklärung ab, in der er unter Vorbehalten der Anregung Danneberg zustimmt. Clessin gibt namens der Großdeutschen die Erklärung ab, die die Beibehaltung des Schul- und Erziehungswesen im al. 13 verlangt.Als Artikel 12, b wurde der modifizierte Antrag Danneberg beschlossen.al. 13 beginnt: „Wissenschaftl. fachtechnischen Archivs und Bibliotheksdienst“ u.s.w. Beschlossen.13a beschlossen. 14 Kriegsgräberweisen gestrichen. Beschlossen.15 beschlossen. Art. 111. christl. soz. Minderheitsantrag abgelehnt. Bleibt für das Haus.2, 3 beschlossen. 4 beschlossen. 5 beschlossen8 beschlossenPunkt 1 u.[?] 2 umgestellt.Art. 121, 2, 3, 4 beschlossen. 5. christl. soz. Minoritätsvotum.5a, 6, 6a beschlossen. 7. Christl. soz. Antrag auf Streichung abgelehnt. 8 beschlossen.Art. 13 Antrag Seipel auf Reassumierung.Antrag Danneberg auf Streichung der Worte: „zur Ermöglichung“ bis „Absatz 2“ beschlossen. <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            Minoritätsvotum der Christlichsozialen [eingefügt: im Unterausschuss]. Antrag Danneberg auf Veränderung des ersten Satzes. Beschlossen. 2. Satz beschlossen.Minoritätsvotum Fink u.[?] Gen. angemeldet.Titel u.[?] Eingang beschlossen.Gesetz betreffend den Übergang zur bundesstaatl. Verfassung§ 1 4. Zeile statt welcher[?] „die“. „Bundes-Verfassungsgesetz“ §2 al. 2 gestrichen. § 3 al. 3 gestrichen. al. 1[?] beschlossen. al. 2 Seipels Antrag auf bewegliche Frist von 3 Jahren. Im Prinzip beschlossen.§ 4 al, Antrag Austerlitz auf stilistische Änderung beschlossen. al. 2 beschlossen. al. 3 gestrichen.§ 4a § 5 ... § 6 ... § 7 ... § 8 ... § 9 ... § 8a ... § 10 ... § 11 ... § 12 ... 1 2 3 <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/> § 12 ... § 13 ... § 14, 15 ... § 16 ... § 16a ... § 17 ... § 18, 1, 2... § 18, 3, 4... § 19, 1... § 20, 21... § 22... § 23... § 24... § 25... § 26.. § 27... § 28... § 29.. § 30.. Z 1 Z 2 Z3 § 31 1.
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            3. ... 4. 5 ......... 6. "..." gestrichen, hat zu erfolgen statt "wird erfolgen". "ein" statt "zwei" § 32 angenommen § 33 angenommen § 34 angenommen § 34a, § 35 angenommen § 36 angenommen § 37 einbehalten[?] § 38 einbehalten[?] .... mit Staatsregierung Bestimmungen über Wien und H. O. einbehalten Schluß der Sitzung 7h Bauer Gürtler Schriftführer
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            Präsenzliste der Sitzung des Verfassungs-Ausschusses vom 25. September 1920 /:nachm. 3 h:/ [Unterschrift unleserlich][Unterschrift unleserlich] Seipel [Unterschrift unleserlich][Unterschrift unleserlich] Wagner Clessin Popp Schiegl Austerlitz Regierungsvertreter:Min.Rat D. Franklin[?] Sekt.[?] Rat D. Mannlicher     St.K.M.V. Sk.[?] D. Merkl <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            Artikel 10, Punkt 12. Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens, hinsichtlich der Heil-und Pflegeanstelten, des Kurortewesens und der Heilquellen, jedoch nur die sanitäre Aufsicht. Ernährungswesen einschliesslich der Nahrungsmittelkontrolle. Artikel 11, Punkt 7 Volkswohnungswesen. Artikel 12, Punkt 7. Volkspflegestättenwesen, Mutterschafts-, Säuglings- und Jugendfürsorge, Heil- und Pflegeanstalten, Kurortewesen, Heilquellen. Artikel 12 b. Auf dem Gebiete des Schul- und Erziehungswesens wird der Wirkungsbereich des Bundes und der Länder durch ein besonderes Bundes-Verfassungsgesetz geregelt. <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            Bisheriger 2. Absatz als Absatz 1, bisheriger Absatz 1 als Absatz 3 in folgender Fassung: Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt die Staatsregierung als erste Bundesregierung die nach dem Bundes-Verfassungsgesetz der Bundesregierung obliegenden Geschäfte. <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            Beilage 6 § 13. Personen, die österreichische Staatsbürger sind, ohne in einer ... zu sein (2) Staatsbürger, die in keiner Gemeinde der Republik heimatberechtigt sind, werden Bundesbürger. In welcher Gemeinde sie das Heimatrecht und damit die Voraussetzung für eine Landesbürgerschaft erlangen, wird durch Bundesgesetz geregelt; bezüglich der Personen, die auf Grund des Staatsvertrages von St. Germain durch Option oder die auf Grund einer bloßen Erklärung gemäß § 2 des Gesetzes vom 5. Dezember 1918, StGB1. Nr. 91 über das Staatsbürgerrecht, die Staatsbürgerschaft ohne Erlangung eines Heimatrechtes erworben haben, steht auch die Vollziehung dem Bunde zu. <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            (2) Alles übrige staatliche Vermögen ist Vermögen des Bundes; die Auseinandersetzung über dasjenige Vermögen, das ausschließlich dem ständigen Dienstbetrieb einer Behörde dient, die nach den Bestimmungen des Bundes-Verfassungsgesetzes über die Organisation der Verwaltung in den Ländern nicht Bandesbehörde bleibt, wird im Zugemenhang mit dem eben erwähnten Bundes-Verfasaungegesetze geregelt. (Absatz 3 entfällt.) V die endgültige Auseinandersetzung über das staatliche Vermögen wird ein Bundes-Verfasungsgesetz Landes...  auseinandersetzung zwischen dem Bund u. den Ländern geregelt. <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            § 8. (1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1 Bundesbehörden werden, werden Angestellte des Bundes. (2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen Behörden wird im Zusammenhang mit dem Bundes-Verfassungsgesetz über die Organisation der Verwaltung in den Ländern geregelt. (3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher Körperschaften sind Angestellte dieser Körperschaften. <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            § 7.(1) Die staatlichen Behörden mit Ausnahme jener der allgemeinen politischen Verwaltung in den Ländern (Landesregierungen, Bezirkshauptmannschaften) einschließlich der bei diesen Behörden vereinigten besonderen Dienstzweige (bau- und forsttechnischer Dienst, Gesundheitsdienst, Veterinärdienst, Archivs- und Bibliotheksdienst, Rechnungsdienst) und der Agrarbehörden erster und zweiter Instanz werden Behörden des Bundes.(2) Die Stellung der im ersten Absatz ausgenommenen staatlichen Behörden wird durch das Bundesverfassungsgesetz über die Organisation der Verwaltung in den Ländern (Art. 12, P.1 und Art. 97 f, Abs. 1 des Bundes-Verfassungsgesetzes geregelt.(3) Die Behörden und Aemter der bisherigen autonomen Verwaltung in den Ländern (Landesämter, Bezirksausschüsse, Gemeinden) werden Behörden (Aemter) des Landes im Sinne des Bundes-Verfassungsgesetzes.(4) Die staatlichen Anstalten gehen an den Bund über, die Landesanstalten sind Anstalten der Länder; die Anstalten der Bezirke, Gemeinden und sonstigen öffentlich-rechtlichen Körperschaften sind Anstalten dieser Körperschaften. <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            § 6. (1) Die gesetzlich den bisherigen Organen des Staates und der Länder übertragenen Befugnisse gehen auf die mit einem gleichartigen Wirkungskreis betrauten Organe des Bundes und der Länder über, soweit nicht die Zuständigkeit dieser Organe durch das Bundesverfassungsgesetz anders geregelt sind. Demnach treten… <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>Art. 9 (?) Die Massnhamen allgemeinen technischen[?] für die technisch zweckmässige Nutzbarmachung der Wasserkräfte, ausschließlich der landwirtschaftlichen und kleingewerblichen Triebwerke, die Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, ferner Sicherheitsvorkehrungen auf diesem Gebiete, sowie das Starkstromlegerecht einschliesslich der Begründung von Zwangsbenützungsrechten und Enteignungen. Auf dem Gebiete der Verwertung elektrischer Energie alle Anlagen für Kraftwerke, die den Interessenkreis mehrerer auch fremder Länder umfassen, dann für Kraftwerke an übertretenden und Grenzgewässern des Bundes und insbesondere auch alle Anlagen für Bahnkraftwerke Kraftwerke der Bundesbahnen Kraftwerke des Bundes <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            § 8.(1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1 Bundesbehörden werden, werden Angestellte des Bundes.(2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen Behörden wird im Zusammenhang mit dem Bundes-Verfassungsgesetz über die Organisation der Verwaltung in den Ländern geregelt.(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher Körperschaften sind Angestellte dieser Körperschaften. <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            ? Art. 10. Punkt 12: "Gesundheitswesen mit Ausnahme des LEichen- und BEstattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens: hinsichtlich der Heil- und Pflegeanstalten. Amputationen und des Kur...wesens u. der Heilquellen, jedoch nur die sanitäre Aufsicht. Bevölkerungspolitik und Nahrungsmittelkontrolle. Art. 12. Punkt 7: ............... Mutterschafts- Säuglings- und Jugendfürsorge. Heil- und Pflegeanstalteb. ... Kurortwesen, Heilquellen, LEichen- und Rettungswesen. Heilquellen. [] Art. 12: Art. 11: Volkswohnungswesen <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            Artikel 10, Punkt 12.Gesundheitswesen mit Ausnahme des Leichen- und Bestattungswesens sowie des Gemeindesanitätsdienstes und Rettungswesens; hinsichtlich der Heil- und Pflegeanstalten, des Kurortewesens und der Heilquellen. Jedoch nur die sanitäre Aufsicht. Ernährungswesen einschliesslich der Nahrungsmittelkontrolle.Artikel 11, Punkt 7. Volkswohnungswesen.Artikel 12, Punkt 7.Volkspflegestättenwesen, Mutterschafts-. Säuglings- und Jugendfürsorge, Heil- und Pflegeanstalten, Kurortewesen, Heilquellen.Artikel 12 b.Auf dem Gebiete des Schul- und Erziehungswesens wird der Wirkungsbereich des Bundes und der Länder durch ein besonderes Bundes-Verfassungsgesetz geregelt. <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            Artikel 10, Punkt 9. Allgemeine technische Maßnahmen für die zweckmäßige Nutzbarmachung der Wasserkräfte, ausschliesslich der landwirtschaftlichen und kleingewerblichen Triebwerke, Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, ferner Sicherheitsvorkehrungenmaßnahmen auf diesem Gebiete, sowie das Starkstromwegerecht, soweit sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt. Aus Artikel 11 ist Elektrizitätswesen zu streichen und im Artikel 12 heisst es: Punkt 6a Elektrizitätswesen und Wasserrecht, soweit sie nicht unter Artikel 10 fallen. <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            Artikel 10, Punkt 9. Allgemeine technische Maßnahmen für die Nutzbarmachung der Wasserkräfte, ausschließlich der landwirtschaftlichen und kleingewerblichen Triebwerke, Normalisierung und Typisierung elektrischer Anlagen und Einrichtungen, ferner Sicherheitsvorkehrungen auf diesem Gebiete, sowie das Starkstromwegerecht, soweit sich die Leitungsanlage auf zwei oder mehrere Länder erstreckt. Aus Artikel 11 ist Elektrizitätswesen zu streichen und im Artikel 12 heisst es : Punkt 6a Elektrizitätswesen und Wasserrecht, soweit sie nicht unter Artikel 10 fallen.
+            <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
+            § 24. Bisheriger 2. Absatz als Absatz 1, bisheriger Absatz 3 in folgender Fassung: Bis zur Wahl einer Bundesregierung gemäß Artikel 60 führt die Staatsregierung als erste Bundesregierung die nach dem Bundes-Verfassungsgesetz der Bundesregierung obliegenden Geschäfte. <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+            § 13.(2) StaatsbürgerPersonen, die in keiner Gemeinde der Republik heimatberechtigt sind, werden Bundesbürger. In welcher Gemeinde sie das Heimatrecht und damit die Voraussetzung für eine Landesbürgerschaft erlangen, wird durch Bundesgesetz geregelt; bezüglich der Personen, die auf Grund des Staatsvertrages von St. Germain durch Option oder die auf Grund einer bloßen Erklärung gemäß § 2 des Gesetzes vom 5. Dezember 1918, StGB1. Nr. 91 über das Staatsbürgerrecht, die Staatsbürgerschaft ohne Erlangung eines Heimatrechtes erworben haben, steht auch die Vollziehung dem Bunde zu. <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+            (1) Die gesetzlich den bisherigen Organen des Staates und der Länder übertragenen Befugnisse gehen auf die mit einem gleichartigen Wirkungskreis betrauten Organe des Bundes und der Länder über, soweit nicht die Zuständigkeiten dieser Organe durch das Bundes-Verfassungsgesetz anders geregelt sind. Demnach treten ...
+            <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+            § 7.(1) Die staatlichen Behörden mit Ausnahme jener der allgemeinen politischen Verwaltung in den Ländern (Landesregierungen, Bezirkshauptmannschaften) einschließlich der bei diesen Behörden vereinigten besonderen Dienstzweige (bau- und forsttechnischer Dienst, Gesundheitsdienst, Veterinärdienst, Archivs- und Bibliotheksdienst, Rechnungsdienst) und der Agrarbehörden erster und zweiter Instanz werden Behörden des Bundes.(2) Die Stellung der im ersten Absatz ausgenommenen staatlichen Behörden wird durch das Bundesverfassungsgesetz über die Organisation der Verwaltung in den Ländern (Art. 12, P.1 und Art. 97 f, Abs. 1 des Bundes-Verfassungsgesetzes geregelt.(3) Die Behörden und Aemter der bisherigen autonomen Verwaltung in den der Ländern (Landesämter, Bezirksausschüsse, Gemeinden) werden Behörden (Aemter) des Landes im Sinne des Bundes-Verfassungsgesetzes.(4) Die staatlichen Anstalten gehen an den Bund über, die Landesanstalten sind Anstalten der Länder; die Anstalten der Bezirke, Gemeinden und sonstigen öffentlich-rechtlichen Körperschaften sind Anstalten dieser Körperschaften. <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+             8.(1) Die Angestellten der staatlichen Behörden, die nach § 7, Abs. 1 Bundesbehörden werden, werden Angestellte des Bundes.(2) Die Stellung der Angestellten der in § 7, Abs. 1 angenommenen staatlichen Behörden wird im Zusammenhang mit dem Bundes-Verfassungsgesetz über die Organisation der Verwaltung in den Ländern geregelt.(3) Die bei staatlichen Anstalten angestellten Personen werden Angestellte des Bundes, die Angestellten bei Landesanstalten Angestellte der Länder, die Angestellten bei Anstalten der Bezirke, Gemeinden und sonstiger öffentlicher Körperschaften sind Angestellte dieser Körperschaften. <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
+            Anträge des Prof. Seipel zu Art. 158 des Entwurfes.(Anregung 1.St.K.) Abs. (1) „Ausser diesem Gesetze haben im Sinne des Artikels 3, Abs. 1, unter Berücksichtigung der durch dieses Gesetz bedingten Aenderungen als Verfassungsgesetze zu gelten: Neuer Abs. (4) Die sonstigen bisherigen Verfassungsgesetze und Verfassungsbestimmungen der Republik bleiben, soweit sie zu diesem Gesetze nicht in Widerspruch stehen, als einfache Bundesgesetze in Geltung.Als letztes Gesetz im Abs. 1 ist einzuschalten: „Das Gesetz vom 8. Mai 1919, St. G. Bl. Nr. 257, über das Staatswappen und das Staatssiegel der Republik Deutschösterreich mit den durch die Artikel 2,5 und 6 des Gesetzes vom 21. Oktober 1919, St. G. Bl. Nr. 484, bewirkte Aenderungen. <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+            Der Verfassungsbeschluß hält morgen Samstag, den 25. d. M., um 3 Uhr nachmittags im Lokal I Sitzung. Wien, am 24. September 1920.Dr. Bauer, Obmann. </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

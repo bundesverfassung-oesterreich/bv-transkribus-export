@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__89">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 24. Sitzung des Verfassungsausschusses</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217646</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">18739</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">Parlamentsarchiv, Ausschussprotokolle</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                            <title>Protokoll der 24. Sitzung des Verfassungsausschusses</title>
+                            <note type="editor">Protokoll der 24. Sitzung des Verfassungsausschusses vom 24. September 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-09-24" notAfter-iso="1920-09-24">24. September 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-09-24" notAfter-iso="1920-09-24">
+                    24. September 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-11" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0211/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0212/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0213/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0214/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0215/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0216/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0217/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0218/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0219/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0220/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0221/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0222/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0223/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__89/files/images/IMG_0224/full/full/0/default.jpg" width="3840px" height="5120px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>24. Sitz. <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+             24. Sitzung des Verfassungs-Ausschusses Protokoll über die Sitzung am 24. September 1920 /: vorm. 10h:/  Anwesende: Seitens der Regierung: Staatssekretär Dr. Mayr, Sektionsrat Dr Mannlicher, Professor Dr. Kelsen, der Staatskanzlei. Staatsamt für Heerwesen, Sekt. Chef Dr. Kratowsky[?], Min.Rat Paul Staastamt für Justiz: Min.Rat Dr. Kadecka, Sekt.Rat Dr. Hesse, Min.Sek. Suchomel[?], Unterrichtsamt Min. Rat D[r.] Ruger[?] u. von der Staatskanzlei noch M. V. S. Dr. Merkl. Obmann: D[r.] Bauer Obmann-Stellvertreter: D[.] Seipel Schriftführer: D[r.] Aigner[?] Mitglieder: laut Präsenzenzliste (Beilage1.) Österr. Staatsdruckerei - 535420 <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            Gegen 11 Uhr 30 Minuten v.m. Abg. Cles[s]in beantragt vor [...]gung[?] in die Behandlung der "Verfassungsreform" den Antrag Dr. Drughofer[?] u. Genossen[?] betrffd. die Durchführung einer Volksabtstimmung über den Anschluss an Deutschland in Verhandlung zu ziehen. Wird mit Rücksicht auf die Erklärungen des H. Praesidenten Seitz im heutigen Hauptausschuß (Vorstellungen Kärntens) mit den Stimmen der Christlichsozialen u. sozialdemokatischen Vertreter gegen die Stimmen der Großdeutschen Mitglieder des Ausschusses abgelehnt. Es wird sodann in die Tagsordnung eingegangen u. erstattet Abg. Dr. Seipel als Referent des Unterauschusses den Bericht über den Entwurf eines Gesetzes, womit die Republik Oesterreich als Bundestaat eingerichtet wird (BundesVerfassungsgesetz) Fassung nach dem Stande der Beratungen am 15. September 1920. Abg. Seipel beantragt das Eingehen in die Spezialdebatte, nachdem sich zur Generaldebatte niemand zu Worte meldet. Angenommen. Es wird in die Spezialdebatte eingegangen.  Artikel 1 wird beschlossen. Zum Artikel 2 sprechen Abg. D[r.] Danneberg, Abg.  D[r.] Schönbauer Abs. 1u. 2 des Art. 2 werden einstimmig[,] Abs. 3 des Art. 2 mit allen gegen die Stimme D[r.] Schönbauer beschlossen. Artikel 3 wird beschlossen. Zum Art. 3a sprechen die Abg. Austerlitz, Fink Abg. Austerlitz beantragt in Abs. 2 ds. Art. <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/> = identisch mit vorherigem Blatt <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            3a das Wort "keinerlei" zu streichen,vor[?] "errichtet"[?] das Wort "nicht" zu setzen u.  die Worte "der Gesetze" zu streichen. Abs. 1 u. Abs. 2 nach Fassung Austerlitz beschlossen. Art. 3b beschlossen Art. 4 beschlossen Art. 4a u. 6 beschlossen. Als Überschrift für die Artikel 1-6 wird beschlossen, "A. Staatsform, Bundesgebiet, C Bundesvolk [gestrichen]" "Eingefügt: Allgemeine Bestimmungen" Untertitel „Verteilung der Zuständigkeit" wird beschlossen. Art. 6a wird beschlossen die Beratung über Artikel 10-12 wird wegen des noch anstehenden Ratsverhandlungen[?] über gewisse Materien dieser Artikel vorläufig verschoben. Über formalen Antrag Dr Weißkirchner wird die Sitzung um 12 Uhr 30 Minuten unterbrochen. Die Sitzung wird um 2[?] Uhr 15 Minuten nachm, wieder aufgenommen. Abg. Dr Seipel berichtet zunächst über den Minoritätsantrag Fink u. Genossen zu Artikel 3 (siehe Blg. 3.) Dieser Minoritätsantrag wird abgelehnt. <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            Abg. Danneberg berichtet über den Minoritätsantrag der Sozialdemokraten zu Artikel 3. Dieser Minoritätsantrag Danneberg und Genossen wird abgelehnt (siehe Artikel 4 der Blge 9[?]). Abg. Seipel berichtet über Artikel 12a. Artikel 12a ist beschlossen. Artikel 13 beschlossen. Artikel 13a beschlossen. Atikel 14 beschlossen. Die Beratung über Artikel 14a wird aufgeschoben Überschrift „Organe" bleibt aus. Artikel 14b, 14c, 14d werden beschlossen. Artikel 14f u. 14g sind beschlossen. Die Matrie der Artikel 14e u. 14 ee wird an späterer Stelle verhandelt. Überschrift beschlossen. Artikel 15, 16, 19 sind beschlossen zu Artikel 20. beantragt Abg. Danneberg es sei in zweiter Zeile des Abs. 1 das Wort "vier" durch "zwei" zu ersetzen. abgelehnt. Artikel 20a, 22, 23, 24, 25, Überschrift "Bundesrat" werden beschlossen. Abg. Daneberg stellt zu Artikel 26, Abs. 1 den Antrag, die Worte "gemäß den folgenden Bestimmungen" zu streichen u. den Satz hinzuzufügen: ["]auf die Bürger <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            zahl des kleinsten Landes fällt je ein Vertreter.["] ferner den Abs 3 zu streichen. gefallen Artikel 26 in der Fassung des At. A.[?] beschlossen. Artikel 27 u 28, Überschrift "Bundesversammlung "Artikel 29a, 29b beschlossen,  Überschrift "Der Weg der Bundesgesetzgebung", Artikel 30, 31, 32, 33, 34, 37, 40, 41, 42 Überschrift "Mitwirkung des Nationalrates u. des Bundesrates an der Vollziehung des Bundes", Artikel 42a, 42b, 42bb, 42bbb, 42c, 42d, Überschrift, "Alle[?] der Mitglieder des Nationalrats u. des Bundesrates", Artikel 43, 44, 45 Überschrift, 46, 47, 48, Überschriften wer[Artikel: gestrichen] den beschlossen Abg. Danneberg spricht zu Artikel 49, Artikel 49-57 werden beschlossen Überschrift "Bundesregierung" beschlossen. Artikel 58-66 werden beschlossen. Überschrift "Bundesheer" sowie Artikel 69-71 werden beschlossen. Überschrift "Gerichtsbarkeit" sowie <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            Artikel 72-84 werden beschlossen.  Min. Sek. Dr. Suchomel[?] schlägt vor, in Artikel 76, Art. 1, Zeile 2 die Worte "oder in dem Gerichts[?]verfassungsgesetze" als überflüssig zu streichen[?] Abg. Dr Seipel nimmt diesen Vorschlag als Antrag auf. angenommen. Überschríft samt Untertitel des nächsten III. Hauptstückes werden beschlossen. Artikel 85-91 sind beschlossen. Artikel 92 wird beschlossen, wobei die endgültige Rechung der taxativen Aufzählung in Absatz 2 des Aktes 2 [ergänzt: dem Berichterstatter] noch vorbehalten bleibt. Artikel 92a, 92b, 93, 94 u. 97 werden beschlossen. Überschrift des nächsten "V. Hauptstückes" samt Untertitel werden beschlossen. Artikel 97/I bis Artikel 97/III werden beschlossen. Überschrift C: "Gemeinden" wird beschlossen Artiktel 97a-97f werden beschlossen Art. 97.e Abs 2. Zeile 10 "doch - gemacht werden" jedoch mit Majorität d. h. gegen die Stimmen der Sozialdem. Vertreter. </p>
+            
+            
+            
+            
+            
+            
+            
+            <p> Aabites die P n De Dats der benbi Auten Aurdenn Wentakennd Abvonkittee Krfatitt Ae Frle 6e Satfelle g Aebtel 9 Abrgelite d Alettel o tt Attet Ae r <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            Abg. Fink stellt zu Artikel Zi[?], Abs. 4, den An-  trag, daß für die zweite Abstimmung des Nationalats die Zweidrittelmajorität notwendig [...][?] u. der Eventualantrag für den Fall der Ablehnung des ersten Antrag "daß für die zweite Abstimmung des Nationalrates die Anwesenheit der Hälfte der Nationalratmitglieder notwendig sei.  [...][?] Antrag des Abg. D[r.] Seipel wird die Abstimmung über Artikel. z1[?]. Abs. 4, ressümiert Eventualantrag Fink beschlossen Überschrift u. Untertitel des nächsten V.[?] Hauptstückes werden beschlossen Abg. Fink beantragt, daß Artikel 103a entfalle. gefallen. Artikel 98-107 sind beschlossen. Überschrift des VI. Hauptstückes samt Untertitel wird beschlossen. Es wird nochmals die Debatte über frühere, bereits behandelte Artikel eröffnet Zu Artikel 13 sprechen die Abg. D[r.] Seipel, D[r.] Gürtler, Austerlitz, Prof. Kelsen. Zu Artikel 13, Abs. 4, sprechen Prof. D[r.] Kelsen, D[r.] Bauer, ersterer schlägt vor, hier die Worte "zur Ermöglichung der Geltendmachung des Behörde[?]rechtes nach Artikel 138, Abs. 2" zu streichen. <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            Abg. Danneberg beantragt die Restaurierung[?] der früheren Beschlußfassung. Angenommen. Abg. Danneberg nimmt den Vorschlag des Prof. Kelsen als Antrag auf. gefallen. Die Artikel 138-146 des VI. Hauptstückes samt Titel Verwaltungsgerichtshof werden beschlossen. [gestrichen: Die Artikel 147-157 samt Titel, "Verfassungsgerichtshof" werden beschlossen,] [gestrichen: jedoch]  In Artikel 152 sollen die Worte "nebst dem Erkenntnis nach" nach Vorschlag des Prof. Kelsen gestrichen werden. Abg. D[r.] Seipel nimmt diesen Vorschlag als Antrag auf. Dieser Antrag wird beschlossen. Mit dieser Abänderung werden die Artikel 147-152 beschlossen. Abg. Austerlitz beantragt zu Artikel 152 statt der Worte "bezeichneten Personen" durch "genannten" zu ersetzen. angenommen. Artikel 152a-157 werden beschlossen. Titel "VII. Hauptstück, Schlußbestimmungen wird beschloßen. Zu Artikel 158 schlägt Hofrat D[r.] Froehlich mehrere Änderungen vor, die aus Beilage 4. dieses Protokolles zu entnehmen sind. (Blatt 4 wird, von der Staatskanzlei nachgebracht:) </p>
+            
+            
+            <p>. tedrg A e t <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            Abg. D[r.] Seipel nimmt diese Vorschläge als Anträge auf. Artikel 158 wird mit den Änderungen nach dem vorstehenden Antrag D[r.] Seipel beschlossen. Artikel 159 wird beschlossen. Zu Artikel 160 beantragt Abg. Austerlitz ein bestimmtes Datum zu setzten. abgelehnt. Artikel 160 u. 161. beschlossen. Nächste Sitzung 25. d.M. 3 Uhr. u.m.  Schluß der Sitzung 5 Uhr 40 Minuten nachmittags. Bauer Dr. Aigner[?]  Schriftführer <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            Präsenzliste der Sitzung des Verfassungs-Ausschusses vom 24. September 1920  Bauer[?] Seipel Rieger[?] [Unterschrift unleserlich] Th. Schlesinger[?] [Unterschrift unleserlich] [Unterschrift unleserlich] [Unterschrift unleserlich] Austerlitz Schiegl  [Unterschrift unleserlich] Wagner Fink Polke[?] D[r.] Aigner[?]  D[r.] Bauer [Unterschrift unleserlich] <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            Beilage 3 Minderheitsantrag der Abgeordneten Fink und Genossen. Dem Artikel 3 ist anzufügen: 4 (3) Innerhalb der ersten zehn Jahre des Bestandes dieser Verfassung kann ein Land durch Volksabstimmung beschliessen, sich einem anderen Staatswesen anzuschliessen oder einen selbstständigen Staat zu bilden. 5 (4) Entscheidet die Volksabstimmung mit absoluter Mehrheit der gültig abgegebenen Stimmen für die Einverleibung in ein anderes angrenzendes Staatswesen oder für die Bildung eines selbstständigen Staates, so ist dieser Entscheid der Bundesversammlung verzulegen. Verweigert die Bundesversammlung die Zustimmung, so kann das Land die Entscheidung des Völkerbundes anrufen. 6 (5) In gleicher Weise kann das Land an den Völkerbund berufen, wenn sich aus Anlass der Lösung des Bundesverhältnisses finanzrechtliche Schwierigkeiten ergeben, die durch Einvernehmen des Bundes mit dem ausscheidenden Lande nicht behoben werden können. Wien, 24. September 1920 Fink Dr. Ramek D[r.] Aigner[?] 21. Sitz. Prof. 24./9.1920 <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            Der Verfassungsausschuß hält Freitag, den 24.d.M um 11 Uhr vermittags im Lokale I Sitzung. Wien, am 18. September 1920. Dr. Bauer, Obmann. </p>
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>
