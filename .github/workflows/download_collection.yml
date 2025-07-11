@@ -27,8 +27,8 @@ jobs:
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip -o download -d saxon && rm -rf download
     - name: prepare mets folder
       run: |
-        mkdir -p ./data/mets
-        rm -rf ./data/mets/*
+        mkdir -p ./mets
+        rm -rf ./mets/*
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
