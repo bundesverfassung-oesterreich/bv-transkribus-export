@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__72">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Danneberg Entwurf I</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1840231</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="bv_data_set">Datenset A</idno>
+                <idno type="goobi">18724</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">VGA-Archiv, Sozialdemokratischer Parlamentsclub, Kt. 79</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Danneberg, Robert</author>
+                            <title>Danneberg Entwurf I</title>
+                            <note type="editor">Danneberg Textvariante (Dokument hat keinen Titel, 163 statt 162 Artikel bei der gedruckten Fassung), auf der Titelseite handschriftliche Notiz "letzte Fassung vor Linz". Typ: Typoskript. Zustand: gut</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-02-18" notAfter-iso="1920-04-19">Zwischen dem 18. Februar 1920 und dem 20. April 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-02-18" notAfter-iso="1920-04-19">
+                    Zwischen dem 18. Februar 1920 und dem 20. April 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3312" lry="5320" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00001.jpg" width="3312px" height="5320px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3346" lry="5320" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00002.jpg" width="3346px" height="5320px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3360" lry="5310" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00003.jpg" width="3360px" height="5310px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3348" lry="5268" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00004.jpg" width="3348px" height="5268px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3370" lry="5302" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00005.jpg" width="3370px" height="5302px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3368" lry="5302" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00006.jpg" width="3368px" height="5302px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3358" lry="5346" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00007.jpg" width="3358px" height="5346px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3352" lry="5314" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00008.jpg" width="3352px" height="5314px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3342" lry="5324" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00009.jpg" width="3342px" height="5324px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3236" lry="5322" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00010.jpg" width="3236px" height="5322px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3362" lry="5328" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00011.jpg" width="3362px" height="5328px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3382" lry="5350" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00012.jpg" width="3382px" height="5350px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3330" lry="5334" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00013.jpg" width="3330px" height="5334px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3348" lry="5334" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00014.jpg" width="3348px" height="5334px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3342" lry="5296" xml:id="facs_15">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00015.jpg" width="3342px" height="5296px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3374" lry="5334" xml:id="facs_16">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00016.jpg" width="3374px" height="5334px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3386" lry="5322" xml:id="facs_17">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00017.jpg" width="3386px" height="5322px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3374" lry="5322" xml:id="facs_18">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00018.jpg" width="3374px" height="5322px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3374" lry="5284" xml:id="facs_19">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00019.jpg" width="3374px" height="5284px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3362" lry="5284" xml:id="facs_20">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00020.jpg" width="3362px" height="5284px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3368" lry="5288" xml:id="facs_21">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00021.jpg" width="3368px" height="5288px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3380" lry="5288" xml:id="facs_22">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00022.jpg" width="3380px" height="5288px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3358" lry="5260" xml:id="facs_23">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00023.jpg" width="3358px" height="5260px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3356" lry="5312" xml:id="facs_24">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00024.jpg" width="3356px" height="5312px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3362" lry="5324" xml:id="facs_25">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00025.jpg" width="3362px" height="5324px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3382" lry="5306" xml:id="facs_26">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00026.jpg" width="3382px" height="5306px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3346" lry="5350" xml:id="facs_27">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00027.jpg" width="3346px" height="5350px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3384" lry="5316" xml:id="facs_28">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00028.jpg" width="3384px" height="5316px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3346" lry="5306" xml:id="facs_29">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00029.jpg" width="3346px" height="5306px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3340" lry="5256" xml:id="facs_30">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00030.jpg" width="3340px" height="5256px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3376" lry="5292" xml:id="facs_31">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00031.jpg" width="3376px" height="5292px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3370" lry="5364" xml:id="facs_32">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00032.jpg" width="3370px" height="5364px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3344" lry="5304" xml:id="facs_33">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00033.jpg" width="3344px" height="5304px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3350" lry="5332" xml:id="facs_34">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00034.jpg" width="3350px" height="5332px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3370" lry="5338" xml:id="facs_35">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00035.jpg" width="3370px" height="5338px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3352" lry="5278" xml:id="facs_36">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00036.jpg" width="3352px" height="5278px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3366" lry="5296" xml:id="facs_37">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00037.jpg" width="3366px" height="5296px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3380" lry="5352" xml:id="facs_38">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00038.jpg" width="3380px" height="5352px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3388" lry="5274" xml:id="facs_39">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00039.jpg" width="3388px" height="5274px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3364" lry="5252" xml:id="facs_40">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00040.jpg" width="3364px" height="5252px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3364" lry="5354" xml:id="facs_41">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00041.jpg" width="3364px" height="5354px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3376" lry="5378" xml:id="facs_42">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00042.jpg" width="3376px" height="5378px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3358" lry="5330" xml:id="facs_43">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00043.jpg" width="3358px" height="5330px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3348" lry="5330" xml:id="facs_44">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00044.jpg" width="3348px" height="5330px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3354" lry="5256" xml:id="facs_45">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00045.jpg" width="3354px" height="5256px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3348" lry="5256" xml:id="facs_46">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00046.jpg" width="3348px" height="5256px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3342" lry="5330" xml:id="facs_47">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00047.jpg" width="3342px" height="5330px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3364" lry="5330" xml:id="facs_48">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00048.jpg" width="3364px" height="5330px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3348" lry="5366" xml:id="facs_49">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00049.jpg" width="3348px" height="5366px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3360" lry="5324" xml:id="facs_50">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00050.jpg" width="3360px" height="5324px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3382" lry="5336" xml:id="facs_51">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00051.jpg" width="3382px" height="5336px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3374" lry="5128" xml:id="facs_52">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00052.jpg" width="3374px" height="5128px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3100" lry="5242" xml:id="facs_53">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__72/800/0/00053.jpg" width="3100px" height="5242px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Verfassungsentwurf">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>Geweltger efrelch is rrter engen Linderns erraich. Eberesterra Erlterz und kien. e der diesan t sezelchreten Lerdt dBunder Schist-vernderungen henve Heiber es stens wie die oderun ehle nverhel des undesgehlel erfelser. e Gereinden ed en, Aet dieeSchies seel der stettewfinden,et dieses Gebtet einen erzerden Lende shedliedert werden oder laen se Vobst Ait bes untscheidst di it der Fitig abesgebenen Stimner für die Aedsrug en das andere Lend, dehn erfolet sih durch einsaches besetz dieses Lelder
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            ires Fauen Lendes, denn ist. wenn das Sebict Testens 10.ste Eirrchner zhlt, durch den Fräst erten deg Lundentaggs nach den Hundegtafswahlrecht eriessngestender lendtan zur Verstituierung reuen Lendes einzuberufen. Des Nühere rezelt sin ssetz. leder streltigheiten, die aus der verneretsilchen useirandersetzung zwischen den Kindern in trtifet erennten Feller entstehen, erter verisssungsgerichtenet. ereilsts. as Bundesgebiet blidet ein einheitliche 75-, Eirtschafts- und Zollgehiet. Inverhalt der Frerzen des sundes dürfen lei Euscherzellinien oder sorstize Verteh Erinnungen errichtet werden. rtikel g. r Lendesbärger Iet Ineel der Fundssenschlrie hat in jeden lene egielchen Rechte und Fflichten sied. selket. Freitel7. strehs sprache dst, unheschade der ae ee inderheiten gehetzlich sinrerun tastssprache der Herublir. rirei e geherden und senter dr Bunde Lehter inres irhugstreises zur wechs Ailfeleistung verpflehtet Artiksle er gesstzrebung un verlferen: u
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            cherune wirtschaftlichen Verereteng derener der she die enzverelu die eslune eren- uichverkehres mit der uslende desel de e un besrrechung des Antree das Fundesgebiet und des Austriltes us diesens der ee ate Durchizeterng e e zen sebister e ndesrenzen, rsbeondere die Etel reben, die chliersliet eder letreise für den ndirzber sind de leen die egetin. undde ndezuse die etn der rtellnahe der Ander an den Ermaer des ss und iwegelun der Bestri und Zuschlsse aus ndegriltel zu den Ausraben der Srders des SeldFrelt Scr- udeeser heseSerichte oren- und Funzerurgewesens NasZivil- und Strefrschtsresen einschliesslich srtschaftlichen eseiete die usttzlle as Vermeltngselgefrecht in Engelererheiten, deren eller de nd zustcht, die Verraltngricht erkeltt der Drasterrecht; die Bekirtun des unlauteren tbererbes: dis Patertresen seris den Ferken- und erschute die Erteimung, sowest wie nicht Ingelen heiten betriett, die in den Wirtungshreis der Snder Een: die Erelerenkelten der Petars, der Rechtsenlte und verrandter Serntes des Ingenieur- und Lrtlchräkerwegen, die Kandels- und severbekerners a Verschrawescn beziglich der Eiserbetnen chlffahrt und uftschiffehrt, die Angelegerheiten er weien inter Leteutung fr den Durchursrerksar Keldseresl undestraesenerrten
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            und Schiffehrtspotizst: das Ledskrecher- und Fernsprschwesen ee die enheiten dereht Eriewinder (Schutz- und Berhwelder) sonie das Aufferstungswesen, das gesahte wasserrecht und des rzesen des ee ertwesen nchweser; des Verreseungswesen dee gesarle Erbeiterrecht und der Arbeiten aAngestelitenschatz, eitschliesstteh des Rechtes ns Schutzes der lend- und forstwirtscheitlichen erweiter und Angestellter, sowie der Kaussehiltens der zlal-ud Vertrersversichertngresen das Schuz- und Erzichungswesen die Lusnk. Ferttlidung und eung von ele t die ellmittslresen: die Bekenptung Mertran er drerheiten ven Fenschen und Fleren, das chirin ietteswesent die Eurdlererteiten de stierlechen und wissenschaftlichen Sennlunzen und irrichtungen; den Senkwelschutz, die Angelegenheiten der ultuet des Vellszbluneswesen sowie die Sonstige tetistin, soreit sie Nicht nur den Lbersssch eines eihzelnen lander dient; des Stistungs- und Venderesen, gereit es sich um Stiftungen und Sendshandelt, die er sneri in .7 die ritttrischer Angelerenhelten, die Ande erhelten der sonderwerde: die Erlegsschadenenrglogeneihen und die Forserre für Kriegstellnehner und deren iterbliebere: des Kriesstüberwesens die aus Anlase nes Erieges oder in leidien Einessolchen zur Teuerune der einkeltlichen Eihrung der Airtschäft etrere esate u richtlich der eorer anrineegenstinden diadrnisatien der Bundesbcherden und de
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            undesenfesten ie des ir Einvernemen fit trach werdich schlziehender schsels zulschen raLerdesdienst. reiret 16e elzgebrne des Burdeist Bertreen eStastsborgerschait und des hetrstrechts sereine- und Versernuesrecht; die heiten der Tresses deberutlichen e rorensensengslererhelten eede Feürtternesens und der aered anseseresen und die Predensitzel everese dieorentliche entlen e lreichtlich der Eiertilchen werben, d rausschliesslich oder Tezweise für der Lund nuchster werdenf die Mverdhänser zur Vertinderun erpestesteuerugen Eder schstlen erwssigen lastungen, zur Verwinderung ver erschwerngen des erketres oder der Wirtschaftlichen Bezietungen erhiitnis zur Luslend oder zwischen den Lindern und ersgestellen, zur Verkinderung der Verwestgen oder verkehrverschwerenden Lelastung der Serutzung bel l ööfentlicher Verkehrenaes und Einrichtunger eit gebüren und zur Verkinderung der Schldigung der urgesftrenzet; die Bestimungen über die Besteuerung er Fundceurterrehrungen E. das Lerithene-, Schless- und erengittet sen. sereit sa nicht der Renegel unterliegt, serie Lriferwesens das Trafttchrwesens eunetsldwesen Ait Ausehrs der Zellleheshstalten und Anbulsterlen, des Zurerlan. ichen- und deeend sorie des Geheinde itesenstes und Rehlungsnskendt des Vollsuch. s- und eleler d erir
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            Vermeltungs- und des Verwaltungsstrafen eingenllenglich der Zuenzwveltstrechung wrie die eitrereinen Festlammser des Vermaltunge refrechtes in inzelerentelten, deren Vollzichung en Eindern zusteht. ErtLEL22. ire sich der in verangehenden Artikel aufgehlten Ingelegerheiten steht den Bunde auch ererehungerecht zu. Freitel 1. lich die Rezelung der Frindsitze e Sndshessetzgebung Flr: die Craeniestion der Verwaltung ir ns Arrerwesenz die BerWerunzspelitik Srürlines- und sureherdrorges deh tzsrecherts71-und Eflegersteltenwesen einschliegslich der pulaterien; die Zusgrabung und Uebertharung von zehent Schutze der beErrichtungen lschaft gehen verbrecherlache, verwahrlaste oder st gefhrlichs fersenen, wie ltenesarbelts-und liche Erstalten; die bschlebung und Abschaftung einet in ein anderes landi die Erentlichen Einrichtungen zur äusser entlichen Vorrittlung von Streitigreiten di Dedenretorn aprarische prerationen Serbesissung vsw.) und die Dodenertschuldungs reseiwesen ehnschliesslich des Triftwesene doch mit Zusnatag der Forst- und Heidsserrituten; en Sehute der Plenzen gegentrenthelten und schädlin des Dienstrecht der angestellten jener landerErden, die auch Sundesergeldrenheiten, zu beserzen
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            rschltegslich der Regelung des in Einvernehnen der iüsBstracht kerrenden Einder if zu scllzishensen terstrecheis verland zu Land. 121 Die Etscheidng oberster Instanz in Anrelserhelten der Sescnrefore wird einer der Kunde einge etetenesrichtern, Verhaltungsbeenten und Sachvertndigen besfefenden Konmssion übertregen. rtiksl13. denn eine Angeldrerhelt nicht ausdrücklieh durch die Kundesverisesung der Gesetzistung oder auch der Sellziehung des Kunden übertreien ist. verbleibt e irvirkungebereiche der snder. doserns Jesschin chergerheten ein f der vollzichenden gehalt ehrere sder echtewirssekelt usser schl. Fel ustindigiert für diesen Vollzusakt eur der Sund Erfereit der Dandereselzickeng bloss die urk der Erumardss verbehelten ist, obliegt die Dere Bechtstrun der Lendeesesetzetung inverhalb nschgesetzlich Festgelegten nehnens. Das dundeseetz kann hieser eine Friet bestieren, die nicht gerinterele drei Sonnte sein darf. fird diese Frist nicht sinsehalten,feht die Zustindickeit zur Erdes- und des Durchfihrunesgesetzes auf den Fund über. dieder  bereiche hre beseze ferderlichen gestimmungen auch auf den Gebiete des und Lititrechtes zu treffen. Ertikel 14. InBurer die Bestinnungen der Artikels bis 12 r die Zustnaigleit in Gesstzaetung und Vollzichung idie steljung des ungegals Triger von Trivatchten leiserliher, Ertorelter, richter usw.)in iner ise beriert
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            Lbense bleibt es den Bunde auch unbeen, zur Forderung des wirtschaftlichen und uiturellen lebens auf allen lebisten UnternehLungen und Einrichtungen zu scheffen und zu ereiten, Verenstaltungen zu treffen und Einenlelleuittel zur Verfügune zu stellen. Der sund kenn in allen dissen Rechtsbeungen durch die Landesgeestzestung Niehals ingünstiger gestellt werden als des betreffende and seltst. trtiket die Organisstien der Uätererzeugung und Eüterverteilung ist Aufgabe des Bundes. Durch erwüssigen futteu dieser Organlsatier ist die litische tenstratie zur wirtschaftlichen Leiretie auszubauen. (2) Der Sundhat das Recht, zu diesen Zrecke inzelne Wirtschaftsbetriebe und gerze Zreiss der felswwirtschert in das beneineisentun zu überfarren und ihre Verwaltung unter der Uitwirxunr der Arbeiter und Angestellten, die in dieden dirtscherisbetrieben und wirtschaftszweigen tie sind, scrie der Verbraucher, die die Erzeueriess oder die Diebste dieser Firtschaftszreise benftigen, zu ergandsieren. Der Sund kann dieses Recht auch den Andern oder den sersinden Vertragen oder es unter der Eitwirkung der snder oder beweinden ausüben. 131 zu denselben Zreche hat der Bund des echt, zweige der Vollswirtschaft, die nicht in s redeineizentun überführt sind, unter die ververweltung und Aufeicht wirtschaftlicher elbstverwaltungskerder zu stellen. Die Eltwir ur ider Erbeiter und inrestellten an der wirl
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/> llchen Feltstverweltung ist gentrelstet dererbeiter und Engssteten inbender erraltung besorren, in keinen Falle ein gerin tien setveratun hereen rn der etriberte, dere schetten und Berufsvereingder Arbeiter und estlten und der Kennern zür Arheiter und eleile, erieder Ererbs-ung hirtschafte engegenschaften, der Lerdripte und der Erheiter raErresteilien an der Firtschaftlichen selbst Verreltung ist gerihrleistet. Ertikel 1e eht bricht Landesrecht: Ertakel17. gelein ererkennten Regeln des Wolkeror als bindende Bestandtelie des Bunder
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            en Sundesvellger Alte chste brann des Sunder eltr. Eiz desKundesteg Een el ao 1es. 1is politi Ratsvertriee. andere nur soferne sie etresindernden Irhalt heben, bedlrien zu rersiitin Senshlung durch der unfester. n zur Durchtrurn von tastsre etetzliche essnahen zu Mtungstreis nder grforderlich sind, so heben die nder die Betreffenden sesetze zu erladset nt ein und dieser verpflichtung nicht chtzeitig nach, so reht die Zustndichen Erlrasung, des deserzes auf der Fund Ober. übersshat der Kind in Burehluruhg ielstertrisen der Ueterrechungerecht zuch selcten Enselesenhelten, die zum selbstndigen rstres der wnder gehlren. Klerbet steher Furde die glelchen rechte gegenüber den mie bel den Enrelsrerhast
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            ee rtäber resenleien, die ner das Sundssrergeren. riel er sundesteg wird ich Sunesvelleauf sesielchen, dirchten, geheiren und tercherWehlrechtes der überzd Jehre alten e Eismahl gewenlt. icher zunstesen. berist jeder anberechtigte, der h. Lebensjahr überschritten het. ueschnhzecht und arkeit kenn nur die Feigeeiner gericht e Verurteilung oder Verzurng sein. here bestirnt ein dundergesetz. rlel eestzrebungsteriode ke resteen Jehre von ere seiner interuung rechrst. e 11. r eterlese sinzüberulen. re tzungerered Aernichtn hr betragen, ie wird von eraidenten shlag der Bundesrexierung geschlogser Ertxhel. der nered
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            es Heuse erder auf der Vererlegung menn venlestend ein anrzzeit aufzuheten. srief der Eitglieder ags Bundestages elnen riftlichen Ertrag bein Präsidenten gestellt die Fundesregierung ver denerDiegerhat ter Intrag zu verstindigen und den Fundeswieder einzuberuen. rtizel 2. 1741e Lundesteg Whllzus seiner jeuer der Sitzungsverlode einen Frisiten serie einen zweiten und dritten Fräst. nlen. Fuck rehdender Bunden beerdet hat, bleiben der Früeident und seire Stelldertreter so lanke in Aute, bis der euser hite Sundesteg das Frösldim gerühlt het. (37 die Beschiftsfihrune des Bundestagen Irt zur utund eines besonderen lesotzes. Ertikel 26. es sine itzungen des Bundes Lause steht das recht zu, zusnehnediebefichtlichhalt auszuschliessen, vern en Jetsitzender oder einen Firftel der ensenden Vitzlieger vertzugt und von Hause nach Ddr Achtrer beschlessen wird Erel etrenercheerdie Verhn I don öffentlichen Bitzungen des Bundes und seiner Ausschlene blelben von Joder ehertung
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            sere Trtikel 2s. kundegrat sind die Einder in Verris zu ihrer Schweknerzahl vertreten. Auf ehnerchd kleinsten Lendeentt sein vertreter. e ei Grundsatz der SerkStnisrehl. jeder Lendtan mit seine fertreter aus seiner Litte. (3) Sei der Ausübung ihres lendetes itglieder des Bundesretes en keinen Antrag bunden. 4) Dis feht der Vitelieder wird durch den ograt nach jeder aligeneinen Volkszihlung gesetzt. Fir jedes Eitglled des Fursserates et ein ersetzaern zu wihlen. prtikel ze. Der Vorsitz in Dundesrate fäilt in jeder Ditzunssperlode abwechselnd auf ein anderes und nach alphabstischer Reihenfoles. 12) eis Forsitzender des Lundesrates fungiert er bei der Hahl aus den Landtage an erster Stelle entsendete Vertreter des jevelle zum Vorsitz berufenen landes. Als stellvertreter des Versitzenden fungiert der en srater Stelle entsendets ferireter desjenigen sendes, den in der nichstlrenden Sitzunssperlode der Versitz zufällt. Der Sondesret wird durch seinen Sereitenden vertreten. Alle Ausfertigungen des Sundsstas nissen die Unterschrift des Vereitzenden Aeta der Fundserat eibt sich seine ranung durch Geschluse
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            er kundeäret wird ver en sereit aen Ehrlich an den Itz der Kundestagss irberrfen. est seine Geschlisge mit einfacher carlalt der Erreserden die Sitzungen des Bundesrates sind Fentlich. Ertikelk2. Die Eitzlieder des BundesratesbielDie zum beeinne der heuen Eitzungsterlode Burdestares, darüber hinaus aber nur se rein funktien, bis alle Lanstane iereverreter für die neue Sitzihesverlode des Sundss Eer gewihlt heber. ulun eines erstare oder eat stleut seiner Sesetzgebungsperlode blelben ie vor Ihn entsendsten itglfeder des Fundes lasse lense in dunktion, bis der naus Landtag die sehl in den Sundeerat vorgenetmen het. der der der Lundergesstzrebung. ErtiRel T2. besetzervorechliee gelansen an den stes entweder als Enträge seiner Eitglieder der als Vorlase der Sundesrerierung. Auch der ondeeret kann in dess der Kundgeregierung eselzesentrige de Bunderhar stellen. Aud Jeder von Loc.sad stienberechtigten stellte intrer ist von der Bundesroglerung Fuhlestag zur geschitwordnungenseiren Kendlund verzulesen. reikel 32. zu einen geschluss des Fundesteges ist resenhelt ven Kindesters einen Wertel <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            tglieder und die atselute lehrhelt der er 11 geeberen Stimen erförderlich. Eine Lbonderung der Dundssverlassung Jedsch dur bei Enresenhelt der Wittealter wieder und mit einer lehrheit ven zrel tein aller abgegeberen Stimmer beschlossen Ertikel 34. ie begentonderung der Fundesverfassung. ezellweiss fenderung aber nur, denn dies r einen Brittel der Uitglieder des Furdestages der dee Fundesrates verlangt wird, ist nach erfelgter Beschiussfasgung aureh den Bundestag. sosch ver der Beurkundung durch den Prisidenten des Furdesterst einer Abstimrung des geseuten Eundesvelkes, zu unterziehen. FriikslBs. indesvell hat die ver Kundesten schiessere Vertessungenderung angenornen. ent die lehrheit der abgegeteren stinren sich aie Verssssungsinderung ausgesprochen het. Frikel 35. Ergebnis der Seltsebstiumung ist ich zu verlautbaren. artikel 57. des Verfehren für die Volkeetstirrung Far die in Artiksl Z2. Absstzk, verzsehens Veltsinitiative wird durch sundeseeestz regeit. stinübergchtigt ist jeder zur Sundeseülbsrechtigte Fundesanscherigs. räne Der Frisident des Fundestn kentstirrung enprtikel 35. jeder Gesetzesbeschluss des Burdestagen
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            reh gessen Er tdenten ir iess des LunderZers den ussrels unverzüglich zuher rittsln. oewestzesschdesgestn der Zunderret Eirspruch erheben. der Urspruch nuss innerhald zweier scher nuch Enlengen, des Eegeleshesches erese eact eteer en werden. der scgeschluss der Sundesters zur nochtelleen de Schlussfresung unvereüglich vorzulegen. Niederhelt der Fundestag seinen ursprügllchen deschluss, so ist dieser zu beurkunden und funde ehen. ze sonte der InErtlkel 7 und Artikelzi erwinntens sa des Sundeslanes wird durch die Unterrpraenten des Fundsslages beurkundung stde undskanler und den Stastedstreiren gesenzüzsichschurg der Fundesgesetze sowie Ekel Ebsalz2. und Erikkel El erErten beschluses des Bundeklagss erfolgt mil erutung auf den Beschlung des Lundestaden, im einer Soltsetstirrung oder mit Berurung auf erestretnis, die Lndchung von Sleeleuerider Genchminung des Bundestagesberen, ail derutune auf diess Senehnigung in
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            ch den Bundeshanzler. Kundesgesetze sorie die in Artiker , und Freitel zi erwinnten geschlisse sundestages, ebenso stastsvertrige, die ven sindester genehnigt und ven Frieldenten des Sufdesdes retifiziert sind sereiuel l, erlangen erst ach der Fundnachung in Fundesgesetzblatt verbindenkraft. Eiel 41. e verbindende Graft der in Sundesgesetz- undgerachten sundesgesetze beginnt, wern arir selbst nicht ausdrücklich eine andere Testini getreffen wird, nach Ableut des lates, an den sstich des Lundesgesstzblattes, das die Furdenunz entheit, verausgegehen und versendet wird. na erstreckt sich, wern nicht andere ausdricklich bstimt ist, auf das genze Fundesgeblet. Ueber des Bundesgesstzblatt erreht ein deres Sundeegssetz. stellung der Aitglieder des Bundestages und des Fundesrates. Frtikel 42. eitglieder des Fundestages kernen der in fustung ihres verufes geschehenen irungen nierals, Wegen der in diesen Serute achten häusserungen nur der Sundestage verantlich gemacht werden. 12) sein Mitglied des Sundestages dart wärend deuer der Sitzungsperiode wegen einer strafren Handlung - den Fall der Ergreifung auf lscher Iat ausgehonnen - ohne Zustirrung des ndestares verhaftet oder beherdlich verfolgt rden. selbst in der Falle der Ererelfung sin ner lat hat die Gewerde den Träsldenten der
+            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            sekleich die geschehens Eeter etn er st erie as der it aufselsben oder die Verfoltung für die itzungeperiode aufgeschoten werden. os utae 6) Die Imumitit derserrang to e r es Burgsperiode Airausgeht, bleibt auf die Deuer ieser unstion gerehrt. Ertilel utglieder des Kundserates gewiessen die nen els Eitwieder eines Lendteges gewürie wnitht auch für ihre unktion wihrend der uer aisser Kunktign. Aetlkel4 ürra kenn glelchzeltig Zurdesrat angehoren. behtrt ein in den marsrat entsendstes Mitglied eines sendtenes et der Bundestage an, so ruht seine Litzliedschaft zum Eindestagebi zuseinen furscheiden der Bundesratg. Die der Fundestag oder den Bundesrat ange Ferierung 1u ndssrat. tilei 48. otr der undeseerung sonig Iner entsendgten Vertreter sind berechtigt, Alien ferstungen des Bundestaget und des Bundezles serle deren Ewdechlsse tellzunehren, Jedech tAuerette des indrlikstar verreschenen beson eh usschuses, en degsen Vergtuhfenste mir begendere Einledung zetfnehnen Fürken.
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            dr Verlangen Jedssral gehört werden. estaf sorie der urdesret kann die Enet der Mitglieder der Findesreeierung E er Fundester iet berugt, die Geschörte Krunz der Sindesreglerung zu Verpräfeh eren Eitglieder überalle wegenstinas der ilzichung zu berraen und alle einschlägigen Ertie zu verlangen, sorie sehhen dürschen er die usbung der Regierungs- und Vollzurs ell i Entschlisssungen userue geben. therr ndskiar kenr durch Geschlusa ertane und alle anderen Beherden erllhtet, der Frauchen deserRus ee Selserhebunger solte zu leisten: Etantiicher fenter Maten auf verlangen klen verzulegen. Die Verschriften der Trcesegrarung Finden auf die Erhebunge d das erfahren der Unterauchn <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            Er eze e undes Die egiersgewalt des Bundes. r Preident des undestaze Prtikel 46. e eng der in den Folsenden Frtikeln engee ürktionender eierungs- und Vollzug t Obertraren. h rident des Bundeslege vertritt die i nech üssen, empfinet und begleudigt ebeänsten, genehmigt die Bestellure der erhen kensuln, bestellt die Oaterreichischen aulrurrakifizier die Staatsvertrüre. endenten des Bundestagesobeianderenbeen eder Verlesung übertrashen Seturwissen eener rrenrung der Bundesanfestellten schlieeglichder Ofizlere und der sonstiZindesuntignre und die Verleitug von Inen solches ubellung von t- undbete erleitung der Berufstitels Die Begräizung der Ven den berichten ielrir Verurzailter, die Wilderunr und lungder der den gerichten ausgesprochenen reten, die Secheicht von Rechtsfolgen und die rung ver Verurteilingen, Ferrer die boliticn eiralgerichtlichen Verrahren; che Erhrungünchslicher Kinder zu ader über Arsucher der Eltern.
+            <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
+            
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <p> useri nech eanterereichtliche t Ehrerrechten, duesererdentlichen uverdungst er eeeenheten zustehen, bestinen esonlere elze u ersch eineseneikeeraen Preidenten des undestares erfelgen eut derendeeierung oder des on dieserhiezu eenusten Stet 2222 122 F 22 2 28.472 . 2 23.225 2223. 2 232 e et dar esez. t des unetage ein des ih echt de enennun von undesangesteilten Ekeretegerten geerenegenen egert tndigen rlieagen der Zuragerederm EBre denten  Sungstege XL lzuIhrertgreit dereungde Zusländing erer der etertse legarreler enten des Bundestereg eenen änktlehen der Reglerugs-unnd follzuesen ehenle seiner Verkinderun aufden reiten und, weinbei dieser der glelchsfall einruf den dritter Traldenten über. benge eehen die Funktionen, der Regierin euzeeeltialle deuernder Erleigung stelle des Erieddenten edochnur bie zur ueden een enerun <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+            der trieident des Endestages sonie teitvertreter eind für die Ausitung der Asgierungsd Vettzursgenalt der Sundestage gentes Artikst einderverlessung verantwortliche Zundssregierung der Fusitung der Rlegierungs-un Tol. hait des Kundes sind, soweit diese nicht der rinidenten des Bundestares überträgen ist, der Lundenterzler, der Vizskerzler und die Staatssekte Eire betreut. Sie bilden in inrer gesnathelt die unieereklerung unter den Vereitze des Fundeskanze 75 1er zekanzler ist zur Vertretung der erzlers in dessen gesantet Arkungekre eriesungs- und sollzugsgene dart nur auf rund der Fundssverfassung und urdesesetis ausgelbt werden. Jede Scherie kern ir Rahnen der Gesetze nerhelt Ires Kirkungskreises Verordnungen erlassen. Ertikst 57. Fundeersgletung wird vor Fundestag der eseltucrechlag eines besonderen Ausschüsses. ecsezng. rkunstreis und Verfehren eechstrercnunesgesetze geregelt let: in nauenticher berirung gewhlt. Dieser Ausschues ist stine. in die Kundesregierung kann nur gewhlt werden, er zu üntestagerülber ist. Die Testellungsurkunden des Sundeskenzlerg Izelatzlers und der Stastsselreturs werden von
+            <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+            
+            </p>
+            
+            
+            <p>
+            </p>
+            <p>
+            </p>
+            <p> achter des Bunsestages Ait den Betun des es der Shrelchung ausgefertirt und von neubestelt de entgieder der Sundesreglerung werden n ngelt EErtirelke. uneeider e,hat der er sigent des Bundestange entweder die scheldendn eerun unerde ereitzesesbichetzen Bundes Ranzers de igeherlers oder eines Staatgsgfreture er elteneg seente der Hunderinter unter den Voritze siges dieser Seanten Mit der enstweilisen etuh der Verwaltung zn betreuen. Artikel 27, at and t in deer elle siengene Zuwender. el der Lundeste der Bunderresterung nekenihrer telloder durch ausdrieklichs Benlegungaes Verlfeuen, so Iat sine neue un resieung zubetelen er der betreffend der Vertzauen veraest wird, Ist die Anwesenheit erwfe der Litrlieder des Fundestarss erforden ich. dach ist, den es ein Kinftel der enweserden beldeder verdengt, die Abstieung auf den zweitnichster Ferktag zu vertaren. Eine neuerliche Verr-Eeder estirrung karn nur auf Beschluss des Aeslagee erfetzen. de eserte dereierun und ihr einzel Meder werden in den gesetzlich bestianten ur ihren sursch von Prsidenten des entheben. rle etEs. flleder der Bundereerun sind had eunsere landen
+            <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+            Gestraung der bsschifte der Bundesverlyd äge Bundeglanzlerant und die Bundseünter tur rufen. (2) lie Lehl, der Bundeslater und deren EirlungeIEd durch Zundegeegetz bestinnt. FrtikelE2. Das tundeslenzlerent wird von Lundeslangter tet; jedes Tundesant steht unter der Leitung nes Staatsestretra. 12) Der Lundegkanzler und die Stestssekretire nen zusnahneweise auch mit der Fihrung eines reiten Sundesantes betraut werden. Ebense kann den Ezehanzler die Leitung eines Bunjesantes übertraget werden. ertikete besenderen Flien kann die Bestellung von ntsgelrelirer auch ohne gleichzeitize Betraumg der Finruns eines Zungeschtes erfolgen. ritkeie2. der Zuhdesente kann den verentrortlichen er zur fahrung der Einheit und Stetizkeit des schittsgänges ein Leanter betgesehen werden, des en Artaeiteleines Jungesantsirektore Finrr. den Kundestiser. 4o1 dechser ist din Verufst irstelllizer Verpfllchtung aufrestellt und e Enere reuelt das schrresetz. relge des Crdechter ist, soweit die gesetze rilcheseneit seine Eitwirtung in Anspruch nient Schutzder veresngedigen Einrichtungen der srühlit senhe zut zutrechterhaltung der Oratung und
+            <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/>
+            
+            </p>
+            
+            
+            <p>24 Sicherheit in Frneen Verhaupt und zur Allfeler stung bei iementertreichiegen und nGekritten nerchenne bet 2 derner obliegt den Bundender der Schutz derek er da er verft der Bundestag. artlererrung vorbehalten ist, wird demit die Kurdgerorierung oder Innerhalt der den ihr erlettten ertetigung der zustindige Staatssehret betradt erder ereinder die Eitwirtung des Bundeshseres zu den Abeatz l.erwAnten wrecher unmitEetikel ren spuch nehnen Kinnen, bestient der hehrnehtiu Tolstischen Rechtegerheit des Bundes. tikelEs. ehtsberleit geht von Bunde aue Eelle und Erkenntwisse werden in blik Gesterreich verkindet und auses EP ungesresetr Fostgestellt. srand der seinen ordentlichen Richter eren werden. DerWeflahren wegen dell ureh hundeszeset den Vertahungegerichte
+            <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
+            Ertire ItErgerichtsberkeit ist zufgeheben. Da galt ein Fundesgesstz. ertikel 72. Aegstrafe ist abgeschafft. Ertlhel 72. Eie Klchter sind in Zusibung ihrek rich hen ertss uretwürig. Inuelburg seinte richterlichen Antes Einser ich ein Richter bei Gesornung aller lhr den fösgize ung der Geschifteverteilung zusteenden gerichtlicher beschifte, mit Ausschluss der ustizvermaltursssachen, die nicht nech Verschrift es gestzes durch senate oder Konnissionen zu erleen sind. 75. erichtsverlessungsgesetze wird enre bestimnt, mit deren Vollendung die nter in der dewernden Auhestand zu versetzen 12) In Aprizen dürten Richter nur in den r etis veresschriebener Fllen und Fornen und auf und eines ferrlicher richterlichen Erkenntnisses resArtssentsetzt oder wider inren Willenen ne andere Stelle oder in den Autsstand versetzt rden. Diese Bestiarungen Kinder jedoch auf Uebertzungen und Versetzungen in den Ruhsstand seine nrendunt, die durch Veränderungen in der Verfasgung der Gerichte nitig werden. In einer solchen felie ird durch Sesetz festgestellt. innerhalb welchen straulss nichter oine die gonst versgschrietenen rlichreiten übersetzt und in denuuhestand ver werden Kermen. Die Zeltweise Enthebung der Richterv
+            <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+            e </p>
+            
+            
+            <p> r erichverstene E der derrenereese uner gleiche izer Vermeisung der Schendrstinaire gelicht stalttiraen. Frilkel T. eTrärung der Filtigreit gehert und nerweeetze steht den berichten nieht zu. er arterelt sder einer Verordnung aus den Frunde der vgesteridrteit Bedenken, so hettes das VerFahren zu untertrechen und den Frtran aut eeseatten issen besetzes oder dieser Vererungbein ver essregerichtsherzu stellen.
+               </p>
+            <div type="article">
+<head>Artikel75.
+               </head>
+<p type="legal_section">Verhendtungen tte envor den erbenrender berlchte sind und Effentlich. Ausrehen Bestinmt e2 Tg12 Der Inklegstrozes untzurirken demitschreren Strafen bedrchten eh, de das esstz zubezeichenhet, ei allen felitlechen verbrecten und serschen scheldenbeschwerens der diechuld des Erreten Lteberzeit fihren. irstenz retrecht deht der cherstesrichtcher in hier. vn Se
+            </p><p type="legal_section">
+            <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/>
+            Een gerichtlich strefberen Lendurch Zingesfesetz erteilt. drtikete edustiz wird von der Verwaltung ineilenallen, oeine Verwaltungsbcherds iher Frivstrschisensprüche zu entscheiden kei, stcht Ac durch diese Entschelcum genachteiligien rei, denn nicht iu herstze Stwas anderes bestimat Sübtille geren diendere ertei echne ucher.
+            <pb facs="#facs_29" n="29" xml:id="img_0029" break="yes"/>
+            EB121212244 </p>
+            
+            
+            <p type="legal_section"><label>22</label>lsung der Länder. R2Stnn und
+               </p>
+</div>
+<div type="article">
+<head>Artikel2.
+               </head>
+<p type="legal_section">u durch estegskende Bsnalt der Lunder
+               </p><p type="legal_section"><label>1</label>i8 Jentage ageelpt, deren litgliser anf Grund
+               </p>
+<p type="legal_section"><label>3</label> beichen, geigen, versnlichen und direkten ehaltnigrchlgehder aller nach der Lapelerchlranungen wahlberschtigten Zundegengelerigen eine Interschien des Geschlechtes gewählt werden.
+               </p>
+<p type="legal_section"><label>21</label> Die Landtagerahlprdnungen sohie die ordnungen zu eilen alagewiren Veriretungekerern in Lande Arten ale Eenenen de geliven und etiren ehlrechtes nichht enger zielen, ale dies in der stahlereung zur Turdesteg der Tall iet Artikel . Zis itzlieder der teeeie Eleiche Imaunität wie die Mitglieder des Bungetaget, wabei die Bestinnungen des ArtikelEer Bunderverfasgung angloge Anvendung sinden.
+               </p>
+<p type="legal_section"><label>2)</label> die Gestirrungen des Artiknlg St gelten zuch für die öffentlichen Sitzungen der Landtage und ihrer Ausschüsse. ArtikelB. zu einer Landergesetz ist erforderl ich der Geschluse des Landtages, die Eeurkundung durch lessen Präsidenten, die sehinzelehnung durch den Leraechauptmann und die Fundmachung äureh die Lanlesregierung in Landesgsestzblatte.
+               </p>
+</div>
+<div type="article">
+<head>Artikel 84.
+               </head>
+<p type="legal_section">In Gegptagsbeschlüsse unmittelber nach erfelgter Beschluseiaesung des Lendtages und vor ihrer Zundmachung von Lendes hauptmann der Bundeereisrung bekanntzugehen.
+               </p>
+            
+            
+            
+            
+            
+            
+            <p type="legal_section"><label>12)</label> legen Gefahrung von. Bunderintarengen in die Bunderregierung binnen Splochen vom Tage
+            <pb facs="#facs_30" n="30" xml:id="img_0030" break="yes"/>
+            Eeren einen Seestanskannt beschiugs des Handtager Einspruch erheben.
+               </p>
+<p type="legal_section"><label>3)</label> Diederhalt der Laniteer seinen Serrten Jeisch eel iuss, ds ist dieser Kunszunschen.Ret er Ainspruch der Zundeereierung die Zustimnung e Hundesrates grhalten, so kenn ein gelcher Geeetzerbeschluge nur kungercht kerhen, wenn er et Ausarenheit der Fältte aller itglieder des nutes mit einer Achrheit von 24i Tritteln aller bgegebenen Stimm niederhelt wird. tikel 85 drab andengeget an erlangende Landerverlarrung kann - insorelt dadurch die BundenVerfastung nicht berühri wird- durch sendgegesete abgeindert worden.
+               </p>
+<p type="legal_section"><label>2)</label>in Landee nn nur bei Raeserheit der Lälste alter Stelloder des Lanttagen einer fehrheit von enst drifteln aller abgerstenen tianen beschlsesen wrden. Artakelds. die Lendnachtng ae erdide dii der Beschluse des Lendtegen durch Lendereierung in Lmesgegtchlete
+               </p>
+<p type="legal_section"><label>2)</label> Landergertes tretenvier sochen nech grloleten Verlautterung lnirket. Din Ab Lurzurg dieser Verrines belard der Sutlarung der undsereglerung. ArELL Boder Lanstag auf mit Austierung des Fundeerates vom Fräelen des Lindestagen zufeldst worden.
+               </p>
+<p type="legal_section"><label>2)</label> in diesem Falle hat der Landesheustueng nien seche sochen deurahlen und bianen vier sochen ach durchgefahrter wehl den mugerehlten landtes azuberuten
+            <pb facs="#facs_31" n="31" xml:id="img_0031" break="yes"/>
+            rtike
+               </p>
+<p type="legal_section"><label>1)</label> Die vollziehende behalt jedes Lendes rd durck eine vom Landter zu wählende Landesregiefang augeübt.
+               </p>
+<p type="legal_section"><label>(2)</label> die Landseregierung bestcht aus den Lenhanrtmann, eeinen Stellvertrster und einer Anzchl iterer Vitglieser. ) Die Litglieder der Landepregierung mitEht dem Landtags angelören. Jedsch kann in die andeerg ierung nur gerählt werden, der zun landtege Alhar ist.
+               </p>
+<p type="legal_section"><label>4)</label> Der Landerlauptmann und sein Stellverter werden dureh den Prasidenten des Zundestages Eta Funderverleezung engelobt. Ertikel 65. Iie vellzichende beralt des Sundes mird che der Kinder vir den Landerrgglerungen nd den ihnen unterstelsten entestsherten in überenen rungetreie ausgelbt, sereit nicht für nelne anderden Bunderztegte berufen sind.
+               </p>
+<p type="legal_section"><label>2)</label> In Slosen belange iet die Lendtarezieent den ihr unterstellten Sehbracn an die Verrenungen und sörtigen Andrdnungen der Lundssreelee swie der sinzelnen Sundesänter gebunden.
+               </p>
+<p type="legal_section"><label>3)</label> In den von den Landesteherden als Fundesnen zu führenten Ealegenkeiten gett der adniistratire Instenzenzug - wenn nicht durch hundesgeetz ausdrüucklich anders bestint ist - bie zu den zustindigen Fundeeäntern. Lrtiksl G.
+               </p>
+<p type="legal_section"><label>1)</label> Der Lendestauptzenn oder sein Steliverter vertritt das Land. Er trägt in den Angelegenheiten dee der Landesregierung übertragenen Eirungekreinde der Hundesgewalt die Verantwortung egen-
+            <pb facs="#facs_32" n="32" xml:id="img_0032" break="yes"/>
+            ber der Zunder Terung Genäge Artin dis mahnitit nicht im Sege indie en Seniten Leder ein stüe etartrortlich. sl 51. ur Teitung des Eohamen Innster dienste der Sendertuderung wird ein Sendssantsbestetit,erist dermaitleltere Vor275 Ier dendesergesttliten und Rat Eer 46 und veregalten beschdsterene Smtlicher Jrei der eraltung zu 25 Or Snde rik ist Serwengerentadiet Stsorgen des Lendeskaurt ennes uid echeatenstellverirster. desndsautdasr eines Stoltvertrckers bat der Landerestrekter die beschiste der Lundes unter seiner retnlichen eren wertung uerendisse chlücktun gelten dieeslhen Gestirungen wie Jene des enesetr e Laldesantsdirs </p>
+<p type="legal_section"><label>5</label>l der eralteste otische Mant bereh dn in diesen a 7161 ortaterga R.EE1 nnerhelb der Lunder mase auf den Fru
+            <pb facs="#facs_33" n="33" xml:id="img_0033" break="yes"/>
+            dgemeinds hat Instwonders Teckrerhaltung der Tichertert zu sergen. Diess ihreenich rAktl S4. ereitterungender snder untgreinender nen ur über elegentorten ihrer selbständigen ngskreiske un Her durch Verrittlung der Zanvereeldrung getroffen werden.
+            <pb facs="#facs_34" n="34" xml:id="img_0034" break="yes"/> inungekantzelle in zu Arlikal 35. Iyberprafung der Gebarung in der gesanten tenErtschaft des Burdeg und der Zänder, ferner Er Anhärung der von den Organsn des Bundes oder der änker verwalteten Stiftungen, fonde und Anstalten der Technungshot semfen. Er kann aich die Geunte von Internehnfungen überprifen, an denen Iuns oder die Ainder Einangiell beteiligt sind. rEihel 26. Der schnungshe untersteht unnittelestat und dem Jundeerat.
+               </p>
+<p type="legal_section"><label>2)</label> der echnurchef besteht aue einen Eisidenten und den erforietlichen Zeanten und hilis falten. er Traeident des Lechnungshofen indestag gewihlt. Dte ahl belarf der Gedes Suideerates. 1 Der Präsident des tschaungshofer ner pelitischen Tergerschelt anzeheren und den Jetzten sunz Jehren weddr Ritglieu der Dandes hasteiner Landenregiomag gewegenseln. Ttikel 97. der Trisitent des echnunsoe in Bezug auf Verantwertlichzert, den Vitgliedem Lundesreglerung gleickgestellt. (B) Der Fräeident des Rechmineshofes enn durch Abgreinstimmenden beschluse des Bundess und der Landseretze sbteruten werden. Eike 88. Der Präsident des Rechnungshokss dem im Range nichsten beanten vertroten.
+               </p>
+<p type="legal_section"><label>2)</label> in Felie der Stellvertretung des sidenten gelten fir den stellvertreter die Beungen des Irtike
+            <pb facs="#facs_35" n="35" xml:id="img_0035" break="yes"/>
+            Flikel ernent Küsl h 22212131223223232322372 532343 32221.224 212521.2 23732332232 517352322 2234332952222232232 22 2 </p>
+<p type="legal_section"><label>33.227215 12.1.435222552212217323232246</label> Br.232252532772223123 3352322223 getlanter een zu erennen. rer gaate r
+               </p>
+<p type="legal_section"><label>28</label>un ntenungen.i Enneoderden sindern Resdnurg zu lagen teten Pat anm Bunde ster einen Lende in einen Jutven der e, et nenind ntereungen, die auelich die Verlerung eener Bestrebungen daer rtalihen ortivAtiche er r e
+               </p>
+<p type="legal_section"><label>226</label>l 252 13421 er Stetach nneen ngreit i eintalten rdr REEete enzugeichen; derch 276 ich eie Serstener eru2 Aul 3 ntxhete nieh ugeleidet der ri etar gversciedenteiten z a An den Landagzegierungen 1 invermelden nicht austregen lassen. leder EEE
+            <pb facs="#facs_36" n="36" xml:id="img_0036" break="yes"/>
+            
+            </p>
+<p type="legal_section">rtiEI sher verfasst des Funder
+</p>
+            <p type="legal_section"><label>2)</label> Der Rscher rechnungentschluss und gesondert von diesen die Latigsrechnungsatschligge und legt den ersteren dem Zurse. die Tetsteren dem Jundesrate ver. die Lander
+</p>
+<p type="legal_section"><label>12)</label> der Sundserat übereittelt de zuständigen ntagen zur gnde
+               </p>
+</div>
+<div type="article">
+<head>Artikel 154.
+               </head>
+<p type="legal_section">berdike ngebster srolzen durch Fundergesdte.
+            <pb facs="#facs_37" n="37" xml:id="img_0037" break="yes"/> n Frunde und Treibsitsrachte. Artikel Wb. dem Gesstes sind alle Staatsbürzer gleich. rechte der Nationalität, der Conleszion, des geschlachtes, Standes und der Llasss sind für inner asgeschlossen. rtikel 156. ) der adel, seine Kurseren ihrensrage, Sowie blass zur Ausseicknung verliehene mit einer antlichen Stellung, den Leruse oder sier fissenschaftlichen oder Linstlerischen Befühigung nicht in Zusammenhange stehende Zitel und würden und die damit verhundenen ihrenvorzige sonie die weltlichen Eitter- und dameneruen sind aufgebsten nd dürten nicht wieder eingefuhet werden. E Lein Jundesenzelsriger dart von ner eurländischen Legierung Iitel dder Orden an Ifentlichen Lenter und Punktig d Startsburger dene Unterschied ede der Saetze gleiet seränglich. 7343 26. Frelzigigteit der Versonen und inuertalt des Bandesgebieter ist Jedermann geErleiptel. inschrnurgen könzen zur durch Bunet bestint verden. rlitel 155. Dis Augwanderungefreiheit d skrankt werden E der terinst der StentsburgerneAnderung Fir Aurch Hunderesstz 2531 erefelt
+            <pb facs="#facs_38" n="38" xml:id="img_0038" break="yes"/>
+            </p>
+            </div>
+<div type="article">
+<head>Artikel 120.
+               </head>
+<p type="legal_section"><label>(2)</label> Joder Bundesangehörige kann in edem Orte des Bundesgehietes seinen Aufenthalt und Hohnsitz nehmen. Einschränkungen werden durch Bundesgesetze bestinnt.
+               </p>
+            <p type="legal_section"><label>(2)</label> Jeder Bundesangehörige kann sich ge mass den bestehenden Gesetzen beruflich betätisen. Die Freiheit der Berufswahl ist nur durch das Familienrecht beschränkt. Ertikel 1I. Die Freiheit der Per on ist ge. ihzleistet. Die zum Schutze von Staat und Gesellschaft erforderlichen Schranken können nur durch Bundesgeset zerrichtet werden.
+               </p>
+<p type="legal_section"><label>(2)</label> Personen, denen die Freiheit entzogen wird, sind spätestens am darauffolgenden Tage in Konntnis zu setzen, von welcher Behürde und aus welchen Gründen die Entziehung der Freiheit angeordnett worden ist; es mues ihnen unverzüglich Gelegenheit gegehen werden, Einwendungen gegen die Freibeitgentziehung vorzubringen.
+               </p>
+</div>
+<div type="article">
+<head>Artikel 112.
+               </head>
+<p type="legal_section"><label>(1)</label> Das Asylrecht für Delikte, die aus politischen Notiven begangen oder im Zusamment hang mit solchen Delikten verübt werden, wird gewahrleistet. Das Recht der Auslieferung von rbrechern wird durch Bundesgesetz geregelt.
+               </p></div>
+<div type="article">
+<head>Artikel 113.
+               </head>
+<p type="legal_section">ap Hausrecht ist gewährleistet; ann eine Hausdurchsuchung zulässig ist, wird lurch Bundesgesetz bestimmt
+            <pb facs="#facs_39" n="39" xml:id="img_0039" break="yes"/>
+            erler aeraten- and reetelstsbsächnen den Sllen et tiehee Interrinne hrr nderger elu 173. 16 ir duret d Strest esskrnkt. freitrisi rkeeartr enttegerete, von der sse eerden Eins erete erlergechseeneerbst er Sekerd-r Sehritle utz kar due tlsr 3812 4 s latet r Fel Uinterstndieen Lelter befatten iet in swhrlelsten. In welchen faltn die Ehe rueh dne s.5 2l er beiden
+            <pb facs="#facs_40" n="40" xml:id="img_0040" break="yes"/>
+            hehatten zu trannen ist, bestimmt das Gesetz. ich ist in beiden Fällen auf die Versorgung der Kinder aus der getrennten ihe durch ihre altern euatzlich hedacht zu nehmen. Ärtikal 118. en unehglichen Kindern sind durch etzgebung die gleichen Belingungen für Ere leibliche, geglische und gesellsghartliche Entwicklung zu schaften zie den ehglichen. rEikgi 113. Alle Lundesangrig at Etregeseta ingeschrurkte Terane zu hilden. Ileges Zecl: dari nIch Ausführengegeestee nichl gerindert werden. ine Landerbehandlung der peiltischen Vereine st Zurgsschlossen.
+               </p>
+            
+            <p type="legal_section"><label>2)</label> ur Vereinigrnge verfolgen. lten dierelhen Bestizleber die Rechtstahigssitvon ven lestlaner die Zorschriften der BürgerZirn Rechter. 271246
+               </p>
+<p type="legal_section"><label>2315</label> Stastelurgen ten d25 dane a dan oder besonders ArlaubDie unberainet zu versanndtn. sziehert E Versamlungen unter Treienn innel Sonnen durch Eindesgsretz anweldepflichtig getalht unsbei unmitielberer Gesährdung der eilnotuer dder anserer Sresnen verboten werden. ElA. Dievolle blanbener und Genis. sbesonders die prirete und Difentchs Redlgisneätung wird sederaen gesahrtoietet. ettsshrantungen sind nur duch de Stralgosetz zullseig.
+            <pb facs="#facs_41" n="41" xml:id="img_0041" break="yes"/>
+            </p>
+</div>
+<div type="article">
+<head>Artikel 122.
+               </head>
+<p type="legal_section">I) Der Genuge der bürgerlichen auf politischen Rechte sowie die Zulaszung zu den öffentlichen ientern ist von dem Religionsbekennthis unabhängig; loch darf den staatsbürgerlichen flichten duch des Religionsbergnatnis kein Abbruch geschohen.
+               </p>
+            
+            
+            
+            
+            <p type="legal_section"><label>(2)</label> Hiemand ist verpflichtet, seine feligibse Ueberzzugung zu sifenbaren. Die Behören heben nur sereit das Recht, nach der ZugehsFigkeit zu einer Religionsgesellschaft zu frege, als davon Rechte und Pflichten abhangen oder eine eeptelich angeerangte statistische Bruebung dies erfordert.
+               </p>
+<p type="legal_section"><label>13)</label> in dissen Sinre ist durch Bungasetz die Fährung der Stendeeregister zu regelaeh
+               </p>
+<p type="legal_section"><label>4)</label> Wierand dart zu einer Kirukchen Handlang. dur Teilnekre an einer Zirchlichen eierlichkeit oder zu religiteen letuigez gezwunen werden. Zugerichtlichen oder sonstigen beörklichen Zrecken darf leine religisse LidesFormal benutet werden. ikel 123. Staets und Kirchs werden getrannt.
+               </p>
+<p type="legal_section"><label>2)</label> das Fraikeit der Fereinigung zu eligiensgeselleshalten wird grüatrleistet. Der Zuaenschluse ven Feligionsgerellschaften inveralt des Fundergelieter unterliegt keinen ReschränZungen.
+               </p>
+<p type="legal_section"><label>13)</label> Jede Religionegerellschaft ordnet und verwaltst ihre Angelegenheiten selbständig inderhalt der geertzlichen Setranken, Sie verietkt ihre Lenter ohne Litwirtung des Staetes oder der fürgerlieben Geweinden.
+               </p>
+<p type="legal_section"><label>14)</label> Die Rechtsfähigkeit der sionsgesellscheften richtet sich nach
+            <pb facs="#facs_42" n="42" xml:id="img_0042" break="yes"/>
+            sten des bürgerlichen Rechtes über der Vereine. Taker Lat. Wicker aEbesstr. Vertreg sclteritein vernherden Stentedie Fediglengerel Peltend Anfetdrigen de Eientlicher Sebrrecht i die nötige Frets zuf befriedigeng ihrer religibsen Gedürt. das Bedärknis nach elsorge ir öffentlichen dealten testekt. sind die Keliglonsgescllachet. zur Vornehre religldser Kerklungen zuzulas R. Totei Jeter Zuene fernenhalter ist. Artital 22. Dis karst, die
+               </p>
+<p type="legal_section"><label>2</label>r Eirstrad. Dar Ptant die Piege iseStents rrikelled. Verteht ellgemeine SchulErer erfaltung dient gründentzlich Foldeschals mit windestens BSchuljahren und ibehellisssende ertbiggechale Die zum olsndsten l.steusjelt. Der Interricht is Lerpaittal Kind urentzeitlich. Arliksl 145. Inaller schalen in atsbürgerliche besinrung und rütliche Ruch keit zu sretreben.
+               </p>
+<p type="legal_section"><label>2</label>DeiRVaterricht in öffen Bedacht zu nehmen. ass die
+            <pb facs="#facs_43" n="43" xml:id="img_0043" break="yes"/>
+            Ampfindungen Andersdenkender nicht verletzt verzen.
+               </p>
+<p type="legal_section"><label>13)</label> Staatsbirgerkunde und Arbeitsuntetricht sind lehrlicher der schulen. Jeder Schiler erkält bei Beendigung der Schnlpflicht einen Abdruck der Verfassung. Ertikel 130. Für den iugang Kinderbemittelter den nittleren und Löheren Schulen sind durch kund, Lönder und bemeinden öffentliche Wittei oreitzustellen, inglesondere Erziehungsbeihilfen für Eltern von Kindern, die zur Ausbildung auf nittleren unl Eöteren Schulen für geeienet erachtet werden, die zur Beendigung der Ausbildung. Ertikgl 131. I) Von Staatswegen wirt Ahar der Religionunterricht erteilt, noch für die uebildung von Heblsorgern irgent einer Religion faen en zu gehen,ndem von en Eeligionegsseliechaften veranntalteten Relientunterricht teilzunehmen.
+               </p>
+<p type="legal_section"><label>(2)</label> Die Teilnams der Schüler an egen Religinsunterricht sowie in kirehlichen Rl Fsiern und Kandlurgen bleibt der illensErklürung desjenigen Überlagsen, der über die ligibse Arziekung der Kinder zu bestinen het. Ertikel 132. Prirete Schuien de Aratz für Öffentschalen Aarürien der Benehmigung des Bun- und unterslehen den Hundegggeetven. Artikel lr.
+               </p>
+<p type="legal_section"><label>1</label>lie underengehörigen heben ein eisher Recht auf lahrung ihrer Ftionelitut und Spracke. Bundezangehörigen werden.
+            <pb facs="#facs_44" n="44" xml:id="img_0044" break="yes"/>
+            sprauchs itren siubr Sprache schiftsrerketr ante hei Retatigung der reliüeherzaagene. InderTrase oder in sonersentlichengen der in ellgewein zuVerranlungst Eeskränkungen auferlest. ) Duret Sonst wird vergedoret. n nicht bentertspreckenden Landesangbärd Sebtekterungen zum Gebrauch ersprache inort umi Schritt bei den Gerieh stenwerden Fer Lat. 21 1671 152 ner Sinderkeit angeKören. eben u Elesche Recht wie die der Jehrheit ugsterenden. In den auf itre eigenen Kosten rrichteten ohltätigies-RligionsUnterrichts- un sonstigen inshalten ihre eigens prache nach gelieben zu getreucken und ihre ReliFre deben 2421 noschalen rahl von udesenzehbrigen wohnt. auerheit nach Aatienelithe Ider Srrack ind der allen Beiträgen, Sisstra fer chuege-ui Schleatigkezwecke aus Stientder Aittein zugewandt werden, diesa winderesen zuteteilen.
+               </p>
+<p type="legal_section"><label>26</label>t 235 igenten ist vender uct erlichen und darch en würden. die Lrocke, zu denen Ertaiene 7 erben in besonderen benstien, dar Enteignungeverlahten wird durch Kandsegsrate gererelt.
+            <pb facs="#facs_45" n="45" xml:id="img_0045" break="yes"/>
+            In wolchen Fällen auf Verfall er Anziehung von beerstunden ale Feige einer ochtenidrigen Handiung zu erkennen ist, besti mnt a5 Geyetz.
+               </p>
+</div>
+<div type="article">
+<head>Artikel 157.
+               </head>
+<p type="legal_section">Ils Fideikemnisge sind aufgehoben.
+               </p></div>
+<div type="article">
+<head>Artikel 138.
+               </head>
+<p type="legal_section"><label>1)</label> her durch schuldhaft rechtsörige Zusübung der öffentlichen Gehalt Schaden erleidet, hat Inspruct auf antechdigung gegen den Hund oder des Land, durch dessen Irgen der chaden zugefltt wurde.
+               </p><p type="legal_section"><label>2)</label> Die nitere Regelurg erfalgt X Bundesgegete, Dieses stellt auch fext, unter welcher Veraugedzung ein Rckgriffsrecht En das sehnldtragende Orgen zulierig ist. rtikgl 129. et nter nderen Schutes des Funder.
+               </p>
+<p type="legal_section"><label>2)</label> Der Sonntag und die stastlich nerkannten Feiertage bleibenale Tage der ArBeitsruhs gesetzlich geeglütet. ) die in den geltenden Geesten Gunsten der Arbeiter geschafferen Rechterinchtungen, insbesondere die Betrieberäte und Ie Achon beglehenden vertzlichen lagenehmen ea Lrbelterechutzer werden verlasenngewästig Eeauhrleiptet. Sie lönner zu Urgunsten der Areiter niezt abgeandert wersen und sind weiter en, See au die Land- und eretwirtchaftlichen Arbeiter mit, Berlebeichtigung der besonderen Terhiltndeesenkendehnen.
+               </p>
+<p type="legal_section"><label>2</label> Der Bund schafft ein einheit Arkeltsrecht.
+               </p>
+</div>
+<div type="article">
+<head>Artikel 149.
+               </head>
+<p type="legal_section">Die Vereinigungstreikeit zura . Perterun der Arbeitstedingungen
+            <pb facs="#facs_46" n="46" xml:id="img_0046" break="yes"/>
+            Serute für jedernen und slld lche diese Frei IIe Abreden und Massnahmen, Einzuschrunken oder zu behindern suche, eit sind nichtig. Arlike Zur Arhalturg T2. Arbeitsfähigkeit, zum Schutze der Mutterscheft und zur Vorserge gegen die wirtschaftlichen Folgen von Alter, Schrache und echselfallen des Lebene schafft der Bund ein unfasgendes wobss die Verwaltung anbeersicherungenesen, sehedet des Autsicltsrechtes des Staztes auschliusslich von den Verzieherten selbst an beergen ist. der in einen Ais steh Angestellter oder Arbeiter das Recht auf Sie zur Lahrnehrung stratsurgerlicher secht undasmeit dadurch der Besieb Nicht ertetlich geschidigt wird, zur Aärbung ihr übertragener öffentlicher Ehrenämter Traie heit. iegeit ihn der Ansgruch auf utung erhalten hleibst, bestinnt des Geeez. rtikel le. eden Bundssangetärigen soll die egeben werden, durch wirtschaftArheit seinen Unterhalt zu erwerben. Soseit ihn argemeesene Arteitsgelegenheit nicht achgeriesen werden kann, wird Für seinen natendigen Unterhalt gesorgt. Des Achere wird durch Fesetzbestinat.
+            <pb facs="#facs_47" n="47" xml:id="img_0047" break="yes"/> berentien der Veriastung und Verwaltung. Ber Verhaltungsgerichteret. Artikelt2. Jurch die eten Rechtsrerlstzung scheidurt oder Verligung einer Verwaltungehhres, des sundee der eines Landes entechet ist ach Erschoptung des administrativen Iustangn usbe der Verwaltungegerichtehat. Brtikel 145 Ider Verhaltungsgerichteht hat eh ennenn die inteheidg Verfugung einer Lendesbehtrad die Interesem es hundes versetzt, auch die Buneereierung, enn die Entscheideng oder Verilung einer Zunebeherde dieIntereen einer sen verltet ustndie e den Verweltunge ehuruler Zetiktl 125. Von der Iuständigkgit dee Tervalgebrichtsteide eint ausgeschlesen dle Anrenheiten die den erientlichen Sorich2 2221222 Aur A222 ören Aeherde
+               </p>
+            
+            
+            
+            <p type="legal_section"><label>21</label>n1 ran den ader zu vertugen e nt3 Reein Klanter AnghErt Terfal
+</p>
+<p type="legal_section"><label>4.</label> in denen und ingers eeen nech freien Ermengen verzugeken Eikel 147. Anm Schutze, der Interensen des Bun-
+            <pb facs="#facs_48" n="48" xml:id="img_0048" break="yes"/>
+            Tetsteren Felle nu auf eines Lenles. Im Antucken Aitsee lanles, kenn die Hunderregterngs eitetscheidungen und Veritzungen ven Funder- oder denschewrden, die ir ardung ver Lertengreeteen srfolgen, auch den den Verwaitungere Ticktalat anraten, enn die Antscheidung eder ferEügung nach freien sruessen zu treffen er Ertikel 125. Inelten 211en, in deren der Verferiskinket von den Sertehen aneruten Kennl der Aminlatrative Insangenzug in ingelagnheiten des elhständigen Eirkungekreiets Znger noch ver der ntscheilurg der Landgereunt, in den lhrigen angelegenheiten perkver ntsaueldurg der Jundberegierung zu enden. tern nicht in den gretegen sullen die Andeere. srun, Inein letzteren 1ie Hundteregierueg in er Instanz zu entschelen ker. Ärtikel 48 dis start 734 erirkt die Zutharung der leian oder erldung. wrde ist bei endcrscheiug oder Terienne g des Verweltunggerichte ken shriden ikst Lr. 164 Verralten krahsthat der Budehurtstalteran ar bestekt dur sinen Prastdenten zeprisicenten und der erforderlichen inzall enatsprisidenten und Auten. henlgetend die Hällte der Aitjeder misd die eignung zum Rlehterante heben. <pb facs="#facs_49" n="49" xml:id="img_0049" break="yes"/>
+            Ertikel Der Prasident, der Vizeprisident and die Mitglieder des Verhaltungsgerichtshates werden anf Vorschleg der Burteeregierung ver Prxsidenten des Zundestiges errerrt.
+               </p>
+</div>
+<div type="article">
+<head>Artikel 152.
+               </head>
+<p type="legal_section">Die näheren Bertimungen über die rHaltungsgerichtsharkeit erfolgen durch BunAesgesatz. Der Tortesanzegerichtehet.
+               </p></div>
+<div type="article">
+<head>Artikel 153.
+               </head>
+<p type="legal_section">r Verfassungegerichtshei in Lien tscheidat alle Rechtsstreitigkeiten erischen en Landern sonie zwischen einen Lande und den Burae
+               </p></div>
+<div type="article">
+<head>Artikel 134.
+               </head>
+<p type="legal_section">ir entscheidet Termr. Kampetenz424 Wilchen Gerichten und Verwaleden des Bundes oder der Lünder; zurscher dem Verwaltungegerichtet tund den erdentlichen Gerichten; e) Zischen Landeere larungen unterinander sewie zwischen einer Landerregierung nd der Bunderregierung. Artikai 155. ) Der Verfaszungsgericktebst entüber begetaridrigeit von Verordnungen iner Kunde- oder Lerbeststorde r latren inee berictige: über Geentzwidrigkeit von Verordnunn einer Lundestetärde auch auf Antret der Tundeeregierurg: er Geestzeldrigeit vor Veroränunn der Bundestehbraen auch auf Antrag einer Landesregionngs
+            <pb facs="#facs_50" n="50" xml:id="img_0050" break="yes"/>
+            gebende Erkennte richteusten wirkt die auf Verfagtung u er gesolzlerien Verorduungen und versead Febres zur unverzls 2124 en Lundrachung der gefelgten Aufhebung. deb der VerLarckeile er Tarieuneidrigkeit ver lendes. seizen er anin Artikel75ernänten der Bundgeregierngber er 22 Der Lenteragierun kenn Jederwerden; er lat esfori der zuständi- oder der indeersierung En stetigatenie Erkenntnie der lhles bewirzt die Anthehene erpflichtet die eustndie er der grlolgten Auftann in LandesTatati ltte derderggerichtchet A i Schranen geunder Kel 157. rict tocze hangen ehler e erdester. lt nundelen anderen eileinen Tretergeerern nd über den ntrag eiter leger Tertretangekörger aus Erklerung LeE Kenteverlistee einer seiner Litzlieder. rtikel 238. der verteeungererlcht ser die verentvortlichkeit
+            <pb facs="#facs_51" n="51" xml:id="img_0051" break="yes"/>
+            Andestage eiderten des teltverirsten ir dirglieder der Bundgeregierung itnen hinzichtlich der Terenvortlickgleichgesteliten derand ir 1lieder der Landeerg erngen r innen Einrichtich der Veran prtlickel nohsstellten Ergane, K.un.: ween vgrentglicher oder grobfahrläseiger etnt der Annasverlagung duruh den Trdeientan deg Bundestage oder geiret siellvertreter inen Antzag de Hundestager t veratzlicheroder grotfehrl1- tsterletgung der eut beenannten erinen durch ihre Antstätigeit an einen Antrag es Bundertagen und negen vergätzlicher Eder grobfahrlässiger Seee seeverletzung der sul nanttenrennen ch ilre Inleistigteit auf o zustindigen Landtes und über die Verenvertliereit der im uhtnenner, seiner Stellvertester und des anasantedtrettere een veretlicheroder ohlehrlägiger beeiteserseteng lüuret ihre etutigkeit oder wegen Richtbefolgurg der Verrdrungen oder Bonstigen Aurrangener urder Astr Verertr risdeVer trehefertu Vervurt des Auten unter besoniete erecheererten Vrständen auch auf Verlust der pelitincher Rechte zuleuten. rtII 223. der Verrassungsgerick laust splechst Der Beschwerdeniwegen Verlefzung siner der Eahrleiststen Inden Artikein 225 eErie nact Erschöpfung des Rechte durch eint administratiren Instenkenenges.
+            <pb facs="#facs_52" n="52" xml:id="img_0052" break="yes"/>
+            des stattgebende ArEpatuis des Verlensungsgerichtshele bewirkt die Zufletur stariargungeeidrigen Entscheinung bder ter Zung. die Scixien Eind bei der neu zu traffent Enterheidung oder Verfigung an die Rechts nsehenung des Verfarzungsgerichtshafeegehungen. Ertikel 1es.
+               </p>
+            
+            
+            
+            <p type="legal_section"><label>1</label>ie rtutier der ekenntnisse der erfarangsgerichtslofes ehliegt der Prixidenten der Zundestagen. AEtibgl Z6l. derertenun atehst1 Etstett auintnraikenten, einen Viagpreitenten, Mitglierrazitlie Aera. der Erheident, der Vizeprieh Ent. 7 leter und dtrestamitelieder derum on Bunsecten. Kitzlieder und  iratzmirglieher Lanlgur iensdauer gerählt. der driden Loäter staht in Rage der Bandeskanzsta, der ireprsidenti Sat Fateters.
+               </p>
+<p type="legal_section"><label>2</label> Jur art der Aitglicher des Ver egerichiehstes dat. doret nicht litglieer als stindige Reserenten ungeren. di Ereit. ie Ständigen leferanten werden in einer neverdamrlung der Gerichtsholes aus der itle
+               </p>
+<p type="legal_section"><label>2</label>t 412 geuhlt. ETtikel 263. die ninere Organdsalden und das Verren des deresergererstteser wird durch rsgeset ege
+            <pb facs="#facs_53" n="53" xml:id="img_0053" break="yes"/>
+            
+            </p>
+<p type="legal_section">14
+            </p>
+            <p type="legal_section">
+            </p>
+            <p type="legal_section">44 s tei der  zu n reduel 1es. iie Een lasen Allelesker und len tglieder und et srait set. andem ineiner Mlenerre </p>
+         </div>
+</div>
+      </body>
+   
+    </text>
+</TEI>

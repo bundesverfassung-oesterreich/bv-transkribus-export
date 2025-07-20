@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Konzept für Kompromissentwurf</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217642</idno>
+                <idno type="transkribus_collection">196429</idno>
+                <idno type="bv_data_set">Datenset C</idno>
+                <idno type="goobi">18772</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
+                            <author role="acdh:hasAuthor">Sozialdemokratische Partei</author>
+                            <title>Konzept für Kompromissentwurf</title>
+                            <note type="editor">Konzept für Kompromissentwurf, Dokument ohne Titel. Kurzkonzept für einen Verfassungsentwurf, der teilweise auf Mayr II, teilweise aud Danneberg II sowie einzelnen gänzlich anders formulierten Artikeln eines unbekannten Autors zusammensetzt, 167 Artikel, Zustand gut, wenige Streichungen. Entsehungszeitraum wohl zwischen Länderkonferenz Linz und dem Zerbrechen der Koalition.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-04-20" notAfter-iso="1920-06-25">Zwischen 20. April 1920 und 25. Juni 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-04-20" notAfter-iso="1920-06-25">
+                    Zwischen 20. April 1920 und 25. Juni 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         </surface>
+   </facsimile>
+   
+    <text type="Verfassungskonzept">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+         </div>
+      </body>
+   
+    </text>
+</TEI>

@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__86">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll der 21. Sitzung des Verfassungsausschusses</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217700</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">18730</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">Parlamentsarchiv, Ausschussprotokolle</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                            <title>Protokoll der 21. Sitzung des Verfassungsausschusses</title>
+                            <note type="editor">Protokoll der 21. Sitzung des Verfassungsausschusses vom 14. Juli 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-07-14" notAfter-iso="1920-07-14">14. Juli 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-07-14" notAfter-iso="1920-07-14">
+                    14. Juli 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0170.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0172.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0173.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0174.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0175.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0176.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0177.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0178.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0179.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0180.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0181.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0182.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0183.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0184.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0185.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0186.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0187.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0188.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_19">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0189.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_20">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0190.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_21">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0191.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_22">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0192.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_23">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0193.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_24">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0194.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_25">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0195.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_26">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0196.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_27">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0197.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_28">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__86/800/0/IMG_0198.jpg" width="3840px" height="5120px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>Entscheidung Jörg: Gegenstand der Sitzung ist die Wahlordnung, deshalb soll das folgende Protokoll nicht präsentiert werden
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            21
+            </p>
+            
+            <p>Konstituierende Nationalversammlung der Republik Österreich. Verfasungs-AusschussProtokoll Über die Sitzung am 14. Juli 1920 Anwesende: Seitens der Regierung: Hofrat Fröhlich und Ministerrat Ruba[?] Obmann: Obmann-Stellvertreter: Abg. Prof. Dr. Seipel Schriftführer: Abg. Ulrich[?] Mitglieder: laut Prüfungsliste <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            Der Vorsitzende Dr. Seipel eröffnet die Sitzung um 10.30 und teilt mit, daß die Regierungsvorlagen bezüglich des Gesetzes über die Wahl und die Einberufung der Nationalversammlung, sowie des Gesetzes über die Wahlordnung für die Nationalversammlung über Beschluß der Nationalversammlung im kürzesten Wege dem Verfassungsausschusse zugekommen sind, daß scheinbar eine Parteienvorbesprechung stattgefunden habe und als Berichterstatter Abg. Dr. Adler in Vorschlag gebracht werde. Über Antrag des Berichterstatters wird in die Verhandlung des Gesetzes über die Wahlordnung für die Nationalversammlung eingegangen und vorerst eine Generaldebatte abgeführt. Berichterstatter Dr. Adler berichtet sohin über die Parteienbesprechung unter Hervorhebung der von der Wahlordnung für die constit. Nationalversammlung abweichenden Punkte, die von der Regierung in die neue Vorlage aufgenommen wurden. Da sich sonst niemand zum Worte meldet, wird in die Generaldebatte eingegangen. Zur Abkürzung der Verhandlungen verzichten die Ausschussmitglieder auf die Verlesung der einzelnen[?] Artikel und wird die Abstimmung gleich bei jedem einzelnen Artikel vorgenommen. Artikel 1 ohne Debatte angenommen. " 2 Punkt 1 Berichterstatter Dr Adler macht <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            2 darauf aufmerksam, daß über Wunsch der chrilt. soz. PArtei für Lienz mit einem Angeordneten ein eigener Wahlkreis gebildet werden soll. <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            er maiin Biindt fmind nngniine güstimmmsen fgelining n barigensfenten-mngnvnnnn. ji Rinnke 3 (friger t) frellt Alby dr Bannebergsan fonnnr, fmnn miit denl Rrgimngbmandenten slilifinthete Uutrng, Gutt, Als luttn Ulbputg dat S 1t mi ungrfiigt vnüve i ungnn: „Van fttt mandnn folggnede Ubfütgel meggefüigd Dun Bylufr das §S-min ungüfigen, (2 In Hmmnndne miit mirfr ull 20 ovofinnsfuene it zür begrinid dnn fanmmiengsffoist riv grdnne feirfer an nuins innn funns bainsfurnn luit güguneglifuneeen Figebunnn Galle (grübflor) non dey Hmmninde mene Arinmnggnngnengåfelugne murlige vrå jusl dnr Aluge Bungtrigdnnt, -getvnnnd rineh Sfrflngtenn iind ueng bår, nnnnul gevurte, fumirden Uiutsgniind mrgjble, riv mrlenin fimmunringnin gegnn die Hligdlasliftelun, ggebunggt mendand slevirerend". Faigir fgenge Eby. Austerlite, fodine mind Pinkt 3 funnnnt dan Elntringen dio Elbg de Veronseg g (fügen? Peintot 4 Ermdevfurn vebuth mngmeomennn. iintet 10 nand nnd fgifotginnng minnt nonn Seng. Nondrnter umiinfginn bristrigel nngf, Ahslninsgrngfltejøsdes nis Uofet 2 gmmnnn. nug fainket 10 (frrfer g) baundungl Aby. De Vannneberg, nn Wincht 114 -ningüfiign. In f 2 ie § 18 miid mng, Puifanfolgei (moy
+            </p>
+            
+            
+            
+            <p>ern Guifgir nterf Aug. utgufon rir Aby. dr Lohögg niggon. Aby. De Jehröno Frrze grn ned drr Alr. dr Tchont Aby. Aero Fir Abyt . Ag F g e vie Ay. dan Jemmir Oby de g der Beigen Wrinhel 1R ientl 14 1 1614 11015 18 (16)
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            dern Gunsginnkhe)-ningefiigt: nntug Angube des ter iind fünemend, burnfeß, Ur, Aualigufort rinnd dnn Uirefr grdat bunesbent: Olbg. dr Lehöpger benndtinge ded Slorst, Oobirtgegort ge mniggon. Abyi be Sebrønbaner benntungt getonmete elbftimming, Frigen fgrmgom den Uby. dr danneberg, deAdter, Vehiege nind der Alonfitgndel, nenmig fomst de tehröpfer ult dr Jchonbaner io Autunggo guüchgiifene. Aby. Murslerlete bruntungt, dn foft mun 100 Uuterffrigten Fer meine Alngionfgeng frnntgsfehgen Abgölldter ise gogstnd fis dis funndfofineg nef 50 Uuter, t. Deg de lelmmeider mnd miniferindoni dtuber forshen frid dii bricefaltiing dan fugl 100,forminenint, de Aog. Mirsterlite fuiinnnd Etutunng gerichgeigt demnine Prircht 11 dnt Elot 2 mmn drr fuffnng, vmi fir Ay va vunnebung benntungt, mugmvmmnee. Frinnig mind di Gihrüngunnd 12ie über Uutuung def Oby der Roler imngnn Bohring del frügtniessgifef nng 4 v Angnistugnstugd. deie Gitgingenind ine merde nngyjensmmere. ennhet 1Rf frifer 10) ii. 13 friges 11 nofere ibrelke mnsgnenneranser inkt 14 (11) mgemenene, 15 (13 banfor. 160 (14) sbnfrlts rengenesenenen 11015 4 18 (16)
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            sntt 19 117) mngmomnne 2o (18) Abg. Finke fgrige fiir dei füleffiing nenef Meter, 4ihelt bri § 38. Bofont Fråblich: den Mutrstitel follte man fgon bur Rriisht 11 gefeht mendee, Aby. Menin vintesftitgt den ltutong Finte. Abg Mersterlele sgrngt vugngens mid frrngt, ob melleiggt ning mejon Uutertetel ningefüiget uvdner sollure, Aye dr Wagner mmidint nåt die ltütfifriingnne des elbg. Auiteslebe Jojend Fröhlieh nofigge nin Mifhliivngene Frigtastulten drlliler nadleringt duso den Ueetestitele fjon brener te Mugleostfelerg niissøfetjene eriine. der non elby. Finte formistiåstg Metunng leigd bei miå meienne Vii feufügineg begugtiig det Uuetertiheli iin sliinhet 11 miegür, Seenl. og. Ansterlite drit miinnslig fån viier frgnigrering mene Abg. de Felropefer rofigl rine nijenre Miefteliningene Mutfegendrs di ferpoele gåbt drifrlben mer deng fund def neltene Mastgrsehed. Crgi de vekropdee munnd di førfigeng mniife nie forskeg 20 nngefetgern e fdlegene. Abg. Eusterlile golunifonst gugnnn eiby. br Fekrøjofer Aoy. de Fehrønbanner grier dnn Cluetnnng fiås übenglifeig. Aby Fiiche ensliishned fmrinnn Muetenng mn denn Geeiere, defo diå Rußsinnnn verthefinsmen dllugttenife Aufertiftel iang Andennn Auslhernifnen gåpmnnenegngugld enendnere Aeinnen im ffilbnee Aluslhrnid fhomnee fin nisdt gegnnerimerdir mfhoct Fofont Fröhlioh mnid Albyg. Abrarne fgnngen friger Abg dr Wagor dritt fir dan ehutung Frürh niie. Arby. 2 Folropger mannet, buine 1. Henitinrinene kerdennne foår Jrtannnt ning Uutestittel nigtotnen, buemd. Vnütiniener
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            meiet Uuher, Bris Puiretl 11 Alleige niing elby. Auiteslibe itel fjore brere md neiene cl 11 miegür nerieg nine rå des eltner ictg 20 üfeig Deto dei al netan nae gnnaiimeider mofhgete frge o dersennee ffis 2. Venitinieel
+            </p>
+            
+            
+            
+            <p>nbue die Rastheiienenen züfumnnnnstallant. fe stelll grani Alb, mubimnggbnntunge, dii britergnnoi gennt zu ff18 u ge. Dro Norsfitgende brinngt diferguindste diife beidtene guüdf güir Alb. Stimmeing: di lutruge werndme uigelefeel. Dus Chutung Fritg nnnird nnengerersmenenn vinid grlenengt buå iinhl 11 güis frifguitenng. Fofend Fråkliet, mast mnefeererkferee, df denbei g 38 a wuuc 318 nu tef f nigifehgnn isty fl j. Cheyneomenener. rihe mird neer drischfglen brü g53 dnftiggeftelld. bes Minfig dnt Norfigmidnen gidt fofunt Fröklishnn Miåghliiningnn. eriickt 10 miit dan Credenmgennn neegrnomenene. 21 (17) mngensmmnnd 21(20 25(2) g vensenire vrnndenge frutt Shrigring drr Slorte rr. mnftige merd Jofud Frdhliet, fgrnge füis Si nite Fefring. Kerhl 2 5 (22) vimnnenbert verrgenmnen 1 21 1 23) Prgnnninginestontendmnn buldrige Brpenidliieng mi fngmåssgefr. fntat 2 (23) mnngrenvennnnnn Prrkl 265 (24) berigtrstalter fgrigt iben die Mundutforsteileiing. Aby. dr Magr ffnlld dmn Cueteneg den beileigt. Ahg Nirnlschatr vrinetenigt iin Atorsfriing-des Hhendeete in Flietring nne 1 Mredet. Ahg des Bannebeng frelt Smnnetudeng den Prisniieghridineg innsfelle on Nradmrifennriig mnneg dene Progeng Gty Auserlibe mund, dud miset, mens nnn Ahrsrmenst mihetan <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            güselsfimming niind vnind frrsse sgotungt den elueteng de darenrebiig subgsleged unslig bni du gumittun, iøbao ltutung fr fohnerdlersseorgnnonnenen Abstiminüng mand der Cutung de beerneberg reegnnonnnn Autineg Svellerger if nbgrtegnt. Jofent Frdhlich nniid mmnefinge, dmer lendunng Verenneberg Zi Hilifnone. Aat 3 - J fornin lidel rind Frrigenng mnedna nerger n. o 2. Nilenkd den hirgefvnvaning : Arfetg isber dis Alege mid dor frisbvrifuing duo Putrvmetersfmenenleisgenen Frinnnng rin lntfmnnndleing gunommenen. Guanstontuften nertridt miine dis Bodtuge, 51. fofnt fröhlist mnint es føingefrgen ning ovene Gründfuehg den Ahoftnit nanfl nin gonri fomilllinegbner, fufnnd: Sngomomnen ister Mutoneg do Fohropger, mgmominn, Aster binntngt dis Strigring u fg itengitt bes del Juifeb ai Aofutz 2. Afnt Frdhlietg fgrigt dugegen, euby Aurterlite fgige figir ibunfe elbyg. Frnte. Mugmnsseennner miid Slarginfring enneg elertenig So lidter, §4 Fr Adler miste die latztnn gron Nüihge nunstilifremee Adyg Ficke Hrnntingt 5 frfen Legjlutingeriinde Fin Eutemge de Aoler fgringe fofent Frihlict er Autenng dr llåter leintet:unllbfutg l frå sterlt, nens mictinen Vonntugr nurs den dugli gå fofgne: ne hegge on dun füfminmnntiilte dro mrirne Hutirnrleandfunskeiig Son Mestelibe fgrgt gopnngrde Frndrerg end gepn Sgügrige Leyot lutüngeniide,
+            </p>
+            
+            <p>fofrns Firheish en Liteutierr. okeg dr lolropser atyg Ansterlite ivathete Auyuben Nr Aoler forminkein Aby der Vanneber r Vuin de le vustetfutter, eb, 84 Elofet 1 nng dr Abfutg 2 nnt miid meomn § 5. muganonene h der d aren un in Augl a Adlerbl Aey- Aurer Aey. be Aor onn Aeg. de Felvon Rrüeft -rfefe hu Ahy Fuih gunon Aung Mia Din Cerget. Alorfegien
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            Sfimming riend vnied Bgelen dorgnnonmne berg reregpendnenne 4 derennebeng en nerge. Sie Mugt nen gan orter. Adter n hege funskeiiny gen
+            </p>
+            
+            <p>hrhns forterth nstrnnt des lokego ns der grkgted Liteutuer. cokyg dr fotripfer gelannifistegngenelkglenatealiltg ofe meie Altyg lensterlite gugn diå fitummngder lrfitge mrd enisafge rahete Auynbent . Adler formiterst din Autriigge des Elby- Auiterlite ung brilenge Ay der Vanneberg gelenifinst gugnn elbg. Fint hur Vuine dae legisluturgenove fgenfunidro dforfitende,br vustusfuter, elbg. Furtes, Aby-Austerlite Abg. Kunlschate 84 Elbpot 1 ning drr Voslenges nergjonomnensn ennt dane Mateneg Ferte. Mofutg l minss miid doend Curdenmngnee nug Uiutang blloter mgn. § S. ungnuonenenn, fhuso §6. ihl i fgiigungnungnnomneene, dr danabiig milvet minen Hlinnitütsnntung begirglig r Vunss im heylutusgonve, Vie Angl del benistentuthris min anettugd, du Aby. d Adler mblegat. Aoy Ansterlete mill diefe ffanger deog fofort nüsforegene de Duisee der Legillueteir genod magvenffannnt uderdden Aby. be Aoter meind, ob die Bepgrigster onn. Wurg. dr Jetrnnender frnnge mn, ob niin funiisterfornn, deffun dle iüeft ijefnnd gü rrinustant ift, uld Hundidut mdsgestelll mndin hunnns, fofont Fröhliet gitt Aluftalinnng. Aby Fritg frrlit Soin Cuetengnief Nrstesbungfriing der Befinng Mergnnonennee. Nunsg Nindemåfungenns mensse der Alvsfigends Sren dosfelleeg dins Cieggelnggenefsirt mongnne nnng der fuüisfegiinng fortgirfegen, Aotfgling mmnn mengnneoneeenen,
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            Abg. do Dannebeig fgrng isber de Auglheoftnns der Gnnnneåden dind barigt nennns Rafsläterndnnndunng iin iygpølung Femmn fgrigt no füinr nuen Shngütennng me dii Rurhrinee fiis ibir Gennngestel Abg. Runlschate, ungungt diife Rfoliteån, Vii Tensoliteonnn mendimnggneomnenerd, Bgliso den Gigeunng fre Arind 14. Juli 1920. e gndgeg
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/> </p>
+            
+            
+            <p>Fäsenzliste der Sitzung des g Asschsses n 4. Duli 1920 A Serneleert nbr e A oret Munserliken ft 1 erteden rn l o Slich </p>
+            <p>0
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            Der Verfassungsausschuß hält morgen Mittwoch, den 14.4.M., um 11 Uhr vermittags im Lekal I eine Sitzung ab. Tageserdnunk Die Wahlerdaung für die Natienalversammlung. Wien, aja 13. Juli 1920. Bauer.
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            Aade  Ratt nn e Aae a olfteef e lnnnfanpiet d Polte den dlelglerde den fatienol Nrsainleug nienkeeg Jaref de Reimnes ne oletfeb onkige) Nih den fernitinf fre rt vnrlagen, tete Retteiliet Falagdeng die Aefmnienng ef at lv.
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            .  Ca. e e  n kree be seher Prelstieg gen Spgded Forkge. mutet, Gr Bepedslingrene ate de Val ie Aelne Sliinte genktr te en Flle der Tage iint dhen Bnsapoe neerneaten da e
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            Mense utatartenn 3 t Bnn a Aher Mr
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/> Irenke. Nr 11 molen flott y dir fage 6 dr feh folgen
+            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            .
+            </p>
+            
+            
+            
+            
+            
+            
+            <p>frd eihernfrdd Mun.
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            au Gunl
+            </p>
+            
+            <p> r aus
+            <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            Ggg e Renng ned geheherded Din Himinsind ginnid, angrmssfangn bret kn wih dien dunfhehgse Shehten ner fr trurtil a muresfrll, vuniten vir Atisen vintiid fond un Fenuge fhnnmid Sent Funedlistfhse frfsifanteg 2) un wrtlnanstundhert Kertuined unnnd Geftune Babng fid dir Ninngenb ge getisfend, Ainnobnfffring dt (rfund nefgergfen id ontyrohend dnt Nimngese diel dingebend Rlinns ir Krrnsten <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
+            tiet tdeed
+            <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/> . <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+            A, dr glrfen ferer mr frod a Krd aote mnigfigeni n Pastiidgente gdinfrngs ber fonhnnnig fil mnes dirf kerllenterttel (678/41 dntresfieken, gelter fir tet gonete fruneklerg rsfefrned eenne frder
+            <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+            Aelege. anhe e Ndand Keuken Norter Vre Nubnr deit wehet nfoonr nd aben Merft el Ler arter et ald Ahet Brgeitnnnnnf sfelten, ker meoprinlifer fartrrte Feninen wrsen ofe
+            <pb facs="#facs_25" n="25" xml:id="img_0025" break="yes"/> <pb facs="#facs_26" n="26" xml:id="img_0026" break="yes"/>
+            1 .
+            <pb facs="#facs_27" n="27" xml:id="img_0027" break="yes"/>
+            e uonrgele vane
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            <p>ednlu Peredte Sertg f Antfe. <pb facs="#facs_28" n="28" xml:id="img_0028" break="yes"/> agan der Annenagge r lat At ae se ulumimdei mid mie mit derro pingfu meinde in  jedem Hause an einer den Hausbewohnern leicht zugänglichen und l r sichtbaren Stelle (Hausflur)bine Kundmachung anzuschlagen, welche die Zahl der Wahlberechtigten, getrennt nach Geschlechtern und nach Türnummern geordnet, sowie den Amtsraum angibt, in welchem Einwendungen gegen die wählerliste ange bracnt werden können. </p>
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

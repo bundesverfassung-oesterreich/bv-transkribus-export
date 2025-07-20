@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__85">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Akademiker Entwurf Tirol</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217699</idno>
+                <idno type="transkribus_collection">195363</idno>
+                <idno type="bv_data_set">Datenset A</idno>
+                <idno type="goobi">18727</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 93</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Akademikervereinigung</author>
+                            <title>Akademiker Entwurf Tirol</title>
+                            <note type="editor">Akademiker Entwurf Tirol. Titel des Dokuments: "Verfassung des Bundesstaates Österreich", 97 Paragraphen, verfasst von der Innsbrucker Akademitervereinigung (laut Tiroler Anzeiger vom 7.7.1919, dort auch veröffentlicht. Zusand gut, keine Ausbesserungen oder Randbemerkungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1919-06-01" notAfter-iso="1919-06-30">Im Juni 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1919-06-01" notAfter-iso="1919-06-30">
+                    Im Juni 1919
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0093.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0094.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0095.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0096.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0097.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0098.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0099.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0100.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0101.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0102.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0103.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0104.jpg" width="3840px" height="5120px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__85/800/0/IMG_0105.jpg" width="3840px" height="5120px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Verfassungsentwurf">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>Verlassung des Bundesstaates Uesterreich. - 1.Staatshoheit,Verlassungsschaftung, und verfassungsanderuhg. lie durch die Rutlosung der osterfeichischen Konarchie selbständig gewordehen Lander karnten,Vestg reich ob der Ehhs,uesterreich unter der Enns,walzburg Dlelermark,IlTO:,VUratiber uhd die Treie ptaat wien schliessen sien als selostshalge plaaten auren Lreien vertzag zum Fundesstaat besierreleh zusammen. Die beschranken sich in der Ausubung ihrer Staatanchei? zu bunsten der Bundesgewall treiwillg im Zushss der nachtoigenden verlassuhg. rch die Lundesschilessung entaussern sicht nicht ihrer Statstcheit aur deh der BunAls Lände In übertragen A83087 2.5604 Uetesr Zuhaes Aers6 Die Lander nehmeh die Grundung des Bundes aufcE den Bunaesrat vor.II alleln Steul es zu,ule Hunesverlasn zu Schallen n cn zandern. Der Fuhdesrat besteht aus je lU delegierten, elche die Landtage der sinzelren Lander in denselben ehtsehuer. ber bemeinderat der stadt wien spiell niede die HolIe eihes Landtags. Das Mahdat der Mitglieder des Eundesrates ist gleich lang mit ihrem Landtagsmandat.Nach Erloschen des Letzteren sind auch die Mirglieder des Bundesrates Foh Den gewahlten Landtag neu zu wahlen. Die Mitglieder des Bundesrates werden aus der Fundeskassa Dezanlt. Der Bundesrat wahlt aus seiner Mitte eineh fraszdehten,zwei Vizeprasidenten und drei Schritttuhrer mil eihtacher diajoritat. Die Sitzungen des Bundesrates sind ortentlich wenn derselpe nicht ausdrucklien das begenteal beSchllesst. Der Bundeszat beschliesst in seiner ersteht iagung die Verlassung des Bundesstaates.
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            erfassung des Bundesstaates Uesterreich.1.Staatshoheit,Verlassungsschaffung, und Verlassungsänderung. lie durch die Autlosung der osterfeichischen Loharchie selbständig gewordenen Lander Karnten,Vestg feich oo der Enns,besterreich unier der rnns,walzburg pteiermark,iiro:,Vorarlberg und die Treie staat wien schliessen sich als selbstähdige ntaaten durch treien Vertzag zum Bunaesstaat besierreich zusammen. Die beschrahken sich in der Ausübung ihrer Staatahohei? zu bunsten der Bundesgewalt treiwillig im Zusmass der nechtoigenden Vertassule durch die Fundessclulessung ehlaussern sich die Lander nicht ihrer Staxtstoheit auf den der Buhdesgewalt überlassenen bebieten,sondern übertragen derselben lediglich aut dem wcge eines Mandates tur Zundesdauer die legislatite uha exekutive Ausübung derselbe. Die Lander nehmen die Grundung des Bundes durch den Brnaesrat vor. Ihm allein steht es zu, die Hundesverlassung zu schalten und nachtraglich abzuendern. Der Bundesrat besteht aus je lU delezierten, elche eie Landtage der sinzelren Lander in denselben ehtsehuer. ber bemeinderat der stadt wier spielt niede die Kolle eihes Landtags. Das Mahdat der Mitglieder des Eundesrates ist gleich lang mit ihren Landtagsmandat.Nach Erloschen des Letzteren sind auch die Mitglieber des Bundesrates vom nen gewahlten Landtag neu zu wahlen. bis Mitglieder des Bundesrates werden aus der Fundeskasse bezahlt. Der Bundesrat wahlt aus seiher Mitte eineh fraszdehten.zwei Vizedrasidehten uhd urei SchritttunFer mil eihtacrer majoritat. Die Sitzungen des Bundesrates sind orfentlich wenn derselbe hieht ausdrucklien das begenteal beSchlleSst. der Bundeszat beschliesst in seiner ersieh iegung die verlassung des Bundesstaates.
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            d Nach dieser ersten lagung hat der Bundesrat keine oraentliEhei Lagungen mehr, sondern Trili nur von Fale meh,wenn eihe Verlassnngsanderung oder ei2U lALt 3795 he andere durch die Verlassung des Dundesrates vorbehat tene Angelegenheit dies ertordert. d4 Das Recht zur Einberutung des Bundesrates steht der Ftasldehten des Bundesrales buer seinem Vertreter zu. Dieser1St ZUT LILBeFULug VerDIIICtet,wenn die Majorität der Delegation eihes Landes oder der Prasidem des Buhdes es tordert, § 12 Der Bundesrat lasst alle seine Beschlusse in Lanae weiser Abstimmunz,sodass die belegation jedes Landes rir eine Stimie hat.inherhalo jeuer beiezation entsclelden die absolute Mehrneil uer stimmen.Einstimmig heissen d atsbeschlasss, Wabnen alls Vessratibls le, ID Jehen nar die E A  3080 10060 oEtbab ubr deerl reStt h bun besetluss aer Vertasstet des andss zu Descasd ratsbeschlusses ertorderlich. § 14 Henn im Bundesrat ein Land seine Zustimmung einer von der Majoritat getorderten Verlassungsänderung verHelRert,kann diese Majoritat dieses Land aus dem Bunder ansschllessen. § 13 in diesem Fall ist ein doppeltes Reterendum vorzuheluiEX. 1.) in dem auszuschliessenden zande über den Gruud des Ausschlusses, Z.) Talls das Keterendum I den Ausschliessungsgrund LiEht beselligt,ein landerwelses nieierendum in den Landern, die für die Ausschllessung he haben. Erst wenn auch in diesen Referendiud ZjOTltl def Lander ale A Slllessug Des 57 S1e TGItSkTaiiG. § 16. die Durchtührung der rechtskraftigen Ausschliessugg Tindet erst fuht Jahre nach ihrem Zustandekommen statt, Eih halbes jahr vor dieser Durchtührung ist das ih § 15 beschnesehe Reterenaum zu wiederholen,wodurch ber entsprechendem Ausgang die Ausschliessung ruckgängig gemacht wird. Ue3 LlETIIs Ol ufad ganat15 ED-LaHA83  BB rungeh,die inherhalb dieser Zeit durchgefuhrt werden. haben für das ausgeschlossene Laha keine Geltung,
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            3 § 18 Wenn im Buhdesrate eines Landes eine von ihm geforderte Verfassungsänderung verweigen LTA„KaBII AELUG dieses Land selnem Austrill aus dem Buhue oul Falls 1st ein uospeldes heitrendun votz ein landerwei1. in den verweigernden Lände. rittsgruhd, ses fieterendum über den ArE.) Falls Letefenaum Lden AusErlLLBerund nicht austretenReferendum in u beselligt,e wehn auch rden Austritt. Fr. uem Lahd uB dlebes Heterendum den Ausiritt beschliesso, 1St. SF. Zechtskrältig. § 13 Für die Durchführung des Austrittes und das I durch geschaitene Interin gelten diesetden Gestimungeh,wie beim Ausschluss( 16 und11) d 21. Die AnInahme eines henen Landes in den Bundesstaal erfolgt durch eintachen Mehrheitsbeschluss des Bundesrates 22 Wenn ein hiebei in der Minderheit verbliebenes Land es innerhalb 14 tagen fordert,muss im ganzen Bunde sin landerweises Heferendum über die Autnahme stattlinden. Erst wehn auch in diesem Reterendum die apsolute Majoritat der Lander für die Kolnaume stimmt,ist aieselbe rechtskräftig geworden. Der Bundesrat kann durchl einstimmigen Beschluss tur die, detaillierte Hegelung einzelner funkte der VerTassung von Fall zu Fall die blosse Mehrstimmigkeit zuJasseh. §25 Der Bundesrat setzt durch einstimmigen beschluss die Stenerquellen für die Bundesgewalt testd24 Der Bundesrat seizt durch mehrstimmigen beschluss r Bund den einzelnen Lannern zur den Betrag lest,ueu BestreltuLg Ites Hausaltes zu leisten hat. d 23 Der Bundesrat schattt durch mehrstimmigen Beschluss. Gesetze zur Regelung der Liquidierung für deh Fall des Anstrittes oder Ausschlusses eines Landes. Der Bundesrat nimmt mit einstimmigem Beschlusse die finanzielle Liquidierung des trüheren Staates Uesterreich zwischen Bund und Ländern vor 3 Sandesrat wahlt durch mehrstimmigen Beschluss zgidenten und den Vizeprasidenten des Bundes auf TubI Jahre.
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            4 d 28 Der Bundesrat erhennt durch mehrstimmigen beSchluss die Mitglieder des verlassungsgerichisnoles. Alle ih diesem Abschhitt angefuhrten su werden durch den einstimmigen beschluss des Bundesrats Bestandteil uer Bundesverlassung. 11. Inhalt der Bundesverfassung. A. Bundesgrundgesetze. 30 BundesgruugWetze siu Uirekt vom Bundesrat hege der Verlaseenesgebung geschättehe beserze, rch weiche die Lander sich selost und die BundesGehall DlLde,Jede Lels1lve und Exentive handes- oder Bundeshandlung,ule gegen ein Dundesgrunageserz verstosst,ist von selbst uhgiltig,Ob dies von Fall zu Fall ZutriIit,entscheidet der VerfassuhgsgerichtshOI. d 3 Die Bundesgrundgesetze zertallen ih bundesverDote und Bundesgebete. a)Bundesverbote. § 32 Das Verbot,Gesetze zu beschliessen,die gegehdie Gleichheit der Bürger vor dem Gesetz verstossen. §33 Das Verbot,St:atgesetze mit rückwirkender Kraft zu beschliessen. §34 Das Verbot die Todesstrate aul politische Vergehen zu setzen. § 35 Das Verbot der Fechtsverweigerung, § 36. Das Verbot der Verletzung des Hausrechtes. was Verbot der Verletzung der personlichen Ersibelt
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            -3- 335 Das Verbot Spielbanken auf dem BundesterritoFiüm zu dulden. § 39 Das Verbot innerhalt genauer,vom Bundesrat aus dem Verlassungsweg gezogener brenzen die vonlitionsPress- hha Glaubehstreiheit zu beschranken. § 20. Das Verbot der Errichtung von Zollgrenzen innerhaln des Bundes.Das Recht Iirols zur Einnerung des GeTFeideautschlags wird von dieser Bestimmrung nicht betroITen. b) Bundesgebote; §31 Das bepol, Izerhaib des bundes sowie jeaes Lanues die deuische spracne als sraatsspracne einznführen. was Recht iirels eventhelle Ausnahmen von diesem beoote zu Günsten der bodenständigen ladinischen Bevelkerung zu chenwird vom Bundesrate auf dem Wege der Verfassung zenan umschrieben. §42 Das Gedot innerhalb jedes Landes den Schulzwang fur Elementarschulen einzuführen,die mindestehs lesen, schreiben und die vier elemehtaren Rechnuhgsoperationen Lehren. B. Kirkungskreis der Bundesgewalt. Der Wirkungskreis der legislativen und exekntiven Bundesgewalt umtasst alles,was der Bundesrat ihr durch verTassungserhaftung zuweist. Es ist das im Lihzelnen das Folgende §44 Das Heerwesen aber nur soweil,als die Verbereitung der Schiagtertigkeit fur den Friegstall eine gemeinsame Fegelung unbedingt ertordert. Die gehanen brenzen hietur werden vom Bundesrat aus dem Wege der Verlassung testgelegt. §45 Die Entscheidung über Krieg und Frieden, alle ausWatligen Angelegenneiten mit Einschluss der dipiomatiscren und kammerziellen vertreiung dem Auslande gegenuper,insbesohaais ier Abschlnss von Stadts- und Handelsvertragen sowie die in betfeii der inteznariohalen Verträge hotwendigen verLugungen. §46 Die Fuhrung des Bundeshanshaltes, die Verwaltung ges Bundesvermögens und der Bundesschulden, die Eegelung des bundessteuerweschs unter Benützung der vom Bundesrat aus der wege der Verfassung der Bundesgewalt zur Vertügung gesteilteh Etsuerquellen 23.
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            6- 347 wié Führung der bundesstaatlichen Statistik. §40 Das Arbeiterrecht,Fraueh- und Einderschutz,bes soziale Versicherungswesen,soweit es sich um Verhalthisse der ihaustriellen arbeiterschait Eandelt. bie Gesetzgebung aut dem Gebiete des strai- und ZiVilrechtes sowie frozesses, die Geseizgebung auf dem behiets der Konsulgerichtsbarkeit sowie Eegelung derselben. Die Gesetzgebung tetreftend die rechtsverhaltnisse an Frula und, Boden bleipt den Landern vorbehalten,innerhalb vom Bundesrate aus dem wege der verlassung gehau les geleglen trenzen. Die Hegelung des Handels- und nechselrechtes, des falehtwesens,Marken- thu musterschurz, der Schutz des gelstiger Eigentums,das Münz- una werrungswesen,die pundesDax,as Funzierungswesen,mass und bewicht, das Zollwesen. 361 Das Verkehrswesen (Eisenbehren, Schitfahrt,LuttSchittahrt,Post, telegraph und jeleptor;, sclerhe es sich hiebei um Materien handeil,Gie uter die Frenzen des einzer nen Landes bihaus ottentliche Interessen lahgieren. nahere Ausgestaltung uer Lundesverlassung innerhal der Erenzen,Felche der Fundesrat durch die von inm beschlossehe Verlassung gezogen hel. G. Sie Legislative des Bundes: a) das legislatire Urgan. 35 Das geselzgebende Urgan des Bundes ist der Bundestag.-Er besteht aus eihem Uner-und Uhterhaus. 32 Eeide häuser weraer ir gleicher,geneimer,unmittelbarer Abstimmung nach UrmVerhalthiswahlrecht aus zen sunde gehallt,sahlberechtigt Ist jeder Bendesbr-dn durch das Fahlgesetz vom iahlrecht richt ausgeschlossen ist. Die Altersgreze tur des akive ahlrecht ist im dl. 2t Utbetteus au sete. eetau dad Pase i Überhaus3, im UnterAlls ad Setire.
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            §36 Die Rahlkreise dürten die Landesgrenzen nicht überschreiten.Sie sollen für das Oberhaus seilaulig w.U inwehner, lur das Unterhaus beilaul 40.U Einwohner umlassen. Die Mahdatsdauer ist im Unterhaus 4,im Überhaus &amp; Jahre. 3 beide hauser treten Fetreini unter dem Vorsilze ihre Heltesten zusammen una wanien irre Leilung,aie aus einen VorBilzehdeh,z Stellvertreterr,3 schritttuhrern besteht,aus ein Jahr. Die Verhandlungen beider Fammern sind ihmier getrehnt. §35 Das Vorschlagsrecht ( die Initiative) steht, dem Frasz denten des Bundestreistaates der sundeeregierung jeder der beden Kaumern und jedem sinzainen Mitgliede zu. wenr handerttausend stimmterechtigte Bundesbürger es fordern,steht die Initiative auer beim Volk. 260. Vorlagen der Sundesregierutg können in jeder def beiz den Kammern eingebracht werden. zu einem giltigen Beschluss ist in beiden Kemmern die Ehwesenheit eines vollen lrittels der mitglieder ertorderlich. Es entscheidet die atsolute Mehrheit der Anwesenden. Zuf Erleaizung aller Angelegenheiten im Mirkungskreis des Bundestages ist der übcreihstihmende beschluss weider Rammern ertorderlich. §63 Henn trotz zweimaliger beratung die Uebereinstimmung beider Kaannern nicht erreicht werden kann,dann hat das voerhaus das Recht,ein Leterenduhi im ganzeh Bunde anzuordnen. Die stim iahderweise statt,wie bei den vo Zahlung Tinuet hrebei nich Bundesrat angeordneren Teterenden ( siehe § 15,16 Z1),sondern e ehtscheider die Majcritat der stihmen des ganzen Bundes. §64 Nenn das Überhans auf dieses Reterendum verzichtet,dann gill der Beschluss des Unterhauses als beschluss des puhdestages. §63 zur giltigen Erledigung dieser Angelegenheiten im Nirkungskreis des Enhaestages ist äusserdem die Zustimmung des Prasidenten erforderlich. ra die seibe verweigert, dann ist nach IU Tagen nochmalige Abstimmung in beiden kammern notwendig, wobei zwei vrittel Kajoritatgefordert. Eei urgehten Angelegerkeiten kann der Bundestag die Antrort des Präsidenten innerhalb z4 Stunden fordern. sin auch in der zweiten Abstihmung angenommenes besetz wird dann auch,
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            wenn der frasident seihe Zustimmung weiter verweigert, trotzdem rechtskraltig. bie Milglieder der Bundesregierung siha berech-El,zn llen Verhandlungen des pundestages leilzunenmen d Kann Ite AWesensel aueh von lelzverei geiordert werden. § 61 Die Sitzungen beider Kammern sind öffentlich, sofern dieselben nicht ausdrücklich das Gegehteil besciieSseh. § 63 Die Mitglieder beider Kammern werden aus der Bundeskasse bezahlt. §69 Die Verhandlungssprache ist ausschlieslich die deutsche: b) Die Kompetenz des legislativen Urganes: §70 in den FiFKuigsfreis des Bundestages lalit ue leglslalive ieil aller jener Angelegenheiten. Aie der Dundesrat durch Verfassungsgebung der Bundesgewalt überTragl.(ihsbesonuere auch haulgeseiz zum Bundestage und Geschaltsoranung uesselben,. Ferher Die Entscheidung über Krieg und Frieden. §72 Die Prüfung und Genehmigung der Staats- und Handelsverträge. §73 ie jahrliche Frütung und Gehehmigung der Kührnng des Bundeshausraltes und der Rechnungsabschlüsse,die Jahrliche Bewilligung der Steuern und Abgaben. §74 Die Erhebung der Staatsanklage. §75 Die Zusuebung der Kontrolle der Bundesschulen. §76 Jede Kammer ist berechtigt,die Mitglieder der Bundesrezierung zu interILleren, in allem,was ih Wirkungskreis ertordert.Ausschüsse einzusetzen und ihrer Ansiche in Form von Entschliessungen Ausdruck zu verleinen.
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            J. Exekutive des Buhdes: a) Frasideht und Vizeprasidenten: Die Wahl des Trasidentenuha izepreszdehden des Bundes tinuel duren den Buuusstat statt.d zr; 318 FassiV Wahlberechtigt ist jener Staatsburger,der nach lem ahigesetz zum Bundestag wanlberechtigi ist una das -. lehensjzür Vollehdet lat frasident uhd Vizeprasident massen verschieaehen Landern angehoren und durteh wahrend ihrer Amisaauer kein anderes cltchtliches Amt bekleiden und weder Mitglieder des Bundesrates hocn des Bundestages sein. Erasident utid Vizeprasident leisten in die Handues lasluehlch ues Funtesfales ule Angelobung aul ale LundeStElass Der Trasideh? vertritt den Bundesstaat nach aussen espranz6 bezlaubist die Gesandten,ihm obliegt terher Erst on Vorschlaren über die Bestellung oder KpbeFutuns der Bundesrezierutg an den Buhaest le Erwehzung uDC Koberutung der Aiplomatischen und koh ziellen VertreLer im RUSlauue,vie Zelcinung Ger hundesgeserze und bescrsse ( siehe z 65 §62 Dem Prasidenten des Bundesstaates steht das Recht der Abolitich zu sowie das Recht btratnachlass und Aurhebung der strattolgen zugewahren, sowie das Rechi der iniularve 8331. Ver Prasiden? ist dem VEIke für seihe Khlsführung verantwortlich uzu Fann unter Staatsankiage gestellt werden. wehn der Frasident des Dundesstaates aus irgend eznem Gruha sein amt verliert,tritt der Vizeprasident fur äx festliche Dauer der Amtsperiode ih seine Rechte und FilicR Leh.Fuch wahrena seiher Amtsdauer kann der Prasident denVizeprasidenten fur einen bestimmten Fall oder aus bestirenbe Zeit mit seiner stellvertretung betrauen (zum Be-apiel bei Abwesenheit des Frasidenten im Auslande.)
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            c) die Bundesreglerung. 35 Zür DurchTuhrung der Ahigaben der orersten Bunderverwaltahg wahit der Bundestag über Vorschlag des Frasiuer ten des Dundesrates die Bundesregieruag. 66 Der,ditz der Bundesregierung ist die Bundeshauptstadt Nieh.ie Bundesregierabgstent unter der zeitung des Bundeskanzlers. Welche Bundesamter mit danernden Aufträgen und Voll hachten einzurichien nrc von den Milgliedert der punderrezierühe zu beselzen siuu,wird durch ein besonderen beserz des Dunaeslages Bestin „sotern sich dies der Bundesrat EEht durch die Verlassung für einzelne Falle voroehaiten B Henn der Bundestag auf Vorschlag des frasidenten d. Bündesstaates die Bnndesregierung oder einzelne mitglieder derselben abberurt,so bestimmt der frasident des Bundesis Hef deten uilage unu uumaenten bis zur BesteLung iner euenBudeeeung auszuren al. B. Landesverlassung. deaes Laha gibt 3ich seine Verlassung seiest und ist rier in Elr duzch uie vom Bundesrai in der Bundesverlassung gezosenen branzen beschrankt, die nahere Bestimmung dieser ure zeh ist durch die Bundesgrundgesetze (830 - 42) und durch die Autzahlung der vom Buncesrat dem bunde überwiesenen Angelegenheiten( 3 43 bis 6Z ersckoplt. Jedes Land ist verpflichtet,die von ihm beschlessehen Landesgesetze vor ihrer Fublizierung dem Hundesprasidenten wilzuteilen,dami! derselbe im Falle sie der FundesverZassuhe widersprschen,dem Neriapenngagerichishol anzeizen Konbe. Dies hat ihherneib 14 iegen zu gegenenen. Der Vertaes ungsgerichtshol hat sein Urteil innerhalb langstens eines menates zu Tallen. Erst wenh dieses Zustimmend auslallt, kam das Landesgesetz publiziert werden.
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            d1. F. Ständische Aulonowich. §91. Der Bundesrat behalt sich ausurücklich vor den jetzt 1r, Bilaung begrittchen stahdischen Erganisationeh dürch einstirnnizen beschluss autonomieh legislativen und zaministrativer Ehrafters in Angelegenheiten,der von innen vertretenen Stande eventuell auch im Umtange begganzen Bundes zu gewahren. G. Allgemeine Bestimmungen über die Rechte und Pflichter der Volksvertreter: Die Ritgliedschaft im Bundesrat im Überhaus des Bundestags und im Unterhaus des Bundestags ist incompatibel.Aiemand kann mehr als eihes dieser Aemter gleichzellig bekleiden.Ueber die kompatibilitat mit einem LahaTagsmandat entscheidet die betrettende Landesverlassung. Die Mitglieder der drei genannten Volksvertretungen kohnen wegen der in Ausübung ihres Berutes geschehenen Aostihng niemals,wegen der in diesem Berute gemachten heusserengen aber nur von ihrer Volksvertretung zur Verantwortung gezogen werden. § 34 Rein Aitgilea der gehanntch 3 Volksvertretungen aarI Banrend der vater uer wailiperlode wegen eiter sire paren hahalnag ausgehormen bei Ergreitung auf trischen Tat ohne Zustimmung seiner Volksvertretung verhaftet oder angehört, sofort zu verständigen. § 33 Wenn die betreifende Volksvertretung es verlangt, muss der Verkatt autgeheben oder die Vertolgung auf die Daner der ganzeh fallperiode autgeschoben werden. Dasselbe Recht haben die 3 genahhten Volkstertretungen in betreit eiher Verhalthtg oder Untersuchung, welche über sih Mitglied derselben vor der Kahlperiode verhangt worden ist. § 56 Die Hitglieder der genannten 3 Volksverträtungen haben ihr Stihmrecht personlich auezuuben. §97 bie Maharte der Milglieder der genannich3 Volksvertretungen erlöschen mit dem Manlteg für die kommender Mallperiode. Beslimmungen über eventuelle Rachwahlen kahrend der Rahlpeflode Beizen die belfeltenden Kahlgesetze lest.
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            12- Pariante II § 14 - 8,19; fällt aus und wird durch nichts ersetzt. Variante III 3L - I 121It Russtatt dessen kommt: zum Beschluss der Verlassung ist Eirstimmigkeit des Eundesratsbeschlusses erforderlich. Zum Beschlussvon Verlassungsänderungen 4/6 Maiorität. Nie die 4/3tel pritat im Vorliegenden Falle zu bsrechhen ist, bel der Bundesrat mit einstimmizem Beschluss.
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__76">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll Zwischenamtliche Sitzung 13 November 1919</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217638</idno>
+                <idno type="transkribus_collection">196429</idno>
+                <idno type="bv_data_set">Datenset C</idno>
+                <idno type="goobi">17668</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 48</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Staatskanzlei</author>
+                            <title>Protokoll Zwischenamtliche Sitzung 13 November 1919</title>
+                            <note type="editor">Protokoll der zwischenamtliche Sitzung 13 November 1919, aufgenommen von der Staatskanzlei. Typ: Typoskript, wenige handschriftliche Ergänzungen</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Typoskript">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1919-12-05" notAfter-iso="1919-12-05">5. Dezember 1919</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1919-12-05" notAfter-iso="1919-12-05">
+                    5. Dezember 1919
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3225" lry="5148" xml:id="facs_1">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0001.jpg" width="3225px" height="5148px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3222" lry="5150" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0002.jpg" width="3222px" height="5150px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3198" lry="5166" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0003.jpg" width="3198px" height="5166px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3167" lry="5129" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0004.jpg" width="3167px" height="5129px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3150" lry="5148" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0005.jpg" width="3150px" height="5148px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3175" lry="5131" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0006.jpg" width="3175px" height="5131px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3163" lry="5115" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0007.jpg" width="3163px" height="5115px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3166" lry="5113" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0008.jpg" width="3166px" height="5113px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3166" lry="5107" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0009.jpg" width="3166px" height="5107px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3173" lry="5107" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0011.jpg" width="3173px" height="5107px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3183" lry="5113" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/content/bv_doc_id__76/800/0/IMG_0012.jpg" width="3183px" height="5113px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/>
+            <p>8.931/2. Termin: se Deutschosterreichische Staatstanzier. miterledigt:» Vorzahl: Dul. SWV t. R Re. /. 1108f Amtsveranlassung. Einbringer: Verbareitungen der Staatsämter für den Entwurf einer österGegenstand: reichischen Bundesverfassung - Stand am 15. November 1919. fremde AbgangsTag: 191 Jahl 16.100. EingangsZur Einficht: Nach Abgang (Erledigung): Vor Abgang (Hinterlegung): Herrn Vetehr. OMMage 10s19M. Mage 2)erw. Rref. Deudt 5131 pröchlich prochnd on Willin Zur Registratur: 6./11. 11411t, Überprüft: 3. Sd10/18
+            </p>
+            <p>258
+            </p>
+            <p>168041
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            8.931/2. Termin: Deutschosterreichische Staatstanzlei. nerleigti Vorzahl: St. 0 Re. /: 1148f Amtsveranlassung. Einbringer: Verbaraitungen der Staatsamter für den Entwurt einer ostarGegenstand: rEichischen Bundesverlassung- Srand am LG.NoVeiaber L99. remde AbgangsTag: 191 Fahl 16.100. Eingang8- Zur Einsicht: Nach Abgang (Erledigung): Vor Abgang (Hinterlegung): Herrn Setehr. OMage 10s19M. Mag 2)terwv. Ref. Dreust 1 Frochlih grochme Bestellt: Datum: J./12. Reingeschrieben: Zur Registratur: 72./11. 1014110Ml, Überprüft: 3. d10/14
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            In Befolgung der vom Herrn Staatskanzler bei der zwischenstaatsamtlichen Bsprechung vom 11. Oktober l.J. erteilten Weisungen +) haben die Staatsämter, der Staatsrechnungshof und die statistische Zentralkommission der Staatskanzlei je einen Beamten bekanntgegeben, bei dem die Führung der auf das Verfassungswerk bezüglichen Verhandlungen kanzentriert. ist. Den Staatsämtern, dem Staatsrechnungshof und der statistischen Zentralkommission wurden sodann das im Akte befindliche mit A bezeichneter „Schema führ die von den einzelnen Staatsämtern für den Bereich ihres Ressorts zu beantwortenden Fragen, ferner Exemplare der Verfassung des Deutschen Reichs vom 11.August 1919. übermittelt. Sodann wurden die von den Staatsämtern, vem Staatsrechnungshofe und der statistischen Zentralkemmission namhaft gemachten Funktionäre für den 31.Oktober l.J. zur ersten Besprechung in die St.K. eingeladen. Bei dieser Besprechung, an der sich die in der Präsenzliste B angeführten Funktionäre beteiligten, wurde auf Antrag des Präsidenten Dr. Mataja und des Sektionschefs Dr. Davy nach Erärterung des erwähnten Schemas ein Subkomitee, bestehend aus den Seztienschefs ur. Bary und Ur. Kralewsky, dem Ministerialrat Wilfling und dem Sektiensrat dr. Frochlich,.
+            </p>
+            
+            
+            <p>siehe Protckoll im Akte 3236/1
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            L.Piml. Be. 2.2. 1st. K. ex 1919. eingesetzt, und mit der aufgabe betraut, Richtliniken zu entwerfen, von denen die Staatsänter, der Staatsrechnungshof und die statistische Zentralkommission bei der Beantwortung der im Schema aufgeworfenen Fragen auszugehen hätten. Dieses Subkomitse entwarf die im Akte unter c und n angeschlossenen "Veraussetzungen, von welchen bei der Beantwortung des von der St.K. übermittelten Fragenschemas ausgegangen. werden dürften und »Grundsätze, nach welchen die Staatsänter bei der Beantwortung des von der St.K. übermittelten Tragenschemas vorgehen mögen. Diese, Voraussetzungen und, Grundsätze wurden sodann bei einer zweiten, im Verfassungsgesetzgebungsdienste der St. K. am 13. November 1.J. unter dem Vorsitze des Herrn Staatssekretärs professor Dr. Mayr abgehaltenen Besprechung, bei der die in der präsenzliste Everzeichneten Funktionärs anwesend waren, einer eingehenden wrörterung unterzegen. Bei dieser Besprechung appellierte der Herr Vorsitzende an die intensive Mitarbeiterschaft der Staatsämter bei dem bevorstehenden, für das österreichtsche Volk äußerst bedeutungsvollen Werk und führte sodann den Gedanken aus, daß man auch bei einer föderalistisch gestalteten Verfassung durch entsprechende Reservate des Bundes auf dem Gebiete der
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            Gesetzgebung dafür Vorsorge treffen könne, daß die notwendige Konzentration und Einheitlichkeit des Verfassungslebens und der Verwaltungstätigkeit nicht leide. Der Bundwerde das Recht haben, die Landesverwaltungsgerichtshöfe anzurufen, wenn durch Verfügungen auf dem Gebiete der selbständigen Landesverwaltung Rechte oder rechtlich geschützte Interessen des Bundes verletzt werden sollten. Trotz mancher dem eingefleischten Zentralisten vielleicht missfallenden Erscheinungen der Verländerung würden in der neuen Verfassung doch auch für die mittelbare Bundesverwaltung die bisherigen politischen Bezirksbehörden bestehen bleiben und die Landeshaupt leute gegenüber der Bundesregierung verantwortlich sein. Wenn man die Verhältnisse in der Schweiz und in den Vereinigten Staaten E Hordamerika betrachtef, so könne man wahrnehmen, dass die dortigen Verfassungen nicht nur den Zerfall verhindert, sondern vielmahr die Verschmelzung der verschiedenen Gliedstaaten zu einem organischen ganzen gefördert hätten. taht Es setehe daher wohl auch bei unskeinebe dass eine Verfassung, die ziemlich radikal der Autonomie huldigt, gefährlich wirken könnte. Die erforderlichen Arbeiten müssten rasch. geleistet werden. Denn gegenwärtig seien die Länder noch bereit, an der Verfassung mitzuerbeiten: zögere man aber zulange, so seies zweifelhaft, cb disse Bereitweiligkeit arha-ten werde. Es bestehe sie absicht, schon im tezember mit den Landesregierungen und den potitischen Parteten in Angelegenheit der Kundesver-
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            fassung Fühlung zu nehmen. Der Gefahr, dass bei einem Abbau der gegenwärtig den Zentralsfetten der Republik Oesterreich zukommenden Kompetenzen und bei einer Vergrösserung der Zuständigkeitssphäre der Länder, bezw. der Gliedstaaten der künftigen Verfassung, vielleicht ein Teil des Bsantenapparates der jetzigen Zentralstellen überflüssig werden könnte, begegnen die Koalitionsvereinbarungen zwischen den christlichsozialen und Sozjaldemokraten insoferne, als darin die Freizügigkeit der Beantenschaft besonders hervorgeheben sei. das überschüssige Beamtenmaterial der Zentralstellen also bei den Landesregirungen und in der Verwaltungsgerichtsbarkeit Verwendung finden könne. Ein Verfassungsentwurf, der den Vorarbeiten der Staatsämter zugrunde gelegt werden könnte, bestehe gegenwärtig noch nicht. wohl aber biete das erwähnte Koalitionsprogramm für diese Vorarbeiten eine hinlängliche Orientierung. Nach diesem Frogramm werde die neue Verfassung eine Bundesverfassung sein. Deut schwestungarn wird als ein besonderes Land dem Bunde angehören. Die Kompstenzen des Bundes werden in der Verfassung taxativ aufgezählt werden. Ausschliesslich dem bunde werden die auswärtige Politik, die Justizgesetzgebung und das Heerwesen vorbehalten, ausserdem die wirtschaftliche Gesetzgebung und Verwaltung, soweit dies die Einheit des .
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            Wirtschaftsgebietes erfordert, die Arbeiterschutzgesetzgebung, die Arbeiterversicherung, das Hochschul wesen. Auch enthalte das Koalitionsprogramm die Bestimmung, dass die politischen Behörden erster Instanz so schnell und so vollständig als möglich zu demakratisieren seien. Letzteres sei wohl dahin zu verstehen, dass die Einrichtung: die sich in der Kriegszeit gebildet haben, soweit sie sich bewährten, auszugestalten sein würden. Was die die staatsämter in erster Linie interessierende Frage der Verteilung der Kompetenzen auf den Bund und die Länder anbelangt, so verweist Staatssekr. Dr. Mayfr auf den christlichsozialen Verfassungsentwurf, der hiefür Anhaltspunkte bieten könnte. Die äusserste Grenze dessen, was der Bund an Kempetenzen vielleicht behaupten könnte, wäre jenes Ausmass von Kompetenzen; das die deutsche Reichsverfassung dem Bunde gibt. Es sei jedoch sehr zweifelhaft, ob die Länder bei uns darauf eingehen würden. Sodann besprach sekt.Rat Dr. Frochlich die Grundsätze“ (Beilage D( und dierVoraussetzungerr /Beilags of für die Beantwertung der im Schema (Beilage x) enthaltenen Fragen. Bei der sich daran anschliessenden Besprechung des Malendartums“ wurde der 24. November l.J- allseits als Endtermin für die von den Staatsämterne ven deh staatskanzleifn zu erstattenden Aeusserungen angenommen. Die Aeusserungen, welche der St.k. in 5 Exemplaren zukommen werden, werden von jedem Staatsmte überdies zugleich auch jedem anderen Staatsamte übermittelt werden. Soilte ein Staatsamt etwas zu bemerken haben, was sich nicht
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            /st.K.1919 2. Einl.Bogen z.Z. in den Rahmen des Schemas einfügt, so wird dies in der Manteinote oder in einer besonderen Aeusserung geschehen. Für Ende November oder Anfang Dezember ist eine zwischenstaatsamtliche Sitzung in Aussicht genommen, in der den Staatsämtern Gelegenheit geboten werden soll, zu dem Verfassungsentwurf als Ganzes, nicht nur zur Frage der Kompstenzenverteilung, stellung zu nehmen. Dieser Antwurf wird den Staatsämtern derart rechtzeitig übermittelt werden, dass sie zur Vorbereitung ihrer Stellungnahme Zeit haben werden. Sodann werden die Verhandlungen mit den Ländern beginnen. Anlässlich der Erörterung der, Voraussetzungen und der, Grundsätze bemerkt stastssekr. Dr. Mayfr zu Punkt 3 der letzteren, dass man beiVVerfassung des Entwurfes der künftigen Verfassung von dem historisch Gewordenen ausgehen müsse. Was sich von der alten Verfassung als brauchbar erwiesen habe, werde in die neue Verfassung aufzunehmen sein. Ein schwieriges Kapitel sei die Frage des Verhältnisses zwischen Wien und Wiederösterreich. Die politischen Parteien dürften sich für die Trennung Wiens von dem übrigen Niederösterreich entscheiden, da ja die Bevölkerung in ien allein gut ein Drittel der gesamten Staatsbevölkerung ausmache. Auf das von Min-Rat dr. Zweig gestellte Ersuchen, den Stastsämtern den offenbar bereits existierenden Entwurf der neuen Bundesverfassung zur Kenntnis zu bringen, erwiderte staatssekr. Dr. Mayer, dass es sich verläufig nur um die Frage der Aufteilung der Kompstenzen zwischen Bund urd ländern hendie und dass die Staatsänter /.
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            Gelegenheit haben würden, den Entwurf kennen zu lernen, wenn ihre Keusserungen über die Frage Eine der Kompstenzen vorlingen werden. d Frage der Hin.Rates Dr. Hermann, ob damit zu rechnen. sei, dass auch in die neue Verfassung eine Bestinnung Eingang finden werde, nach der die Landesgesetzgebung sich unter gewissen Voraussetzungen. auch auf solchen Gebieten gesetzgeberisch werde betätigen können, die eigentlich zur Bundeskompstenz gehören (wobei andie strafjustiz-, Polizeistraf-und Zivilgesetzgebung zu denken. ist (, wurde dahin beantwortet, dass im allgemeinen Neigung für die Aufnahme einer solchen Bestimmung bestehe. Eine infrage des Sekt.Chef Dr. Dary, ob der Satz rReichsrechthrfwandrecht ein Bestandteil der neuen Verfassung sein werde, beantwortexstantssekr. Dr. Mayer dahin, dass man mit allen Kräften bestrebt sein werde, diesen Grundsatz in irgend einer Form in die Verfassung aufzunehmen. Iemr Herrn Canzler abgelegt. Einlegen1 wien, am November 1819. olunh 17. finkl
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            I. Voraussetzungen, von welche srtimz des von der Staatekanzlei überui 5 aungegangen werden dürfio: 1.) Vorthestand der Lande und der Ihnen nachgeorannten politischen Be Arden. 2.) Die Fentstellung der Grundzüge der Verwaltungsorganientionen der Länder, die Ragelung des Verwaltunge - und Verwaltungestrafverfahrens und die Ventsetzung der allgemeinen Grundzüge den Verwaltungestrafrochtes soll der Gesetzgebung den Bunden Überzragen sein. 3.) Dadurch, dass die Landeshauptmänner in den Arenden des übertragenen Zirkungekreinen (der mitzelbaren Bundgeverwaltung) der Bundenregiarung verantwortlich sein sollen, die Bezirkghauptwänner aber den Landeshauptminnern dienstrechtlich verantwortlich sind, ist auch dann Abhilfe müglich, wenn ein Bezirkehauptmann Aufträge der Bundegregierung bezüglich des Übertragenen Wirkungekreinen nicht befolgt. 4.) Die Bundegregierung soll die aktive Klagelegitimation bei den Landenverwaltungegerichten in Fällen der behauptsten Verlotzung von Rachten oder rechtlich geschützten Interensen des Bundes auf dem Gehiete der selbstständigen Lunderverwaltung geniensen.
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            II. Grundsätze, nach welchen die Stantsänter bei der Beniwertung den von der Staatakanzlei übermittelten Fragenschemag vergehen megen: 1.) Bei konkurrierenden Kompstenzen wolle jeden Staatsamt seinen Standpunkt auch bezüglich welche Kompstanzfragen ausführen, bezüglich welcher noch and re Staatgänter beteiligt sind. 2.) Die konkroten Kompstenzteilungevorschläge (nowohl Bund, als Länder) sollen mit kurzen sachlichen Begründungen verschen worden. 3.) Sehr erwünncht ist es, wenn die Kempetenzbestimnungen, welche von den Staatsäntern vorgeschlagen werden, schen in eine Forn gegoesen werden, welche in das Verfassungegesetzeswerk eingefügt verden kann f: vergl.§ 11 des Staatsgrundgesetzen über die Reichsvertretung vom 21. Dezember 1367, RGBl.Hr.141:/. 4.) Bei Aufstollung der Bundeskompstenzen ist dem Bunde so viel vorzubehalten, als für die Aufrechterhaltung einer lebensfähigen Einheit unbedingt nötig 15t.
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>

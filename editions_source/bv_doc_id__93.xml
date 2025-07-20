@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__93">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll Parteienverhandlungen CS SD 1.-2.9.1920</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">9217639</idno>
+                <idno type="transkribus_collection">196429</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">18751</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, Büro Seitz, Karton 9</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
+                            <author role="acdh:hasAuthor">Sozialdemokratische Partei</author>
+                            <title>Protokoll Parteienverhandlungen CS SD 1.-2.9.1920</title>
+                            <note type="editor">Protokoll der Parteienverhandlungen über die Verfassung 1.9.-2.9.1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Zustand gut, Anstreichungen mit rotem und blauem Buntstift</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1920-09-01" notAfter-iso="1920-09-02">1. bis 2. September 1920</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1920-09-01" notAfter-iso="1920-09-02">
+                    1. bis 2. September 1920
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-07-20" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_7">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_8">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_9">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_10">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_11">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_12">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_13">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_14">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_15">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_16">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_19">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_20">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_21">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_22">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_23">
+         </surface>
+      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_24">
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016" break="yes"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017" break="yes"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018" break="yes"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" break="yes"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020" break="yes"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021" break="yes"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022" break="yes"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023" break="yes"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024" break="yes"/>
+         </div>
+      </body>
+   
+    </text>
+</TEI>
