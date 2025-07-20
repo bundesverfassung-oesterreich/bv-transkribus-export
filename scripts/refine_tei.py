@@ -33,51 +33,84 @@ templateEnv = jinja2.Environment(
 template = templateEnv.get_template("tei_template.j2")
 file_rename_errors = 0
 nsmap = {
-    "tei" : "http://www.tei-c.org/ns/1.0"
+    "tei": "http://www.tei-c.org/ns/1.0"
 }
 # # xml factory
-teiMaker = builder.ElementMaker(namespace = "http://www.tei-c.org/ns/1.0", nsmap = nsmap)
+teiMaker = builder.ElementMaker(
+    namespace="http://www.tei-c.org/ns/1.0", nsmap=nsmap)
 # logfile for defective docs
 malformed_xml_docs = []
 
 # # def funcs
+
+
 def remove_prefix(string, prefix):
     if string.startswith(prefix):
         string = string[len(prefix):]
     return string
 
 
-def get_img_names_from_goobi_mets(bv_doc_id):
+# def get_img_names_from_goobi_mets(bv_doc_id):
+#     request_target_url = f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
+#     mets_doc = TeiReader(request_target_url)
+#     # thats a real good solution :)
+#     flocats = mets_doc.any_xpath("//*[local-name()='FLocat']")
+#     image_names = []
+#     for flocat in flocats:
+#         img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
+#         try:
+#             img_name = re.match(
+#                 r".*?(IMG_[0-9]+(?:_\d+)?)\.[a-zA-Z]+[^/]*$", img_url).group(1)
+#             # well i could have used the correct xpath but no (elements are doubled, there is default & representation)
+#             if img_name not in image_names:
+#                 image_names.append(img_name)
+#         except AttributeError as attrib_except:
+#             print(
+#                 f"can´t get img name from link '{img_url}' for document '{bv_doc_id}' that just was requested via GET '{request_target_url}'.")
+#             raise attrib_except
+
+#     def sort_key(imgname): return int(imgname.removeprefix("IMG_"))
+#     # let's at least assume that the images are named correctly …
+#     image_names.sort(key=sort_key)
+#     return image_names
+
+
+# def replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id):
+#     image_names = get_img_names_from_goobi_mets(bv_doc_id)
+#     # might need to delete one of the image_names due to remove_useless_elements
+#     # removing the calibration page via remove_calibration_page
+#     if len(image_names) > len(graphic_elements):
+#         image_names.pop(0)
+#     tupled_list = list(
+#         map((lambda x, y: (x, y)), image_names, graphic_elements))
+#     for image_name, graphic_element in tupled_list:
+#         graphic_element.attrib[
+#             "url"] = f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/{image_name}/full/full/0/default.jpg"
+
+
+def get_img_links_from_goobi_mets(bv_doc_id):
     request_target_url = f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
     mets_doc = TeiReader(request_target_url)
-    # thats a real good solution :)
-    flocats = mets_doc.any_xpath("//*[local-name()='FLocat']")
-    image_names = []
-    for flocat in flocats:
-        img_url = flocat.attrib['{http://www.w3.org/1999/xlink}href']
-        try:
-            img_name = re.match(r".*?(IMG_[0-9]+(?:_\d+)?)\.[a-zA-Z]+[^/]*$", img_url).group(1)
-            # well i could have used the correct xpath but no (elements are doubled, there is default & representation)
-            if img_name not in image_names:
-                image_names.append(img_name)
-        except AttributeError as attrib_except:
-            print(f"can´t get img name from link '{img_url}' for document '{bv_doc_id}' that just was requested via GET '{request_target_url}'.")
-            raise attrib_except
-    sort_key = lambda imgname: int(imgname.removeprefix("IMG_"))
-    # let's at least assume that the images are named correctly …
-    image_names.sort(key=sort_key)
-    return image_names
+    nsmap = mets_doc.nsmap
+    nsmap["mets"] = "http://www.loc.gov/METS/"
+    nsmap["xlink"] = "http://www.w3.org/1999/xlink"
+    image_links = mets_doc.tree.xpath(
+        "//mets:fileGrp[@USE='DEFAULT']//mets:FLocat[@LOCTYPE='URL']/@xlink:href", namespaces=nsmap)
+    if not image_links:
+        raise ValueError(
+            f"No image links found for document {bv_doc_id} at {request_target_url}")
+    return image_links
 
 
 def replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id):
-    image_names = get_img_names_from_goobi_mets(bv_doc_id)
-    # might need to delete one of the image_names due to remove_useless_elements 
-    # removing the calibration page via remove_calibration_page
-    if len(image_names) > len(graphic_elements):
-        image_names.pop(0)
-    tupled_list = list(map((lambda x,y: (x,y)), image_names, graphic_elements))
-    for image_name, graphic_element in tupled_list:
-        graphic_element.attrib["url"] = f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/{image_name}/full/full/0/default.jpg"
+    image_links = get_img_links_from_goobi_mets(bv_doc_id)
+    if len(image_links) > len(graphic_elements):
+        image_links.pop(0)
+    tupled_list = list(
+        map((lambda x, y: (x, y)), image_links, graphic_elements))
+    for image_link, graphic_element in tupled_list:
+        graphic_element.attrib[
+            "url"] = image_link
 
 
 class PersonMetaData:
@@ -94,7 +127,8 @@ def get_xml_doc(xml_file):
     try:
         return TeiReader(xml_file)
     except Exception as exception:
-        malformed_xml_docs.append({"file_name": xml_file[:200], "error": exception})
+        malformed_xml_docs.append(
+            {"file_name": xml_file[:200], "error": exception})
         return None
 
 
@@ -136,7 +170,7 @@ def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
 
 def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
     reverse_ordered_item_elements = []
-    start_strings = parent_element.xpath(xpath_expr,namespaces=nsmap)
+    start_strings = parent_element.xpath(xpath_expr, namespaces=nsmap)
     start_strings.reverse()
     for start_string in start_strings:
         start_string: ET._ElementUnicodeResult
@@ -155,9 +189,10 @@ def seed_item_elements(parent_element: ET._Element, xpath_expr, regex_test):
             reverse_ordered_item_elements.append(item_element)
     return reverse_ordered_item_elements
 
+
 def seed_jur_p_elements(parent_element: ET._Element, xpath_expr, regex_test):
     reverse_ordered_ps = []
-    start_strings = parent_element.xpath(xpath_expr,namespaces=nsmap)
+    start_strings = parent_element.xpath(xpath_expr, namespaces=nsmap)
     start_strings.reverse()
     for start_string in start_strings:
         start_string: ET._ElementUnicodeResult
@@ -185,6 +220,7 @@ def seed_jur_p_elements(parent_element: ET._Element, xpath_expr, regex_test):
             reverse_ordered_ps.append(item_element)
     return reverse_ordered_ps
 
+
 def expand_item_element(item_element: ET._Element):
     next_element = item_element.getnext()
     while bool(
@@ -193,6 +229,7 @@ def expand_item_element(item_element: ET._Element):
         item_element.append(next_element)
         next_element = item_element.getnext()
 
+
 def expand_jur_p_element(p_element: ET._Element):
     next_element = p_element.getnext()
     while bool(
@@ -200,6 +237,7 @@ def expand_jur_p_element(p_element: ET._Element):
     ):
         p_element.append(next_element)
         next_element = p_element.getnext()
+
 
 def raise_div_element(section_div: ET._Element):
     parent_element = section_div.getparent()
@@ -265,6 +303,7 @@ def expand_list_element(list_element: ET._Element):
         list_element.append(next_element)
         next_element = list_element.getnext()
 
+
 def make_lists(div: ET._Element):
     labels = div.xpath(".//*/tei:label[1]", namespaces=nsmap)
     list_elements = []
@@ -277,12 +316,13 @@ def make_lists(div: ET._Element):
     for list_element in list_elements:
         expand_list_element(list_element)
 
+
 def make_article_divs(doc):
     article_type = "article"
     # # make artikel-divs
     article_divs = seed_div_elements(
         doc,
-        #xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
+        # xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art.') or contains(., 'Artikel')]",
         xpath_expr=r"//tei:body//tei:lb/following-sibling::text()[contains(., 'Art')]",
         regex_test=r"Art(?:ikel|\.)?(?: *[0-9]+| *[iIVvXxCcDdMmLl]+) *\.* *$",
         # regex_test=r" *Art\. *$",
@@ -297,10 +337,12 @@ def make_article_divs(doc):
         expand_div_element(
             div,
             append_test=lambda next_element: bool(
-                next_element is not None and next_element.xpath("local-name()!='div'")
+                next_element is not None and next_element.xpath(
+                    "local-name()!='div'")
             ),
         )
     return article_divs
+
 
 def make_label(item: ET._Element):
     if item.text is None:
@@ -314,6 +356,7 @@ def make_label(item: ET._Element):
             match.group(1)
         ).strip()
         item.addprevious(label)
+
 
 def make_p_label(p_element: ET._Element):
     if p_element.text is None:
@@ -329,9 +372,11 @@ def make_p_label(p_element: ET._Element):
         )
         label.tail = p_element.text
         p_element.text = ""
-        p_element.insert(0,label)
+        p_element.insert(0, label)
+
 
 contains_number_xpath = "boolean(translate(., '1234567890', '') != .)"
+
 
 def make_items_in_article(article_div: ET._Element):
     items = seed_item_elements(
@@ -343,6 +388,7 @@ def make_items_in_article(article_div: ET._Element):
         expand_item_element(item)
     for item in items:
         make_label(item)
+
 
 def denest_p_elements(article_div: ET._Element, ps_with_subs: list):
     for p_with_subs in ps_with_subs:
@@ -369,17 +415,20 @@ def make_jur_sections_in_article(article_div: ET._Element):
         expand_jur_p_element(p)
     for p in reverse_ordered_ps:
         make_p_label(p)
-    ps_with_subs = article_div.xpath("./tei:p[./tei:p[not(following-sibling::*)]]", namespaces=nsmap)
+    ps_with_subs = article_div.xpath(
+        "./tei:p[./tei:p[not(following-sibling::*)]]", namespaces=nsmap)
     while ps_with_subs:
         ps_with_subs = denest_p_elements(article_div, ps_with_subs)
     for p in article_div.xpath("./tei:p[not(@type)]", namespaces=nsmap):
         p.set("type", "legal_section")
 
 
-def substitute_useless_elements(doc: TeiReader, substitution_dict:dict):
+def substitute_useless_elements(doc: TeiReader, substitution_dict: dict):
     for substituted_element_name, substitution_element_name in substitution_dict.items():
         for substituted in doc.any_xpath(f"//tei:{substituted_element_name}"):
-            substituted.tag = substituted.tag.rstrip(substituted_element_name)+substitution_element_name
+            substituted.tag = substituted.tag.rstrip(
+                substituted_element_name)+substitution_element_name
+
 
 def remove_useless_atributes(doc: TeiReader):
     elements = doc.any_xpath(
@@ -389,7 +438,7 @@ def remove_useless_atributes(doc: TeiReader):
         element.attrib.clear()
 
 
-def remove_lb_preserve_text(new_text:str, prev_element, parent_element, lb):
+def remove_lb_preserve_text(new_text: str, prev_element, parent_element, lb):
     if prev_element is not None:
         prev_element.tail = new_text
     else:
@@ -410,7 +459,7 @@ def replace_unleserlichs(doc):
                 parent.text = ""
                 parent.insert(0, gap)
         else:
-            parent.tail=""
+            parent.tail = ""
             parent.addnext(gap)
 
 
@@ -420,23 +469,28 @@ def replace_hi(doc: TeiReader):
         hi_element.attrib.clear()
         hi_element.tag = f"{{{nsmap['tei']}}}emph"
 
+
 lb_encoders = ["-", "¬"]
+
 
 def type_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
         prev_element = lb.getprevious()
         parent_element = lb.getparent()
-        test_tail:str = lb.tail.strip() if lb.tail else ""
+        test_tail: str = lb.tail.strip() if lb.tail else ""
         try:
-            prev_text: str = prev_element.tail.rstrip() if prev_element is not None else parent_element.text.rstrip()
+            prev_text: str = prev_element.tail.rstrip(
+            ) if prev_element is not None else parent_element.text.rstrip()
         except AttributeError:
             prev_text = ""
             prev_element.tail = prev_text
-        previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders and (not prev_text[-2].isnumeric() if len(prev_text)>1 else True)
-        lb_sibling_text_node_implies_no_wordbreak = bool(test_tail) and (test_tail.startswith("und") or test_tail.startswith("oder"))
+        previous_text_node_implies_wordbreak = bool(prev_text) and prev_text[-1] in lb_encoders and (
+            not prev_text[-2].isnumeric() if len(prev_text) > 1 else True)
+        lb_sibling_text_node_implies_no_wordbreak = bool(test_tail) and (
+            test_tail.startswith("und") or test_tail.startswith("oder"))
         if previous_text_node_implies_wordbreak and not lb_sibling_text_node_implies_no_wordbreak:
-            #seems to break in word
+            # seems to break in word
             pattern = r"[\¬\-](\s*)$"
             if prev_element is not None:
                 textnode = prev_element.tail
@@ -457,11 +511,11 @@ def type_lb_elements(doc: TeiReader):
             lb.attrib["break"] = "yes"
 
 
-
 def remove_all_lb_elements(doc: TeiReader):
     lb_elements = doc.any_xpath("//tei:lb")
     for lb in lb_elements:
-        prev_textnode_result = lb.xpath("./preceding-sibling::node()[1][boolean(self::text())]")
+        prev_textnode_result = lb.xpath(
+            "./preceding-sibling::node()[1][boolean(self::text())]")
         prev_textnode = prev_textnode_result[0] if prev_textnode_result else None
         lb_parent = lb.getparent()
         if prev_textnode is not None:
@@ -479,7 +533,7 @@ def remove_all_lb_elements(doc: TeiReader):
                 parent.text = new_prev_textnode
             lb.tail = ""
         else:
-            prev= lb.getprevious()
+            prev = lb.getprevious()
             if prev is not None:
                 prev.tail = lb.tail
             else:
@@ -511,18 +565,20 @@ def remove_lbs_as_first_child_of_p_without_text(doc):
         parent.text = parent[0].tail
         parent.remove(parent[0])
 
+
 def remove_paras_with_only_list(doc):
     for p in doc.any_xpath("//tei:body//tei:p[count(node()[not(boolean(self::text() and normalize-space(.)='')or local-name()='list')])=0]"):
         for child in p:
             p.addprevious(child)
         p.getparent().remove(p)
-    
+
 
 def remove_useless_elements(doc: TeiReader):
     remove_calibration_page(doc)
     remove_empty_paras(doc)
-    #remove_paras_with_only_list(doc)
+    # remove_paras_with_only_list(doc)
     remove_lbs_as_first_child_of_p_without_text(doc)
+
 
 def get_graphic_elements(doc: TeiReader):
     # delete irrelevant graphic elements
@@ -530,25 +586,30 @@ def get_graphic_elements(doc: TeiReader):
         graph_el.getparent().remove(graph_el)
     return doc.any_xpath(".//tei:graphic")
     # No code needed here; the namespace is already handled correctly in the get_graphic_elements function.
-def get_faksimile_element(doc: TeiReader, bv_doc_id:str):
+
+
+def get_faksimile_element(doc: TeiReader, bv_doc_id: str):
     graphic_elements = get_graphic_elements(doc)
     replace_transkribus_images_with_goobi(graphic_elements, bv_doc_id)
-    #for graphic_element in graphic_elements:
+    # for graphic_element in graphic_elements:
     #    graphic_element.attrib["url"] = get_goobi_image_url(graphic_element, bv_doc_id)
     for zone_element in doc.any_xpath(".//tei:facsimile/tei:surface//tei:zone"):
         zone_element.getparent().remove(zone_element)
     faksimile_element = doc.any_xpath(".//tei:facsimile")[0]
     return ET.tostring(faksimile_element).decode("utf-8")
 
+
 def create_main_div(doc: TeiReader):
     parent_div = doc.any_xpath("//tei:body/tei:div[1]")[0]
     parent_div.attrib["type"] = "main"
+
 
 def add_break_attrib_to_pbs(doc):
     for pb in doc.any_xpath(
         "//tei:pb[not(@break)]"
     ):
         pb.attrib["break"] = "yes"
+
 
 def create_new_xml_data(
     doc: TeiReader,
@@ -562,7 +623,7 @@ def create_new_xml_data(
     substitute_useless_elements(
         doc=doc,
         substitution_dict={
-            "ab" : "p"
+            "ab": "p"
         }
     )
     remove_useless_atributes(doc)
@@ -577,7 +638,8 @@ def create_new_xml_data(
         make_jur_sections_in_article(article_div)
     remove_all_lb_elements(doc)
     body_string = ET.tostring(body_node).decode("utf-8")
-    body_string = body_string.replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
+    body_string = body_string.replace(
+        'xmlns="http://www.tei-c.org/ns/1.0"', "")
     # # get faksimile
     faksimile = get_faksimile_element(doc, bv_doc_id=bv_doc_id)
     # # get metadata
@@ -594,6 +656,7 @@ def create_new_xml_data(
         tei_file_path = os.path.join(TEI_DIR, bv_doc_id + ".xml")
         print("writing", tei_file_path)
         doc.tree_to_file(tei_file_path)
+
 
 def return_transkribus_doc_id(xml_file_path):
     _, filename = os.path.split(xml_file_path)
@@ -645,9 +708,8 @@ class BaseRowTypeResolver:
         self.doctype_by_id = None
         self.manitype_by_id = None
         self.datasets_by_id = None
-    
 
-    def get_doctype_from_id(self, d_id:str):
+    def get_doctype_from_id(self, d_id: str):
         if self.doctype_by_id is None:
             self.doctype_by_id = dict(
                 [
@@ -655,9 +717,8 @@ class BaseRowTypeResolver:
                 ]
             )
         return self.doctype_by_id[d_id]
-    
 
-    def get_manifestationtype_from_id(self, m_id:str):
+    def get_manifestationtype_from_id(self, m_id: str):
         if self.manitype_by_id is None:
             self.manitype_by_id = dict(
                 [
@@ -665,9 +726,8 @@ class BaseRowTypeResolver:
                 ]
             )
         return self.manitype_by_id[m_id]
-    
 
-    def get_dataset_from_id(self, d_id:str):
+    def get_dataset_from_id(self, d_id: str):
         if self.datasets_by_id is None:
             self.datasets_by_id = dict(
                 [
@@ -676,19 +736,18 @@ class BaseRowTypeResolver:
             )
         return self.datasets_by_id[d_id]
 
-    
-    def get_dataset_from_row(self, row_number:str):
+    def get_dataset_from_row(self, row_number: str):
         return self.bv_data_sets_by_row[row_number]
 
-    def get_manifestationtype_from_row(self, row_number:str):
+    def get_manifestationtype_from_row(self, row_number: str):
         return self.manifestation_types_by_row[row_number]
 
-
-    def get_doctype_from_row(self, row_number:str):
+    def get_doctype_from_row(self, row_number: str):
         return self.doc_types_by_row[row_number]
-    
+
 
 baserow_type_resolver = BaseRowTypeResolver()
+
 
 def load_metadata_from_dump():
     json_data = None
@@ -718,12 +777,14 @@ def resolve_types(doc_metadata):
     manifestation_types = []
     for entry in doc_metadata["type_of_manifestation"]:
         manifestation_types.append(
-            baserow_type_resolver.get_manifestationtype_from_row(str(entry["id"]))["name"]
+            baserow_type_resolver.get_manifestationtype_from_row(str(entry["id"]))[
+                "name"]
         )
     doc_types = []
     for entry in doc_metadata["type_of_document"]:
         doc_types.append(
-            baserow_type_resolver.get_doctype_from_row(str(entry["id"]))["name"]
+            baserow_type_resolver.get_doctype_from_row(str(entry["id"]))[
+                "name"]
         )
     doc_metadata["type_of_document"] = " ".join(doc_types)
     doc_metadata["type_of_manifestation"] = " ".join(manifestation_types)
@@ -735,7 +796,8 @@ def process_all_files():
     metadata = load_metadata_from_dump()
     for transkribus_collection_id, collection_metadata in metadata.items():
         # # load sourcefiles from fetch / transform job
-        source_files = glob.glob(f"{TMP_DIR}/{transkribus_collection_id}/*_tei.xml")
+        source_files = glob.glob(
+            f"{TMP_DIR}/{transkribus_collection_id}/*_tei.xml")
         for xml_file_path in source_files:
             # # parsing doc to mem
             doc = get_xml_doc(xml_file_path)
@@ -748,13 +810,14 @@ def process_all_files():
                         f"No metadata found for transkribus-doc-id '{transkribus_doc_id}'."
                     )
                 else:
-                    doc_metadata = resolve_types(collection_metadata[transkribus_doc_id])
+                    doc_metadata = resolve_types(
+                        collection_metadata[transkribus_doc_id])
                     print(f"loading {transkribus_doc_id}")
                     mets_doc = return_mets_doc(
                         transkribus_doc_id, transkribus_collection_id
                     )
                     if mets_doc is not None:
-                        #image_urls = return_image_urls(mets_doc)
+                        # image_urls = return_image_urls(mets_doc)
                         # # change the doc / write data to it
                         create_new_xml_data(doc, doc_metadata)
 
