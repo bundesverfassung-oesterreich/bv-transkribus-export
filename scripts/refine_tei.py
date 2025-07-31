@@ -582,13 +582,11 @@ def remove_useless_elements(doc: TeiReader):
     # remove_paras_with_only_list(doc)
     remove_lbs_as_first_child_of_p_without_text(doc)
 
-
 def get_graphic_elements(doc: TeiReader):
-    # delete irrelevant graphic elements
-    for graph_el in doc.any_xpath(".//tei:graphic[not(contains(@url, '/'))]"):
-        graph_el.getparent().remove(graph_el)
+    if doc.any_xpath(".//tei:graphic[contains(@url, '/')]"):
+        for graph_el in doc.any_xpath(".//tei:graphic[not(contains(@url, '/'))]"):
+            graph_el.getparent().remove(graph_el)
     return doc.any_xpath(".//tei:graphic")
-    # No code needed here; the namespace is already handled correctly in the get_graphic_elements function.
 
 
 def get_faksimile_element(doc: TeiReader, bv_doc_id: str):
