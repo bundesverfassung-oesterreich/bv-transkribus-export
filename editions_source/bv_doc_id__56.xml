@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__56">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Protokoll 1. Länderkonferenz</title>
+                <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+                </principal>
+                <funder>
+                    <orgName>FWF - Der Wissenschaftsfonds</orgName>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Lein, Richard</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
+                    <persName role="acdh:hasDigitisingAgent">Gassner, Miriam</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0000-0002-9575-9372">Peter Andorfer
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>XML/TEI Datenmodellierung und Datengenerierung</resp>
+                    <persName role="acdh:hasContributor" key="https://orcid.org/0009-0006-7740-542X">Carl Friedrich Haak
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+                </publisher>
+                <publisher>
+                    <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+                </publisher>
+                <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+                <idno type="transkribus_doc">1715186</idno>
+                <idno type="transkribus_collection">196428</idno>
+                <idno type="bv_data_set">Datenset B</idno>
+                <idno type="goobi">14612</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                        <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                        <idno type="archive">AdR, BKA, Kabinettsratsprotokolle, Kt. 5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author role="acdh:hasAuthor">Länderkonferenz</author>
+                            <title>Protokoll 1. Länderkonferenz</title>
+                            <note type="editor">Protokoll der 1. Länderkonferenz vom 23. November 1918 (=Kabinettsratsprotokoll Nr. 15)
+
+Typ: Lithographie
+
+Zustand: gut</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Lithographie">
+                        </objectDesc>
+                        <handDesc>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore-iso="1918-11-23" notAfter-iso="1918-11-23">23. November 1918</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <creation>
+                <date notBefore-iso="1918-11-23" notAfter-iso="1918-11-23">
+                    23. November 1918
+                </date>
+            </creation>
+        </profileDesc>
+        <revisionDesc status="created">
+            <change when="2025-09-08" who="#cfh">document automatically created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_2">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0010/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_3">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0011/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_4">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0012/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_5">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0013/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_6">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0014/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_7">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0015/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_8">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0016/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_9">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0017/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_10">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0018/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_11">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0019/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_12">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0020/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_13">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0021/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_14">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0022/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+      <surface ulx="0" uly="0" lrx="3270" lry="5228" xml:id="facs_15">
+         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__56/files/images/IMG_0023/full/full/0/default.jpg" width="3270px" height="5228px"/>
+         </surface>
+   </facsimile>
+   
+    <text type="Sitzungsprotokoll">
+        <body>
+         <div type="main">
+            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
+            <p>vertraulich! Kabinettsprotokeil Nr.15 ven 23. Forenher 1815. Anwesend die Präsldenten Hauser und Seitz, sämtliche Staatssekretäre, ausgenommen Dr. Bauer und Stöckler, die Unterstaatssekretäre Beck von Mannagetta, Enderes, Slöckel, Marckhl,Riedl undMallenstorfer, ferner Vertreter der Landesregierungen, und zwar von Nieder österreich (v.Steiner), Oberösterreich (Hauser), Salzburg (Ott,Etter, Erresberger), Steiermark (v.Kaan, Pongratz, Putte), kärnten (Lemisch), Tirol (Schoopfer), Vorarlberg (Fink), Deutschhöhnen (v. Lodgnan), Sudetenland (Freißler,Jokl), Kreis Deutsch-Sdmähren (Teufel) und Bürgermeister der Stadt Wien Dr.WeiskirehnerVorsitzt Staatskangler Dr. Konner. Gegenstand: Sicherstellung des einheitlichen Zusammerarbeitens der Staatsregierung mit den Landesbehörden in administrativen Belangen. Der Vorsitzende eröffnst um 10 Thr vormittage die Sitzung, begrüßt die Erschienenen und betont einleitend die Notwendigkeit einer einvernehmlichen Zusammenarbeit aller Organe des Staates im Wege einer Einordnung der einzelnen Glieder unter das Ganze. Diese notwendige gegenseitige Fühlungnahme sei bisher nicht vorhanden gewesen. Die Selbstregierung des Volkes könne aber nur dann in gedeihlicher Weise ge1. Edio . B.
+            </p>
+            <p>1
+            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
+            2.führt werden, wenn diese Einordnung nicht auf einem Zwangsbefehle von eben, sondern auf der freiwilligen Unterordnung der einzelnen Teile beruhe. Das allerschwierigste Prohlem jeder Demokratie liege in der Verbindung von Freiheit und Ordnung. Die Sicherstellung der Voraussetzungen für die Lösung dieses Prohlems erhoffe sich Redner von der heutigen Tagung,die den Zweck verfolge, ein solches ständiges Einvernehmen organisatorisch zu gewährleisten. Vor dem Eingehen in die sachliche Beratung gibt der Statzkanzler bekannt, daß ihm der Staatsrat den Professor Dr.Aemilien Schoepfer als„vortragenden Staatsrat“ für die Fragen des Verwaltungsdienstes ständig beigegeben habe, mit der Aufgabe, zugleich die Verbindung mit allen Parteien aufrecht zu erhalten. Zur Entlastung der heutigen Tageserdnung sei Vorsorge getroffen worden, daß die anwesenden Vertreter der Landesregierungen und der Stadt Eien Gelegenheit finden, sich in den Fragen der Kriegs- und Uebergangswirtschaft sowie der Ernährung mit den zuständigen Staatssekretären in zwei gesonderten Besprechungen auseinanderzusetzen. Der Vorsitzende gibt sodann bekannt, daß es sich heute zunächst um die Beratung nachstehender Fragen handeln wird: 1.) Fiederaufnahme des geordneten und einheitlichen Dienstbetriebes im Verhältnisse. zwischen der Staatsregierung und den einzelnen Landesregterungen (Regelnässige Be-
+            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
+            3- richte über öffentliche Sicherheit, über den Stand der Wehrkraft, über den Gang derDemobilisierung, über die allgemeine politische Lage und besondere Begebenheiten); 2.)Wiederherstellung des regelmässigen Aktenlaufes, insbesondere Einhaltung des Dienstweges; 3.) Unterordnung der Bezirkshauptmannschaften unter die Landesregierungen; 4.) Besondere Hilfsmittel zur Vereinheitlichung des Dienstes (Berufung von Regierungsbeauftragten bei den Landesregierungen und ihre dienstlichen Aufgaben, ihre dienstliche Stellung); 6.) Rekonstruktion der Verwaltungsorganisation a) Landesversammlung,Landesräte und Landesregierung, deren Anpassung an das Gesetz über die Uebernahme der Staatsgewalt in den Ländern; b) Aufrechterhaltung der Bezirkshauptmannschaften, Neuabgrenzung der Sprengel; c) Einrichtung der Gemeinden auf Grund des letzten Gesetzes über die Staats- und Regierungsform von Deutschöster reich; 6.) Die Inkorporation neuer Gebiete, Wahrnehmungen bei dieser Inkorporation, insbesondere Behandlung der Beamtenfragen, AngeLebung; 7.) Herstellung eines einheitlichen Vorgehens in Fragen der Ernährung und Sachdemobili-
+            </p>
+            
+            
+            <p>2
+            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
+            -4-
+            </p>
+            
+            <p>eisrung (provinziellar Kempensationsren Kehr, Bedingungen seiner Zulfesigkeit); 8,) Propaganda für die deutschösterreichische Anleine. Da das in diesen Punkten enthaltene umfangreiche Material in der heutigen Sitzung kaum zur Durchberatung werde gelangen können, glaube Redner zunächst die Debatte darüber eröffnen zu sollen, welche dieser Fragen als besonders dringlich herauszugreifen wären. Landeshauptmann Dr. Fr eiBl er (Sudetenland) stellt in Uebereinstimmung mit Kandeshauptmann Dr. von Lodgman (Deutschböhmenlunter Hinweis auf die besonderen Verhältniese in Deutschböhmen und Sudetenland den Antrag, die einschlägigen Verhandlungen bezüglich dieser beiden Lnder einer gesonderten Beratung vorzubehalten, welche im Lauke des Nachmittags abzuführen wäre. Den Antrage wird zugestimmt und diese Beratung für z 5 Uhr nachmittags anberaumt. Landeshauptmann Dr. von Kaan (Steiermarkt stellt, unterstützt vog Landeshauptmann Hauser (Oberösterreich) fen Antrag, das Grastz vom 24. November l.J.,St. G.Bl.Nr.R2, betreffend die Uober nahme der Staatsgewalt in den Andern, paragraphen zeibe durchzukprochen, wobei sich die Klärung einer Rethe vielleicht noch offener Fragen bewerkstelligen lasenn wrde. Ler Voreitzeude erklärt sich mit disgem Antrage durchaus einverstanden, glaubt aber
+            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
+            -5-
+            </p>
+            
+            <p>im Interesse der Sache, daß vorher noch einige der von ihm angeführten Verhandlungspunkte rein formeller Natur zu Beschluß gestellt werden sollten.Demgemäß wird zu Punkt 1 beschlossen, daß die dort näher bezeichneten regelmässigen Berichte der Landesregierungen an das Staatsamt des Innern und abschriftlich an die Staatskanzlei zu leiten sind, unbeschadet der von einzelnen Staatssekretären angeordneten Spezialberichte an ihre Ressorts. zu Punkt 2 gibt der Vorsitzende bekannt, daß im Sinne des am 18.November d.J. gefaßten Kablnettsratsbeschlusses die Staatsämter mit den politischen Bezirksbehörden im Wege der den letzteren übergeordneten Landesregierungen zu verkehren haben. Nur in Fällen besonderer Dringlichkeit können. Verfügungen der Zentralstelle unmittelbar an die politischen Bezirksbehörden (Lokalstellen) geleitet werden, wovon jedoch die Landesbehörde stets durch gleichzeitige Uebermittlung einer Abschrift zu verständigen sein wird. Selbstverständlich hat ein gleicher Vorgang auch für die politischen Behörden I.Instanz in den außergewöhnlichen Fällen der Notwendigkeit eines unmittelbaren Verkehres mit den Staatsämtern zu gelten. Dienststücke, welche Angelegenheiten betraffen, die früher zu den Reservaten der Landeschefs gehörten, sind auch schon äussriich dadurch kennt-
+            </p>
+            <p>3
+            <pb facs="#facs_7" n="7" xml:id="img_0007" break="yes"/>
+            -6-
+            </p>
+            
+            <p>lich zu machen, daß sie von den Stantsämtern an den Landeshauptmann persönlich adressiert werden; alle anderen Dienatstücke, deren Inhalt Angelegenheiten der landesfürstlichen oder autonomen Verwaltung betrifft, sind dagegen an die Landesregierung zu richten. Zu Punkt 3. Es ist an dem Grundsatze festzuhalten, daß die Bezirkshauptmannschaften den Landesregierungen unterstellt sind und daß etwaigen Versuchen lokaler Faktoren, die Autorität der Bezirkshauptmänner zu untergraben, mit allem Nachdrucke entgegenzutreten sein wird. Es wird nunmehr im Sinne des Antrages des Landsshauptmannes Dr. von K a an in die para graphenweise Erörterung des Gesetzes vom 14.November d.J.,St.G.Bl.Nr. 24, betreffend die Uebernahme der Staatsgewalt in den Ländern, eingegangen. Hiebei wird zu den einzelnen Bestimmungen Nachstehendes festgestellt: Zu § 2 und § 31 Die in den ersten Konstituierungsakten vorgenommenen Landesausschußwahlen sind nunmehr an das Gesetz anzupassen und durch neuerlichen Beschluß zu ratifizieren, so daß die damals gewühlten Landesausschüsse im Sinne des § 2 des bezogenen Gesetzes Landesräte sind; eventuell hat eine Zuwahl stattzufinden; die damals gewählten Landeshauptmänner und deren Stellvertreter sind in ihren Funktionen zu bestätigen. Die Landeshauptmänner-Stellvertreter sind ipso jure Mitglieder des Landegraten. 1.
+            <pb facs="#facs_8" n="8" xml:id="img_0008" break="yes"/>
+            -7-
+            </p>
+            
+            <p>Zu § 4. Ueber die Fasgung des 1. Absatzes und über jene des 3.Absatzes entwickelt sich eine sehr eingehende Debatte, an der sich Präsident Seitz, die Staatsräte Fink und Dr. Schoepfer, Staatssekretär Dr. Steinwender, Unterstaatssekretär von Beck, die Landeshauptmänner von St einer, Dr. von Kaan, Dr. von Ledgman, Dr. Freißler und Bürgermeister Dr. Weiskirchner sowie der Vorsitzende beteiligen; der Letztere gelangt sonach zu folgender Auslegung bezlehungeweise Erläuterung dieses §, die auch der Auffassung des Staatarates bei Beratung des Gesetzentwurfes entspricht. a) Das Gesetz bezweckt nicht eine materielle oder organisatorische Reform eines besonderen Dienstzweiges, sondern bloß die Ueberleitung des Dienstes von den früheren Gewaltträgern auf die neuen; b) infolgedessen handelt es sich im vorliegenden Falle einzig und allein darum, diejenige Funktion, die bisher der Landeschef als Präsident der Finanzlandesdirektion ausgeübt hat, auf ein Mitglied der Landesregierung zu übertragen, und zwar wurde zur Entlastung des Landeshauptmannes nicht disser selbst, sondern einer seiner Stellvertreter berufen; r) wegen der besonderen Wichtigkeit dieses Dienstes für den Gesantstaat wurde die Genehmigung 1.
+            </p>
+            <p>4
+            <pb facs="#facs_9" n="9" xml:id="img_0009" break="yes"/>
+            -8-
+            </p>
+            
+            <p>des Staaterates für diese Bestellung vorgesehen; d) diese Einrichtung ist als Provisorium anzusehen; sie wird noch in dieser Legislaturggriede durch ein Gesetz aufgehoben werden, das die vollste Trennung der politischen und Finanzverwaltung beinhalten wird. Zu § 5. Es wird feptgestellt, daß die Landesregierung und der Landesrat, soweit sie die Geschäfte des früheren Landesausschueses führen, der Landesversammlung, soweit die Landesregierung und der Landeshauptmann die Geschäfte der früheren landesfürstlichen Regierung besorgen, der Staateregierung verantwortlich sind; ferner daß die Bezüge des Landeshauptmanns und seiner Stellvertreter de facto nunmehr nicht ailein aus Landesmitteln, sondern auch aus Staatsmitteln zu tragen sind, webel ein Verhältnis zwischen dem früheren Wirkungskreis und den nunmehr hinzugekommenen staatlichen Agenden herzustellen sein wird. Bezüglich dieser Aufteilung hat die Landesversammlung mit Genehmigung des Staatsrates die Entscheidung zu treffen. Was jedoch dis rechtliche Ordnung dieser Bezüge betrifft, wird easich empfehlen, daß die Landeeregierungen beschliegsen, sämtliche vom Volke selbst Beauftragte mit Dienstbezügen aus dem Landesfand auszustatten, kis zwar die Mitglieder der Landesversannlungen, soweit sle nicht schon Reicharathten beziehen, mit eigenen Dikten für ihre Funktion im Lande, die lann dearats mit beschderen Zulagen für diese Funktion, die Landeshauptwänner und Steilvertreter mit erhött-
+            <pb facs="#facs_10" n="10" xml:id="img_0010" break="yes"/>
+            -9-
+            </p>
+            
+            <p>ten Bezügen. Bezüglich des dem Landenfond durch diese Uebernehme der früheren landesfürstlichen Agenden erwachsenden Mehraufwandes solle vom Landesfond eine Refundierung aus staatlichen Mitteln angesprochen werden. In Sudetenland und Deutschböhmen, wo eigene Landesfonds für das Landesgebiet noch nicht vorhanden sind, wären alle Bezügevorläufig zu Lasten des Staatshaukhaltes zu bestreiten. Was die Stellung des Landesamtsdirektors (Landesverwesers) anbelangt, so wird die Staatskanzlei das Muster einer Dienstesanweisung, worin die Stellung und die Dienstesobliegenheiten dieses Funktig närs gekennzeichnet sind, möglichst rasch verfassen und den Landesregierungen zur Begutachtung übersenden. Die Vollzugsanweisung des Staatsrates, worin die dem Landeshauptmanne zur persönlichen Erledigung vorbehaltenen Angelegenheiten aufgezählt werden, wird ehestens erlassen werden. Der Vorsitzende unterbricht sodann die Verhandlungen um Z 1 Uhr nachmittags. Der Voristzende nimmt die Verhandlung um 7 3 Uhr Nachmittag wieder auf. Vor der Fortsetzung der Erläuterung des Gesetzes, betreffend die Uebernahme der Staatsgewalt in den Ländern, gelangt die Frage der Einordnung den Wirtschaftskommiesarlates für Steiermark in die Organisation der staatlichen Verwaltung zur
+            <pb facs="#facs_11" n="11" xml:id="img_0011" break="yes"/>
+            -10-
+            </p>
+            
+            <p>Erörterung. Nach einer eingehenden Debatte, an weicher sich außer dem Vorsitzenden noch Präsident Seitz, Staatssekretär Dr. Loewenfelde R u s s, Landeshauptmann Dr. von K a a n, Landeshauptmann-Stellvertreter Pengratz und Wirtschaftskommissär Dr. muttebeteiligten, wurde grundsätzlich festgestellt: Infolge der augenblicklich herrschenden Zustände ist das Wirtschaftskommissariat für Steier mark als eine übernommene Einrichtung zu telerieren; es ist jedoch danin zu streben, dasselbe in kürzester Zeit derart umzugestalten, daß es sich in den normalen Rahmen der Landeswirtschaftsämter einordne, weil darauf Rücksicht genemmen werden. muß, daß ganz Deutschösterreich eine Wirtschafte- und Staatsgemeinschaft bildet. In Fortsetzung der Beratung über das eben er wähnte Gesetz wird zu § 6 festgestellt, daß die Abnahme des Eides auch von einem Bevollmächtigten des Landeshauptmannes erfolgen könne; zu § 7: die Bestimmung, daß „die Mietsgehäude, die Beamten und Diener sowie die Amtseinrichtung gen der bisherigen Landesbehörden“ auf die neuen Landesregierungen übergehen, ist dahin zu verstehen, daß es sich um einen Uabergang in die Verfügung der neuen Landesreglerungen vorbehaltlich des Eigentumsverhältnisses handelt; zu § 3: wird bemerkt, daß die gegenüber der deutschösterreichischen Staatsregierung statuierte
+            <pb facs="#facs_12" n="12" xml:id="img_0012" break="yes"/>
+            37 Verantwortlichkeit der Landesregierung nur unbeschadet der Verantwortung gegenüber dem Landesrate und der Landesvertratung in Auggkung des sigenen Landesvermögens platzgreife; zu § S, wurde fentgestellt, daß in jenen Fällen, in denen bieher zu Landesgesetzen die Kaiserlicha Sanktion beziehungsweise zu Beschlüssen der Landtage und Landesausschüsse die kaiser liche Genehmigung erforderlich war, in Hinkunft die Genehmigung des Staatsrates erforderlich ist. Die Genehmigung des Staataretes ist im Wage des zuständigen Staatsamten einzuholen. Ferner wurde foatgestellt, daß im Sinne des §S des Gesetzes vom 14, November 1818, St. G.Bl.Nr. 24, betreffend die Ueber nahme der Staatsgewalt in den Ländern, die stastlichen und Ländeseinnahmen und - Auggaben wie bicher getrennt zu führen und zu verrechnen sind, zu § 101 Die im § 10, erster Absatz, letzter Satz, enthaltene Verschrift, daß die Landesrsgierung die Beamten der Landerregierung ernennt, Ast so zu verstehen, daß die Landerregierung im Allgemeinen die Berufung der Beam ten durch Antrag oder Ernennung vornimmt und ihr somit Beants nicht aufgenbtigt ver den können, daß jedoch die Landesregterung das den Statthalter (Landesprhsidentensdisner zugestandene Ernennungerecht überninnt, 1.
+            </p>
+            
+            <p>6
+            <pb facs="#facs_13" n="13" xml:id="img_0013" break="yes"/>
+            12- rücksichtlich der Beamtenernennung von der VIII. Rangsklasse aufwärts die Landesregierungen jeweils Vorschläge an die zuständigen Staatssekretäre zu erstatten haben, welche die Ernennung entweder im eigenen Wirkungskreis (im Rahmen der früher den Minister zugestandenen Befugnisse) selbst vollziehen. oder dem Direktorium des Staatsrates hiarüber antragstellend berichten; zu §§ 11-14: ist nichts zu bemerken. Es gelangt nunmehr die Frage der Berufung von Regierungsbeauftragten zu den Landesregierungen zur Erörterung. Der Vorsitzen de verweist diesfalls auf die überaus günstigen Erfahrungen, welche die Staatsregierung mit der Einrichtung von Verbindungsbeamten aller Staatsämter im Verkehr mit der Staatskanzlei gemacht habe. Eine ähnliche Einrichtung wäre auf Frund einer ausdrücklichen Ermächtigung des Staatsrates behufs Vereinheitlichung des Dienstes auch rücksichtlich des Verkehres zwischen der Staatsregierung und den Landesregierungen herzustellen. Sie werde dazu dienen, die Erledigung derjenigen Agenden, welche zwischen der Zentralregierung und den Landesregierungen anhängig sind, auf das tunlichste zu beschleunigen. Redner lege Wert darauf festzustellen, daß mit dieser Einrichtung keinerlei Beeinträchtigung der Autonomie beabsichtigt sei, sondern nur dem praktischen Bedürfnis nach Herstellung der erwähnten nüheren Verwendung Rechnung getragen werden solle. Der Regierungsbeauftragte bei den einzelnen Landesragie-
+            <pb facs="#facs_14" n="14" xml:id="img_0014" break="yes"/>
+            13- rungen würde durch den Staatsrat über Vorschlag des Staatssekretärs des Innern und nach vorherigem Benehmen mit dem betreffenden Landeshauptmanne ernannt werden. Er wäre dienstlich dem Staatsamt des Innern zu unterstellen und hätte auf Verlangen auch dem StaatsKanzler direkt Bericht zu erstatten. Ihm würde u.a. obliegen , Dienstesanweisungen, die von der Staatsregierung an den Landeshauptmann ergehen, diesem zu vermitteln sowie auch dessen Wünsche, Beschwerden und Anregungen kurzerhand - unbeschadet des Aktenlaufesder Staatsregierung beziehungsweise dem zuständigen Staatsamt mitzuteilen. Er hätte aber auch die Befugnis, ohne Stimmrecht den Sitzungen des Landesrats, die nicht als vertraulich erklärt werden, beizuwohnen und mit besonderer Ermächtigung des Vorsitzenden auch das Fort zu ergreifen. In die Beschlußprotokolle des Landesrates müßte er jederzeit Einsicht nehmen können. Gegenüber den Beamten der Landesregierung, ob sie nun Landesratsbeante oder Landesregierungsbeamte sind, würde der Regierungsbeauftragte in keinerlei Verhältnis der Ueber oder Unterordnung stehen. Im Zuge der hierüber abgeführten Debatte, an welcher sich Staatssekretär Dr. LoewenfeldRu s s, die Landeshauptmänner von 5t e in er, Dr. von Kaan, Dr. Lemisch und Wirtschaftskommissär Dr. Wutte beteiligten, wurden mannigfache Einwendungen gegen die geplante Einrichtung geltend gemacht, die zu dem Beschluß führten, daß Regierungsbeauftragte vorläufig nur zu jenen Landeggeglerungen entsendet werden sollen, die infolge ihren
+            </p>
+            
+            
+            <p>10
+            <pb facs="#facs_15" n="15" xml:id="img_0015" break="yes"/>
+            14- Entfernung vom Sitze der Zentralregierung und wegen erschwerter Verkehrsmöglichkeit mit Wien auf einen derartigen Verbindungsdienst in erhöhterem Waße angewiesen sind. Es käme diesfalls Sudetenland, Deutschböhmen, Tirol und Vorarlberg in Betracht. Rücksichtlich der übrigen Länder werde sich darauf beschränkt werden, behufs Gewührleistung einer ständigen zuverlässigen telephonischen Verbindungsmöglichkeit zwischen den einzelnen Landesregierungen und den Staatsäntern wei letzteren einen ununterbrochenen Journaldienst in den Präsidialabteilungen sicherzustellen. Schluß der Sitzung z 7 Uhr abends.
+            </p>
+            
+         </div>
+      </body>
+   
+    </text>
+</TEI>
