@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Protokoll SD Parteivorstand 16.09.1920</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Österreichische Bundesverfassung: Datenset C</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+            <title type="main">Protokoll SD Parteivorstand 16.09.1920</title>
+               <idno type="Transkribus">10582299</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2468" lry="3510" xml:id="facs_1">
+         <graphic url="FILE_0001_DEFAULT.jpeg" width="2468px" height="3510px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2468" lry="3510" xml:id="facs_2">
+         <graphic url="FILE_0002_DEFAULT.jpeg" width="2468px" height="3510px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+         </div>
+      </body>
+   </text>
+</TEI>
