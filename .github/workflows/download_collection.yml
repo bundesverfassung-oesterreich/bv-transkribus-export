@@ -35,6 +35,9 @@ jobs:
     - name: Transform to TEI
       run: |
         ./scripts/transform.sh
+    - name: Create Sorter Values
+      run: |
+        python ./scripts/create_sorter_val.py
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Exported and Transformed B-VG-Transkribus Collections
