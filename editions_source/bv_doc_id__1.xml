@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14485</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">0200</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
@@ -98,7 +102,7 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2025-09-17" who="#cfh">document automatically created</change>
+            <change when="2025-09-19" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
