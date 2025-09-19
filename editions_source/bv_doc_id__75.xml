@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset C</idno>
                 <idno type="goobi">17667</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset C</title>
+<biblScope unit="part">0400</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>

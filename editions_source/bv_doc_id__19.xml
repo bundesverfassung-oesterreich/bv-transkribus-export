@@ -61,7 +61,11 @@
                 <idno type="bv_data_set">Datenset A</idno>
                 <idno type="goobi">14543</idno>
             </publicationStmt>
-            <sourceDesc>
+            <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2200</biblScope>
+</seriesStmt>
+<sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
