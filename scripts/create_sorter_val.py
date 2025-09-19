@@ -17,8 +17,7 @@ def make_catalogue(inputpath):
             raise ValueError(f"Skipping {file} because date or dataset is missing")
         if not dataset in catalogue:
             catalogue[dataset] = []
-        else:
-            catalogue[dataset].append((date, file))
+        catalogue[dataset].append((date, file))
     return catalogue
 
 def get_number_from_filename(filename):
