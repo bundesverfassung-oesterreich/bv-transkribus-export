@@ -19,18 +19,38 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2442" lry="3510" xml:id="facs_1">
-         <graphic url="FILE_0001_DEFAULT.jpeg" width="2442px" height="3510px"/>
+         <graphic url="102835717.jpeg" width="2442px" height="3510px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=BJZQUSEXJWFLWIYLWWZQUPXN" width="2442px" height="3510px"/>
+         <zone points="98,278 692,278 692,444 98,444" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="98,280 692,280 692,358 98,358" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="116,372 474,372 474,444 116,444" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+         </zone>
+         <zone points="644,264 1874,264 1874,1327 644,1327" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="1358,267 1874,267 1874,330 1358,330" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="644,1092 1456,1092 1456,1153 644,1153" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="644,1175 1483,1175 1483,1233 644,1233" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="662,1258 1402,1258 1402,1327 662,1327" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+         </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2442" lry="3510" xml:id="facs_2">
-         <graphic url="FILE_0002_DEFAULT.jpeg" width="2442px" height="3510px"/>
-      </surface>
-   </facsimile>
-   <text>
-      <body>
-         <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-         </div>
-      </body>
-   </text>
-</TEI>
+         <graphic url="102835737.jpeg" width="2442px" height="3510px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=FQPAMLWHVJOERTXMNSMKNTDE" width="2442px" height="3510px"/>
+         <zone points="185,0 405,0 405,145 185,145" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="185,0 405,0 405,145 185,145" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+         </zone>
+         <zone points="385,0 2342,0 2342,2940 385,2940" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="1259,0 1399,0 1399,38 1259,38" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="689,269 1802,269 1802,344 689,344" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+            <zone points="692,352 2172,352 2172,418 692,418" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="740,428 1829,428 1829,513 740,513" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+            <zone points="420,591 2211,591 2211,685 420,685" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="423,679 1026,679 1026,763 423,763" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+            <zone points="420,764 1635,764 1635,858 420,858" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="411,849 1274,849 1274,940 411,940" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+            <zone points="1253,1047 2172,1047 2172,1122 1253,1122" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+            <zone points="1280,1133 1805,1133 1805,1205 1280,1205" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+            <zone points="1799,1240 2214,1240 2214,1319 1799,1319" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+            <zone points="2223,1375 2342,1375 2342,1447 2223,1447" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
+            <zone points="808,1443 1901,1443 1901,1506 808,1506" rendition="Line" xml:id="facs_2_tr_2_tl_13"/>
+            <zone points="853,1520 1820,1520 1820,1592 853,1592" rendition="Line" xml:id="facs_2_tr_2_tl_14"/>
+            <zone points="522,1613 1555,1613 155
