@@ -15,6 +15,8 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+         </langUsage>
       </profileDesc>
    </teiHeader>
    <facsimile>
@@ -684,6 +686,10 @@
       </surface>
       <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_17">
          <graphic url="FILE_0017_DEFAULT.jpeg" width="3840px" height="5120px"/>
+         <zone points="953,549 2171,549 2171,4043 953,4043" rendition="TextRegion" xml:id="facs_17_r">
+         </zone>
+         <zone points="2196,599 3414,599 3414,4038 2196,4038" rendition="TextRegion" xml:id="facs_17_r_1">
+         </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_18">
          <graphic url="FILE_0018_DEFAULT.jpeg" width="3840px" height="5120px"/>
@@ -760,8 +766,4 @@
       <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_42">
          <graphic url="FILE_0042_DEFAULT.jpeg" width="3840px" height="5120px"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_43">
-         <graphic url="FILE_0043_DEFAULT.jpeg" width="3840px" height="5120px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_44">
-         <graphic url="FILE_0044_DEFAULT.jpeg" width="3840px" height="5120px"/
+      <surface ulx="0" uly="0"
