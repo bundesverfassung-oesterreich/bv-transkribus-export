@@ -14,7 +14,7 @@ jobs:
       TR_PW: ${{ secrets.TR_PW}}
     steps:
     - name: Checkout repository with submodules
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         submodules: recursive
     - name: manage folders
@@ -38,7 +38,7 @@ jobs:
     - name: Create Sorter Values
       run: |
         python ./scripts/create_sorter_val.py
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Exported and Transformed B-VG-Transkribus Collections
     - name: Check for errors
