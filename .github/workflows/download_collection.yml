@@ -12,6 +12,7 @@ jobs:
       ANT_OPTS: -Xmx5g
       TR_USER: ${{ secrets.TR_USER }}
       TR_PW: ${{ secrets.TR_PW}}
+      LOGPATH: ./logs/malformed_files.csv
     steps:
     - name: Checkout repository with submodules
       uses: actions/checkout@v6
@@ -35,6 +36,11 @@ jobs:
     - name: Transform to TEI
       run: |
         ./scripts/transform.sh
+
+    - name: Create Image-only TEIs
+      run: |
+        python ./scripts/generate_image_only_tei.py
+    
     - name: Create Sorter Values
       run: |
         python ./scripts/create_sorter_val.py
