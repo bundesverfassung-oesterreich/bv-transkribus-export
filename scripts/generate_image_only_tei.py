@@ -204,13 +204,8 @@ def process_all_files():
             record_malformed(str(row.get("id", "unknown")), "missing bv_id")
             failed_docs += 1
             continue
-        goobi_id = row.get("goobi_id")
-        if not goobi_id:
-            record_malformed(bv_doc_id, "missing goobi_id")
-            failed_docs += 1
-            continue
         try:
-            image_names = get_img_names_from_goobi_mets(goobi_id)
+            image_names = get_img_names_from_goobi_mets(bv_doc_id)
         except Exception as exception:
             record_malformed(bv_doc_id, exception)
             failed_docs += 1
