@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__95">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__106">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Kommentar der CS zu Kelsen Entwurf I</title>
+                <title type="main">Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz</title>
                 <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
                 <principal>
                     <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
@@ -56,37 +56,37 @@
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
-                <idno type="transkribus_doc">9217697</idno>
+                <idno type="transkribus_doc">None</idno>
                 <idno type="transkribus_collection">196429</idno>
                 <idno type="bv_data_set">Datenset C</idno>
-                <idno type="goobi">18757</idno>
+                <idno type="goobi">18790</idno>
             </publicationStmt>
             <seriesStmt>
 <title>Datenset C</title>
-<biblScope unit="part">0500</biblScope>
+<biblScope unit="part">1000</biblScope>
 </seriesStmt>
 <sourceDesc>
                 <msDesc type="invetory">
                     <msIdentifier>
                         <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
                         <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
-                        <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton 94</idno>
+                        <idno type="archive">AdR, BKA Inneres, Staatskanzlei, Karton 251, Mappe 19</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
-                            <title>Kommentar der CS zu Kelsen Entwurf I</title>
-                            <note type="editor">Kommentar der Christlichsozialen zu Kelsen Entwurf I, (Titel des Dokuments: "Bemerkungen zum Verfassungsentwurf der Staatskanzlei"), handschriftlicher Kommentar, mit Tinte geschrieben, Zustand gut, keine Verbesserungen und Randbemerkungen. BEMERKUNG: Artikelzählung passt nur auf Kelsen Entwurf I, Datierung ergibt sich daraus, das in ÖStA, Büro Seitz ein Schreiben der Staatskanzlei vom 17. November 1919 einliegt, demzufolge Präsident Seitz eine Anzahl von Kopien eines Verfassungsentwurfs zugesendet erhält und gebeten wird, diese an die Klubs der politischen Parteien weiterzuleiten. Der Entwurf selbst liegt dabei nicht ein. Würde den Umstand erklären, warum Kelsen Entwurf I als Lithographie vorliegt und Kelsen Entwurf II-VI als Typoskript (bedeutet, das Kelsen Entwurf I in größerem Stil vervielfältigt wurde!).</note>
+                            <author role="acdh:hasAuthor">Länderkonferenz</author>
+                            <title>Besprechung von Vertretern der Landwirtschaft nach der Salzburger Länderkonferenz</title>
+                            <note type="editor">Protokoll einer Sitzung von Vertretern des landwirtschaftlichen Berufsstandes nach der Salzburger Länderkonferenz zum Thema der Kompetenzverteilung zwischen Bund und Ländern in der zukünftigen Verfassung. Zustand gut, keine Anmerkungen</note>
                         </msItem>
                     </msContents>
                     <physDesc>
-                        <objectDesc form="Handschriftlicher Kommentar">
+                        <objectDesc form="Typoskript">
                         </objectDesc>
                         <handDesc>
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="1919-11-17" notAfter-iso="1919-11-30">Nach dem 17. November 1919</origin>
+                        <origin notBefore-iso="1920-02-17" notAfter-iso="1920-02-17">17. Februar 1920</origin>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -96,8 +96,8 @@
                 <p/>
             </abstract>
             <creation>
-                <date notBefore-iso="1919-11-17" notAfter-iso="1919-11-30">
-                    Nach dem 17. November 1919
+                <date notBefore-iso="1920-02-17" notAfter-iso="1920-02-17">
+                    17. Februar 1920
                 </date>
             </creation>
         </profileDesc>
@@ -105,34 +105,8 @@
             <change when="2026-05-21" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_2">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__95/files/images/IMG_0082/full/full/0/default.jpg" width="3840px" height="5120px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_3">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__95/files/images/IMG_0083/full/full/0/default.jpg" width="3840px" height="5120px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_4">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__95/files/images/IMG_0084/full/full/0/default.jpg" width="3840px" height="5120px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_5">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__95/files/images/IMG_0085/full/full/0/default.jpg" width="3840px" height="5120px"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3840" lry="5120" xml:id="facs_6">
-         <graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__95/files/images/IMG_0086/full/full/0/default.jpg" width="3840px" height="5120px"/>
-      </surface>
-   </facsimile>
-   
-    <text type="Kommentar zu einem Verfassungsentwurf">
-        <body>
-         <div type="main">
-            <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-            <pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/>
-            <pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/>
-            <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
-            <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
-         </div>
-      </body>
-   
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__106/files/images/IMG_0403/full/full/0/default.jpg"/></surface><surface xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__106/files/images/IMG_0404/full/full/0/default.jpg"/></surface><surface xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__106/files/images/IMG_0405/full/full/0/default.jpg"/></surface><surface xml:id="facs_4"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__106/files/images/IMG_0406/full/full/0/default.jpg"/></surface></facsimile>
+    <text type="Sitzungsprotokoll">
+        <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/><pb facs="#facs_4" n="4" xml:id="img_0004" break="yes"/></div></body>
     </text>
 </TEI>
