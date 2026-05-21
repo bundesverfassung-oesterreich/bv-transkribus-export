@@ -192,30 +192,47 @@ def create_new_xml_data(doc_metadata, image_names):
 
 def process_all_files():
     metadata = load_document_metadata()
+    eligible_docs = 0
     processed_docs = 0
+    failed_docs = 0
     for row in metadata.values():
         if not row.get("skip_transcription"):
             continue
+        eligible_docs += 1
         bv_doc_id = row.get("bv_id")
         if not bv_doc_id:
             record_malformed(str(row.get("id", "unknown")), "missing bv_id")
+            failed_docs += 1
             continue
         goobi_id = row.get("goobi_id")
         if not goobi_id:
             record_malformed(bv_doc_id, "missing goobi_id")
+            failed_docs += 1
             continue
         try:
             image_names = get_img_names_from_goobi_mets(goobi_id)
         except Exception as exception:
             record_malformed(bv_doc_id, exception)
+            failed_docs += 1
             continue
         if not image_names:
             record_malformed(bv_doc_id, "no images found")
+            failed_docs += 1
             continue
         create_new_xml_data(row, image_names)
         processed_docs += 1
-    if processed_docs == 0:
+    if eligible_docs == 0:
         print("no image-only documents found")
+    elif processed_docs == 0:
+        print(
+            f"found {eligible_docs} image-only document(s), but none could be generated; "
+            f"{failed_docs} failed (see {MALFORMED_FILES_LOGPATH})"
+        )
+    else:
+        print(
+            f"generated {processed_docs} image-only TEI file(s) from {eligible_docs} eligible "
+            f"document(s); {failed_docs} failed"
+        )
 
 
 if __name__ == "__main__":
