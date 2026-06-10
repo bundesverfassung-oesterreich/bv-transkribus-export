@@ -49,4 +49,19 @@ jobs:
         commit_message: Exported and Transformed B-VG-Transkribus Collections
     - name: Check for errors
       run: |
-        if [ -f "$LOGPATH" ]; then exit 1; else exit 0; fi
+        if [ ! -f "$LOGPATH" ]; then
+          echo "No errors logged." >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+        fi
+        echo "## ⚠️ Malformed / failed documents" >> "$GITHUB_STEP_SUMMARY"
+        echo "" >> "$GITHUB_STEP_SUMMARY"
+        echo "The following documents could not be processed and were skipped:" >> "$GITHUB_STEP_SUMMARY"
+        echo "" >> "$GITHUB_STEP_SUMMARY"
+        echo '| file | error |' >> "$GITHUB_STEP_SUMMARY"
+        echo '|------|-------|' >> "$GITHUB_STEP_SUMMARY"
+        tail -n +2 "$LOGPATH" | while IFS= read -r line; do
+          file=$(echo "$line" | cut -d',' -f1)
+          error=$(echo "$line" | cut -d',' -f2-)
+          echo "| $file | $error |" >> "$GITHUB_STEP_SUMMARY"
+          echo "::warning::Failed to process $file: $error"
+        done
