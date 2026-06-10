@@ -124,6 +124,10 @@ def get_goobi_imageName_from_url(image_url):
     return image_url.split("/")[-1].split(".")[0]
 
 
+def build_goobi_iiif_base_url(bv_doc_id, image_name):
+    return f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/{image_name}"
+
+
 def get_img_names_from_goobi_mets(bv_doc_id):
     request_target_url = (
         f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
@@ -153,7 +157,7 @@ def build_facsimile(image_names, bv_doc_id):
         graphic = ET.SubElement(surface, tei_qname("graphic"))
         graphic.set(
             "url",
-            f"https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/{bv_doc_id}/files/images/{image_name}/full/full/0/default.jpg",
+            build_goobi_iiif_base_url(bv_doc_id, image_name),
         )
     return ET.tostring(facsimile, encoding="unicode")
 
