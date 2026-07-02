@@ -5,7 +5,13 @@
                 <title type="main">{{ doc_metadata.doc_title }}</title>
                 <title type="sub">{{ project_md.project_title }}</title>
                 <principal>
-                    <persName role="acdh:hasPrincipialInvestigator">{{ project_md.project_pi_name[0].value}}</persName>
+                    <persName role="acdh:hasPrincipialInvestigator">Kammerhofer, Jörg</persName>
+                </principal>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">Lenz, Alexandra N.</persName>
+                </principal>
+                <principal>
+                    <persName role="acdh:hasPrincipialInvestigator">{{ project_md.project_pi_name[0].value }}</persName>
                 </principal>
                 <funder>
                     <orgName>FWF - Der Wissenschaftsfonds</orgName>
@@ -18,17 +24,17 @@
                         </placeName>
                     </address>
                 </funder>
-                    <funder>
-                        <orgName>DFG - Deutsche Forschungsgemeinschaft e.V.</orgName>
-                        <address>
-                            <street>Kennedyallee 40</street>
-                            <postCode>53175 Bonn</postCode>
-                            <placeName>
-                                <country>D</country>
-                                <settlement>Bonn</settlement>
-                            </placeName>
-                        </address>
-                    </funder>
+                <funder>
+                    <orgName>DFG - Deutsche Forschungsgemeinschaft e.V.</orgName>
+                    <address>
+                        <street>Kennedyallee 40</street>
+                        <postCode>53175 Bonn</postCode>
+                        <placeName>
+                            <country>D</country>
+                            <settlement>Bonn</settlement>
+                        </placeName>
+                    </address>
+                </funder>
                 {% for person in doc_metadata.has_digitizing_agent %}
                 <respStmt>
                     <resp>Digitalisierung (Fotografieren) des Archivmaterials</resp>
@@ -56,7 +62,7 @@
                         Verfassungsgeschichte</orgName>
                 </publisher>
                 <publisher>
-                    <orgName key="https://d-nb.info/gnd/1145178782">Universität Freiburg. Institut für Staatswissenschaft und Rechtsphilosophie</orgName>
+                    <orgName key="https://d-nb.info/gnd/1154866262">Albert-Ludwigs-Universität Freiburg. Institut für Staatswissenschaft und Rechtsphilosophie. Abteilung 3 (Rechtstheorie)</orgName>
                 </publisher>
                 <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                 <date when="2023">2023</date>
@@ -95,7 +101,8 @@
                         </handDesc>
                     </physDesc>
                     <history>
-                        <origin notBefore-iso="{{ doc_metadata.not_before }}" notAfter-iso="{{ doc_metadata.not_after }}">{{
+                        <origin notBefore-iso="{{ doc_metadata.not_before }}"
+                            notAfter-iso="{{ doc_metadata.not_after }}">{{
                             doc_metadata.written_date }}</origin>
                     </history>
                 </msDesc>
