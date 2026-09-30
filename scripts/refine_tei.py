@@ -38,6 +38,11 @@ teiMaker = builder.ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap=n
 # logfile for defective docs
 malformed_xml_docs = []
 
+
+class GoobiMetsError(Exception):
+    """Raised when the Goobi METS of a document cannot be fetched or parsed."""
+
+
 # # def funcs
 
 
@@ -59,20 +64,31 @@ def get_img_names_from_goobi_mets(bv_doc_id):
     request_target_url = (
         f"https://viewer.acdh.oeaw.ac.at/viewer/sourcefile?id={bv_doc_id}"
     )
-    mets_doc = TeiReader(request_target_url)
-    nsmap = mets_doc.nsmap
-    nsmap["mets"] = "http://www.loc.gov/METS/"
-    nsmap["xlink"] = "http://www.w3.org/1999/xlink"
-    image_links = mets_doc.tree.xpath(
-        "//mets:fileGrp[@USE='DEFAULT']//mets:FLocat[@LOCTYPE='URL']/@xlink:href",
-        namespaces=nsmap,
-    )
-    if not image_links:
-        raise ValueError(
-            f"No image links found for document {bv_doc_id} at {request_target_url}"
+    try:
+        mets_doc = TeiReader(request_target_url)
+        nsmap = mets_doc.nsmap
+        nsmap["mets"] = "http://www.loc.gov/METS/"
+        nsmap["xlink"] = "http://www.w3.org/1999/xlink"
+        image_links = mets_doc.tree.xpath(
+            "//mets:fileGrp[@USE='DEFAULT']//mets:FLocat[@LOCTYPE='URL']/@xlink:href",
+            namespaces=nsmap,
         )
-    image_names = [get_goobi_imageName_from_url(img_link) for img_link in image_links]
-    image_names.sort(key=lambda image_name: int(image_name.removeprefix("IMG_")))
+        if not image_links:
+            raise ValueError(
+                f"No image links found for document {bv_doc_id} at {request_target_url}"
+            )
+        image_names = [
+            get_goobi_imageName_from_url(img_link) for img_link in image_links
+        ]
+        image_names.sort(key=lambda image_name: int(image_name.removeprefix("IMG_")))
+    except Exception as exception:
+        # the viewer sometimes answers with a non-XML error page, times out, or
+        # returns a METS without usable images; such a document is skipped so that
+        # a single broken METS does not abort the whole run
+        raise GoobiMetsError(
+            f"could not fetch or parse METS for document '{bv_doc_id}' "
+            f"from {request_target_url}: {type(exception).__name__}: {exception}"
+        ) from exception
     return image_names
 
 
@@ -130,6 +146,14 @@ def get_xml_doc(xml_file):
         return None
 
 
+def sanitize_log_field(value):
+    """Make a log value safe for the CSV and the way the workflow parses it."""
+    text = str(value).replace("\r", " ").replace("\n", " ")
+    # the workflow reads the csv with `cut -d','`, so commas must not sneak in
+    text = text.replace(",", ";")
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def log_nonvalid_files():
     if not malformed_xml_docs:
         if os.path.isfile(MALFORMED_FILES_LOGPATH):
@@ -141,9 +165,14 @@ def log_nonvalid_files():
         log_directory, _ = os.path.split(MALFORMED_FILES_LOGPATH)
         if not os.path.exists(log_directory):
             os.makedirs(log_directory)
-        with open(MALFORMED_FILES_LOGPATH, "w") as outfile:
+        sanitized_rows = [
+            {key: sanitize_log_field(value) for key, value in row.items()}
+            for row in malformed_xml_docs
+        ]
+        with open(MALFORMED_FILES_LOGPATH, "w", newline="", encoding="utf-8") as outfile:
             dict_writer = csv.DictWriter(outfile, fieldnames)
-            dict_writer.writerows(malformed_xml_docs)
+            dict_writer.writeheader()
+            dict_writer.writerows(sanitized_rows)
 
 
 def seed_div_elements(doc: TeiReader, xpath_expr, regex_test, type_val):
@@ -818,7 +847,21 @@ def process_all_files():
                     if mets_doc is not None:
                         # image_urls = return_image_urls(mets_doc)
                         # # change the doc / write data to it
-                        create_new_xml_data(doc, doc_metadata)
+                        try:
+                            create_new_xml_data(doc, doc_metadata)
+                        except GoobiMetsError as goobi_mets_error:
+                            # broken METS for a single document must not abort the run
+                            print(f"skipping document '{doc_metadata['bv_id']}'")
+                            print(f"  reason: {goobi_mets_error}")
+                            malformed_xml_docs.append(
+                                {
+                                    "file_name": xml_file_path[:200],
+                                    "error": (
+                                        f"bv_doc_id={doc_metadata['bv_id']}: "
+                                        f"{goobi_mets_error}"
+                                    ),
+                                }
+                            )
 
 
 if __name__ == "__main__":
