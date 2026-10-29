@@ -121,10 +121,10 @@
             </creation>
         </profileDesc>
         <revisionDesc status="created">
-            <change when="2026-10-28" who="#cfh">document automatically created</change>
+            <change when="2026-10-29" who="#cfh">document automatically created</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface xml:id="facs_1"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20000"/></surface><surface xml:id="facs_2"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20001"/></surface><surface xml:id="facs_3"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20002"/></surface></facsimile>
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0"><surface xml:id="facs_1" ulx="0" uly="0" lrx="3041" lry="1329"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20000.tif/info.json" width="3041px" height="1329px"/></surface><surface xml:id="facs_2" ulx="0" uly="0" lrx="1484" lry="2399"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20001.tif/info.json" width="1484px" height="2399px"/></surface><surface xml:id="facs_3" ulx="0" uly="0" lrx="1498" lry="2422"><graphic url="https://viewer.acdh.oeaw.ac.at/viewer/api/v1/records/bv_doc_id__158/files/images/20002.tif/info.json" width="1498px" height="2422px"/></surface></facsimile>
     <text type="">
         <body><div type="main"><pb facs="#facs_1" n="1" xml:id="img_0001" break="yes"/><pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/><pb facs="#facs_3" n="3" xml:id="img_0003" break="yes"/></div></body>
     </text>
